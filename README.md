@@ -1,3 +1,3 @@
-# microsoft.docs
+# Community Localization
 
-TODO: Create a file called LICENSE (not LICENSE.TXT, LICENSE.md, etc.)…
+Welcome to Community Localization - check out the [Wiki](https://github.com/Microsoft/Localization/wiki) 
