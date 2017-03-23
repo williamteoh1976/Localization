@@ -10,3 +10,6 @@
 
 ### SQL API Tools
 ![](./img/SQL-API-2017-03-12.png)
+
+***
+[Back to the Wiki](https://github.com/Microsoft/Localization/wiki)
