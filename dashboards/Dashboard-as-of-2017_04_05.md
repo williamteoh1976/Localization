@@ -1,4 +1,4 @@
-## Translation Status as of 2017-03-30
+## Translation Status as of 2017-04-06
 
 ### 
 ![Translation Status](img/TranslationStatus-2017-04-05.png)
