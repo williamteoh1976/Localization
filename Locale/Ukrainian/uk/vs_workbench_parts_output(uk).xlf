@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/output/browser/outputPanel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="outputPanelWithInputAriaLabel">
+      <source xml:lang="en">{0}, Output panel</source><target>{0}, панелі виводу</target>
+    </trans-unit>
+    <trans-unit id="outputPanelAriaLabel">
+      <source xml:lang="en">Output panel</source><target>Панель виведення</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/output/electron-browser/output.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="output">
+      <source xml:lang="en">Output</source><target>Вивід</target>
+    </trans-unit>
+    <trans-unit id="logViewer">
+      <source xml:lang="en">Log Viewer</source><target>Переглянути Журнал</target>
+    </trans-unit>
+    <trans-unit id="viewCategory">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="clearOutput.label">
+      <source xml:lang="en">Clear Output</source><target>Очистити Вивід</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/output/electron-browser/outputServices" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="output">
+      <source xml:lang="en">{0} - Output</source><target>{0} - вихідний</target>
+    </trans-unit>
+    <trans-unit id="channel">
+      <source xml:lang="en">Output channel for '{0}'</source><target>Вихідний канал для '{0}'</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/output/browser/outputActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleOutput">
+      <source xml:lang="en">Toggle Output</source><target>Перемкнути Вивід</target>
+    </trans-unit>
+    <trans-unit id="clearOutput">
+      <source xml:lang="en">Clear Output</source><target>Очистити Вивід</target>
+    </trans-unit>
+    <trans-unit id="toggleOutputScrollLock">
+      <source xml:lang="en">Toggle Output Scroll Lock</source><target>Переключити Scroll Lock виводу</target>
+      <note>Turn on / off automatic output scrolling</note>
+    </trans-unit>
+    <trans-unit id="switchToOutput.label">
+      <source xml:lang="en">Switch to Output</source><target>Перемикач для виведення</target>
+    </trans-unit>
+  </body></file>
+</xliff>

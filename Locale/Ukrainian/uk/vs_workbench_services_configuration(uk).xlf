@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/configuration/common/configurationExtensionPoint" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.configuration.title">
+      <source xml:lang="en">A summary of the settings. This label will be used in the settings file as separating comment.</source><target>Зведені параметри. Ця мітка буде використовуватися у налаштуваннях файлу у якості розділення коментаря.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.configuration.properties">
+      <source xml:lang="en">Description of the configuration properties.</source><target>Опис властивостей конфігурації.</target>
+    </trans-unit>
+    <trans-unit id="scope.window.description">
+      <source xml:lang="en">Window specific configuration, which can be configured in the User or Workspace settings.</source><target>Специфічне вікно конфігурації, в якому можна налаштувати параметри користувача або робоче місце.</target>
+    </trans-unit>
+    <trans-unit id="scope.resource.description">
+      <source xml:lang="en">Resource specific configuration, which can be configured in the User, Workspace or Folder settings.</source><target>Певні конфігурації ресурсів, які можуть бути налаштовані користувачем, робочої області або папки з налаштуваннями.</target>
+    </trans-unit>
+    <trans-unit id="scope.description">
+      <source xml:lang="en">Scope in which the configuration is applicable. Available scopes are `window` and `resource`.</source><target>Область, в якій конфігурація застосовна. Доступні області "вікно" і "ресурс".</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.defaultConfiguration">
+      <source xml:lang="en">Contributes default editor configuration settings by language.</source><target>Вносить свій редактор стандартних конфігураційних установок від мови.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.configuration">
+      <source xml:lang="en">Contributes configuration settings.</source><target>Включає налаштування конфігурації.</target>
+    </trans-unit>
+    <trans-unit id="invalid.title">
+      <source xml:lang="en">'configuration.title' must be a string</source><target>'configuration.title' має бути рядком</target>
+    </trans-unit>
+    <trans-unit id="invalid.properties">
+      <source xml:lang="en">'configuration.properties' must be an object</source><target>'configuration.properties' має бути об'єктом</target>
+    </trans-unit>
+    <trans-unit id="invalid.allOf">
+      <source xml:lang="en">'configuration.allOf' is deprecated and should no longer be used. Instead, pass multiple configuration sections as an array to the 'configuration' contribution point.</source><target>'configuration.allOf' є застарілим і більше не повинні бути використані. Замість цього, передавати кілька розділів налаштування як масив  'configuration' до точки внеску.</target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.folders.description">
+      <source xml:lang="en">List of folders to be loaded in the workspace.</source><target>Список папок, які повинні бути завантажені в робочу область.</target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.path.description">
+      <source xml:lang="en">A file path. e.g. `/root/folderA` or `./folderA` for a relative path that will be resolved against the location of the workspace file.</source><target>Шлях до файлу. наприклад, `/корінь/папкаА` або `./папкаА` для відносний шлях, який буде вирішене на розташування файлу робочої області.</target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.name.description">
+      <source xml:lang="en">An optional name for the folder. </source><target>Необов'язкове ім'я папки. </target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.uri.description">
+      <source xml:lang="en">URI of the folder</source><target>URI папки</target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.settings.description">
+      <source xml:lang="en">Workspace settings</source><target>Параметри робочої області</target>
+    </trans-unit>
+    <trans-unit id="workspaceConfig.extensions.description">
+      <source xml:lang="en">Workspace extensions</source><target>Розширення робочої області</target>
+    </trans-unit>
+    <trans-unit id="unknownWorkspaceProperty">
+      <source xml:lang="en">Unknown workspace configuration property</source><target>Невідома властивість конфігурації робочої області</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/configuration/node/jsonEditingService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="errorInvalidFile">
+      <source xml:lang="en">Unable to write into the file. Please open the file to correct errors/warnings in the file and try again.</source><target>Не вдається записати у файл. Будь ласка, відкрийте файл, щоб виправити помилки/попередження в файл і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="errorFileDirty">
+      <source xml:lang="en">Unable to write into the file because the file is dirty. Please save the file and try again.</source><target>Не вдається записати у файл, тому що файл змінений. Будь ласка, збережіть файл і спробуйте знову.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/configuration/node/configurationEditingService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openTasksConfiguration">
+      <source xml:lang="en">Open Tasks Configuration</source><target>Відкрити конфігурацію завдань</target>
+    </trans-unit>
+    <trans-unit id="openLaunchConfiguration">
+      <source xml:lang="en">Open Launch Configuration</source><target>Відкрити налаштування запуску</target>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">Close</source><target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="open">
+      <source xml:lang="en">Open Settings</source><target>Відкрити Налаштування</target>
+    </trans-unit>
+    <trans-unit id="saveAndRetry">
+      <source xml:lang="en">Save and Retry</source><target>Зберегти і повторити</target>
+    </trans-unit>
+    <trans-unit id="errorUnknownKey">
+      <source xml:lang="en">Unable to write to {0} because {1} is not a registered configuration.</source><target>Можете написати {0}, оскільки {1} не зареєстровані конфігурації.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidFolderConfiguration">
+      <source xml:lang="en">Unable to write to Folder Settings because {0} does not support the folder resource scope.</source><target>Неможливо записати параметри папки, оскільки {0} не підтримує область ресурсів папок.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidUserTarget">
+      <source xml:lang="en">Unable to write to User Settings because {0} does not support for global scope.</source><target>Не вдається записати до налаштувань робочої області, оскільки {0} не підтримує область робочого простору в робочій області мультипапки.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidWorkspaceTarget">
+      <source xml:lang="en">Unable to write to Workspace Settings because {0} does not support for workspace scope in a multi folder workspace.</source><target>Не вдається записати до налаштувань робочої області, оскільки {0} не підтримує область робочого простору в робочій області мультипапки.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidFolderTarget">
+      <source xml:lang="en">Unable to write to Folder Settings because no resource is provided.</source><target>Не вдалося записати до настройки папок, тому що немає ресурсу.</target>
+    </trans-unit>
+    <trans-unit id="errorNoWorkspaceOpened">
+      <source xml:lang="en">Unable to write to {0} because no workspace is opened. Please open a workspace first and try again.</source><target>Не вдається записати до {0}, оскільки не відкрито жодного робочого простору. Спершу відкрийте робоче середовище і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidTaskConfiguration">
+      <source xml:lang="en">Unable to write into tasks file. Please open **Tasks** file to correct errors/warnings in it and try again.</source><target>Не вдається записати у файл завдання. Будь ласка, відкрийте **завдання** файл, щоб виправити помилки/попередження його і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidLaunchConfiguration">
+      <source xml:lang="en">Unable to write into launch file. Please open **Launch** file to correct errors/warnings in it and try again.</source><target>Не вдається записати у файл Launch. Будь ласка, відкрийте **запуск** файл, щоб виправити помилки/попередження його і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidConfiguration">
+      <source xml:lang="en">Unable to write into user settings. Please open **User Settings** file to correct errors/warnings in it and try again.</source><target>Не вдалося записати до настройок користувача. Будь ласка, відкрийте * * користувача настройки * * файл правильні помилки/попередження в ньому і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidConfigurationWorkspace">
+      <source xml:lang="en">Unable to write into workspace settings. Please open **Workspace Settings** file to correct errors/warnings in the file and try again.</source><target>Не вдалося записати в налаштування робочої області. Будь ласка, відкрийте * * робочої області настройки * * файлу правильні помилки/попередження у файлі та повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidConfigurationFolder">
+      <source xml:lang="en">Unable to write into folder settings. Please open **Folder Settings** file under **{0}** folder to correct errors/warnings in it and try again.</source><target>Можете писати в налаштуваннях папку. Будь ласка, відкрийте **папки налаштування* файл* **{0}** папка для виправлення помилок/попереджень і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="errorTasksConfigurationFileDirty">
+      <source xml:lang="en">Unable to write into tasks file because the file is dirty. Please save the **Tasks Configuration** file and try again.</source><target>Не вдалося записати до завдань файл, оскільки файл є брудні. Будь ласка, зберігайте у * * завдання конфігурації * * файл і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorLaunchConfigurationFileDirty">
+      <source xml:lang="en">Unable to write into launch file because the file is dirty. Please save the **Launch Configuration** file and try again.</source><target>Не вдалося записати у файл запуску, оскільки файл брудні. Будь ласка, зберігайте у * * запуску конфігурації * * файл і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorConfigurationFileDirty">
+      <source xml:lang="en">Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.</source><target>Не вдалося записати до настройок користувача, оскільки файл брудні. Будь ласка, зберігайте у * * користувача настройки * * файл і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorConfigurationFileDirtyWorkspace">
+      <source xml:lang="en">Unable to write into workspace settings because the file is dirty. Please save the **Workspace Settings** file and try again.</source><target>Не вдалося записати в налаштування робочої області, оскільки файл брудні. Будь ласка, зберігайте у * * робочої області настройки * * файл і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorConfigurationFileDirtyFolder">
+      <source xml:lang="en">Unable to write into folder settings because the file is dirty. Please save the **Folder Settings** file under **{0}** folder and try again.</source><target>Неможливо записати в налаштуваннях папки, оскільки файл змінений. Будь ласка, збережіть **налаштування папки** файл **{0}** папки і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="userTarget">
+      <source xml:lang="en">User Settings</source><target>Налаштування Користувача</target>
+    </trans-unit>
+    <trans-unit id="workspaceTarget">
+      <source xml:lang="en">Workspace Settings</source><target>Параметри Робочої Області</target>
+    </trans-unit>
+    <trans-unit id="folderTarget">
+      <source xml:lang="en">Folder Settings</source><target>Параметри Папки</target>
+    </trans-unit>
+  </body></file>
+</xliff>

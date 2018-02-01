@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/quickopen.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="commandsHandlerDescriptionDefault">
+      <source xml:lang="en">Show and Run Commands</source><target>Показувати та запускати команди</target>
+    </trans-unit>
+    <trans-unit id="gotoLineDescriptionMac">
+      <source xml:lang="en">Go to Line</source><target>Перейти до рядка</target>
+    </trans-unit>
+    <trans-unit id="gotoLineDescriptionWin">
+      <source xml:lang="en">Go to Line</source><target>Перейти до рядка</target>
+    </trans-unit>
+    <trans-unit id="gotoSymbolDescription">
+      <source xml:lang="en">Go to Symbol in File</source><target>Перейти на символ у файлі</target>
+    </trans-unit>
+    <trans-unit id="gotoSymbolDescriptionScoped">
+      <source xml:lang="en">Go to Symbol in File by Category</source><target>Перейти на символ у файлі за категоріями</target>
+    </trans-unit>
+    <trans-unit id="helpDescription">
+      <source xml:lang="en">Show Help</source><target>Показати Довідку</target>
+    </trans-unit>
+    <trans-unit id="viewPickerDescription">
+      <source xml:lang="en">Open View</source><target>Відкрити Вид</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/gotoLineHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="gotoLine">
+      <source xml:lang="en">Go to Line...</source><target>Перейти до рядка...</target>
+    </trans-unit>
+    <trans-unit id="gotoLineLabelEmptyWithLimit">
+      <source xml:lang="en">Type a line number between 1 and {0} to navigate to</source><target>Введіть номер рядка між 1 та {0} щоб перейти до нього</target>
+    </trans-unit>
+    <trans-unit id="gotoLineLabelEmpty">
+      <source xml:lang="en">Type a line number to navigate to</source><target>Введіть номер рядка для переходу до нього</target>
+    </trans-unit>
+    <trans-unit id="gotoLineColumnLabel">
+      <source xml:lang="en">Go to line {0} and character {1}</source><target>Перейти до рядка {0} і символу {1}</target>
+    </trans-unit>
+    <trans-unit id="gotoLineLabel">
+      <source xml:lang="en">Go to line {0}</source><target>Перейти до рядка {0}</target>
+    </trans-unit>
+    <trans-unit id="gotoLineHandlerAriaLabel">
+      <source xml:lang="en">Type a line number to navigate to.</source><target>Введіть номер рядка для переходу до нього</target>
+    </trans-unit>
+    <trans-unit id="cannotRunGotoLine">
+      <source xml:lang="en">Open a text file first to go to a line</source><target>Відкрити текстовий файл спочатку, щоб перейти до рядка</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/helpHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, picker help</source><target>{0}, вибір допомогти</target>
+    </trans-unit>
+    <trans-unit id="globalCommands">
+      <source xml:lang="en">global commands</source><target>глобальні команди</target>
+    </trans-unit>
+    <trans-unit id="editorCommands">
+      <source xml:lang="en">editor commands</source><target>команди редактора</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/viewPickerHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, view picker</source><target>{0}, подивитися вибір(пікер)</target>
+    </trans-unit>
+    <trans-unit id="views">
+      <source xml:lang="en">Views</source><target>Види</target>
+    </trans-unit>
+    <trans-unit id="panels">
+      <source xml:lang="en">Panels</source><target>Панелі</target>
+    </trans-unit>
+    <trans-unit id="terminals">
+      <source xml:lang="en">Terminal</source><target>Термінал</target>
+    </trans-unit>
+    <trans-unit id="terminalTitle">
+      <source xml:lang="en">{0}: {1}</source><target>{0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="channels">
+      <source xml:lang="en">Output</source><target>Вивід</target>
+    </trans-unit>
+    <trans-unit id="openView">
+      <source xml:lang="en">Open View</source><target>Відкрити Вид</target>
+    </trans-unit>
+    <trans-unit id="quickOpenView">
+      <source xml:lang="en">Quick Open View</source><target>Швидко Відкрити Вигляд</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/commandsHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="showTriggerActions">
+      <source xml:lang="en">Show All Commands</source><target>Показати Всі Команди</target>
+    </trans-unit>
+    <trans-unit id="clearCommandHistory">
+      <source xml:lang="en">Clear Command History</source><target>Очистити Історію Команд</target>
+    </trans-unit>
+    <trans-unit id="showCommands.label">
+      <source xml:lang="en">Command Palette...</source><target>Палітра команд...</target>
+    </trans-unit>
+    <trans-unit id="entryAriaLabelWithKey">
+      <source xml:lang="en">{0}, {1}, commands</source><target>{0}, {1}, команди</target>
+    </trans-unit>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, commands</source><target>{0}, команди</target>
+    </trans-unit>
+    <trans-unit id="canNotRun">
+      <source xml:lang="en">Command '{0}' can not be run from here.</source><target>Команда '{0}' не може бути запущений тут.</target>
+    </trans-unit>
+    <trans-unit id="actionNotEnabled">
+      <source xml:lang="en">Command '{0}' is not enabled in the current context.</source><target>Команда '{0}' не дозволена в поточному контексті.</target>
+    </trans-unit>
+    <trans-unit id="recentlyUsed">
+      <source xml:lang="en">recently used</source><target>останнім часом використовується</target>
+    </trans-unit>
+    <trans-unit id="morecCommands">
+      <source xml:lang="en">other commands</source><target>інші команди</target>
+    </trans-unit>
+    <trans-unit id="cat.title">
+      <source xml:lang="en">{0}: {1}</source><target>{0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="noCommandsMatching">
+      <source xml:lang="en">No commands matching</source><target>Немає відповідних команд</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/quickopen/browser/gotoSymbolHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="gotoSymbol">
+      <source xml:lang="en">Go to Symbol in File...</source><target>Перейти на символ в файлі...</target>
+    </trans-unit>
+    <trans-unit id="symbols">
+      <source xml:lang="en">symbols ({0})</source><target>символи ({0})</target>
+    </trans-unit>
+    <trans-unit id="method">
+      <source xml:lang="en">methods ({0})</source><target>методи ({0})</target>
+    </trans-unit>
+    <trans-unit id="function">
+      <source xml:lang="en">functions ({0})</source><target>функції ({0})</target>
+    </trans-unit>
+    <trans-unit id="_constructor">
+      <source xml:lang="en">constructors ({0})</source><target>конструктори ({0})</target>
+    </trans-unit>
+    <trans-unit id="variable">
+      <source xml:lang="en">variables ({0})</source><target>змінні ({0})</target>
+    </trans-unit>
+    <trans-unit id="class">
+      <source xml:lang="en">classes ({0})</source><target>класи ({0})</target>
+    </trans-unit>
+    <trans-unit id="interface">
+      <source xml:lang="en">interfaces ({0})</source><target>інтерфейси ({0})</target>
+    </trans-unit>
+    <trans-unit id="namespace">
+      <source xml:lang="en">namespaces ({0})</source><target>простори імен ({0})</target>
+    </trans-unit>
+    <trans-unit id="package">
+      <source xml:lang="en">packages ({0})</source><target>пакети ({0})</target>
+    </trans-unit>
+    <trans-unit id="modules">
+      <source xml:lang="en">modules ({0})</source><target>модулі ({0})</target>
+    </trans-unit>
+    <trans-unit id="property">
+      <source xml:lang="en">properties ({0})</source><target>властивості ({0})</target>
+    </trans-unit>
+    <trans-unit id="enum">
+      <source xml:lang="en">enumerations ({0})</source><target>перерахування ({0})</target>
+    </trans-unit>
+    <trans-unit id="string">
+      <source xml:lang="en">strings ({0})</source><target>рядки ({0})</target>
+    </trans-unit>
+    <trans-unit id="rule">
+      <source xml:lang="en">rules ({0})</source><target>правила ({0})</target>
+    </trans-unit>
+    <trans-unit id="file">
+      <source xml:lang="en">files ({0})</source><target>файли ({0})</target>
+    </trans-unit>
+    <trans-unit id="array">
+      <source xml:lang="en">arrays ({0})</source><target>масиви ({0})</target>
+    </trans-unit>
+    <trans-unit id="number">
+      <source xml:lang="en">numbers ({0})</source><target>числа ({0})</target>
+    </trans-unit>
+    <trans-unit id="boolean">
+      <source xml:lang="en">booleans ({0})</source><target>логічні значення ({0})</target>
+    </trans-unit>
+    <trans-unit id="object">
+      <source xml:lang="en">objects ({0})</source><target>об'єкти ({0})</target>
+    </trans-unit>
+    <trans-unit id="key">
+      <source xml:lang="en">keys ({0})</source><target>ключі ({0})</target>
+    </trans-unit>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, symbols</source><target>{0}, символи</target>
+    </trans-unit>
+    <trans-unit id="noSymbolsMatching">
+      <source xml:lang="en">No symbols matching</source><target>Немає відповідних символів</target>
+    </trans-unit>
+    <trans-unit id="noSymbolsFound">
+      <source xml:lang="en">No symbols found</source><target>Символи не знайдені</target>
+    </trans-unit>
+    <trans-unit id="gotoSymbolHandlerAriaLabel">
+      <source xml:lang="en">Type to narrow down symbols of the currently active editor.</source><target>Введіть, щоб звузити символи активного редактора.</target>
+    </trans-unit>
+    <trans-unit id="cannotRunGotoSymbolInFile">
+      <source xml:lang="en">No symbol information for the file</source><target>Ніякої інформації про символ для файлу</target>
+    </trans-unit>
+    <trans-unit id="cannotRunGotoSymbol">
+      <source xml:lang="en">Open a text file first to go to a symbol</source><target>Відкрити текстовий файл спочатку, щоб перейти на символ</target>
+    </trans-unit>
+  </body></file>
+</xliff>

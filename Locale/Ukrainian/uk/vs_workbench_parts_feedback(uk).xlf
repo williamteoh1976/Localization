@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/feedback/electron-browser/feedback" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="sendFeedback">
+      <source xml:lang="en">Tweet Feedback</source><target>Твітнути відгук</target>
+    </trans-unit>
+    <trans-unit id="label.sendASmile">
+      <source xml:lang="en">Tweet us your feedback.</source><target>Твітнути нам свої відгуки.</target>
+    </trans-unit>
+    <trans-unit id="patchedVersion1">
+      <source xml:lang="en">Your installation is corrupt.</source><target>Ваша установка пошкоджена.</target>
+    </trans-unit>
+    <trans-unit id="patchedVersion2">
+      <source xml:lang="en">Please specify this if you submit a bug.</source><target>Будь ласка, вкажіть це при відправці помилки.</target>
+    </trans-unit>
+    <trans-unit id="sentiment">
+      <source xml:lang="en">How was your experience?</source><target>Яким був ваш досвід?</target>
+    </trans-unit>
+    <trans-unit id="smileCaption">
+      <source xml:lang="en">Happy</source><target>Щасливий</target>
+    </trans-unit>
+    <trans-unit id="frownCaption">
+      <source xml:lang="en">Sad</source><target>Сумно</target>
+    </trans-unit>
+    <trans-unit id="other ways to contact us">
+      <source xml:lang="en">Other ways to contact us</source><target>Інші способи, щоб зв'язатися з нами</target>
+    </trans-unit>
+    <trans-unit id="submit a bug">
+      <source xml:lang="en">Submit a bug</source><target>Повідомити про помилку</target>
+    </trans-unit>
+    <trans-unit id="request a missing feature">
+      <source xml:lang="en">Request a missing feature</source><target>Запитати відсутні функції</target>
+    </trans-unit>
+    <trans-unit id="tell us why?">
+      <source xml:lang="en">Tell us why?</source><target>Розкажіть, чому?</target>
+    </trans-unit>
+    <trans-unit id="commentsHeader">
+      <source xml:lang="en">Comments</source><target>Коментарі</target>
+    </trans-unit>
+    <trans-unit id="tweet">
+      <source xml:lang="en">Tweet</source><target>Твіт</target>
+    </trans-unit>
+    <trans-unit id="character left">
+      <source xml:lang="en">character left</source><target>залишився символ</target>
+    </trans-unit>
+    <trans-unit id="characters left">
+      <source xml:lang="en">characters left</source><target>залишилось символів</target>
+    </trans-unit>
+    <trans-unit id="feedbackSending">
+      <source xml:lang="en">Sending</source><target>Відправка</target>
+    </trans-unit>
+    <trans-unit id="feedbackSent">
+      <source xml:lang="en">Thanks</source><target>Дякую</target>
+    </trans-unit>
+    <trans-unit id="feedbackSendingError">
+      <source xml:lang="en">Try again</source><target>Спробуйте знову</target>
+    </trans-unit>
+  </body></file>
+</xliff>

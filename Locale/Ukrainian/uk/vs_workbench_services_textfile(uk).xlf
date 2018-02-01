@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/textfile/electron-browser/textFileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="saveChangesMessage">
+      <source xml:lang="en">Do you want to save the changes you made to {0}?</source><target>Ви хочете зберегти зміни, внесені до {0}?</target>
+    </trans-unit>
+    <trans-unit id="saveChangesMessages">
+      <source xml:lang="en">Do you want to save the changes to the following {0} files?</source><target>Ви хочете зберегти внесені зміни в наступні {0} файли?</target>
+    </trans-unit>
+    <trans-unit id="moreFile">
+      <source xml:lang="en">...1 additional file not shown</source><target>... 1 додатковий файл не відображено</target>
+    </trans-unit>
+    <trans-unit id="moreFiles">
+      <source xml:lang="en">...{0} additional files not shown</source><target>...{0} додаткові файли не відображаються</target>
+    </trans-unit>
+    <trans-unit id="saveAll">
+      <source xml:lang="en">&amp;&amp;Save All</source><target>&amp;&amp;Зберегти Всі</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="save">
+      <source xml:lang="en">&amp;&amp;Save</source><target>&amp;&amp;Зберегти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="dontSave">
+      <source xml:lang="en">Do&amp;&amp;n't Save</source><target>&amp;&amp;Не зберігати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+    <trans-unit id="saveChangesDetail">
+      <source xml:lang="en">Your changes will be lost if you don't save them.</source><target>Ваші зміни будуть втрачені, якщо Ви не збережете їх.</target>
+    </trans-unit>
+    <trans-unit id="allFiles">
+      <source xml:lang="en">All Files</source><target>Всі Файли</target>
+    </trans-unit>
+    <trans-unit id="noExt">
+      <source xml:lang="en">No Extension</source><target>Без Розширення</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/textfile/common/textFileEditorModel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="saveFileFirst">
+      <source xml:lang="en">The file is dirty. Please save it first before reopening it with another encoding.</source><target>Файл брудні. Будь ласка, збережіть його, перш ніж відкрити з кодуванням.</target>
+    </trans-unit>
+    <trans-unit id="genericSaveError">
+      <source xml:lang="en">Failed to save '{0}': {1}</source><target>Не вдалося зберегти '{0}': {1}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/textfile/common/textFileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="files.backup.failSave">
+      <source xml:lang="en">Files that are dirty could not be written to the backup location (Error: {0}). Try saving your files first and then exit.</source><target>Не можна записати файли, які є брудні на розташування резервної копії (помилка: {0}). Спробуйте спочатку зберегти файли а тоді закрийте.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

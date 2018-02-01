@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="package" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extension.description">
+      <source xml:lang="en">Visual Studio Code debugger extension for Node.js</source><target>Розширення Visual Studio відладчик коду Node.js</target>
+    </trans-unit>
+    <trans-unit id="node.label">
+      <source xml:lang="en">Node.js</source><target>Node.js</target>
+    </trans-unit>
+    <trans-unit id="open.loaded.script">
+      <source xml:lang="en">Open Loaded Script</source><target>Відкрийте Завантажений Скрипт</target>
+    </trans-unit>
+    <trans-unit id="toggle.skipping.this.file">
+      <source xml:lang="en">Toggle Skipping this File</source><target>Переключити пропускання цього файлу</target>
+    </trans-unit>
+    <trans-unit id="loaded.scripts.view.name">
+      <source xml:lang="en">Loaded Scripts</source><target>Завантажені Скрипти</target>
+    </trans-unit>
+    <trans-unit id="smartStep.description">
+      <source xml:lang="en">Automatically step through generated code that cannot be mapped back to the original source.</source><target>Автоматично крок через код, який не може бути зіставлений назад до першоджерела.</target>
+    </trans-unit>
+    <trans-unit id="skipFiles.description">
+      <source xml:lang="en">An array of glob patterns for files to skip when debugging.</source><target>Масив glob-шаблони для файлів, щоб пропустити при налагодженні.</target>
+    </trans-unit>
+    <trans-unit id="outFiles.description">
+      <source xml:lang="en">If source maps are enabled, these glob patterns specify the generated JavaScript files. If a pattern starts with '!' the files are excluded. If not specified, the generated code is expected in the same directory as its source.</source><target>Якщо включені джерельні карти, ці глобальні шаблони вказують сгенеровані файли JavaScript. Якщо шаблон починається з '!' файли виключаються. Якщо не вказано, згенерований код очікується в тому ж каталозі, що і його джерело.</target>
+    </trans-unit>
+    <trans-unit id="outDir.deprecationMessage">
+      <source xml:lang="en">Attribute 'outDir' is deprecated, use 'outFiles' instead.</source><target>"OutDir" атрибут є застарілим, використовуйте "outFiles" натомість.</target>
+    </trans-unit>
+    <trans-unit id="trace.description">
+      <source xml:lang="en">Produce diagnostic output. Instead of setting this to true you can list one or more selectors separated with commas. The 'verbose' selector enables very detailled output.</source><target>Провести діагностичний висновок. Замість установки цього параметра в True ви можете вказати один або кілька селекторів через кому. В 'verbose' селектор дозволяє дуже детальні вихід.</target>
+    </trans-unit>
+    <trans-unit id="launch.args.description">
+      <source xml:lang="en">Command line arguments passed to the program.</source><target>Аргументи командного рядка передаються в програму.</target>
+    </trans-unit>
+    <trans-unit id="node.protocol.description">
+      <source xml:lang="en">Node.js debug protocol to use.</source><target>Node.js налагодження протокол.</target>
+    </trans-unit>
+    <trans-unit id="node.protocol.auto.description">
+      <source xml:lang="en">try to detect the best protocol automatically, selecting 'inspector' for launching Node 8.0+</source><target>намагається автоматично визначити оптимальний протокол, виберіть "інспектор" для запуску Node 8.0+</target>
+    </trans-unit>
+    <trans-unit id="node.protocol.inspector.description">
+      <source xml:lang="en">new protocol supported by Node.js versions &gt;= 6.3</source><target>новий протокол підтримується Node.js версіями &gt; = 6.3</target>
+    </trans-unit>
+    <trans-unit id="node.protocol.legacy.description">
+      <source xml:lang="en">old protocol supported by Node.js versions &lt; 8.0</source><target>старий протокол підтримується в Node.js версії &lt; 8.0</target>
+    </trans-unit>
+    <trans-unit id="node.sourceMaps.description">
+      <source xml:lang="en">Use JavaScript source maps (if they exist).</source><target>Використання JavaScript джерело мапи (якщо вони існують).</target>
+    </trans-unit>
+    <trans-unit id="node.stopOnEntry.description">
+      <source xml:lang="en">Automatically stop program after launch.</source><target>Автоматично зупинити програму після запуску.</target>
+    </trans-unit>
+    <trans-unit id="node.port.description">
+      <source xml:lang="en">Debug port to attach to. Default is 5858.</source><target>Порт для приєднання до налагодження. За замовчуванням-5858.</target>
+    </trans-unit>
+    <trans-unit id="node.address.description">
+      <source xml:lang="en">TCP/IP address of process to be debugged (for Node.js &gt;= 5.0 only). Default is 'localhost'.</source><target>Протокол TCP/IP-адресу процес повинен бути налагоджений (для Node.js &gt;= 5.0 тільки). За замовчуванням - 'localhost'.</target>
+    </trans-unit>
+    <trans-unit id="node.timeout.description">
+      <source xml:lang="en">Retry for this number of milliseconds to connect to Node.js. Default is 10000 ms.</source><target>Повторити цю кількість мілісекунд, щоб підключитися до Node.js. Значенням за замовчанням є 10000 ms.</target>
+    </trans-unit>
+    <trans-unit id="node.restart.description">
+      <source xml:lang="en">Restart session after Node.js has terminated.</source><target>Перезапуск після сесії Node.js був завершений.</target>
+    </trans-unit>
+    <trans-unit id="node.localRoot.description">
+      <source xml:lang="en">Path to the local directory containing the program.</source><target>Шлях до локального каталогу, який містить програму.</target>
+    </trans-unit>
+    <trans-unit id="node.remoteRoot.description">
+      <source xml:lang="en">Absolute path to the remote directory containing the program.</source><target>Абсолютний шлях до віддаленого каталогу, який містить програму.</target>
+    </trans-unit>
+    <trans-unit id="node.showAsyncStacks.description">
+      <source xml:lang="en">Show the async calls that led to the current call stack. 'inspector' protocol only.</source><target>Показати на асинхронні виклики, які призвели до поточного стеку викликів. "Інспектор" лише для протоколу.</target>
+    </trans-unit>
+    <trans-unit id="node.sourceMapPathOverrides.description">
+      <source xml:lang="en">A set of mappings for rewriting the locations of source files from what the sourcemap says, to their locations on disk.</source><target>Набір відображень для переписування розташувань вихідних файлів з того, що називається sourcemap, до їх розташування на диску.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.program.description">
+      <source xml:lang="en">Absolute path to the program. Generated value is guessed by looking at package.json and opened files. Edit this attribute.</source><target>Абсолютний шлях до програми. Згенероване значення догадалося, дивлячись на package.json та відкриті файли. Редагувати цей атрибут.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.externalConsole.deprecationMessage">
+      <source xml:lang="en">Attribute 'externalConsole' is deprecated, use 'console' instead.</source><target>ExternalConsole атрибут є застарілим, використовуйте замість цього 'console'.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.console.description">
+      <source xml:lang="en">Where to launch the debug target.</source><target>Де можна запустити налагодження цілі.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.console.internalConsole.description">
+      <source xml:lang="en">VS Code Debug Console (which doesn't support to read input from a program)</source><target>VS Code консоль налагодження (який не підтримує читання вхідних даних з програми)</target>
+    </trans-unit>
+    <trans-unit id="node.launch.console.integratedTerminal.description">
+      <source xml:lang="en">VS Code's integrated terminal</source><target>Інтегрований термінал VS Code's</target>
+    </trans-unit>
+    <trans-unit id="node.launch.console.externalTerminal.description">
+      <source xml:lang="en">external terminal that can be configured via user settings</source><target>зовнішній термінал, який можна налаштувати за допомогою налаштувань користувача</target>
+    </trans-unit>
+    <trans-unit id="node.launch.cwd.description">
+      <source xml:lang="en">Absolute path to the working directory of the program being debugged.</source><target>Абсолютний шлях до робочої директорії налагоджують програми.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.runtimeExecutable.description">
+      <source xml:lang="en">Runtime to use. Either an absolute path or the name of a runtime available on the PATH. If omitted 'node' is assumed.</source><target>Під час виконання, щоб використовувати. Абсолютний шлях або ім'я виконання в PATH. Якщо передбачається пропущенння 'node'.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.runtimeArgs.description">
+      <source xml:lang="en">Optional arguments passed to the runtime executable.</source><target>Додаткові аргументи, передані в виконуваний файл.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.runtimeVersion.description">
+      <source xml:lang="en">Version of 'node' runtime to use. Requires 'nvm'.</source><target>Версія  'node' під час виконання, щоб використовувати. Вимагає 'nvm'.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.env.description">
+      <source xml:lang="en">Environment variables passed to the program. The value 'null' removes the variable from the environment.</source><target>Змінні оточення, передані програмі. Значення 'NULL' видаляє змінну з оточення.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.envFile.description">
+      <source xml:lang="en">Absolute path to a file containing environment variable definitions.</source><target>Абсолютний шлях до файлу, який містить змінну середовища визначення.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.useWSL.description">
+      <source xml:lang="en">Use Windows Subsystem Linux.</source><target>Використовувати Windows Підсистему Linux.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.outputCapture.description">
+      <source xml:lang="en">From where to capture output messages: The debug API, or stdout/stderr streams.</source><target>Звідки взяти вихідні повідомлення: протоколи налагодження або потоки stdout / stderr.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.autoAttachChildProcesses.description">
+      <source xml:lang="en">Attach debugger to new child processes automatically.</source><target>Приєднати налагоджувач до нових дочірніх процесів автоматично.</target>
+    </trans-unit>
+    <trans-unit id="node.launch.config.name">
+      <source xml:lang="en">Launch</source><target>Запуск</target>
+    </trans-unit>
+    <trans-unit id="node.attach.processId.description">
+      <source xml:lang="en">Id of process to attach to.</source><target>Ідентифікатор процесу для приєднання до.</target>
+    </trans-unit>
+    <trans-unit id="node.attach.config.name">
+      <source xml:lang="en">Attach</source><target>Прикріпити</target>
+    </trans-unit>
+    <trans-unit id="node.processattach.config.name">
+      <source xml:lang="en">Attach to Process</source><target>Прикріпити до процесу</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.launch.label">
+      <source xml:lang="en">Node.js: Launch Program</source><target>Node.js: Запуск Програми</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.launch.description">
+      <source xml:lang="en">Launch a node program in debug mode</source><target>Запустити програму node в режимі налагодження</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.npm.label">
+      <source xml:lang="en">Node.js: Launch via NPM</source><target>Node.js: Запуск через NPM</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.npm.description">
+      <source xml:lang="en">Launch a node program through an npm 'debug' script</source><target>Запускати програму node через на npm 'debug' сценарій</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.attach.label">
+      <source xml:lang="en">Node.js: Attach</source><target>Node.js Приєднання</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.attach.description">
+      <source xml:lang="en">Attach to a running node program</source><target>Додати до працюючої програми node</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.remoteattach.label">
+      <source xml:lang="en">Node.js: Attach to Remote Program</source><target>Node.js приєднання до віддаленої програми</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.remoteattach.description">
+      <source xml:lang="en">Attach to the debug port of a remote node program</source><target>Прикріпити до віддаленого node програми, Порт налагодження</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.attachProcess.label">
+      <source xml:lang="en">Node.js: Attach to Process</source><target>Node.js: приєднання до процесу</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.attachProcess.description">
+      <source xml:lang="en">Open process picker to select node or gulp process to attach to</source><target>Відкрийте процес вибору, щоб вибрати node або процес gulp для приєднання до</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.nodemon.label">
+      <source xml:lang="en">Node.js: Nodemon Setup</source><target>Node.js: Налаштування Nodemon</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.nodemon.description">
+      <source xml:lang="en">Use nodemon to relaunch a debug session on source changes</source><target>Відновити сеанс налагодження зі змінами джерела за допомогою nodemon</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.mocha.label">
+      <source xml:lang="en">Node.js: Mocha Tests</source><target>Node.js: Тести Mocha</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.mocha.description">
+      <source xml:lang="en">Debug mocha tests</source><target>Налагодження Mocha тести</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.yo.label">
+      <source xml:lang="en">Node.js: Yeoman generator</source><target>Node.js: генератор yeoman</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.yo.description">
+      <source xml:lang="en">Debug yeoman generator (install by running 'npm link' in project folder)</source><target>Налагодження yeoman генератор (встановити, запустивши 'npm link' в папці проекту)</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.gulp.label">
+      <source xml:lang="en">Node.js: Gulp task</source><target>Node.js: Gulp завдання</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.gulp.description">
+      <source xml:lang="en">Debug gulp task (make sure to have a local gulp installed in your project)</source><target>Налагодження Gulp завдання (переконайтеся, що Gulp, встановлений локально в проекті)</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.electron.label">
+      <source xml:lang="en">Node.js: Electron Main</source><target>Node.js: Головний Електрон</target>
+    </trans-unit>
+    <trans-unit id="node.snippet.electron.description">
+      <source xml:lang="en">Debug the Electron main process</source><target>Налагодження основного процесу Електрон</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/node/nodeDebug" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="setVariable.error">
+      <source xml:lang="en">Setting value not supported</source><target>Значення параметра не підтримується</target>
+    </trans-unit>
+    <trans-unit id="exception.paused.promise.rejection">
+      <source xml:lang="en">Paused on Promise Rejection</source><target>Призупинено на викид проміса</target>
+    </trans-unit>
+    <trans-unit id="exception.promise.rejection.text">
+      <source xml:lang="en">Promise Rejection ({0})</source><target>Викид проміса ({0})</target>
+    </trans-unit>
+    <trans-unit id="exception.promise.rejection">
+      <source xml:lang="en">Promise Rejection</source><target>Викид проміса</target>
+    </trans-unit>
+    <trans-unit id="reason.description.step">
+      <source xml:lang="en">Paused on step</source><target>Призупинено на крок</target>
+    </trans-unit>
+    <trans-unit id="reason.description.breakpoint">
+      <source xml:lang="en">Paused on breakpoint</source><target>Призупинено на точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="reason.description.exception">
+      <source xml:lang="en">Paused on exception</source><target>Призупинено на виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.user_request">
+      <source xml:lang="en">Paused on user request</source><target>Призупинено за запитом користувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.entry">
+      <source xml:lang="en">Paused on entry</source><target>Призупинено на в'їзді</target>
+    </trans-unit>
+    <trans-unit id="reason.description.debugger_statement">
+      <source xml:lang="en">Paused on debugger statement</source><target>Призупинено на заяву налагоджувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.restart">
+      <source xml:lang="en">Paused on frame entry</source><target>Призупинено запис на кадрі</target>
+    </trans-unit>
+    <trans-unit id="exceptions.all">
+      <source xml:lang="en">All Exceptions</source><target>Усі винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.uncaught">
+      <source xml:lang="en">Uncaught Exceptions</source><target>Невичерпні винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.rejects">
+      <source xml:lang="en">Promise Rejects</source><target>Викид проміса</target>
+    </trans-unit>
+    <trans-unit id="VSND2028">
+      <source xml:lang="en">Unknown console type '{0}'.</source><target>Невідомий Тип консолі '{0}'.</target>
+    </trans-unit>
+    <trans-unit id="attribute.wls.not.exist">
+      <source xml:lang="en">Cannot find Windows Subsystem Linux installation</source><target>Не вдалося знайти установку Windows підсистеми Linux</target>
+    </trans-unit>
+    <trans-unit id="VSND2001">
+      <source xml:lang="en">Cannot find runtime '{0}' on PATH. Make sure to have '{0}' installed.</source><target>Не вдалося знайти runtime "{0}" у PATH. Переконайтеся, що "{0}", встановлені.</target>
+    </trans-unit>
+    <trans-unit id="program.path.case.mismatch.warning">
+      <source xml:lang="en">Program path uses differently cased character as file on disk; this might result in breakpoints not being hit.</source><target>Шлях програми використовує по-різному покритий символ як файл на диску; це може призвести до того, що точки зупинки не потраплять.</target>
+    </trans-unit>
+    <trans-unit id="VSND2002">
+      <source xml:lang="en">Cannot launch program '{0}'; configuring source maps might help.</source><target>Не вдається запустити програму '{0}'; налаштування джер. карт може допомогти.</target>
+    </trans-unit>
+    <trans-unit id="VSND2009">
+      <source xml:lang="en">Cannot launch program '{0}' because corresponding JavaScript cannot be found.</source><target>Не вдалося запустити програму "{0}", тому що відповідного JavaScript не знайдено.</target>
+    </trans-unit>
+    <trans-unit id="VSND2003">
+      <source xml:lang="en">Cannot launch program '{0}'; setting the '{1}' attribute might help.</source><target>Не вдалося запустити програму "{0}"; налаштування "{1}" атрибуту може допомогти.</target>
+    </trans-unit>
+    <trans-unit id="VSND2029">
+      <source xml:lang="en">Can't load environment variables from file ({0}).</source><target>Не вдалося завантажити змінні оточення з файлу ({0}).</target>
+    </trans-unit>
+    <trans-unit id="node.console.title">
+      <source xml:lang="en">Node Debug Console</source><target>Node консоль налагодження</target>
+    </trans-unit>
+    <trans-unit id="VSND2011">
+      <source xml:lang="en">Cannot launch debug target in terminal ({0}).</source><target>Не вдається запустити налагодження цілі в терміналі ({0}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2017">
+      <source xml:lang="en">Cannot launch debug target ({0}).</source><target>Не вдається запустити налагодження цілі ({0}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2010">
+      <source xml:lang="en">Cannot connect to runtime process (reason: {0}).</source><target>Не вдається підключитися до процесу виконання (причина: {0}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2033">
+      <source xml:lang="en">Cannot connect to runtime; make sure that runtime is in 'legacy' debug mode.</source><target>Неможливо підключитися до runtime; переконайтеся, що runtime знаходиться в режимі налагодження 'legacy'.</target>
+    </trans-unit>
+    <trans-unit id="VSND2034">
+      <source xml:lang="en">Cannot connect to runtime via 'legacy' protocol; try to use 'inspector' protocol.</source><target>Не вдається підключитися до виконання через 'legacy' протокол; спробуйте 'inspector' протокол.</target>
+    </trans-unit>
+    <trans-unit id="file.on.disk.changed">
+      <source xml:lang="en">Unverified because file on disk has changed. Please restart debug session.</source><target>Непідтверджено, оскільки файл на диску змінився. Будь ласка, перезапустіть сеанс налагодження.</target>
+    </trans-unit>
+    <trans-unit id="VSND2019">
+      <source xml:lang="en">Internal module {0} not found.</source><target>Внутрішній модуль {0} не знайдено.</target>
+    </trans-unit>
+    <trans-unit id="sourcemapping.fail.message">
+      <source xml:lang="en">Breakpoint ignored because generated code not found (source map problem?).</source><target>Точки зупинки ігноруються, оскільки згенерований код не знайдено (проблема вихідної карти?).</target>
+    </trans-unit>
+    <trans-unit id="VSND2022">
+      <source xml:lang="en">No call stack because program paused outside of JavaScript.</source><target>Немає стека викликів, тому що програму призупинено за межами JavaScript.</target>
+    </trans-unit>
+    <trans-unit id="VSND2023">
+      <source xml:lang="en">No call stack available.</source><target>Жодний стек викликів не доступний.</target>
+    </trans-unit>
+    <trans-unit id="VSND2018">
+      <source xml:lang="en">No call stack available ({_command}: {_error}).</source><target>Немає виклику стека ({_command}: {_error}).</target>
+    </trans-unit>
+    <trans-unit id="origin.from.node">
+      <source xml:lang="en">read-only content from Node.js</source><target>тільки для читання вмісту з Node.js</target>
+    </trans-unit>
+    <trans-unit id="origin.from.remote.node">
+      <source xml:lang="en">read-only content from remote Node.js</source><target>тільки для читання даних з віддаленим Node.js</target>
+    </trans-unit>
+    <trans-unit id="origin.core.module">
+      <source xml:lang="en">read-only core module</source><target>читати-тільки основний модуль</target>
+    </trans-unit>
+    <trans-unit id="source.skipFiles">
+      <source xml:lang="en">skipped due to 'skipFiles'</source><target>пропущено через 'skipFiles'</target>
+    </trans-unit>
+    <trans-unit id="source.smartstep">
+      <source xml:lang="en">skipped due to 'smartStep'</source><target>пропущено через 'smartStep'</target>
+    </trans-unit>
+    <trans-unit id="origin.inlined.source.map">
+      <source xml:lang="en">read-only inlined content from source map</source><target>тільки для читання вмісту з джерел. карт</target>
+    </trans-unit>
+    <trans-unit id="anonymous.function">
+      <source xml:lang="en">(anonymous function)</source><target>(анонімна функція)</target>
+    </trans-unit>
+    <trans-unit id="scope.local.with.count">
+      <source xml:lang="en">Local ({0} of {1})</source><target>Місцеві ({0} з {1})</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.unknown">
+      <source xml:lang="en">Unknown Scope Type: {0}</source><target>Невідомий Тип Рамки: {0}</target>
+    </trans-unit>
+    <trans-unit id="scope.exception">
+      <source xml:lang="en">Exception</source><target>Виняток</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="eval.not.available">
+      <source xml:lang="en">not available</source><target>не доступний</target>
+    </trans-unit>
+    <trans-unit id="eval.invalid.expression">
+      <source xml:lang="en">invalid expression: {0}</source><target>некоректний вираз: {0}</target>
+    </trans-unit>
+    <trans-unit id="source.not.found">
+      <source xml:lang="en">Could not retrieve content.</source><target>Не вдалося витягти вміст.</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.exist">
+      <source xml:lang="en">Attribute '{0}' does not exist ('{1}').</source><target>Атрибут '{0}' не існує ('{1}').</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.absolute">
+      <source xml:lang="en">Attribute '{0}' is not absolute ('{1}'); consider adding '{2}' as a prefix to make it absolute.</source><target>Атрибут '{0}' не є абсолютним ('{1}'); спробуйте додати '{2}' префікс, щоб зробити його абсолютним.</target>
+    </trans-unit>
+    <trans-unit id="more.information">
+      <source xml:lang="en">More Information</source><target>Додаткові відомості</target>
+    </trans-unit>
+    <trans-unit id="VSND2015">
+      <source xml:lang="en">Request '{_request}' was cancelled because Node.js is unresponsive.</source><target>Запит {_request} скасовано, оскільки Node.js не працює.</target>
+    </trans-unit>
+    <trans-unit id="VSND2016">
+      <source xml:lang="en">Node.js did not respond to request '{_request}' in a reasonable amount of time.</source><target>Node.js не відреагував на запит {_request} в розумні терміни.</target>
+    </trans-unit>
+    <trans-unit id="scope.global">
+      <source xml:lang="en">Global</source><target>Глобальної</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.local">
+      <source xml:lang="en">Local</source><target>Місцевий</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.with">
+      <source xml:lang="en">With</source><target>З</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.closure">
+      <source xml:lang="en">Closure</source><target>Закриття</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.catch">
+      <source xml:lang="en">Catch</source><target>Зловити</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.block">
+      <source xml:lang="en">Block</source><target>Блок</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+    <trans-unit id="scope.script">
+      <source xml:lang="en">Script</source><target>Сценарій</target>
+      <note>https://github.com/Microsoft/vscode/issues/4569</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/node/nodeV8Protocol" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="not.connected">
+      <source xml:lang="en">not connected to runtime</source><target>не підключений до виконання</target>
+    </trans-unit>
+    <trans-unit id="runtime.unresponsive">
+      <source xml:lang="en">cancelled because Node.js is unresponsive</source><target>скасували, тому що Node.js не відповідає</target>
+    </trans-unit>
+    <trans-unit id="runtime.timeout">
+      <source xml:lang="en">timeout after {0} ms</source><target>тайм-аут після {0} мс</target>
+    </trans-unit>
+  </body></file>
+</xliff>

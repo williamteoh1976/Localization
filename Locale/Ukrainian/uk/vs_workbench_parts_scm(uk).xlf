@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/scm/electron-browser/scm.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleGitViewlet">
+      <source xml:lang="en">Show Git</source><target>Показати Git</target>
+    </trans-unit>
+    <trans-unit id="source control">
+      <source xml:lang="en">Source Control</source><target>Керування джерелом</target>
+    </trans-unit>
+    <trans-unit id="toggleSCMViewlet">
+      <source xml:lang="en">Show SCM</source><target>Показати SCM</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="scmConfigurationTitle">
+      <source xml:lang="en">SCM</source><target>SCM</target>
+    </trans-unit>
+    <trans-unit id="alwaysShowProviders">
+      <source xml:lang="en">Whether to always show the Source Control Provider section.</source><target>Чи завжди відображати розділ постачальнику керування вихідним кодом.</target>
+    </trans-unit>
+    <trans-unit id="diffDecorations">
+      <source xml:lang="en">Controls diff decorations in the editor.</source><target>Контролює декоратори Змін в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="inputCounter">
+      <source xml:lang="en">Controls when to display the input counter.</source><target>Контролює, коли слід відображати лічильника вводу.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/scm/electron-browser/scmViewlet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="scm providers">
+      <source xml:lang="en">Source Control Providers</source><target>Постачальники Контроллю Джерела</target>
+    </trans-unit>
+    <trans-unit id="hideRepository">
+      <source xml:lang="en">Hide</source><target>Сховати</target>
+    </trans-unit>
+    <trans-unit id="commitMessageInfo">
+      <source xml:lang="en">{0} characters in current line</source><target>{0} символів у поточному рядку</target>
+    </trans-unit>
+    <trans-unit id="commitMessageCountdown">
+      <source xml:lang="en">{0} characters left in current line</source><target>залишилося {0} символів у поточному рядку</target>
+    </trans-unit>
+    <trans-unit id="commitMessageWarning">
+      <source xml:lang="en">{0} characters over {1} in current line</source><target>{0} символів над {1} у поточному рядку</target>
+    </trans-unit>
+    <trans-unit id="installAdditionalSCMProviders">
+      <source xml:lang="en">Install Additional SCM Providers...</source><target>Установка додаткових постачальників SCM...</target>
+    </trans-unit>
+    <trans-unit id="no open repo">
+      <source xml:lang="en">There are no active source control providers.</source><target>Немає активних постачальників управління вихідним кодом.</target>
+    </trans-unit>
+    <trans-unit id="source control">
+      <source xml:lang="en">Source Control</source><target>Керування джерелом</target>
+    </trans-unit>
+    <trans-unit id="viewletTitle">
+      <source xml:lang="en">{0}: {1}</source><target>{0}: {1}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/scm/electron-browser/dirtydiffDecorator" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="changes">
+      <source xml:lang="en">{0} of {1} changes</source><target>{0} з {1} змін</target>
+    </trans-unit>
+    <trans-unit id="change">
+      <source xml:lang="en">{0} of {1} change</source><target>{0} з {1} зміни</target>
+    </trans-unit>
+    <trans-unit id="show previous change">
+      <source xml:lang="en">Show Previous Change</source><target>Показати попередню зміну</target>
+    </trans-unit>
+    <trans-unit id="show next change">
+      <source xml:lang="en">Show Next Change</source><target>Показати наступну зміну</target>
+    </trans-unit>
+    <trans-unit id="editorGutterModifiedBackground">
+      <source xml:lang="en">Editor gutter background color for lines that are modified.</source><target>Колір фону редактору виділення для рядків, які були змінені.</target>
+    </trans-unit>
+    <trans-unit id="editorGutterAddedBackground">
+      <source xml:lang="en">Editor gutter background color for lines that are added.</source><target>Колір фону редактору виділення для рядків, які додаються.</target>
+    </trans-unit>
+    <trans-unit id="editorGutterDeletedBackground">
+      <source xml:lang="en">Editor gutter background color for lines that are deleted.</source><target>Колір фону редактору виділення для рядків, які будуть видалені.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerModifiedForeground">
+      <source xml:lang="en">Overview ruler marker color for modified content.</source><target>Огляд лінійки кольорових маркерів для зміненого Вмісту.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerAddedForeground">
+      <source xml:lang="en">Overview ruler marker color for added content.</source><target>Огляд лінійки кольорових маркерів для доданого Контенту.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerDeletedForeground">
+      <source xml:lang="en">Overview ruler marker color for deleted content.</source><target>Огляд лінійки кольорових маркерів для видаленого Контенту.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/scm/electron-browser/scmActivity" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="scmPendingChangesBadge">
+      <source xml:lang="en">{0} pending changes</source><target>{0} очікують зміни</target>
+    </trans-unit>
+  </body></file>
+</xliff>

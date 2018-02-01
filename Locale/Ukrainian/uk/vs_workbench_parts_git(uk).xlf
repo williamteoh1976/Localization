@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/electron-browser/git.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleSCMViewlet">
+      <source xml:lang="en">Show SCM</source><target>Показати SCM</target>
+    </trans-unit>
+    <trans-unit id="git">
+      <source xml:lang="en">Git</source><target>Git</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitQuickOpen" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="refAriaLabel">
+      <source xml:lang="en">{0}, git</source><target>{0}, git</target>
+    </trans-unit>
+    <trans-unit id="checkoutBranch">
+      <source xml:lang="en">Branch at {0}</source><target>Гілка в {0}</target>
+    </trans-unit>
+    <trans-unit id="checkoutRemoteBranch">
+      <source xml:lang="en">Remote branch at {0}</source><target>Віддалена гілка в {0}</target>
+    </trans-unit>
+    <trans-unit id="checkoutTag">
+      <source xml:lang="en">Tag at {0}</source><target>Тег в {0}</target>
+    </trans-unit>
+    <trans-unit id="alreadyCheckedOut">
+      <source xml:lang="en">Branch {0} is already the current branch</source><target>Гілка {0} вже є поточною гілкою</target>
+    </trans-unit>
+    <trans-unit id="branchAriaLabel">
+      <source xml:lang="en">{0}, git branch</source><target>{0}, git гілка</target>
+      <note>the branch name</note>
+    </trans-unit>
+    <trans-unit id="createBranch">
+      <source xml:lang="en">Create branch {0}</source><target>Створити гілку {0}</target>
+    </trans-unit>
+    <trans-unit id="noBranches">
+      <source xml:lang="en">No other branches</source><target>Ніяких інших гілок</target>
+    </trans-unit>
+    <trans-unit id="notValidBranchName">
+      <source xml:lang="en">Please provide a valid branch name</source><target>Будь ласка, введіть дійсне ім'я гілки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitActions.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="switchToChangesView">
+      <source xml:lang="en">Switch to Changes View</source><target>Перемикач для зміни виду</target>
+    </trans-unit>
+    <trans-unit id="openInEditor">
+      <source xml:lang="en">Switch to Editor View</source><target>Перейдіть в режим редактора</target>
+    </trans-unit>
+    <trans-unit id="workbenchStage">
+      <source xml:lang="en">Stage</source><target>Етап</target>
+    </trans-unit>
+    <trans-unit id="workbenchUnstage">
+      <source xml:lang="en">Unstage</source><target>Скасувати додавання</target>
+    </trans-unit>
+    <trans-unit id="stageSelectedLines">
+      <source xml:lang="en">Stage Selected Lines</source><target>Етап виділені лінії</target>
+    </trans-unit>
+    <trans-unit id="unstageSelectedLines">
+      <source xml:lang="en">Unstage Selected Lines</source><target>Вибрані Рядки Прибрати З Буфера</target>
+    </trans-unit>
+    <trans-unit id="revertSelectedLines">
+      <source xml:lang="en">Revert Selected Lines</source><target>Відновити виділені лінії</target>
+    </trans-unit>
+    <trans-unit id="confirmRevertMessage">
+      <source xml:lang="en">Are you sure you want to revert the selected changes?</source><target>Ви впевнені, що хочете скасувати вибрані зміни?</target>
+    </trans-unit>
+    <trans-unit id="irreversible">
+      <source xml:lang="en">This action is irreversible!</source><target>Ця дія є незворотня!</target>
+    </trans-unit>
+    <trans-unit id="revertChangesLabel">
+      <source xml:lang="en">&amp;&amp;Revert Changes</source><target>&amp;&amp;Відкотити Зміни</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="openChange">
+      <source xml:lang="en">Open Change</source><target>Відкриття Зміни</target>
+    </trans-unit>
+    <trans-unit id="openFile">
+      <source xml:lang="en">Open File</source><target>Відкрити Файл</target>
+    </trans-unit>
+    <trans-unit id="git">
+      <source xml:lang="en">Git</source><target>Git</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitWorkbenchContributions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="gitProgressBadge">
+      <source xml:lang="en">Running git status</source><target>Статус запуску git</target>
+    </trans-unit>
+    <trans-unit id="gitPendingChangesBadge">
+      <source xml:lang="en">{0} pending changes</source><target>{0} очікують зміни</target>
+    </trans-unit>
+    <trans-unit id="toggleGitViewlet">
+      <source xml:lang="en">Show Git</source><target>Показати Git</target>
+    </trans-unit>
+    <trans-unit id="git">
+      <source xml:lang="en">Git</source><target>Git</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="gitCommands">
+      <source xml:lang="en">Git Commands</source><target>Команди Git</target>
+    </trans-unit>
+    <trans-unit id="gitConfigurationTitle">
+      <source xml:lang="en">Git</source><target>Git</target>
+    </trans-unit>
+    <trans-unit id="gitEnabled">
+      <source xml:lang="en">Is git enabled</source><target>Git включений</target>
+    </trans-unit>
+    <trans-unit id="gitPath">
+      <source xml:lang="en">Path to the git executable</source><target>Шлях до виконуваного git</target>
+    </trans-unit>
+    <trans-unit id="gitAutoRefresh">
+      <source xml:lang="en">Whether auto refreshing is enabled</source><target>Чи ввімкнуто автоматичне оновлення</target>
+    </trans-unit>
+    <trans-unit id="gitAutoFetch">
+      <source xml:lang="en">Whether auto fetching is enabled.</source><target>Чи автоматична вибірка включена.</target>
+    </trans-unit>
+    <trans-unit id="gitLongCommit">
+      <source xml:lang="en">Whether long commit messages should be warned about.</source><target>Чи довго commit повідомлень повинні бути попереджені про.</target>
+    </trans-unit>
+    <trans-unit id="gitLargeRepos">
+      <source xml:lang="en">Always allow large repositories to be managed by Code.</source><target>Завжди дозволяти великі репозиторії, щоб бути керованим Code.</target>
+    </trans-unit>
+    <trans-unit id="confirmSync">
+      <source xml:lang="en">Confirm before synchronizing git repositories.</source><target>Підтвердження перед синхронізацією сховищ git.</target>
+    </trans-unit>
+    <trans-unit id="countBadge">
+      <source xml:lang="en">Controls the git badge counter.</source><target>Контролює бейдж гіт лічильника.</target>
+    </trans-unit>
+    <trans-unit id="checkoutType">
+      <source xml:lang="en">Controls what type of branches are listed.</source><target>Контролює, які види гілок перераховані.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/electron-browser/gitActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="valid">
+      <source xml:lang="en">Provide a valid git repository URL</source><target>Надати дійсну URL-адресу репозиторію git</target>
+    </trans-unit>
+    <trans-unit id="url">
+      <source xml:lang="en">Repository URL</source><target>URL-адреса репозиторію</target>
+    </trans-unit>
+    <trans-unit id="directory">
+      <source xml:lang="en">Destination clone directory</source><target>Каталог призначення</target>
+    </trans-unit>
+    <trans-unit id="cloning">
+      <source xml:lang="en">Cloning repository '{0}'...</source><target>Клонування репозиторію '{0}'...</target>
+    </trans-unit>
+    <trans-unit id="already exists">
+      <source xml:lang="en">Destination repository already exists, please pick another directory to clone to.</source><target>Репозиторій вже існує, будь ласка виберіть інший каталог для клонування.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openChange">
+      <source xml:lang="en">Open Change</source><target>Відкриття Зміни</target>
+    </trans-unit>
+    <trans-unit id="openFile">
+      <source xml:lang="en">Open File</source><target>Відкрити Файл</target>
+    </trans-unit>
+    <trans-unit id="init">
+      <source xml:lang="en">Init</source><target>Ініціалізація</target>
+    </trans-unit>
+    <trans-unit id="refresh">
+      <source xml:lang="en">Refresh</source><target>Оновити</target>
+    </trans-unit>
+    <trans-unit id="stageChanges">
+      <source xml:lang="en">Stage</source><target>Етап</target>
+    </trans-unit>
+    <trans-unit id="stageAllChanges">
+      <source xml:lang="en">Stage All</source><target>Офомити все</target>
+    </trans-unit>
+    <trans-unit id="confirmUndoMessage">
+      <source xml:lang="en">Are you sure you want to clean all changes?</source><target>Ви впевнені, що хочете очистити всі зміни?</target>
+    </trans-unit>
+    <trans-unit id="confirmUndoAllOne">
+      <source xml:lang="en">There are unstaged changes in {0} file.
+
+This action is irreversible!</source><target>Є неоформлені зміни в {0} файлі. 
+
+Ця дія незворотня!</target>
+    </trans-unit>
+    <trans-unit id="confirmUndoAllMultiple">
+      <source xml:lang="en">There are unstaged changes in {0} files.
+
+This action is irreversible!</source><target>Є неоформлені зміни в {0} файлах. 
+
+Ця дія незворотня!</target>
+    </trans-unit>
+    <trans-unit id="cleanChangesLabel">
+      <source xml:lang="en">&amp;&amp;Clean Changes</source><target>&amp;&amp;очистити Зміни</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="confirmUndo">
+      <source xml:lang="en">Are you sure you want to clean changes in '{0}'?</source><target>Ви дійсно бажаєте очистити зміни в "{0}"?</target>
+    </trans-unit>
+    <trans-unit id="irreversible">
+      <source xml:lang="en">This action is irreversible!</source><target>Ця дія є незворотня!</target>
+    </trans-unit>
+    <trans-unit id="cleanChangesLabel">
+      <source xml:lang="en">&amp;&amp;Clean Changes</source><target>&amp;&amp;очистити Зміни</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="undoChanges">
+      <source xml:lang="en">Clean</source><target>Очищення</target>
+    </trans-unit>
+    <trans-unit id="undoAllChanges">
+      <source xml:lang="en">Clean All</source><target>Очистити Всі</target>
+    </trans-unit>
+    <trans-unit id="unstage">
+      <source xml:lang="en">Unstage</source><target>Скасувати додавання</target>
+    </trans-unit>
+    <trans-unit id="unstageAllChanges">
+      <source xml:lang="en">Unstage All</source><target>Скасувати додавання всьго</target>
+    </trans-unit>
+    <trans-unit id="dirtyTreeCheckout">
+      <source xml:lang="en">Can't checkout. Please commit or stash your work first.</source><target>Неможливо перевірити. Будь-ласка, перш за все виконайте коміт або призупиніть вашу роботу.</target>
+    </trans-unit>
+    <trans-unit id="commitStaged">
+      <source xml:lang="en">Commit Staged</source><target>Зробити коміт зафіксованого</target>
+    </trans-unit>
+    <trans-unit id="commitStagedAmend">
+      <source xml:lang="en">Commit Staged (Amend)</source><target>Зробити коміт зафіксованого (змінити останню фіксацію)</target>
+    </trans-unit>
+    <trans-unit id="commitStagedSignedOff">
+      <source xml:lang="en">Commit Staged (Signed Off)</source><target>Зробити коміт зафіксованого (Signed Off)</target>
+    </trans-unit>
+    <trans-unit id="commit">
+      <source xml:lang="en">Commit</source><target>Коміт</target>
+    </trans-unit>
+    <trans-unit id="commitMessage">
+      <source xml:lang="en">Commit Message</source><target>Повідомлення коміту</target>
+    </trans-unit>
+    <trans-unit id="commitAll">
+      <source xml:lang="en">Commit All</source><target>Комітити Всі</target>
+    </trans-unit>
+    <trans-unit id="commitAllSignedOff">
+      <source xml:lang="en">Commit All (Signed Off)</source><target>Комітити Всі (Signed Off)</target>
+    </trans-unit>
+    <trans-unit id="commitAll2">
+      <source xml:lang="en">Commit All</source><target>Комітити Всі</target>
+    </trans-unit>
+    <trans-unit id="commitStaged2">
+      <source xml:lang="en">Commit Staged</source><target>Зробити коміт зафіксованого</target>
+    </trans-unit>
+    <trans-unit id="dirtyTreePull">
+      <source xml:lang="en">Can't pull. Please commit or stash your work first.</source><target>Не можу зтягнути. Будь ласка, перш за все виконайте коміт або призупиніть вашу роботу.</target>
+    </trans-unit>
+    <trans-unit id="authFailed">
+      <source xml:lang="en">Authentication failed on the git remote.</source><target>Не вдалося виконати автентифікацію на віддаленому git.</target>
+    </trans-unit>
+    <trans-unit id="pushToRemote">
+      <source xml:lang="en">Push to...</source><target>Відправити до...</target>
+    </trans-unit>
+    <trans-unit id="pushToRemotePickMessage">
+      <source xml:lang="en">Pick a remote to push the branch '{0}' to:</source><target>Підібрати віддалений, щоб відправити гілку '{0}' до:</target>
+    </trans-unit>
+    <trans-unit id="publish">
+      <source xml:lang="en">Publish</source><target>Опублікувати</target>
+    </trans-unit>
+    <trans-unit id="confirmPublishMessage">
+      <source xml:lang="en">Are you sure you want to publish '{0}' to '{1}'?</source><target>Ви дійсно бажаєте опублікувати "{0}" до "{1}"?</target>
+    </trans-unit>
+    <trans-unit id="confirmPublishMessageButton">
+      <source xml:lang="en">&amp;&amp;Publish</source><target>&amp;&amp;Публікувати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="publishPickMessage">
+      <source xml:lang="en">Pick a remote to publish the branch '{0}' to:</source><target>Підібрати віддалений, щоб опублікувати гілку '{0}' до:</target>
+    </trans-unit>
+    <trans-unit id="sync is unpredictable">
+      <source xml:lang="en">This action will push and pull commits to and from '{0}'.</source><target>Ця дія буде відправляти і зтягувати фіксації з '{0}'.</target>
+    </trans-unit>
+    <trans-unit id="ok">
+      <source xml:lang="en">OK</source><target>Гаразд</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+    <trans-unit id="never again">
+      <source xml:lang="en">OK, Never Show Again</source><target>ОК, ніколи не показувати знову</target>
+    </trans-unit>
+    <trans-unit id="undoLastCommit">
+      <source xml:lang="en">Undo Last Commit</source><target>Відмінити останній Комміт</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/changes/changesView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="needMessage">
+      <source xml:lang="en">Please provide a commit message. You can always press **{0}** to commit changes. If there are any staged changes, only those will be committed; otherwise, all changes will.</source><target>Прохання повідомлення про фіксацію. Ви завжди можете натиснути **{0}** для фіксації змін. Якщо є якісь внесені зміни, тільки тих, хто буде зафіксований; в іншому випадку, всі зміни будуть.</target>
+    </trans-unit>
+    <trans-unit id="nothingToCommit">
+      <source xml:lang="en">Once there are some changes to commit, type in the commit message and either press **{0}** to commit changes. If there are any staged changes, only those will be committed; otherwise, all changes will.</source><target>Як тільки є деякі зміни, щоб зробити, введіть повідомлення та натисніть клавішу **{0}** для фіксації змін. Якщо є якісь внесені зміни, тільки тих, хто буде зафіксований; в іншому випадку, всі зміни будуть.</target>
+    </trans-unit>
+    <trans-unit id="longCommit">
+      <source xml:lang="en">It is recommended to keep the commit's first line under 50 characters. Feel free to use more lines for extra information.</source><target>Рекомендується тримати першу лінію фіксації по 50 символів. Не соромтеся використовувати кілька рядків додаткової інформації.</target>
+    </trans-unit>
+    <trans-unit id="commitMessage">
+      <source xml:lang="en">Message (press {0} to commit)</source><target>Повідомлення (натисніть {0} для фіксації)</target>
+    </trans-unit>
+    <trans-unit id="commitMessageAriaLabel">
+      <source xml:lang="en">Git: Type commit message and press {0} to commit</source><target>Git: введіть повідомлення та натисніть {0} для коміту</target>
+    </trans-unit>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">Git Changes View</source><target>Перегляд змін Git</target>
+    </trans-unit>
+    <trans-unit id="showOutput">
+      <source xml:lang="en">Show Git Output</source><target>Показати вивід роботи Git</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/empty/emptyView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noGit">
+      <source xml:lang="en">This workspace isn't yet under git source control.</source><target>Це робочий простір ще не під git для керування версіями.</target>
+    </trans-unit>
+    <trans-unit id="gitinit">
+      <source xml:lang="en">Initialize Git Repository</source><target>Ініціалізувати Git-Репозиторій</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/gitless/gitlessView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="macInstallWith">
+      <source xml:lang="en">You can either install it with {0}, download it from {1} or install the {2} command line developer tools, by simply typing {3} on a Terminal prompt.</source><target>Ви можете встановити його з {0}, завантажити його з {1} або встановіть Інструменти розробника командного рядка (2), просто, набравши {3} на терміналі.</target>
+    </trans-unit>
+    <trans-unit id="winInstallWith">
+      <source xml:lang="en">You can either install it with {0} or download it from {1}.</source><target>Ви можете або встановити його з {0} або завантажити його з {1}.</target>
+    </trans-unit>
+    <trans-unit id="linuxDownloadFrom">
+      <source xml:lang="en">You can download it from {0}.</source><target>Ви можете завантажити його з {0}.</target>
+    </trans-unit>
+    <trans-unit id="downloadFrom">
+      <source xml:lang="en">You can download it from {0}.</source><target>Ви можете завантажити його з {0}.</target>
+    </trans-unit>
+    <trans-unit id="looksLike">
+      <source xml:lang="en">It looks like git is not installed on your system.</source><target>Схоже, що git не встановлений на вашій системі.</target>
+    </trans-unit>
+    <trans-unit id="pleaseRestart">
+      <source xml:lang="en">Once git is installed, please restart VSCode.</source><target>Після установки git, будь ласка, перезавантажте VSCode.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/notroot/notrootView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="wrongRoot">
+      <source xml:lang="en">This directory seems to be contained in a git repository.</source><target>Цей каталог здається, що міститься в репозиторії git.</target>
+    </trans-unit>
+    <trans-unit id="pleaseRestart">
+      <source xml:lang="en">Open the repository's root directory in order to access Git features.</source><target>Відкрийте кореневий каталог репозиторію, щоб отримати доступ до функцій Git.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/noworkspace/noworkspaceView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noWorkspaceHelp">
+      <source xml:lang="en">You have not yet opened a folder.</source><target>Ви ще не відкрили папку.</target>
+    </trans-unit>
+    <trans-unit id="pleaseRestart">
+      <source xml:lang="en">Open a folder with a Git repository in order to access Git features.</source><target>Відкрити папку з Git репозиторію для того, щоб отримати доступ до функцій Git.</target>
+    </trans-unit>
+    <trans-unit id="openFolder">
+      <source xml:lang="en">Open Folder</source><target>Відкрийте Папку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/disabled/disabledView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="disabled">
+      <source xml:lang="en">Git is disabled in the settings.</source><target>Git вимкнуто в настройках.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/huge/hugeView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="huge">
+      <source xml:lang="en">Your repository appears to have many active changes.
+This can cause Code to become very slow.</source><target>Здається, у вашому сховищі багато активних змін.
+ Це може сповільнити Code.</target>
+    </trans-unit>
+    <trans-unit id="setting">
+      <source xml:lang="en">You can permanently disable this warning with the following setting:</source><target>Ви можете відключити це попередження з наступними параметрами:</target>
+    </trans-unit>
+    <trans-unit id="allo">
+      <source xml:lang="en">Allow large repositories</source><target>Дозволити великі сховища</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/node/git.lib" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="errorBuffer">
+      <source xml:lang="en">Can't open file from git</source><target>Не вдалося відкрити файл з git</target>
+    </trans-unit>
+    <trans-unit id="fileBinaryError">
+      <source xml:lang="en">File seems to be binary and cannot be opened as text</source><target>Файл, здається, бінарний і не може бути відкритий як текстовий</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/electron-main/askpassService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="git">
+      <source xml:lang="en">Git</source><target>Git</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitWidgets" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="publishBranch">
+      <source xml:lang="en">Publish Branch</source><target>Опублікувати гілку</target>
+    </trans-unit>
+    <trans-unit id="syncBranch">
+      <source xml:lang="en">Synchronize Changes</source><target>Синхронізувати Зміни</target>
+    </trans-unit>
+    <trans-unit id="gitNotEnabled">
+      <source xml:lang="en">Git is not enabled in this workspace.</source><target>Git не ввімкнуто в цій робочій області.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/gitServices" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="cantOpen">
+      <source xml:lang="en">Can't open this git resource.</source><target>Не вдалося відкрити цей ресурс git.</target>
+    </trans-unit>
+    <trans-unit id="gitIndexChanges">
+      <source xml:lang="en">{0} (index) ↔ {1}</source><target>{0} (індекс) ↔ {1}</target>
+    </trans-unit>
+    <trans-unit id="gitIndexChangesDesc">
+      <source xml:lang="en">{0} - Changes on index</source><target>{0} - зміни в індексі</target>
+    </trans-unit>
+    <trans-unit id="gitIndexChangesRenamed">
+      <source xml:lang="en">{0} ← {1}</source><target>{0} ← {1}</target>
+    </trans-unit>
+    <trans-unit id="gitIndexChangesRenamedDesc">
+      <source xml:lang="en">{0} - Renamed - Changes on index</source><target>{0}, перейменований - зміни в індексі</target>
+    </trans-unit>
+    <trans-unit id="workingTreeChanges">
+      <source xml:lang="en">{0} (HEAD) ↔ {1}</source><target>{0} (голова) ↔ {1}</target>
+    </trans-unit>
+    <trans-unit id="workingTreeChangesDesc">
+      <source xml:lang="en">{0} - Changes on working tree</source><target>{0} - зміни в робочому дереві</target>
+    </trans-unit>
+    <trans-unit id="gitMergeChanges">
+      <source xml:lang="en">{0} (merge) ↔ {1}</source><target>{0} (злиття) ↔ {1}</target>
+    </trans-unit>
+    <trans-unit id="gitMergeChangesDesc">
+      <source xml:lang="en">{0} - Merge changes</source><target>{0} - злиття змін</target>
+    </trans-unit>
+    <trans-unit id="updateGit">
+      <source xml:lang="en">You seem to have git {0} installed. Code works best with git &gt;=2.0.0.</source><target>Ви, здається, маєте встановлений git {0}. Code найкраще працює з git &gt; = 2.0.0.</target>
+    </trans-unit>
+    <trans-unit id="download">
+      <source xml:lang="en">Download</source><target>Завантажити</target>
+    </trans-unit>
+    <trans-unit id="neverShowAgain">
+      <source xml:lang="en">Don't show again</source><target>Більше не показувати</target>
+    </trans-unit>
+    <trans-unit id="configureUsernameEmail">
+      <source xml:lang="en">Please configure your git user name and e-mail.</source><target>Будь ласка, налаштуйте ваш git ім'я користувача та адресу електронної пошти.</target>
+    </trans-unit>
+    <trans-unit id="badConfigFile">
+      <source xml:lang="en">Git {0}</source><target>Git {0}</target>
+    </trans-unit>
+    <trans-unit id="unmergedChanges">
+      <source xml:lang="en">You should first resolve the unmerged changes before committing your changes.</source><target>Перш ніж вносити ваші зміни, спочатку потрібно вирішити незлиті зміни.</target>
+    </trans-unit>
+    <trans-unit id="showOutput">
+      <source xml:lang="en">Show Output</source><target>Показати вивід</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+    <trans-unit id="checkNativeConsole">
+      <source xml:lang="en">There was an issue running a git operation. Please review the output or use a console to check the state of your repository.</source><target>Виникла проблема під час операції git. Будь ласка, перегляньте випуск або скористайтеся консоллю, щоб перевірити стан свого сховища.</target>
+    </trans-unit>
+    <trans-unit id="changesFromIndex">
+      <source xml:lang="en">{0} (index)</source><target>{0} (індекс)</target>
+    </trans-unit>
+    <trans-unit id="changesFromIndexDesc">
+      <source xml:lang="en">{0} - Changes on index</source><target>{0} - зміни в індексі</target>
+    </trans-unit>
+    <trans-unit id="changesFromTree">
+      <source xml:lang="en">{0} ({1})</source><target>{0} ({1})</target>
+    </trans-unit>
+    <trans-unit id="changesFromTreeDesc">
+      <source xml:lang="en">{0} - Changes on {1}</source><target>{0} - зміни на {1}</target>
+    </trans-unit>
+    <trans-unit id="cantOpenResource">
+      <source xml:lang="en">Can't open this git resource.</source><target>Не вдалося відкрити цей ресурс git.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/git/browser/views/changes/changesViewer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="stagedChanges">
+      <source xml:lang="en">Staged Changes</source><target>Зафіксувати зміни</target>
+    </trans-unit>
+    <trans-unit id="allChanges">
+      <source xml:lang="en">Changes</source><target>Зміни</target>
+    </trans-unit>
+    <trans-unit id="mergeChanges">
+      <source xml:lang="en">Merge Changes</source><target>Злиття Змін</target>
+    </trans-unit>
+    <trans-unit id="outsideOfWorkspace">
+      <source xml:lang="en">This file is located outside the current workspace.</source><target>Цей файл розміщено за межами поточного робочого простору.</target>
+    </trans-unit>
+    <trans-unit id="modified-char">
+      <source xml:lang="en">M</source><target>М</target>
+    </trans-unit>
+    <trans-unit id="added-char">
+      <source xml:lang="en">A</source><target>Д</target>
+    </trans-unit>
+    <trans-unit id="deleted-char">
+      <source xml:lang="en">D</source><target>З</target>
+    </trans-unit>
+    <trans-unit id="renamed-char">
+      <source xml:lang="en">R</source><target>П</target>
+    </trans-unit>
+    <trans-unit id="copied-char">
+      <source xml:lang="en">C</source><target>К</target>
+    </trans-unit>
+    <trans-unit id="untracked-char">
+      <source xml:lang="en">U</source><target>У</target>
+    </trans-unit>
+    <trans-unit id="ignored-char">
+      <source xml:lang="en">!</source><target>!</target>
+    </trans-unit>
+    <trans-unit id="title-index-modified">
+      <source xml:lang="en">Modified in index</source><target>Змінено індекс</target>
+    </trans-unit>
+    <trans-unit id="title-modified">
+      <source xml:lang="en">Modified</source><target>Змінений</target>
+    </trans-unit>
+    <trans-unit id="title-index-added">
+      <source xml:lang="en">Added to index</source><target>Додано в індекс</target>
+    </trans-unit>
+    <trans-unit id="title-index-deleted">
+      <source xml:lang="en">Deleted in index</source><target>Видалено з індексу</target>
+    </trans-unit>
+    <trans-unit id="title-deleted">
+      <source xml:lang="en">Deleted</source><target>Вилучений</target>
+    </trans-unit>
+    <trans-unit id="title-index-renamed">
+      <source xml:lang="en">Renamed in index</source><target>Перейменовано в індексі</target>
+    </trans-unit>
+    <trans-unit id="title-index-copied">
+      <source xml:lang="en">Copied in index</source><target>Скопіював в індекс</target>
+    </trans-unit>
+    <trans-unit id="title-untracked">
+      <source xml:lang="en">Untracked</source><target>Невідстежувані</target>
+    </trans-unit>
+    <trans-unit id="title-ignored">
+      <source xml:lang="en">Ignored</source><target>Ігноруються</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-both-deleted">
+      <source xml:lang="en">Conflict: both deleted</source><target>Конфлікт: обидва видалені</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-added-by-us">
+      <source xml:lang="en">Conflict: added by us</source><target>Конфлікт: Додано нами</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-deleted-by-them">
+      <source xml:lang="en">Conflict: deleted by them</source><target>Конфлікт: видалений ними</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-added-by-them">
+      <source xml:lang="en">Conflict: added by them</source><target>Конфлікт: додано ними</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-deleted-by-us">
+      <source xml:lang="en">Conflict: deleted by us</source><target>Конфлікт: видалений нами</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-both-added">
+      <source xml:lang="en">Conflict: both added</source><target>Конфлікт: обидва додали</target>
+    </trans-unit>
+    <trans-unit id="title-conflict-both-modified">
+      <source xml:lang="en">Conflict: both modified</source><target>Конфлікту: обидва змінили</target>
+    </trans-unit>
+    <trans-unit id="fileStatusAriaLabel">
+      <source xml:lang="en">File {0} in folder {1} has status: {2}, Git</source><target>Файл {0} у {1} папка має статус: {2}, Git</target>
+    </trans-unit>
+    <trans-unit id="ariaLabelStagedChanges">
+      <source xml:lang="en">Staged Changes, Git</source><target>Зафіксувати зміни, Git</target>
+    </trans-unit>
+    <trans-unit id="ariaLabelChanges">
+      <source xml:lang="en">Changes, Git</source><target>Зміни, Git</target>
+    </trans-unit>
+    <trans-unit id="ariaLabelMerge">
+      <source xml:lang="en">Merge, Git</source><target>Злиття, Git</target>
+    </trans-unit>
+  </body></file>
+</xliff>

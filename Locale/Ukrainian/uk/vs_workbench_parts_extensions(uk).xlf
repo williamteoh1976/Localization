@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensions.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extensionsCommands">
+      <source xml:lang="en">Manage Extensions</source><target>Управління додатками</target>
+    </trans-unit>
+    <trans-unit id="galleryExtensionsCommands">
+      <source xml:lang="en">Install Gallery Extensions</source><target>Встановити додаток Галереї</target>
+    </trans-unit>
+    <trans-unit id="extension">
+      <source xml:lang="en">Extension</source><target>Додаток</target>
+    </trans-unit>
+    <trans-unit id="runtimeExtension">
+      <source xml:lang="en">Running Extensions</source><target>Запуск додатків</target>
+    </trans-unit>
+    <trans-unit id="extensions">
+      <source xml:lang="en">Extensions</source><target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="developer">
+      <source xml:lang="en">Developer</source><target>Розробник</target>
+    </trans-unit>
+    <trans-unit id="extensionsConfigurationTitle">
+      <source xml:lang="en">Extensions</source><target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="extensionsAutoUpdate">
+      <source xml:lang="en">Automatically update extensions</source><target>Автоматичне оновлення додатків</target>
+    </trans-unit>
+    <trans-unit id="extensionsIgnoreRecommendations">
+      <source xml:lang="en">If set to true, the notifications for extension recommendations will stop showing up.</source><target>Якщо встановлено значення True, повідомлення рекомендації для додатку перестануть з'являтися.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/browser/extensionsQuickOpen" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="manage">
+      <source xml:lang="en">Press Enter to manage your extensions.</source><target>Натисніть клавішу Enter, щоб керувати вашими додатками.</target>
+    </trans-unit>
+    <trans-unit id="notfound">
+      <source xml:lang="en">Extension '{0}' not found in the Marketplace.</source><target>додаток '{0}' не знайдений на ринку.</target>
+    </trans-unit>
+    <trans-unit id="install">
+      <source xml:lang="en">Press Enter to install '{0}' from the Marketplace.</source><target>Натисніть клавішу enter, щоб встановити '{0}' з ринку.</target>
+    </trans-unit>
+    <trans-unit id="searchFor">
+      <source xml:lang="en">Press Enter to search for '{0}' in the Marketplace.</source><target>Натисніть клавішу Enter для пошуку '{0}' на ринку.</target>
+    </trans-unit>
+    <trans-unit id="noExtensionsToInstall">
+      <source xml:lang="en">Type an extension name</source><target>Введіть назву додатку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionsViewlet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="marketPlace">
+      <source xml:lang="en">Marketplace</source><target>Ринок</target>
+    </trans-unit>
+    <trans-unit id="installedExtensions">
+      <source xml:lang="en">Installed</source><target>Установлено</target>
+    </trans-unit>
+    <trans-unit id="searchInstalledExtensions">
+      <source xml:lang="en">Installed</source><target>Установлено</target>
+    </trans-unit>
+    <trans-unit id="recommendedExtensions">
+      <source xml:lang="en">Recommended</source><target>Рекомендовані</target>
+    </trans-unit>
+    <trans-unit id="otherRecommendedExtensions">
+      <source xml:lang="en">Other Recommendations</source><target>Інші Рекомендації</target>
+    </trans-unit>
+    <trans-unit id="workspaceRecommendedExtensions">
+      <source xml:lang="en">Workspace Recommendations</source><target>Рекомендації Робочої Області</target>
+    </trans-unit>
+    <trans-unit id="searchExtensions">
+      <source xml:lang="en">Search Extensions in Marketplace</source><target>Пошук додатку на ринку</target>
+    </trans-unit>
+    <trans-unit id="sort by installs">
+      <source xml:lang="en">Sort By: Install Count</source><target>Сортувати по: відліку встановлення</target>
+    </trans-unit>
+    <trans-unit id="sort by rating">
+      <source xml:lang="en">Sort By: Rating</source><target>Сортувати по: рейтингу</target>
+    </trans-unit>
+    <trans-unit id="sort by name">
+      <source xml:lang="en">Sort By: Name</source><target>Сортувати по: Назві</target>
+    </trans-unit>
+    <trans-unit id="suggestProxyError">
+      <source xml:lang="en">Marketplace returned 'ECONNREFUSED'. Please check the 'http.proxy' setting.</source><target>Ринок повернув 'ECONNREFUSED'. Будь ласка, перевірте налаштування 'http.proxy'.</target>
+    </trans-unit>
+    <trans-unit id="extensions">
+      <source xml:lang="en">Extensions</source><target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="outdatedExtensions">
+      <source xml:lang="en">{0} Outdated Extensions</source><target>{0} Застарілі додатки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionTipsService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileBasedRecommendation">
+      <source xml:lang="en">This extension is recommended based on the files you recently opened.</source><target>Цей додаток рекомендується на основі файлів, які ви нещодавно відкривали.</target>
+    </trans-unit>
+    <trans-unit id="workspaceRecommendation">
+      <source xml:lang="en">This extension is recommended by users of the current workspace.</source><target>Цей додаток рекомендований користувачам поточної робочої області.</target>
+    </trans-unit>
+    <trans-unit id="exeBasedRecommendation">
+      <source xml:lang="en">This extension is recommended because you have {0} installed.</source><target>Цей додаток рекомендується, тому що у вас встановлено {0}.</target>
+    </trans-unit>
+    <trans-unit id="reallyRecommended2">
+      <source xml:lang="en">The '{0}' extension is recommended for this file type.</source><target>Додаток '{0}' рекомендується для цього типу файлів.</target>
+    </trans-unit>
+    <trans-unit id="reallyRecommendedExtensionPack">
+      <source xml:lang="en">The '{0}' extension pack is recommended for this file type.</source><target>"{0}" пакет додатку рекомендується для даного типу файлів.</target>
+    </trans-unit>
+    <trans-unit id="showRecommendations">
+      <source xml:lang="en">Show Recommendations</source><target>Показати Рекомендації</target>
+    </trans-unit>
+    <trans-unit id="install">
+      <source xml:lang="en">Install</source><target>Установіть</target>
+    </trans-unit>
+    <trans-unit id="neverShowAgain">
+      <source xml:lang="en">Don't show again</source><target>Більше не показувати</target>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">Close</source><target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="workspaceRecommended">
+      <source xml:lang="en">This workspace has extension recommendations.</source><target>Ця робоча область має рекомендації додатку.</target>
+    </trans-unit>
+    <trans-unit id="installAll">
+      <source xml:lang="en">Install All</source><target>Встановити Всі</target>
+    </trans-unit>
+    <trans-unit id="ignoreExtensionRecommendations">
+      <source xml:lang="en">Do you want to ignore all extension recommendations?</source><target>Ви хочете, щоб ігнорувалися всі рекомендації додатку?</target>
+    </trans-unit>
+    <trans-unit id="ignoreAll">
+      <source xml:lang="en">Yes, Ignore All</source><target>Так, ігнорувати все</target>
+    </trans-unit>
+    <trans-unit id="no">
+      <source xml:lang="en">No</source><target>Ні</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/node/extensionsWorkbenchService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="enableDependeciesConfirmation">
+      <source xml:lang="en">Enabling '{0}' also enable its dependencies. Would you like to continue?</source><target>Включення '{0}' і включити його залежності. Ви хотіли б продовжити?</target>
+    </trans-unit>
+    <trans-unit id="enable">
+      <source xml:lang="en">Yes</source><target>Так</target>
+    </trans-unit>
+    <trans-unit id="doNotEnable">
+      <source xml:lang="en">No</source><target>Ні</target>
+    </trans-unit>
+    <trans-unit id="disableDependeciesConfirmation">
+      <source xml:lang="en">Would you like to disable '{0}' only or its dependencies also?</source><target>Ви дійсно хочете лише вимкнути '{0}' або таклж його залежності?</target>
+    </trans-unit>
+    <trans-unit id="disableOnly">
+      <source xml:lang="en">Only</source><target>Тільки</target>
+    </trans-unit>
+    <trans-unit id="disableAll">
+      <source xml:lang="en">All</source><target>Всі</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+    <trans-unit id="singleDependentError">
+      <source xml:lang="en">Cannot disable extension '{0}'. Extension '{1}' depends on this.</source><target>Не можу вимкнути додаток '{0}'. Додатки '{1}' залежить від цього.</target>
+    </trans-unit>
+    <trans-unit id="twoDependentsError">
+      <source xml:lang="en">Cannot disable extension '{0}'. Extensions '{1}' and '{2}' depend on this.</source><target>Не можу вимкнути додаток '{0}'. Длдатки '{1}' і '{2}' залежать від цього.</target>
+    </trans-unit>
+    <trans-unit id="multipleDependentsError">
+      <source xml:lang="en">Cannot disable extension '{0}'. Extensions '{1}', '{2}' and others depend on this.</source><target>Не можу вимкнути додаток '{0}'. додатки '{1}', '{2}' та інші залежать від цього.</target>
+    </trans-unit>
+    <trans-unit id="installConfirmation">
+      <source xml:lang="en">Would you like to install the '{0}' extension?</source><target>Ви б хотіли встановити  додаток '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="install">
+      <source xml:lang="en">Install</source><target>Установіть</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionsActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openExtensionsFolder">
+      <source xml:lang="en">Open Extensions Folder</source><target>Відкрийте папку з додатками</target>
+    </trans-unit>
+    <trans-unit id="installVSIX">
+      <source xml:lang="en">Install from VSIX...</source><target>Установка із VSIX...</target>
+    </trans-unit>
+    <trans-unit id="installFromVSIX">
+      <source xml:lang="en">Install from VSIX</source><target>Встановити з VSIX</target>
+    </trans-unit>
+    <trans-unit id="installButton">
+      <source xml:lang="en">&amp;&amp;Install</source><target>&amp;&amp;Установити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="InstallVSIXAction.success">
+      <source xml:lang="en">Successfully installed the extension. Restart to enable it.</source><target>Успішно встановлений додаток. Перезавантажте, щоб включити його.</target>
+    </trans-unit>
+    <trans-unit id="InstallVSIXAction.reloadNow">
+      <source xml:lang="en">Reload Now</source><target>Перезавантажити зараз</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/common/extensionsInput" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extensionsInputName">
+      <source xml:lang="en">Extension: {0}</source><target>Додаток: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/browser/extensionsActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="installAction">
+      <source xml:lang="en">Install</source><target>Установіть</target>
+    </trans-unit>
+    <trans-unit id="installing">
+      <source xml:lang="en">Installing</source><target>Установка</target>
+    </trans-unit>
+    <trans-unit id="uninstallAction">
+      <source xml:lang="en">Uninstall</source><target>Видалити</target>
+    </trans-unit>
+    <trans-unit id="Uninstalling">
+      <source xml:lang="en">Uninstalling</source><target>Видалення</target>
+    </trans-unit>
+    <trans-unit id="updateAction">
+      <source xml:lang="en">Update</source><target>Оновлення</target>
+    </trans-unit>
+    <trans-unit id="updateTo">
+      <source xml:lang="en">Update to {0}</source><target>Оновлення для {0}</target>
+    </trans-unit>
+    <trans-unit id="ManageExtensionAction.uninstallingTooltip">
+      <source xml:lang="en">Uninstalling</source><target>Видалення</target>
+    </trans-unit>
+    <trans-unit id="enableForWorkspaceAction">
+      <source xml:lang="en">Enable (Workspace)</source><target>Увімкнути (робоча область)</target>
+    </trans-unit>
+    <trans-unit id="enableGloballyAction">
+      <source xml:lang="en">Enable</source><target>Включити</target>
+    </trans-unit>
+    <trans-unit id="enableAction">
+      <source xml:lang="en">Enable</source><target>Включити</target>
+    </trans-unit>
+    <trans-unit id="disableForWorkspaceAction">
+      <source xml:lang="en">Disable (Workspace)</source><target>Вимкнути (робоча область)</target>
+    </trans-unit>
+    <trans-unit id="disableGloballyAction">
+      <source xml:lang="en">Disable</source><target>Вимкнути</target>
+    </trans-unit>
+    <trans-unit id="disableAction">
+      <source xml:lang="en">Disable</source><target>Вимкнути</target>
+    </trans-unit>
+    <trans-unit id="checkForUpdates">
+      <source xml:lang="en">Check for Updates</source><target>Перевірити наявність оновлень</target>
+    </trans-unit>
+    <trans-unit id="enableAutoUpdate">
+      <source xml:lang="en">Enable Auto Updating Extensions</source><target>Увімкнути автоматичне оновлення додатків</target>
+    </trans-unit>
+    <trans-unit id="disableAutoUpdate">
+      <source xml:lang="en">Disable Auto Updating Extensions</source><target>Вимкнути автоматичне оновлення додатків</target>
+    </trans-unit>
+    <trans-unit id="updateAll">
+      <source xml:lang="en">Update All Extensions</source><target>Оновити всі додатки</target>
+    </trans-unit>
+    <trans-unit id="reloadAction">
+      <source xml:lang="en">Reload</source><target>Перезавантажити</target>
+    </trans-unit>
+    <trans-unit id="postUpdateTooltip">
+      <source xml:lang="en">Reload to update</source><target>Перезавантаження для оновлення</target>
+    </trans-unit>
+    <trans-unit id="postUpdateMessage">
+      <source xml:lang="en">Reload this window to activate the updated extension '{0}'?</source><target>Перезавантаження це вікно, щоб активувати нові додатки '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="postEnableTooltip">
+      <source xml:lang="en">Reload to activate</source><target>Перезавантажити для активації</target>
+    </trans-unit>
+    <trans-unit id="postEnableMessage">
+      <source xml:lang="en">Reload this window to activate the extension '{0}'?</source><target>Перезавантаження це вікно, щоб активувати додаток '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="postDisableTooltip">
+      <source xml:lang="en">Reload to deactivate</source><target>Перезавантажити щоб виключити</target>
+    </trans-unit>
+    <trans-unit id="postDisableMessage">
+      <source xml:lang="en">Reload this window to deactivate the extension '{0}'?</source><target>Перезавантажте це вікно, щоб вимкнути додаток '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="postUninstallTooltip">
+      <source xml:lang="en">Reload to deactivate</source><target>Перезавантажити щоб виключити</target>
+    </trans-unit>
+    <trans-unit id="postUninstallMessage">
+      <source xml:lang="en">Reload this window to deactivate the uninstalled extension '{0}'?</source><target>Перезавантажити це вікно, щоб деактивувати видалений додаток '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="toggleExtensionsViewlet">
+      <source xml:lang="en">Show Extensions</source><target>Показати додатки</target>
+    </trans-unit>
+    <trans-unit id="installExtensions">
+      <source xml:lang="en">Install Extensions</source><target>Встановити додатки</target>
+    </trans-unit>
+    <trans-unit id="showEnabledExtensions">
+      <source xml:lang="en">Show Enabled Extensions</source><target>Показати ввімкнені додатки</target>
+    </trans-unit>
+    <trans-unit id="showInstalledExtensions">
+      <source xml:lang="en">Show Installed Extensions</source><target>Показати встановлені додатки</target>
+    </trans-unit>
+    <trans-unit id="showDisabledExtensions">
+      <source xml:lang="en">Show Disabled Extensions</source><target>Показати виключені додатки</target>
+    </trans-unit>
+    <trans-unit id="clearExtensionsInput">
+      <source xml:lang="en">Clear Extensions Input</source><target>Очистити додатки вводу</target>
+    </trans-unit>
+    <trans-unit id="showOutdatedExtensions">
+      <source xml:lang="en">Show Outdated Extensions</source><target>Показати застарілі додатки</target>
+    </trans-unit>
+    <trans-unit id="showPopularExtensions">
+      <source xml:lang="en">Show Popular Extensions</source><target>Показати Популярні додатки</target>
+    </trans-unit>
+    <trans-unit id="showRecommendedExtensions">
+      <source xml:lang="en">Show Recommended Extensions</source><target>Показати рекомендовані додатки</target>
+    </trans-unit>
+    <trans-unit id="installWorkspaceRecommendedExtensions">
+      <source xml:lang="en">Install All Workspace Recommended Extensions</source><target>Інсталюйте всі додатки рекомендовані робочою областю</target>
+    </trans-unit>
+    <trans-unit id="allExtensionsInstalled">
+      <source xml:lang="en">All extensions recommended for this workspace have already been installed</source><target>Всі додатки, рекомендовані для даної робочої області вже встановлено</target>
+    </trans-unit>
+    <trans-unit id="installRecommendedExtension">
+      <source xml:lang="en">Install Recommended Extension</source><target>Встановлення рекомендованих додатків</target>
+    </trans-unit>
+    <trans-unit id="extensionInstalled">
+      <source xml:lang="en">The recommended extension has already been installed</source><target>Рекомендований додаток вже встановлено</target>
+    </trans-unit>
+    <trans-unit id="showRecommendedKeymapExtensionsShort">
+      <source xml:lang="en">Keymaps</source><target>Розкладки</target>
+    </trans-unit>
+    <trans-unit id="showLanguageExtensionsShort">
+      <source xml:lang="en">Language Extensions</source><target>Розширення Мови</target>
+    </trans-unit>
+    <trans-unit id="showAzureExtensionsShort">
+      <source xml:lang="en">Azure Extensions</source><target>додатки Azure</target>
+    </trans-unit>
+    <trans-unit id="OpenExtensionsFile.failed">
+      <source xml:lang="en">Unable to create 'extensions.json' file inside the '.vscode' folder ({0}).</source><target>Не вдалося створити файл 'extensions.json' в папці '.vscode' ({0}).</target>
+    </trans-unit>
+    <trans-unit id="configureWorkspaceRecommendedExtensions">
+      <source xml:lang="en">Configure Recommended Extensions (Workspace)</source><target>Налаштувати рекомендовані додатки (Робочого Простору)</target>
+    </trans-unit>
+    <trans-unit id="configureWorkspaceFolderRecommendedExtensions">
+      <source xml:lang="en">Configure Recommended Extensions (Workspace Folder)</source><target>Налаштувати рекомендовані додатки (Папка Робочої Області)</target>
+    </trans-unit>
+    <trans-unit id="builtin">
+      <source xml:lang="en">Built-in</source><target>Вбудований</target>
+    </trans-unit>
+    <trans-unit id="disableAll">
+      <source xml:lang="en">Disable All Installed Extensions</source><target>Вимкнути усі встановлені додатки</target>
+    </trans-unit>
+    <trans-unit id="disableAllWorkspace">
+      <source xml:lang="en">Disable All Installed Extensions for this Workspace</source><target>Вимкнути усі встановлені додатки для цієї робочої області</target>
+    </trans-unit>
+    <trans-unit id="enableAll">
+      <source xml:lang="en">Enable All Installed Extensions</source><target>Увімкнути всі встановлені додатки</target>
+    </trans-unit>
+    <trans-unit id="enableAllWorkspace">
+      <source xml:lang="en">Enable All Installed Extensions for this Workspace</source><target>Включити всі встановлені розширення для цієї робочої області</target>
+    </trans-unit>
+    <trans-unit id="extensionButtonProminentBackground">
+      <source xml:lang="en">Button background color for actions extension that stand out (e.g. install button).</source><target>Колір фону кнопки для розширення дій, що виділяються (наприклад, кнопки установки).</target>
+    </trans-unit>
+    <trans-unit id="extensionButtonProminentForeground">
+      <source xml:lang="en">Button foreground color for actions extension that stand out (e.g. install button).</source><target>Колір переднього плану кнопки для розширення дій, що виділяються (наприклад, кнопку установки).</target>
+    </trans-unit>
+    <trans-unit id="extensionButtonProminentHoverBackground">
+      <source xml:lang="en">Button background hover color for actions extension that stand out (e.g. install button).</source><target>Колір, при наведенні, фону кнопки для розширення дій, що виділяються (наприклад, кнопки установки).</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/common/extensionsFileTemplate" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="app.extensions.json.title">
+      <source xml:lang="en">Extensions</source><target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="app.extensions.json.recommendations">
+      <source xml:lang="en">List of extensions recommendations. The identifier of an extension is always '${publisher}.${name}'. For example: 'vscode.csharp'.</source><target>Список рекомендацій додатків. Ідентифікатор розширення завжди '${publisher}.${name}'. Наприклад: 'vscode.csharp'.</target>
+    </trans-unit>
+    <trans-unit id="app.extension.identifier.errorMessage">
+      <source xml:lang="en">Expected format '${publisher}.${name}'. Example: 'vscode.csharp'.</source><target>Очікуваний формат ' ${publisher}. ${name}'. Наприклад: 'vscode.csharp'.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionsUtils" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="disableOtherKeymapsConfirmation">
+      <source xml:lang="en">Disable other keymaps ({0}) to avoid conflicts between keybindings?</source><target>Виключити інші розкладки ({0}) щоб уникнути конфліктів між призначеннями клавіш?</target>
+    </trans-unit>
+    <trans-unit id="yes">
+      <source xml:lang="en">Yes</source><target>Так</target>
+    </trans-unit>
+    <trans-unit id="no">
+      <source xml:lang="en">No</source><target>Ні</target>
+    </trans-unit>
+    <trans-unit id="betterMergeDisabled">
+      <source xml:lang="en">The Better Merge extension is now built-in, the installed extension was disabled and can be uninstalled.</source><target>Кращий додаток злиття тепер вбудований, встановлені додатки були виключені та можуть бути видалені.</target>
+    </trans-unit>
+    <trans-unit id="uninstall">
+      <source xml:lang="en">Uninstall</source><target>Видалити</target>
+    </trans-unit>
+    <trans-unit id="later">
+      <source xml:lang="en">Later</source><target>Пізніше</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/browser/extensionEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="name">
+      <source xml:lang="en">Extension name</source><target>додаток ім'я</target>
+    </trans-unit>
+    <trans-unit id="extension id">
+      <source xml:lang="en">Extension identifier</source><target>Ідентифікатор додатку</target>
+    </trans-unit>
+    <trans-unit id="preview">
+      <source xml:lang="en">Preview</source><target>Попередній перегляд</target>
+    </trans-unit>
+    <trans-unit id="publisher">
+      <source xml:lang="en">Publisher name</source><target>Ім'я видавця</target>
+    </trans-unit>
+    <trans-unit id="install count">
+      <source xml:lang="en">Install count</source><target>Встановити лічильник</target>
+    </trans-unit>
+    <trans-unit id="rating">
+      <source xml:lang="en">Rating</source><target>Рейтинг</target>
+    </trans-unit>
+    <trans-unit id="repository">
+      <source xml:lang="en">Repository</source><target>Репозиторій</target>
+    </trans-unit>
+    <trans-unit id="license">
+      <source xml:lang="en">License</source><target>Ліцензія</target>
+    </trans-unit>
+    <trans-unit id="details">
+      <source xml:lang="en">Details</source><target>Деталі</target>
+    </trans-unit>
+    <trans-unit id="contributions">
+      <source xml:lang="en">Contributions</source><target>Внески</target>
+    </trans-unit>
+    <trans-unit id="changelog">
+      <source xml:lang="en">Changelog</source><target>Список змін</target>
+    </trans-unit>
+    <trans-unit id="dependencies">
+      <source xml:lang="en">Dependencies</source><target>Залежності</target>
+    </trans-unit>
+    <trans-unit id="noReadme">
+      <source xml:lang="en">No README available.</source><target>Немає доступних README.</target>
+    </trans-unit>
+    <trans-unit id="noChangelog">
+      <source xml:lang="en">No Changelog available.</source><target>Немає доступних змін.</target>
+    </trans-unit>
+    <trans-unit id="noContributions">
+      <source xml:lang="en">No Contributions</source><target>Ніяких Внесків</target>
+    </trans-unit>
+    <trans-unit id="noDependencies">
+      <source xml:lang="en">No Dependencies</source><target>Немає залежностей</target>
+    </trans-unit>
+    <trans-unit id="settings">
+      <source xml:lang="en">Settings ({0})</source><target>Налаштування ({0})</target>
+    </trans-unit>
+    <trans-unit id="setting name">
+      <source xml:lang="en">Name</source><target>Назва</target>
+    </trans-unit>
+    <trans-unit id="description">
+      <source xml:lang="en">Description</source><target>Опис</target>
+    </trans-unit>
+    <trans-unit id="default">
+      <source xml:lang="en">Default</source><target>За замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="debuggers">
+      <source xml:lang="en">Debuggers ({0})</source><target>Відладчики ({0})</target>
+    </trans-unit>
+    <trans-unit id="debugger name">
+      <source xml:lang="en">Name</source><target>Назва</target>
+    </trans-unit>
+    <trans-unit id="debugger type">
+      <source xml:lang="en">Type</source><target>Тип</target>
+    </trans-unit>
+    <trans-unit id="views">
+      <source xml:lang="en">Views ({0})</source><target>Вид ({0})</target>
+    </trans-unit>
+    <trans-unit id="view id">
+      <source xml:lang="en">ID</source><target>Ідентифікатор</target>
+    </trans-unit>
+    <trans-unit id="view name">
+      <source xml:lang="en">Name</source><target>Назва</target>
+    </trans-unit>
+    <trans-unit id="view location">
+      <source xml:lang="en">Where</source><target>Де</target>
+    </trans-unit>
+    <trans-unit id="colorThemes">
+      <source xml:lang="en">Color Themes ({0})</source><target>Колірні Теми ({0})</target>
+    </trans-unit>
+    <trans-unit id="iconThemes">
+      <source xml:lang="en">Icon Themes ({0})</source><target>Теми Значків ({0})</target>
+    </trans-unit>
+    <trans-unit id="colors">
+      <source xml:lang="en">Colors ({0})</source><target>Кольори ({0})</target>
+    </trans-unit>
+    <trans-unit id="colorId">
+      <source xml:lang="en">Id</source><target>Ідентифікатор</target>
+    </trans-unit>
+    <trans-unit id="defaultDark">
+      <source xml:lang="en">Dark Default</source><target>Темна за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="defaultLight">
+      <source xml:lang="en">Light Default</source><target>Світла за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="defaultHC">
+      <source xml:lang="en">High Contrast Default</source><target>Високо-контрастна за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="JSON Validation">
+      <source xml:lang="en">JSON Validation ({0})</source><target>Перевірки json ({0})</target>
+    </trans-unit>
+    <trans-unit id="commands">
+      <source xml:lang="en">Commands ({0})</source><target>Команди ({0})</target>
+    </trans-unit>
+    <trans-unit id="command name">
+      <source xml:lang="en">Name</source><target>Назва</target>
+    </trans-unit>
+    <trans-unit id="keyboard shortcuts">
+      <source xml:lang="en">Keyboard Shortcuts</source><target>Сполучення Клавіш</target>
+    </trans-unit>
+    <trans-unit id="menuContexts">
+      <source xml:lang="en">Menu Contexts</source><target>Контексти Меню</target>
+    </trans-unit>
+    <trans-unit id="languages">
+      <source xml:lang="en">Languages ({0})</source><target>Мови ({0})</target>
+    </trans-unit>
+    <trans-unit id="language id">
+      <source xml:lang="en">ID</source><target>Ідентифікатор</target>
+    </trans-unit>
+    <trans-unit id="language name">
+      <source xml:lang="en">Name</source><target>Назва</target>
+    </trans-unit>
+    <trans-unit id="file extensions">
+      <source xml:lang="en">File Extensions</source><target>Розширення Файлів</target>
+    </trans-unit>
+    <trans-unit id="grammar">
+      <source xml:lang="en">Grammar</source><target>Граматика</target>
+    </trans-unit>
+    <trans-unit id="snippets">
+      <source xml:lang="en">Snippets</source><target>Фрагменти (сніпети)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/runtimeExtensionsEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="starActivation">
+      <source xml:lang="en">Activated on start-up</source><target>Активована при запуску</target>
+    </trans-unit>
+    <trans-unit id="workspaceContainsGlobActivation">
+      <source xml:lang="en">Activated because a file matching {0} exists in your workspace</source><target>Активоване, оскільки існує відповідний файл {0} у вашому робочому просторі</target>
+    </trans-unit>
+    <trans-unit id="workspaceContainsFileActivation">
+      <source xml:lang="en">Activated because file {0} exists in your workspace</source><target>Активувати, так як файл {0} існує у вашій робочої області</target>
+    </trans-unit>
+    <trans-unit id="languageActivation">
+      <source xml:lang="en">Activated because you opened a {0} file</source><target>Активувати, так як ви відкрили файл {0} </target>
+    </trans-unit>
+    <trans-unit id="workspaceGenericActivation">
+      <source xml:lang="en">Activated on {0}</source><target>Активоване на {0}</target>
+    </trans-unit>
+    <trans-unit id="errors">
+      <source xml:lang="en">{0} uncaught errors</source><target>{0} невідомі халепи</target>
+    </trans-unit>
+    <trans-unit id="extensionsInputName">
+      <source xml:lang="en">Running Extensions</source><target>Запуск додатків</target>
+    </trans-unit>
+    <trans-unit id="showRuntimeExtensions">
+      <source xml:lang="en">Show Running Extensions</source><target>Показати запущені додатки</target>
+    </trans-unit>
+    <trans-unit id="reportExtensionIssue">
+      <source xml:lang="en">Report Issue</source><target>Звіт</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProfileStart">
+      <source xml:lang="en">Start Extension Host Profile</source><target>Почати розширення хосту профілю</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProfileStop">
+      <source xml:lang="en">Stop Extension Host Profile</source><target>Припинити розширення хосту профілю</target>
+    </trans-unit>
+    <trans-unit id="saveExtensionHostProfile">
+      <source xml:lang="en">Save Extension Host Profile</source><target>Зберегти розширення хосту профілю</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionProfileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="selectAndStartDebug">
+      <source xml:lang="en">Click to stop profiling.</source><target>Натисніть, щоб зупинити профілювання.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/electron-browser/extensionsViews" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extensions">
+      <source xml:lang="en">Extensions</source><target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="no extensions found">
+      <source xml:lang="en">No extensions found.</source><target>Додатки не знайдено.</target>
+    </trans-unit>
+    <trans-unit id="suggestProxyError">
+      <source xml:lang="en">Marketplace returned 'ECONNREFUSED'. Please check the 'http.proxy' setting.</source><target>Ринок повернув 'ECONNREFUSED'. Будь ласка, перевірте налаштування 'http.proxy'.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/browser/dependenciesViewer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="error">
+      <source xml:lang="en">Error</source><target>Халепа</target>
+    </trans-unit>
+    <trans-unit id="Unknown Dependency">
+      <source xml:lang="en">Unknown Dependency:</source><target>Невідома залежність:</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/extensions/browser/extensionsWidgets" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="ratedByUsers">
+      <source xml:lang="en">Rated by {0} users</source><target>За оцінкою {0} користувачів</target>
+    </trans-unit>
+    <trans-unit id="ratedBySingleUser">
+      <source xml:lang="en">Rated by 1 user</source><target>За оцінкою 1 користувача</target>
+    </trans-unit>
+  </body></file>
+</xliff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/trust/electron-browser/unsupportedWorkspaceSettings.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="unsupportedWorkspaceSettings">
+      <source xml:lang="en">This Workspace contains settings that can only be set in User Settings. ({0})</source>
+      <target>Ця робоча область містить параметри, які можна змінити тільки в налаштуваннях користувача. ({0})</target>
+    </trans-unit>
+    <trans-unit id="openWorkspaceSettings">
+      <source xml:lang="en">Open Workspace Settings</source>
+      <target>Відкрийте параметри робочої області</target>
+    </trans-unit>
+    <trans-unit id="openDocumentation">
+      <source xml:lang="en">Learn More</source>
+      <target>Дізнатися Більше</target>
+    </trans-unit>
+    <trans-unit id="ignore">
+      <source xml:lang="en">Ignore</source><target>Ігнорувати</target>
+    </trans-unit>
+  </body></file>
+</xliff>

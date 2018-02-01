@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="extensions/npm/package" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="config.npm.autoDetect">
+      <source xml:lang="en">Controls whether auto detection of npm scripts is on or off. Default is on.</source><target>Контролює, чи автоматичне виявлення npm скриптів включено або виключено. За замовчанням увімкнуто.</target>
+    </trans-unit>
+    <trans-unit id="config.npm.runSilent">
+      <source xml:lang="en">Run npm commands with the `--silent` option.</source><target>Виконайте npm команди з опцією `--silent`.</target>
+    </trans-unit>
+    <trans-unit id="config.npm.packageManager">
+      <source xml:lang="en">The package manager used to run scripts.</source><target>Менеджер пакетів використовується для запуску скриптів.</target>
+    </trans-unit>
+    <trans-unit id="npm.parseError">
+      <source xml:lang="en">Npm task detection: failed to parse the file {0}</source><target>NPM завдання виявлення: не вдалося розібрати файл {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/npm/out/main" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="npm.parseError">
+      <source xml:lang="en">Npm task detection: failed to parse the file {0}</source><target>NPM завдання виявлення: не вдалося розібрати файл {0}</target>
+    </trans-unit>
+  </body></file>
+</xliff>

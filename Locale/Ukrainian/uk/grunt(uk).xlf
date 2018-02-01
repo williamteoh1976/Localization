@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="extensions/grunt/package" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="config.grunt.autoDetect">
+      <source xml:lang="en">Controls whether auto detection of Grunt tasks is on or off. Default is on.</source><target>Контролює автоматичне визначення Grunt завдань включене чи ні. За умовчанням увімкнено.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/grunt/out/main" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="execFailed">
+      <source xml:lang="en">Auto detecting Grunt for folder {0} failed with error: {1}</source><target>Автоматичне визначення Grunt для теки " {0} скінчилася невдало з помилкою: {1}</target>
+    </trans-unit>
+  </body></file>
+</xliff>

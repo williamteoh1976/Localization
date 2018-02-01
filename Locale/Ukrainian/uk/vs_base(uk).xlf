@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/base/parts/quickopen/browser/quickOpenModel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="quickOpenAriaLabelEntry">
+      <source xml:lang="en">{0}, picker</source>
+      <target>{0}, вибір</target>
+    </trans-unit>
+    <trans-unit id="quickOpenAriaLabel">
+      <source xml:lang="en">picker</source>
+      <target>вибір</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/actionbar/actionbar" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="titleLabel">
+      <source xml:lang="en">{0} ({1})</source>
+      <target>{0} ({1})</target>
+      <note>action title
+action keybinding</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/common/severity" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="sev.error">
+      <source xml:lang="en">Error</source>
+      <target>Халепа</target>
+    </trans-unit>
+    <trans-unit id="sev.warning">
+      <source xml:lang="en">Warning</source>
+      <target>Увага</target>
+    </trans-unit>
+    <trans-unit id="sev.info">
+      <source xml:lang="en">Info</source>
+      <target>Інформація</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/aria/aria" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="repeated">
+      <source xml:lang="en">{0} (occurred again)</source>
+      <target>{0} (виникла знову)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/inputbox/inputBox" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="alertErrorMessage">
+      <source xml:lang="en">Error: {0}</source>
+      <target>Помилка: {0}</target>
+    </trans-unit>
+    <trans-unit id="alertWarningMessage">
+      <source xml:lang="en">Warning: {0}</source>
+      <target>Увага: {0}</target>
+    </trans-unit>
+    <trans-unit id="alertInfoMessage">
+      <source xml:lang="en">Info: {0}</source>
+      <target>Інформація: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/findinput/findInput" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defaultLabel">
+      <source xml:lang="en">input</source>
+      <target>введіть</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/node/processes" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="TaskRunner.UNC">
+      <source xml:lang="en">Can't execute a shell command on an UNC drive.</source>
+      <target>Не вдалося виконати shell команду на диску UNC.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/node/zip" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="notFound">
+      <source xml:lang="en">{0} not found inside zip.</source>
+      <target>{0} не знайдено всередині zip.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/parts/tree/browser/treeDefaults" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="collapse">
+      <source xml:lang="en">Collapse</source>
+      <target>Згорнути</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/common/keybindingLabels" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="ctrlKey">
+      <source xml:lang="en">Ctrl</source>
+      <target>Ctrl</target>
+    </trans-unit>
+    <trans-unit id="shiftKey">
+      <source xml:lang="en">Shift</source>
+      <target>Shift</target>
+    </trans-unit>
+    <trans-unit id="altKey">
+      <source xml:lang="en">Alt</source>
+      <target>Alt</target>
+    </trans-unit>
+    <trans-unit id="windowsKey">
+      <source xml:lang="en">Windows</source>
+      <target>Windows</target>
+    </trans-unit>
+    <trans-unit id="ctrlKey.long">
+      <source xml:lang="en">Control</source>
+      <target>Control</target>
+    </trans-unit>
+    <trans-unit id="shiftKey.long">
+      <source xml:lang="en">Shift</source>
+      <target>Shift</target>
+    </trans-unit>
+    <trans-unit id="altKey.long">
+      <source xml:lang="en">Alt</source>
+      <target>Alt</target>
+    </trans-unit>
+    <trans-unit id="cmdKey.long">
+      <source xml:lang="en">Command</source>
+      <target>Command</target>
+    </trans-unit>
+    <trans-unit id="windowsKey.long">
+      <source xml:lang="en">Windows</source>
+      <target>Windows</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/common/errorMessage" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="stackTrace.format">
+      <source xml:lang="en">{0}: {1}</source>
+      <target>{0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="error.defaultMessage">
+      <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
+      <target>Незрозуміла халепа. Подивись log, щоб побачити більше деталей.</target>
+    </trans-unit>
+    <trans-unit id="nodeExceptionMessage">
+      <source xml:lang="en">A system error occurred ({0})</source>
+      <target>Виникла помилка системи ({0})</target>
+    </trans-unit>
+    <trans-unit id="error.moreErrors">
+      <source xml:lang="en">{0} ({1} errors in total)</source>
+      <target>{0} ({1} помилок усього)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/parts/quickopen/browser/quickOpenWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="quickOpenAriaLabel">
+      <source xml:lang="en">Quick picker. Type to narrow down results.</source>
+      <target>Швидкий вибір. Введіть, щоб звузити варіанти.</target>
+    </trans-unit>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">Quick Picker</source>
+      <target>Швидкий вибір</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/findinput/findInputCheckboxes" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="caseDescription">
+      <source xml:lang="en">Match Case</source>
+      <target>Порівнювати регістр</target>
+    </trans-unit>
+    <trans-unit id="wordsDescription">
+      <source xml:lang="en">Match Whole Word</source>
+      <target>Порівнювати ціле слово</target>
+    </trans-unit>
+    <trans-unit id="regexDescription">
+      <source xml:lang="en">Use Regular Expression</source>
+      <target>Застосувати регулярний вираз</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/toolbar/toolbar" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="more">
+      <source xml:lang="en">More</source>
+      <target>Ще</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/selectBox/selectBoxCustom" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="selectAriaOption">
+      <source xml:lang="en">{0}</source>
+      <target>{0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/browser/ui/resourceviewer/resourceViewer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="imgMeta">
+      <source xml:lang="en">{0}x{1} {2}</source>
+      <target>{0}x{1} {2}</target>
+    </trans-unit>
+    <trans-unit id="largeImageError">
+      <source xml:lang="en">The image is too large to display in the editor. </source>
+      <target>Зображення занадто велике для відображення у редакторі.</target>
+    </trans-unit>
+    <trans-unit id="resourceOpenExternalButton">
+      <source xml:lang="en">Open image using external program?</source>
+      <target>Відкрити зображення зовнішньою програмою?</target>
+    </trans-unit>
+    <trans-unit id="nativeBinaryError">
+      <source xml:lang="en">The file will not be displayed in the editor because it is either binary, very large or uses an unsupported text encoding.</source>
+      <target>Не можна відкрити файл в редакторі. Можливо, файл є бінарним, або занадто великим, або не підтримується таке кодування тексту.</target>
+    </trans-unit>
+    <trans-unit id="sizeB">
+      <source xml:lang="en">{0}B</source>
+      <target>{0}Байт</target>
+    </trans-unit>
+    <trans-unit id="sizeKB">
+      <source xml:lang="en">{0}KB</source>
+      <target>{0}КБайт</target>
+    </trans-unit>
+    <trans-unit id="sizeMB">
+      <source xml:lang="en">{0}MB</source>
+      <target>{0}МБайт</target>
+    </trans-unit>
+    <trans-unit id="sizeGB">
+      <source xml:lang="en">{0}GB</source>
+      <target>{0}ГБайт</target>
+    </trans-unit>
+    <trans-unit id="sizeTB">
+      <source xml:lang="en">{0}TB</source>
+      <target>{0}ТБайт</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/base/common/jsonErrorMessages" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="error.invalidSymbol">
+      <source xml:lang="en">Invalid symbol</source>
+      <target>Невірний символ</target>
+    </trans-unit>
+    <trans-unit id="error.invalidNumberFormat">
+      <source xml:lang="en">Invalid number format</source>
+      <target>Невірний числовий формат</target>
+    </trans-unit>
+    <trans-unit id="error.propertyNameExpected">
+      <source xml:lang="en">Property name expected</source>
+      <target>Очікується ім'я властивості</target>
+    </trans-unit>
+    <trans-unit id="error.valueExpected">
+      <source xml:lang="en">Value expected</source>
+      <target>Очікується значення</target>
+    </trans-unit>
+    <trans-unit id="error.colonExpected">
+      <source xml:lang="en">Colon expected</source>
+      <target>Очікується двокрапка</target>
+    </trans-unit>
+    <trans-unit id="error.commaExpected">
+      <source xml:lang="en">Comma expected</source>
+      <target>Очікується кома</target>
+    </trans-unit>
+    <trans-unit id="error.closeBraceExpected">
+      <source xml:lang="en">Closing brace expected</source>
+      <target>Очікується закриваюча фігурна дужка</target>
+    </trans-unit>
+    <trans-unit id="error.closeBracketExpected">
+      <source xml:lang="en">Closing bracket expected</source>
+      <target>Очікується закриваюча дужка</target>
+    </trans-unit>
+    <trans-unit id="error.endOfFileExpected">
+      <source xml:lang="en">End of file expected</source>
+      <target>Очікується кінець файлу</target>
+    </trans-unit>
+  </body></file>
+</xliff>

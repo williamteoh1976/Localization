@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="extensions/configuration-editing/out/extension" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="exampleExtension">
+      <source xml:lang="en">Example</source><target>Приклад</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/configuration-editing/out/settingsDocumentHelper" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="activeEditorShort">
+      <source xml:lang="en">the file name (e.g. myFile.txt)</source><target>Ім'я файлу (наприклад, myFile.txt)</target>
+    </trans-unit>
+    <trans-unit id="activeEditorMedium">
+      <source xml:lang="en">the path of the file relative to the workspace folder (e.g. myFolder/myFile.txt)</source><target>шлях до файлу відносно папки робочого простору (наприклад, myFolder/myFile.txt)</target>
+    </trans-unit>
+    <trans-unit id="activeEditorLong">
+      <source xml:lang="en">the full path of the file (e.g. /Users/Development/myProject/myFolder/myFile.txt)</source><target>повний шлях до файлу (наприклад, /Users/Development/myProject/myFolder/myFile.txt)</target>
+    </trans-unit>
+    <trans-unit id="rootName">
+      <source xml:lang="en">name of the workspace (e.g. myFolder or myWorkspace)</source><target>ім'я робочої області (наприклад, папка або myWorkspace)</target>
+    </trans-unit>
+    <trans-unit id="rootPath">
+      <source xml:lang="en">file path of the workspace (e.g. /Users/Development/myWorkspace)</source><target>шлях до файлу робочої області (наприклад, /Користувачі/розвитку/myWorkspace)</target>
+    </trans-unit>
+    <trans-unit id="folderName">
+      <source xml:lang="en">name of the workspace folder the file is contained in (e.g. myFolder)</source><target>ім'я папки робочої області, де міститься файл (наприклад, myFolder)</target>
+    </trans-unit>
+    <trans-unit id="folderPath">
+      <source xml:lang="en">file path of the workspace folder the file is contained in (e.g. /Users/Development/myFolder)</source><target>шлях до папки робочої області, де файл міститься у (наприклад, /Users/Development/myFolder)</target>
+    </trans-unit>
+    <trans-unit id="appName">
+      <source xml:lang="en">e.g. VS Code</source><target>наприклад, VS Code</target>
+    </trans-unit>
+    <trans-unit id="dirty">
+      <source xml:lang="en">a dirty indicator if the active editor is dirty</source><target>змінення індикатора якщо активний редактор змінений</target>
+    </trans-unit>
+    <trans-unit id="separator">
+      <source xml:lang="en">a conditional separator (' - ') that only shows when surrounded by variables with values</source><target>умовний роздільник ( ' - ' ), який відображається лише тоді, коли його оточують змінні зі значеннями</target>
+    </trans-unit>
+    <trans-unit id="assocLabelFile">
+      <source xml:lang="en">Files with Extension</source><target>Файли з розширенням</target>
+    </trans-unit>
+    <trans-unit id="assocDescriptionFile">
+      <source xml:lang="en">Map all files matching the glob pattern in their filename to the language with the given identifier.</source><target>Відображати всі файли, що відповідають шаблону glob в їх назві до мови з даним ідентифікатором.</target>
+    </trans-unit>
+    <trans-unit id="assocLabelPath">
+      <source xml:lang="en">Files with Path</source><target>Файли з шляху</target>
+    </trans-unit>
+    <trans-unit id="assocDescriptionPath">
+      <source xml:lang="en">Map all files matching the absolute path glob pattern in their path to the language with the given identifier.</source><target>Відображати всі файли, що відповідають шаблону glob абсолютного шляху, на шляху до мови з даним ідентифікатором.</target>
+    </trans-unit>
+    <trans-unit id="fileLabel">
+      <source xml:lang="en">Files by Extension</source><target>Файли за розширенням</target>
+    </trans-unit>
+    <trans-unit id="fileDescription">
+      <source xml:lang="en">Match all files of a specific file extension.</source><target>Матч всіх файлів з певним розширенням файлу.</target>
+    </trans-unit>
+    <trans-unit id="filesLabel">
+      <source xml:lang="en">Files with Multiple Extensions</source><target>Файли з кількома розширеннями</target>
+    </trans-unit>
+    <trans-unit id="filesDescription">
+      <source xml:lang="en">Match all files with any of the file extensions.</source><target>Матч всі файли з будь-якими розширеннями файлів.</target>
+    </trans-unit>
+    <trans-unit id="derivedLabel">
+      <source xml:lang="en">Files with Siblings by Name</source><target>Файли з братами по імені</target>
+    </trans-unit>
+    <trans-unit id="derivedDescription">
+      <source xml:lang="en">Match files that have siblings with the same name but a different extension.</source><target>Матч файли, які мають братів з таким же ім'ям, але з іншим розширенням.</target>
+    </trans-unit>
+    <trans-unit id="topFolderLabel">
+      <source xml:lang="en">Folder by Name (Top Level)</source><target>Папки по імені (верхній рівень)</target>
+    </trans-unit>
+    <trans-unit id="topFolderDescription">
+      <source xml:lang="en">Match a top level folder with a specific name.</source><target>Матч папки верхнього рівня з певним ім'ям.</target>
+    </trans-unit>
+    <trans-unit id="topFoldersLabel">
+      <source xml:lang="en">Folders with Multiple Names (Top Level)</source><target>Папки з кількома іменами (верхній рівень)</target>
+    </trans-unit>
+    <trans-unit id="topFoldersDescription">
+      <source xml:lang="en">Match multiple top level folders.</source><target>Матч кілька папок на верхньому рівні.</target>
+    </trans-unit>
+    <trans-unit id="folderLabel">
+      <source xml:lang="en">Folder by Name (Any Location)</source><target>Папки по імені (будь-яке місце)</target>
+    </trans-unit>
+    <trans-unit id="folderDescription">
+      <source xml:lang="en">Match a folder with a specific name in any location.</source><target>Матч папки з певним ім'ям в будь-якому місці.</target>
+    </trans-unit>
+    <trans-unit id="falseDescription">
+      <source xml:lang="en">Disable the pattern.</source><target>Виключити шаблон.</target>
+    </trans-unit>
+    <trans-unit id="trueDescription">
+      <source xml:lang="en">Enable the pattern.</source><target>Включити шаблон.</target>
+    </trans-unit>
+    <trans-unit id="siblingsDescription">
+      <source xml:lang="en">Match files that have siblings with the same name but a different extension.</source><target>Матч файли, які мають братів з таким же ім'ям, але з іншим розширенням.</target>
+    </trans-unit>
+    <trans-unit id="languageSpecificEditorSettings">
+      <source xml:lang="en">Language specific editor settings</source><target>Конкретні мовні налаштування редактора</target>
+    </trans-unit>
+    <trans-unit id="languageSpecificEditorSettingsDescription">
+      <source xml:lang="en">Override editor settings for language</source><target>Перевизначити параметри редактора для мови</target>
+    </trans-unit>
+  </body></file>
+</xliff>

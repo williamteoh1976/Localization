@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/snippets/electron-browser/snippets.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openSnippet.pickLanguage">
+      <source xml:lang="en">Select Language for Snippet</source><target>Виберіть мову для Фрагменту</target>
+    </trans-unit>
+    <trans-unit id="openSnippet.errorOnCreate">
+      <source xml:lang="en">Unable to create {0}</source><target>Не вдається створити {0}</target>
+    </trans-unit>
+    <trans-unit id="openSnippet.label">
+      <source xml:lang="en">Open User Snippets</source><target>Відкриті Фрагменти Користувача</target>
+    </trans-unit>
+    <trans-unit id="preferences">
+      <source xml:lang="en">Preferences</source><target>Налаштування</target>
+    </trans-unit>
+    <trans-unit id="snippetSchema.json.default">
+      <source xml:lang="en">Empty snippet</source><target>Порожній фрагмент</target>
+    </trans-unit>
+    <trans-unit id="snippetSchema.json">
+      <source xml:lang="en">User snippet configuration</source><target>Фрагмент Конфігурація користувача</target>
+    </trans-unit>
+    <trans-unit id="snippetSchema.json.prefix">
+      <source xml:lang="en">The prefix to used when selecting the snippet in intellisense</source><target>Префікс, що використовується при виборі фрагмента в автопропозиціях(intellisense)</target>
+    </trans-unit>
+    <trans-unit id="snippetSchema.json.body">
+      <source xml:lang="en">The snippet content. Use '$1', '${1:defaultText}' to define cursor positions, use '$0' for the final cursor position. Insert variable values with '${varName}' and '${varName:defaultText}', e.g 'This is file: $TM_FILENAME'.</source><target>Зміст фрагменту. Використовувати '$1', '${1:defaultText}' для визначення позиції курсору, використовуйте '$0' для остаточної позиції курсору. Вставити значення змінних з '${varName} " і " ${varName:defaultText}', yfghbrkfl 'Це файл: $TM_FILENAME'.</target>
+    </trans-unit>
+    <trans-unit id="snippetSchema.json.description">
+      <source xml:lang="en">The snippet description.</source><target>Опис фрагменту.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/snippets/electron-browser/insertSnippet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="snippet.suggestions.label">
+      <source xml:lang="en">Insert Snippet</source><target>Вставити фрагмент</target>
+    </trans-unit>
+    <trans-unit id="sep.userSnippet">
+      <source xml:lang="en">User Snippets</source><target>Користувацькі фрагменти</target>
+    </trans-unit>
+    <trans-unit id="sep.extSnippet">
+      <source xml:lang="en">Extension Snippets</source><target>Фрагменти додатку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/snippets/electron-browser/tabCompletion" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="tabCompletion">
+      <source xml:lang="en">Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled.</source><target>Вставити фрагменти, коли є збіг їх префікса. Найкраще працює, коли 'quickSuggestions' не включений.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/snippets/electron-browser/snippetsService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="invalid.language">
+      <source xml:lang="en">Unknown language in `contributes.{0}.language`. Provided value: {1}</source><target>Невідома мова в `contributes.{0}.language`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.0">
+      <source xml:lang="en">Expected string in `contributes.{0}.path`. Provided value: {1}</source><target>Очікуються рядки в `contributes.{0}.path`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.1">
+      <source xml:lang="en">Expected `contributes.{0}.path` ({1}) to be included inside extension's folder ({2}). This might make the extension non-portable.</source><target>Очікуваний `contributes.{0}.path` ({1}), щоб бути включеними в папці модуля ({2}). Це може усунути портативність додатку.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.snippets">
+      <source xml:lang="en">Contributes snippets.</source><target>Внесені фрагменти.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.snippets-language">
+      <source xml:lang="en">Language identifier for which this snippet is contributed to.</source><target>Ідентифікатор мови, для якого цей фрагмент внесли.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.snippets-path">
+      <source xml:lang="en">Path of the snippets file. The path is relative to the extension folder and typically starts with './snippets/'.</source><target>Шлях фрагментів файлу. Шлях є відносним до папки розширень і, як правило, починається з './snippets/'.</target>
+    </trans-unit>
+    <trans-unit id="badVariableUse">
+      <source xml:lang="en">One or more snippets from the extension '{0}' very likely confuse snippet-variables and snippet-placeholders (see https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax for more details)</source><target>Один або більше фрагментів з розширенням '{0}' цілком ймовірно, заплутають змінні-фрагменти та заповнювачі фрагментів (див. https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax для більш докладної інформації)</target>
+    </trans-unit>
+    <trans-unit id="badFile">
+      <source xml:lang="en">The snippet file "{0}" could not be read.</source><target>Не вдалося прочитати файл фрагмента "{0}".</target>
+    </trans-unit>
+    <trans-unit id="source.snippet">
+      <source xml:lang="en">User Snippet</source><target>Користувацький фрагмент</target>
+    </trans-unit>
+    <trans-unit id="detail.snippet">
+      <source xml:lang="en">{0} ({1})</source><target>{0} ({1})</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggest.longLabel">
+      <source xml:lang="en">{0}, {1}</source><target>{0}, {1}</target>
+    </trans-unit>
+  </body></file>
+</xliff>

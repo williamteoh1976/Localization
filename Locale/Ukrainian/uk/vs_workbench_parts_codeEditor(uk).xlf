@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/toggleRenderControlCharacter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleRenderControlCharacters">
+      <source xml:lang="en">View: Toggle Control Characters</source><target>Вид: on/off символи керування</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/toggleMultiCursorModifier" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleLocation">
+      <source xml:lang="en">Toggle Multi-Cursor Modifier</source><target>On/off модифікатор мульти-курсору</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/toggleMinimap" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleMinimap">
+      <source xml:lang="en">View: Toggle Minimap</source><target>Вид:  on/off мінікарту</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/textMate/inspectTMScopes" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="inspectTMScopes">
+      <source xml:lang="en">Developer: Inspect TM Scopes</source><target>Розробник: огляд ТМ області</target>
+    </trans-unit>
+    <trans-unit id="inspectTMScopesWidget.loading">
+      <source xml:lang="en">Loading...</source><target>Завантаження...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/toggleRenderWhitespace" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleRenderWhitespace">
+      <source xml:lang="en">View: Toggle Render Whitespace</source><target>Вид: on/off  відображення пробілів</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/toggleWordWrap" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggle.wordwrap">
+      <source xml:lang="en">View: Toggle Word Wrap</source><target>Вид: on/off перенесення слів</target>
+    </trans-unit>
+    <trans-unit id="wordWrap.notInDiffEditor">
+      <source xml:lang="en">Cannot toggle word wrap in a diff editor.</source><target>Не можна перемкнути перенесення слів у редакторі Змін.</target>
+    </trans-unit>
+    <trans-unit id="unwrapMinified">
+      <source xml:lang="en">Disable wrapping for this file</source><target>Вимкнення обтікання для цього файлу</target>
+    </trans-unit>
+    <trans-unit id="wrapMinified">
+      <source xml:lang="en">Enable wrapping for this file</source><target>Увімкнути обтікання для цього файлу</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/wordWrapMigration" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="wordWrapMigration.ok">
+      <source xml:lang="en">OK</source><target>Гаразд</target>
+    </trans-unit>
+    <trans-unit id="wordWrapMigration.dontShowAgain">
+      <source xml:lang="en">Don't show again</source><target>Більше не показувати</target>
+    </trans-unit>
+    <trans-unit id="wordWrapMigration.openSettings">
+      <source xml:lang="en">Open Settings</source><target>Відкрити Налаштування</target>
+    </trans-unit>
+    <trans-unit id="wordWrapMigration.prompt">
+      <source xml:lang="en">The setting `editor.wrappingColumn` has been deprecated in favor of `editor.wordWrap`.</source><target>Параметр 'editor.wrappingColumn' було вилучено на користь 'editor.wordWrap'.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/accessibility" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="emergencyConfOn">
+      <source xml:lang="en">Now changing the setting `editor.accessibilitySupport` to 'on'.</source><target>Тепер змінюється параметр `editor.accessibilitySupport` на 'on'.</target>
+    </trans-unit>
+    <trans-unit id="openingDocs">
+      <source xml:lang="en">Now opening the VS Code Accessibility documentation page.</source><target>Тепер відкрийте сторінку документації щодо доступності VS Code.</target>
+    </trans-unit>
+    <trans-unit id="introMsg">
+      <source xml:lang="en">Thank you for trying out VS Code's accessibility options.</source><target>Дякую, що спробували вибрати параметри доступності VS Code.</target>
+    </trans-unit>
+    <trans-unit id="status">
+      <source xml:lang="en">Status:</source><target>Статус:</target>
+    </trans-unit>
+    <trans-unit id="changeConfigToOnMac">
+      <source xml:lang="en">To configure the editor to be permanently optimized for usage with a Screen Reader press Command+E now.</source><target>Налаштувати редактор для постійного оптимізації для використання Зчитувача Екрана натисніть Command+E зараз.</target>
+    </trans-unit>
+    <trans-unit id="changeConfigToOnWinLinux">
+      <source xml:lang="en">To configure the editor to be permanently optimized for usage with a Screen Reader press Control+E now.</source><target>Налаштувати редактор для постійного оптимізації для використання Зчитувача Екрана натисніть Control+E зараз.</target>
+    </trans-unit>
+    <trans-unit id="auto_unknown">
+      <source xml:lang="en">The editor is configured to use platform APIs to detect when a Screen Reader is attached, but the current runtime does not support this.</source><target>Редактор налаштований на використання API платформи, щоб визначити, коли програма читання з екрану, однак нинішнє середовище виконання не підтримує це.</target>
+    </trans-unit>
+    <trans-unit id="auto_on">
+      <source xml:lang="en">The editor has automatically detected a Screen Reader is attached.</source><target>Редактор автоматично виявляє прикріпленні програми читання з екрану.</target>
+    </trans-unit>
+    <trans-unit id="auto_off">
+      <source xml:lang="en">The editor is configured to automatically detect when a Screen Reader is attached, which is not the case at this time.</source><target>Редактор налаштований на автовизначення прикріплення програми читання з екрану, чого не буває в цей час.</target>
+    </trans-unit>
+    <trans-unit id="configuredOn">
+      <source xml:lang="en">The editor is configured to be permanently optimized for usage with a Screen Reader - you can change this by editing the setting `editor.accessibilitySupport`.</source><target>Редактор налаштований, щоб бути постійно оптимізовані для використання з програмами читання з екрана можна змінити шляхом редагування параметру `editor.accessibilitySupport`.</target>
+    </trans-unit>
+    <trans-unit id="configuredOff">
+      <source xml:lang="en">The editor is configured to never be optimized for usage with a Screen Reader.</source><target>Редактор налаштований так, щоб не бути оптимізований для використання програм читання з екрану.</target>
+    </trans-unit>
+    <trans-unit id="tabFocusModeOnMsg">
+      <source xml:lang="en">Pressing Tab in the current editor will move focus to the next focusable element. Toggle this behavior by pressing {0}.</source><target>Натискання Tab у поточному редакторі перемістить фокус до наступного фокусуючого елемента. Змінити таку поведінку по натисненню {0}.</target>
+    </trans-unit>
+    <trans-unit id="tabFocusModeOnMsgNoKb">
+      <source xml:lang="en">Pressing Tab in the current editor will move focus to the next focusable element. The command {0} is currently not triggerable by a keybinding.</source><target>Натискання Tab у поточному редакторі перемістить фокус до наступного фокусуючого елемента. Команда {0} в даний час не викликається за допомогою клавіш.</target>
+    </trans-unit>
+    <trans-unit id="tabFocusModeOffMsg">
+      <source xml:lang="en">Pressing Tab in the current editor will insert the tab character. Toggle this behavior by pressing {0}.</source><target>Натискаючи Tab у поточному редакторі, буде вставлено символ табуляції. Увімкніть цю поведінку, натиснувши {0}.</target>
+    </trans-unit>
+    <trans-unit id="tabFocusModeOffMsgNoKb">
+      <source xml:lang="en">Pressing Tab in the current editor will insert the tab character. The command {0} is currently not triggerable by a keybinding.</source><target>Натискаючи Tab у поточному редакторі, буде вставлено символ табуляції. Команда {0} в даний час не викликається за допомогою клавіш.</target>
+    </trans-unit>
+    <trans-unit id="openDocMac">
+      <source xml:lang="en">Press Command+H now to open a browser window with more VS Code information related to Accessibility.</source><target>Натисніть Command+H, щоб відкрити вікно браузера з інформацією про VS Code, що стосується зі спеціальними можливостями.</target>
+    </trans-unit>
+    <trans-unit id="openDocWinLinux">
+      <source xml:lang="en">Press Control+H now to open a browser window with more VS Code information related to Accessibility.</source><target>Натисніть Control+H, щоб відкрити вікно браузера з інформацією про VS Code, що стосується зі спеціальними можливостями.</target>
+    </trans-unit>
+    <trans-unit id="outroMsg">
+      <source xml:lang="en">You can dismiss this tooltip and return to the editor by pressing Escape or Shift+Escape.</source><target>Ви можете закрити цю підказку і повернутися в редактор, натиснувши клавішу Escape або Shift+Escape.</target>
+    </trans-unit>
+    <trans-unit id="ShowAccessibilityHelpAction">
+      <source xml:lang="en">Show Accessibility Help</source><target>Довідка про спеціальні можливості</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/inspectKeybindings" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="workbench.action.inspectKeyMap">
+      <source xml:lang="en">Developer: Inspect Key Mappings</source><target>Розробник: Перевірити схему Клавіш</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/codeEditor/electron-browser/languageConfiguration/languageConfigurationExtensionPoint" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="parseErrors">
+      <source xml:lang="en">Errors parsing {0}: {1}</source><target>Помилки парсингу {0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="schema.openBracket">
+      <source xml:lang="en">The opening bracket character or string sequence.</source><target>Символ відкритої дужки або рядкова послідовність.</target>
+    </trans-unit>
+    <trans-unit id="schema.closeBracket">
+      <source xml:lang="en">The closing bracket character or string sequence.</source><target>Символ закритої дужки або рядкова послідовність.</target>
+    </trans-unit>
+    <trans-unit id="schema.comments">
+      <source xml:lang="en">Defines the comment symbols</source><target>Визначає символи коментарів</target>
+    </trans-unit>
+    <trans-unit id="schema.blockComments">
+      <source xml:lang="en">Defines how block comments are marked.</source><target>Визначає, як позначати блок коментарів.</target>
+    </trans-unit>
+    <trans-unit id="schema.blockComment.begin">
+      <source xml:lang="en">The character sequence that starts a block comment.</source><target>Послідовність символів, яка запускає блоковий коментар.</target>
+    </trans-unit>
+    <trans-unit id="schema.blockComment.end">
+      <source xml:lang="en">The character sequence that ends a block comment.</source><target>Послідовність символів, яка завершує блоковий коментар.</target>
+    </trans-unit>
+    <trans-unit id="schema.lineComment">
+      <source xml:lang="en">The character sequence that starts a line comment.</source><target>Послідовність символів, що починає рядок коментарю.</target>
+    </trans-unit>
+    <trans-unit id="schema.brackets">
+      <source xml:lang="en">Defines the bracket symbols that increase or decrease the indentation.</source><target>Визначає символи дужок, які збільшують або зменшують відступи.</target>
+    </trans-unit>
+    <trans-unit id="schema.autoClosingPairs">
+      <source xml:lang="en">Defines the bracket pairs. When a opening bracket is entered, the closing bracket is inserted automatically.</source><target>Визначає пари дужок. Коли вводиться відкриваюча дужка, то закриваюча дужка вставляється автоматично. </target>
+    </trans-unit>
+    <trans-unit id="schema.autoClosingPairs.notIn">
+      <source xml:lang="en">Defines a list of scopes where the auto pairs are disabled.</source><target>Визначає список областей, де авто пари вимикаються.</target>
+    </trans-unit>
+    <trans-unit id="schema.surroundingPairs">
+      <source xml:lang="en">Defines the bracket pairs that can be used to surround a selected string.</source><target>Визначає пари дужок, які можуть бути використані, щоб оточити вибраний рядок.</target>
+    </trans-unit>
+    <trans-unit id="schema.wordPattern">
+      <source xml:lang="en">The word definition for the language.</source><target>Визначення слова для мови.</target>
+    </trans-unit>
+    <trans-unit id="schema.wordPattern.pattern">
+      <source xml:lang="en">The RegExp pattern used to match words.</source><target>Шаблон регулярного виразу використовуються для зіставлення слів.</target>
+    </trans-unit>
+    <trans-unit id="schema.wordPattern.flags">
+      <source xml:lang="en">The RegExp flags used to match words.</source><target>Прапори RegExp використовуються для зіставлення слів.</target>
+    </trans-unit>
+    <trans-unit id="schema.wordPattern.flags.errorMessage">
+      <source xml:lang="en">Must match the pattern `/^([gimuy]+)$/`.</source><target>Має відповідати шаблону `/^([gimuy]+)$/`.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules">
+      <source xml:lang="en">The language's indentation settings.</source><target>Параметри відступу мови.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.increaseIndentPattern">
+      <source xml:lang="en">If a line matches this pattern, then all the lines after it should be indented once (until another rule matches).</source><target>Якщо рядок відповідає цьому шаблону, то всі рядки після нього слід відступити один раз (поки не буде інше правило).</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.increaseIndentPattern.pattern">
+      <source xml:lang="en">The RegExp pattern for increaseIndentPattern.</source><target>Шаблон регулярного виразу для increaseIndentPattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.increaseIndentPattern.flags">
+      <source xml:lang="en">The RegExp flags for increaseIndentPattern.</source><target>Прапори регулярного виразу для increaseIndentPattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.increaseIndentPattern.errorMessage">
+      <source xml:lang="en">Must match the pattern `/^([gimuy]+)$/`.</source><target>Має відповідати шаблону `/^([gimuy]+)$/`.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.decreaseIndentPattern">
+      <source xml:lang="en">If a line matches this pattern, then all the lines after it should be unindendented once (until another rule matches).</source><target>Якщо рядок відповідає цьому шаблону, то всі рядки після нього слід  позбавити відступа один раз (поки не буде інше правило).</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.decreaseIndentPattern.pattern">
+      <source xml:lang="en">The RegExp pattern for decreaseIndentPattern.</source><target>Шаблон регулярного виразу для decreaseIndentPattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.decreaseIndentPattern.flags">
+      <source xml:lang="en">The RegExp flags for decreaseIndentPattern.</source><target>Прапори регулярного виразу для decreaseIndentPattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.decreaseIndentPattern.errorMessage">
+      <source xml:lang="en">Must match the pattern `/^([gimuy]+)$/`.</source><target>Має відповідати шаблону `/^([gimuy]+)$/`.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.indentNextLinePattern">
+      <source xml:lang="en">If a line matches this pattern, then **only the next line** after it should be indented once.</source><target>Якщо рядок відповідає цьому шаблону, тоді ** тільки наступний рядок ** після нього слід відступити один раз.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.indentNextLinePattern.pattern">
+      <source xml:lang="en">The RegExp pattern for indentNextLinePattern.</source><target>Шаблон регулярного виразу для indentNextLinePattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.indentNextLinePattern.flags">
+      <source xml:lang="en">The RegExp flags for indentNextLinePattern.</source><target>Прапори регулярного виразу для indentNextLinePattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.indentNextLinePattern.errorMessage">
+      <source xml:lang="en">Must match the pattern `/^([gimuy]+)$/`.</source><target>Має відповідати шаблону `/^([gimuy]+)$/`.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.unIndentedLinePattern">
+      <source xml:lang="en">If a line matches this pattern, then its indentation should not be changed and it should not be evaluated against the other rules.</source><target>Якщо рядок відповідає цьому шаблону, то його відступ не слід змінювати, і його не слід порівнювати з іншими правилами.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.unIndentedLinePattern.pattern">
+      <source xml:lang="en">The RegExp pattern for unIndentedLinePattern.</source><target>Шаблон регулярного виразу для unIndentedLinePattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.unIndentedLinePattern.flags">
+      <source xml:lang="en">The RegExp flags for unIndentedLinePattern.</source><target>Прапори регулярного виразу для unIndentedLinePattern.</target>
+    </trans-unit>
+    <trans-unit id="schema.indentationRules.unIndentedLinePattern.errorMessage">
+      <source xml:lang="en">Must match the pattern `/^([gimuy]+)$/`.</source><target>Має відповідати шаблону `/^([gimuy]+)$/`.</target>
+    </trans-unit>
+    <trans-unit id="schema.folding">
+      <source xml:lang="en">The language's folding settings.</source><target>Параметри складання мови.</target>
+    </trans-unit>
+    <trans-unit id="schema.folding.offSide">
+      <source xml:lang="en">A language adheres to the off-side rule if blocks in that language are expressed by their indentation. If set, empty lines belong to the subsequent block.</source><target>Мова дотримується правил поза межами, якщо блоки в цій мові виражаються їх відступів. Якщо встановлено, порожні рядки належать до наступного блоку.</target>
+    </trans-unit>
+    <trans-unit id="schema.folding.markers">
+      <source xml:lang="en">Language specific folding markers such as '#region' and '#endregion'. The start and end regexes will be tested against the contents of all lines and must be designed efficiently</source><target>Маркери, що складаються з мовою такі, як '#region' та '#endregion'. Початок і кінець regexes будуть перевірені проти вміст всіх ліній і повинні бути спроектовані ефективно</target>
+    </trans-unit>
+    <trans-unit id="schema.folding.markers.start">
+      <source xml:lang="en">The RegExp pattern for the start marker. The regexp must start with '^'.</source><target>Шаблон регулярного виразу для початку маркером. Регулярний вираз повинен починатися з '^'.</target>
+    </trans-unit>
+    <trans-unit id="schema.folding.markers.end">
+      <source xml:lang="en">The RegExp pattern for the end marker. The regexp must start with '^'.</source><target>Шаблон регулярного виразу для кінцевого маркера. Регулярний вираз повинен починатися з '^'.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="extensions/typescript/package" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="typescript.reloadProjects.title">
+      <source xml:lang="en">Reload Project</source><target>Перезавантажити Проект</target>
+    </trans-unit>
+    <trans-unit id="javascript.reloadProjects.title">
+      <source xml:lang="en">Reload Project</source><target>Перезавантажити Проект</target>
+    </trans-unit>
+    <trans-unit id="configuration.typescript">
+      <source xml:lang="en">TypeScript</source><target>TypeScript</target>
+    </trans-unit>
+    <trans-unit id="typescript.useCodeSnippetsOnMethodSuggest.dec">
+      <source xml:lang="en">Complete functions with their parameter signature.</source><target>Повний набір функцій з їх підписом параметра.</target>
+    </trans-unit>
+    <trans-unit id="typescript.tsdk.desc">
+      <source xml:lang="en">Specifies the folder path containing the tsserver and lib*.d.ts files to use.</source><target>Вказує шлях до папки, яка містить tsserver і lib*.d.ts файли для використання.</target>
+    </trans-unit>
+    <trans-unit id="typescript.disableAutomaticTypeAcquisition">
+      <source xml:lang="en">Disables automatic type acquisition. Requires TypeScript &gt;= 2.0.6.</source><target>Відключає автоматичний захоплення Типe. Вимагає TypeScript &gt;= 2.0.6.</target>
+    </trans-unit>
+    <trans-unit id="typescript.tsserver.log">
+      <source xml:lang="en">Enables logging of the TS server to a file. This log can be used to diagnose TS Server issues. The log may contain file paths, source code, and other potentially sensitive information from your project.</source><target>Дає можливість ведення журналу сервера TS до файлу. Цей журнал можуть використовуватися для діагностики сервер TS питання. Журнал може містити шляхи до файлів, вихідний код і іншу потенційно конфіденційну інформацію з вашого проекту.</target>
+    </trans-unit>
+    <trans-unit id="typescript.tsserver.trace">
+      <source xml:lang="en">Enables tracing of messages sent to the TS server. This trace can be used to diagnose TS Server issues. The trace may contain file paths, source code, and other potentially sensitive information from your project.</source><target>Дає можливість відстеження повідомлень, надісланих на сервер TS. Це трасування можна використовувати для діагностики проблем із сервером TS. Трасування може містити шляхи до файлів, вихідний код і іншу потенційно конфіденційну інформацію з вашого проекту.</target>
+    </trans-unit>
+    <trans-unit id="typescript.validate.enable">
+      <source xml:lang="en">Enable/disable TypeScript validation.</source><target>On/off TypeScript перевірку.</target>
+    </trans-unit>
+    <trans-unit id="typescript.format.enable">
+      <source xml:lang="en">Enable/disable default TypeScript formatter.</source><target>On/off TypeScript форматування за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="javascript.format.enable">
+      <source xml:lang="en">Enable/disable default JavaScript formatter.</source><target>On/off JavaScript форматування за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterCommaDelimiter">
+      <source xml:lang="en">Defines space handling after a comma delimiter.</source><target>Визначає вільний простір після коми.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterConstructor">
+      <source xml:lang="en">Defines space handling after the constructor keyword. Requires TypeScript &gt;= 2.3.0.</source><target>Визначає обробку пробіл після ключового слова конструктор. Вимагає TypeScript &gt;= 2.3.0.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterSemicolonInForStatements">
+      <source xml:lang="en"> Defines space handling after a semicolon in a for statement.</source><target> Визначає обробку пробілів після крапка з комою в визначенні.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceBeforeAndAfterBinaryOperators">
+      <source xml:lang="en">Defines space handling after a binary operator.</source><target>Визначає обробку пробілів після бінарного оператора.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterKeywordsInControlFlowStatements">
+      <source xml:lang="en">Defines space handling after keywords in a control flow statement.</source><target>Визначає обробку пробілів після запитів у інструкції управління потоком.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterFunctionKeywordForAnonymousFunctions">
+      <source xml:lang="en">Defines space handling after function keyword for anonymous functions.</source><target>Визначає обробку пробілів після ключового слова function для анонімних функцій.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceBeforeFunctionParenthesis">
+      <source xml:lang="en">Defines space handling before function argument parentheses. Requires TypeScript &gt;= 2.1.5.</source><target>Визначає обробку пробілів перед аргументом функції в дужках. Вимагає TypeScript &gt;= 2.1.5.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis">
+      <source xml:lang="en">Defines space handling after opening and before closing non empty parenthesis.</source><target>Визначає вільний простір після відкриття і перед закриттям не порожніх дужок(parenthesis).</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets">
+      <source xml:lang="en">Defines space handling after opening and before closing non empty brackets.</source><target>Визначає вільний простір після відкриття і перед закриттям не порожніх дужок(brackets).</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces">
+      <source xml:lang="en">Defines space handling after opening and before closing non empty braces. Requires TypeScript &gt;= 2.3.0.</source><target>Визначає вільний простір після відкриття і перед закриттям не порожніх фігурних дужок. Вимагає TypeScript &gt;= 2.3.0.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces">
+      <source xml:lang="en">Defines space handling after opening and before closing template string braces. Requires TypeScript &gt;= 2.0.6.</source><target>Визначає вільний простір після відкриття та перед закриттям дужок стрічки шаблону. Вимагає TypeScript &gt;= 2.0.6.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces">
+      <source xml:lang="en">Defines space handling after opening and before closing JSX expression braces. Requires TypeScript &gt;= 2.0.6.</source><target>Визначає вільний простір після відкриття і перед закриттям дужок шаблону JSX. Вимагає TypeScript &gt;= 2.0.6.</target>
+    </trans-unit>
+    <trans-unit id="format.insertSpaceAfterTypeAssertion">
+      <source xml:lang="en">Defines space handling after type assertions in TypeScript. Requires TypeScript &gt;= 2.4.</source><target>Визначає вільний простір після затвердження типу в TypeScript. Вимагає TypeScript &gt;= 2.4.</target>
+    </trans-unit>
+    <trans-unit id="format.placeOpenBraceOnNewLineForFunctions">
+      <source xml:lang="en">Defines whether an open brace is put onto a new line for functions or not.</source><target>Визначає, чи відкрити дужку з нового рядку для функції чи ні.</target>
+    </trans-unit>
+    <trans-unit id="format.placeOpenBraceOnNewLineForControlBlocks">
+      <source xml:lang="en">Defines whether an open brace is put onto a new line for control blocks or not.</source><target>Визначає, чи відкрити дужку з нового рядку для блоків управління чи ні.</target>
+    </trans-unit>
+    <trans-unit id="javascript.validate.enable">
+      <source xml:lang="en">Enable/disable JavaScript validation.</source><target>On/off JavaScript перевірку.</target>
+    </trans-unit>
+    <trans-unit id="typescript.goToProjectConfig.title">
+      <source xml:lang="en">Go to Project Configuration</source><target>Перейдіть в Налаштування проекту</target>
+    </trans-unit>
+    <trans-unit id="javascript.goToProjectConfig.title">
+      <source xml:lang="en">Go to Project Configuration</source><target>Перейдіть в Налаштування проекту</target>
+    </trans-unit>
+    <trans-unit id="javascript.referencesCodeLens.enabled">
+      <source xml:lang="en">Enable/disable references CodeLens in JavaScript files.</source><target>Включити/відключити посилання codelens в JavaScript.</target>
+    </trans-unit>
+    <trans-unit id="typescript.referencesCodeLens.enabled">
+      <source xml:lang="en">Enable/disable references CodeLens in TypeScript files. Requires TypeScript &gt;= 2.0.6.</source><target>Включити/відключити посилання codelens в TypeScript файли. Вимагає TypeScript &gt;= 2.0.6.</target>
+    </trans-unit>
+    <trans-unit id="typescript.implementationsCodeLens.enabled">
+      <source xml:lang="en">Enable/disable implementations CodeLens. Requires TypeScript &gt;= 2.2.0.</source><target>Включити/відключити реалізації за допомогою codelens. Вимагає TypeScript &gt;= 2.2.0.</target>
+    </trans-unit>
+    <trans-unit id="typescript.openTsServerLog.title">
+      <source xml:lang="en">Open TS Server log</source><target>Відкритий сервер TS журналу</target>
+    </trans-unit>
+    <trans-unit id="typescript.restartTsServer">
+      <source xml:lang="en">Restart TS server</source><target>Перезапустіть сервер TS</target>
+    </trans-unit>
+    <trans-unit id="typescript.selectTypeScriptVersion.title">
+      <source xml:lang="en">Select TypeScript Version</source><target>Виберіть версію TypeScript</target>
+    </trans-unit>
+    <trans-unit id="typescript.reportStyleChecksAsWarnings">
+      <source xml:lang="en">Report style checks as warnings</source><target>Перевіряє стиль звіту в якості попередження</target>
+    </trans-unit>
+    <trans-unit id="jsDocCompletion.enabled">
+      <source xml:lang="en">Enable/disable auto JSDoc comments</source><target>Включити/відключити автоматичні JSDoc коментарі</target>
+    </trans-unit>
+    <trans-unit id="javascript.implicitProjectConfig.checkJs">
+      <source xml:lang="en">Enable/disable semantic checking of JavaScript files. Existing jsconfig.json or tsconfig.json files override this setting. Requires TypeScript &gt;=2.3.1.</source><target>Включити/виключити перевірку коректності JavaScript файлів. Існуючі jsconfig.json або tsconfig.json-файли перевизначають цей параметр. Вимагає TypeScript &gt;=2.3.1.</target>
+    </trans-unit>
+    <trans-unit id="typescript.npm">
+      <source xml:lang="en">Specifies the path to the NPM executable used for Automatic Type Acquisition. Requires TypeScript &gt;= 2.3.4.</source><target>Визначає шлях до виконуваного файлу NPM, який використовується для автоматичного отримання типу. Вимагає TypeScript &gt; = 2.3.4.</target>
+    </trans-unit>
+    <trans-unit id="typescript.check.npmIsInstalled">
+      <source xml:lang="en">Check if NPM is installed for Automatic Type Acquisition.</source><target>Перевірте, чи встановлено NPM для автоматичного отримання типу.</target>
+    </trans-unit>
+    <trans-unit id="javascript.nameSuggestions">
+      <source xml:lang="en">Enable/disable including unique names from the file in JavaScript suggestion lists.</source><target>Увімкнути або вимкнути, у тому числі унікальні назви з файлу в списки пропозицій JavaScript.</target>
+    </trans-unit>
+    <trans-unit id="typescript.tsc.autoDetect">
+      <source xml:lang="en">Controls auto detection of tsc tasks. 'off' disables this feature. 'build' only creates single run compile tasks. 'watch' only creates compile and watch tasks. 'on' creates both build and watch tasks. Default is 'on'.</source><target>Контролює автоматичне визначення tsc завдань. 'off' вимикає цю функцію. 'build' створює лише одноразові завдання компіляції. 'watch' лише компілює та спостерігає за завданнями. 'on' створює обидва завдання: побудови та спостереження. За замовчуванням 'on'.</target>
+    </trans-unit>
+    <trans-unit id="typescript.problemMatchers.tsc.label">
+      <source xml:lang="en">TypeScript problems</source><target>TypeScript проблеми</target>
+    </trans-unit>
+    <trans-unit id="typescript.problemMatchers.tscWatch.label">
+      <source xml:lang="en">TypeScript problems (watch mode)</source><target>TypeScript проблеми (режим спостереження)</target>
+    </trans-unit>
+    <trans-unit id="typescript.quickSuggestionsForPaths">
+      <source xml:lang="en">Enable/disable quick suggestions when typing out an import path.</source><target>Включення/виключення швидкої пропозиції при введенні в шлях імпорту.</target>
+    </trans-unit>
+    <trans-unit id="typescript.locale">
+      <source xml:lang="en">Sets the locale used to report TypeScript errors. Requires TypeScript &gt;= 2.6.0. Default of 'null' uses VS Code's locale for TypeScript errors.</source><target>Задає мову, використовуваний для доповіді TypeScript помилки. Вимагає TypeScript  &gt;= 2.6.0. За замовчуванням значення NULL використовує VS Code мову для TypeScript помилок.</target>
+    </trans-unit>
+    <trans-unit id="javascript.implicitProjectConfig.experimentalDecorators">
+      <source xml:lang="en">Enable/disable 'experimentalDecorators' for JavaScript files that are not part of a project. Existing jsconfig.json or tsconfig.json files override this setting. Requires TypeScript &gt;=2.3.1.</source><target>Включення/вимикання 'experimentalDecorators' для JavaScript-файлів, які не є частиною проекту. Існуючі jsconfig.json або tsconfig.json-файли перевизначають цей параметр. Вимагає TypeScript &gt;=2.3.1.</target>
+    </trans-unit>
+    <trans-unit id="typescript.autoImportSuggestions.enabled">
+      <source xml:lang="en">Enable/disable auto import suggestions. Requires TypeScript &gt;=2.6.1</source><target>Включити/виключити автоматичну пропозицію імпорту. Вимагає TypeScript &gt;=2.6.1</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/typescriptMain" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="typescript.projectConfigNoWorkspace">
+      <source xml:lang="en">Please open a folder in VS Code to use a TypeScript or JavaScript project</source><target>Будь ласка, відкрийте папку в VS Code, щоб використовувати TypeScript або JavaScript проект</target>
+    </trans-unit>
+    <trans-unit id="typescript.projectConfigUnsupportedFile">
+      <source xml:lang="en">Could not determine TypeScript or JavaScript project. Unsupported file type</source><target>Не вдалося визначити TypeScript або JavaScript проект. Файл непідтримуваного типу</target>
+    </trans-unit>
+    <trans-unit id="typescript.projectConfigCouldNotGetInfo">
+      <source xml:lang="en">Could not determine TypeScript or JavaScript project</source><target>Не вдалося визначити TypeScript або JavaScript проект</target>
+    </trans-unit>
+    <trans-unit id="typescript.noTypeScriptProjectConfig">
+      <source xml:lang="en">File is not part of a TypeScript project</source><target>Файл не є частиною проекту TypeScript</target>
+    </trans-unit>
+    <trans-unit id="typescript.noJavaScriptProjectConfig">
+      <source xml:lang="en">File is not part of a JavaScript project</source><target>Файл не є частиною проекту на JavaScript</target>
+    </trans-unit>
+    <trans-unit id="typescript.configureTsconfigQuickPick">
+      <source xml:lang="en">Configure tsconfig.json</source><target>Настроювання tsconfig.json</target>
+    </trans-unit>
+    <trans-unit id="typescript.configureJsconfigQuickPick">
+      <source xml:lang="en">Configure jsconfig.json</source><target>Настроювання jsconfig.json</target>
+    </trans-unit>
+    <trans-unit id="typescript.projectConfigLearnMore">
+      <source xml:lang="en">Learn More</source><target>Дізнатися Більше</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/typescriptServiceClient" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noServerFound">
+      <source xml:lang="en">The path {0} doesn't point to a valid tsserver install. Falling back to bundled TypeScript version.</source><target>Шлях {0} не вказує на допустимий tsserver установки. Повернутися до пакетної TypeScript версії.</target>
+    </trans-unit>
+    <trans-unit id="serverCouldNotBeStarted">
+      <source xml:lang="en">TypeScript language server couldn't be started. Error message is: {0}</source><target>Сервер TypeScript мови не може бути запущений. Повідомлення про помилку: {0}</target>
+    </trans-unit>
+    <trans-unit id="typescript.openTsServerLog.notSupported">
+      <source xml:lang="en">TS Server logging requires TS 2.2.2+</source><target>TS журналювання потрібне TS 2.2.2+</target>
+    </trans-unit>
+    <trans-unit id="typescript.openTsServerLog.loggingNotEnabled">
+      <source xml:lang="en">TS Server logging is off. Please set `typescript.tsserver.log` and restart the TS server to enable logging</source><target>Сервер TS журналювання не включено. Будь ласка, встановіть `typescript.tsserver.log` і перезавантажте сервер TS, щоб увімкнути журналювання</target>
+    </trans-unit>
+    <trans-unit id="typescript.openTsServerLog.enableAndReloadOption">
+      <source xml:lang="en">Enable logging and restart TS server</source><target>Увімкнути журналювання і перезапустити сервер TS</target>
+    </trans-unit>
+    <trans-unit id="typescript.openTsServerLog.noLogFile">
+      <source xml:lang="en">TS Server has not started logging.</source><target>Сервер TS не розпочав ведення журналу.</target>
+    </trans-unit>
+    <trans-unit id="openTsServerLog.openFileFailedFailed">
+      <source xml:lang="en">Could not open TS Server log file</source><target>Не вдалося відкрити файл журналу сервера TS</target>
+    </trans-unit>
+    <trans-unit id="serverDiedAfterStart">
+      <source xml:lang="en">The TypeScript language service died 5 times right after it got started. The service will not be restarted.</source><target>Сервіс TypeScript мови помер 5 разів відразу після його старту. Сервіс не буде перезапущений.</target>
+    </trans-unit>
+    <trans-unit id="serverDiedReportIssue">
+      <source xml:lang="en">Report Issue</source><target>Звіт</target>
+    </trans-unit>
+    <trans-unit id="serverDied">
+      <source xml:lang="en">The TypeScript language service died unexpectedly 5 times in the last 5 Minutes.</source><target>Сервіс TypeScript мови несподівано помер 5 разів за останні 5 хвилин.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/completionItemProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="selectCodeAction">
+      <source xml:lang="en">Select code action to apply</source><target>Виберіть дію коду, яку потрібно застосувати</target>
+    </trans-unit>
+    <trans-unit id="acquiringTypingsLabel">
+      <source xml:lang="en">Acquiring typings...</source><target>Придбання typings...</target>
+      <note>Typings refers to the *.d.ts typings files that power our IntelliSense. It should not be localized</note>
+    </trans-unit>
+    <trans-unit id="acquiringTypingsDetail">
+      <source xml:lang="en">Acquiring typings definitions for IntelliSense.</source><target>Придбання typings визначень для IntelliSense.</target>
+      <note>Typings refers to the *.d.ts typings files that power our IntelliSense. It should not be localized</note>
+    </trans-unit>
+    <trans-unit id="autoImportLabel">
+      <source xml:lang="en">Auto import from {0}</source><target>Автоматичний імпорт з {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/directiveCommentCompletionProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="ts-check">
+      <source xml:lang="en">Enables semantic checking in a JavaScript file. Must be at the top of a file.</source><target>Включає семантичні перевірки в файлі JavaScript. Повинні бути у верхній частині файлу.</target>
+    </trans-unit>
+    <trans-unit id="ts-nocheck">
+      <source xml:lang="en">Disables semantic checking in a JavaScript file. Must be at the top of a file.</source><target>Виключає семантичнуперевірку в файлі JavaScript. Повинні бути у верхній частині файлу.</target>
+    </trans-unit>
+    <trans-unit id="ts-ignore">
+      <source xml:lang="en">Suppresses @ts-check errors on the next line of a file.</source><target>Пригнічує @ts-check помилки в наступному рядку файлу.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/implementationsCodeLensProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="oneImplementationLabel">
+      <source xml:lang="en">1 implementation</source><target>1 реалізація</target>
+    </trans-unit>
+    <trans-unit id="manyImplementationLabel">
+      <source xml:lang="en">{0} implementations</source><target>{0} реалізацій</target>
+    </trans-unit>
+    <trans-unit id="implementationsErrorLabel">
+      <source xml:lang="en">Could not determine implementations</source><target>Не вдалося визначити реалізацій</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/jsDocCompletionProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="typescript.jsDocCompletionItem.documentation">
+      <source xml:lang="en">JSDoc comment</source><target>JSDoc коментарі</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/referencesCodeLensProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="oneReferenceLabel">
+      <source xml:lang="en">1 reference</source><target>1 посилання</target>
+    </trans-unit>
+    <trans-unit id="manyReferenceLabel">
+      <source xml:lang="en">{0} references</source><target>{0} посилань</target>
+    </trans-unit>
+    <trans-unit id="referenceErrorLabel">
+      <source xml:lang="en">Could not determine references</source><target>Не можу визначити посилання</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/features/taskProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="buildTscLabel">
+      <source xml:lang="en">build - {0}</source><target>будувати - {0}</target>
+    </trans-unit>
+    <trans-unit id="buildAndWatchTscLabel">
+      <source xml:lang="en">watch - {0}</source><target>дивитися - {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/api" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="invalidVersion">
+      <source xml:lang="en">invalid version</source><target>Невірна версія</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/logger" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="channelName">
+      <source xml:lang="en">TypeScript</source><target>TypeScript</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/projectStatus" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="hintExclude">
+      <source xml:lang="en">To enable project-wide JavaScript/TypeScript language features, exclude folders with many files, like: {0}</source><target>Для включення проекту в JavaScript/typescript мовні особливості, виключити папки з великою кількістю файлів, наприклад: {0}</target>
+    </trans-unit>
+    <trans-unit id="hintExclude.generic">
+      <source xml:lang="en">To enable project-wide JavaScript/TypeScript language features, exclude large folders with source files that you do not work on.</source><target>Для включення проекту в JavaScript/typescript мовні можливості, виключити великі папки з вихідними файлами, на яких ви не працюєте.</target>
+    </trans-unit>
+    <trans-unit id="large.label">
+      <source xml:lang="en">Configure Excludes</source><target>Настроювання виключень</target>
+    </trans-unit>
+    <trans-unit id="hintExclude.tooltip">
+      <source xml:lang="en">To enable project-wide JavaScript/TypeScript language features, exclude large folders with source files that you do not work on.</source><target>Для включення проекту в JavaScript/typescript мовні можливості, виключити великі папки з вихідними файлами, на яких ви не працюєте.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/typingsStatus" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="installingPackages">
+      <source xml:lang="en">Fetching data for better TypeScript IntelliSense</source><target>Дані вибірки для кращого TypeScript технології intellisense</target>
+    </trans-unit>
+    <trans-unit id="typesInstallerInitializationFailed.title">
+      <source xml:lang="en">Could not install typings files for JavaScript language features. Please ensure that NPM is installed or configure 'typescript.npm' in your user settings</source><target>Не вдалося інсталювати typings файли для функцій JavaScript мови. Будь ласка переконайтеся, що NPM встановлений або налаштувати 'typescript.npm' у ваших налаштуваннях</target>
+    </trans-unit>
+    <trans-unit id="typesInstallerInitializationFailed.moreInformation">
+      <source xml:lang="en">More Information</source><target>Додаткові відомості</target>
+    </trans-unit>
+    <trans-unit id="typesInstallerInitializationFailed.doNotCheckAgain">
+      <source xml:lang="en">Don't Check Again</source><target>Не раз перевіряти знову</target>
+    </trans-unit>
+    <trans-unit id="typesInstallerInitializationFailed.close">
+      <source xml:lang="en">Close</source><target>Закрити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/versionPicker" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="useVSCodeVersionOption">
+      <source xml:lang="en">Use VS Code's Version</source><target>Використовувати VS Code версію</target>
+    </trans-unit>
+    <trans-unit id="useWorkspaceVersionOption">
+      <source xml:lang="en">Use Workspace Version</source><target>Використання робочого простору версію</target>
+    </trans-unit>
+    <trans-unit id="learnMore">
+      <source xml:lang="en">Learn More</source><target>Дізнатися Більше</target>
+    </trans-unit>
+    <trans-unit id="selectTsVersion">
+      <source xml:lang="en">Select the TypeScript version used for JavaScript and TypeScript language features</source><target>Виберіть Тypescript версія використовувати для JavaScript і Тypescript особливостей</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/typescript/out/utils/versionProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="couldNotLoadTsVersion">
+      <source xml:lang="en">Could not load the TypeScript version at this path</source><target>Не вдалося завантажити Тypescript версію на цьому шляху</target>
+    </trans-unit>
+    <trans-unit id="noBundledServerFound">
+      <source xml:lang="en">VS Code's tsserver was deleted by another application such as a misbehaving virus detection tool. Please reinstall VS Code.</source><target>VS Code's Tsserver був видалений іншою програмою, такою як інструмент виявлення вірусів за поведінкою. Будь ласка, переустановіть VS Code.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

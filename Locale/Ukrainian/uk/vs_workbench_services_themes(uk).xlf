@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/electron-browser/workbenchThemeService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="error.cannotloadtheme">
+      <source xml:lang="en">Unable to load {0}: {1}</source><target>Не вдалося завантажити {0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="colorTheme">
+      <source xml:lang="en">Specifies the color theme used in the workbench.</source><target>Задає колір теми, що використовуються в робочій зоні.</target>
+    </trans-unit>
+    <trans-unit id="colorThemeError">
+      <source xml:lang="en">Theme is unknown or not installed.</source><target>Тема невідома або не встановлена.</target>
+    </trans-unit>
+    <trans-unit id="iconTheme">
+      <source xml:lang="en">Specifies the icon theme used in the workbench or 'null' to not show any file icons.</source><target>Вказує тему іконки, яка використовується в робочому столі, або "null", щоб не відображати будь-які піктограми файлів.</target>
+    </trans-unit>
+    <trans-unit id="noIconThemeDesc">
+      <source xml:lang="en">No file icons</source><target>Немає іконок файлів</target>
+    </trans-unit>
+    <trans-unit id="iconThemeError">
+      <source xml:lang="en">File icon theme is unknown or not installed.</source><target>Тема значків файлів невідома або не встановлена.</target>
+    </trans-unit>
+    <trans-unit id="workbenchColors">
+      <source xml:lang="en">Overrides colors from the currently selected color theme.</source><target>Перевизначає кольору з обраної колірної темою.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.comments">
+      <source xml:lang="en">Sets the colors and styles for comments</source><target>Набори кольорів і стилів для коментарів</target>
+    </trans-unit>
+    <trans-unit id="editorColors.strings">
+      <source xml:lang="en">Sets the colors and styles for strings literals.</source><target>Задає кольори і стилі для рядків символів.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.keywords">
+      <source xml:lang="en">Sets the colors and styles for keywords.</source><target>Набори кольорів і стилів за ключовими словами.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.numbers">
+      <source xml:lang="en">Sets the colors and styles for number literals.</source><target>Набори кольорів і стилів для числових символів.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.types">
+      <source xml:lang="en">Sets the colors and styles for type declarations and references.</source><target>Задає кольори і стилі для опису типу і посилання.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.functions">
+      <source xml:lang="en">Sets the colors and styles for functions declarations and references.</source><target>Набори кольорів і стилів для оголошення функцій і посилань.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.variables">
+      <source xml:lang="en">Sets the colors and styles for variables declarations and references.</source><target>Набори кольорів і стилів для оголошення змінних і посилань.</target>
+    </trans-unit>
+    <trans-unit id="editorColors.textMateRules">
+      <source xml:lang="en">Sets colors and styles using textmate theming rules (advanced).</source><target>Набори кольорів і стилів, використовуючи textmate тематизації правил (додатково).</target>
+    </trans-unit>
+    <trans-unit id="editorColors">
+      <source xml:lang="en">Overrides editor colors and font style from the currently selected color theme.</source><target>Змінення кольорів редактор і стиль шрифту з вибраного кольору теми.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/electron-browser/colorThemeData" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="error.cannotparsejson">
+      <source xml:lang="en">Problems parsing JSON theme file: {0}</source><target>Проблеми аналізу JSON файлу теми: {0}</target>
+    </trans-unit>
+    <trans-unit id="error.invalidformat.colors">
+      <source xml:lang="en">Problem parsing color theme file: {0}. Property 'colors' is not of type 'object'.</source><target>Проблема парсингу файлу теми кольорів: {0}. Властивість 'кольори' не є типом 'об'єкт'.</target>
+      <note>{0} will be replaced by a path. Values in quotes should not be translated.</note>
+    </trans-unit>
+    <trans-unit id="error.invalidformat.tokenColors">
+      <source xml:lang="en">Problem parsing color theme file: {0}. Property 'tokenColors' should be either an array specifying colors or a path to a TextMate theme file</source><target>Проблема парсингу файлу теми кольорів: {0}. Властивість 'tokenColors' повинна бути або масивом із зазначенням кольорів або шляхом до файлу теми TextMate</target>
+      <note>{0} will be replaced by a path. Values in quotes should not be translated.</note>
+    </trans-unit>
+    <trans-unit id="error.plist.invalidformat">
+      <source xml:lang="en">Problem parsing tmTheme file: {0}. 'settings' is not array.</source><target>Проблема парсинга tmTheme файлу: {0}. 'settings' - не масив.</target>
+    </trans-unit>
+    <trans-unit id="error.cannotparse">
+      <source xml:lang="en">Problems parsing tmTheme file: {0}</source><target>Проблеми при розборі файлу tmTheme: {0}</target>
+    </trans-unit>
+    <trans-unit id="error.cannotload">
+      <source xml:lang="en">Problems loading tmTheme file {0}: {1}</source><target>Проблеми з завантаженням файлів tmTheme {0}: {1}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/common/colorThemeSchema" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="schema.token.settings">
+      <source xml:lang="en">Colors and styles for the token.</source><target>Кольори та стилі для токенів.</target>
+    </trans-unit>
+    <trans-unit id="schema.token.foreground">
+      <source xml:lang="en">Foreground color for the token.</source><target>Колір переднього плану для токену.</target>
+    </trans-unit>
+    <trans-unit id="schema.token.background.warning">
+      <source xml:lang="en">Token background colors are currently not supported.</source><target>В даний час токен кольору фону не підтримуються.</target>
+    </trans-unit>
+    <trans-unit id="schema.token.fontStyle">
+      <source xml:lang="en">Font style of the rule: One or a combination of 'italic', 'bold' and 'underline'</source><target>Стиль шрифту правила: одне або поєднання 'курсив', 'жирний' і 'підкреслений'</target>
+    </trans-unit>
+    <trans-unit id="schema.fontStyle.error">
+      <source xml:lang="en">Font style must be a combination of 'italic', 'bold' and 'underline'</source><target>Стиль шрифту має бути поєднання 'курсив', 'жирний' і 'підкреслений'</target>
+    </trans-unit>
+    <trans-unit id="schema.properties.name">
+      <source xml:lang="en">Description of the rule.</source><target>Опис правила.</target>
+    </trans-unit>
+    <trans-unit id="schema.properties.scope">
+      <source xml:lang="en">Scope selector against which this rule matches.</source><target>Селектор області, щодо яких це правило відповідає.</target>
+    </trans-unit>
+    <trans-unit id="schema.tokenColors.path">
+      <source xml:lang="en">Path to a tmTheme file (relative to the current file).</source><target>Шлях до файлу tmTheme (щодо поточного файлу).</target>
+    </trans-unit>
+    <trans-unit id="schema.colors">
+      <source xml:lang="en">Colors for syntax highlighting</source><target>Кольори для підсвічування синтаксису</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/electron-browser/fileIconThemeData" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="error.cannotparseicontheme">
+      <source xml:lang="en">Problems parsing file icons file: {0}</source><target>Проблеми при розборі файлу іконки файл: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/common/fileIconThemeSchema" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="schema.folderExpanded">
+      <source xml:lang="en">The folder icon for expanded folders. The expanded folder icon is optional. If not set, the icon defined for folder will be shown.</source><target>Піктограма папки для розгорнутих папок. Розгорнутий  значок теки не є обов'язковим. Якщо не встановлено, буде показано значок, визначений для папки.</target>
+    </trans-unit>
+    <trans-unit id="schema.folder">
+      <source xml:lang="en">The folder icon for collapsed folders, and if folderExpanded is not set, also for expanded folders.</source><target>Значок папки для згорнутих папок, і якщо folderExpanded не встановлено, також для розгорнутої папки.</target>
+    </trans-unit>
+    <trans-unit id="schema.file">
+      <source xml:lang="en">The default file icon, shown for all files that don't match any extension, filename or language id.</source><target>Типовий значок файлу відображається для всіх файлів, які не відповідають будь-яким розширенням, ім'ям або ідентифікатором мови.</target>
+    </trans-unit>
+    <trans-unit id="schema.folderNames">
+      <source xml:lang="en">Associates folder names to icons. The object key is is the folder name, not including any path segments. No patterns or wildcards are allowed. Folder name matching is case insensitive.</source><target>Пов'язує імена папок до іконок. Ключовий об'єкт-ім'я папки, не включаючи будь-які відрізки шляху. Жодних шаблонів або масок. Ім'я папки зіставлення без урахування регістру.</target>
+    </trans-unit>
+    <trans-unit id="schema.folderName">
+      <source xml:lang="en">The ID of the icon definition for the association.</source><target>Ідентифікатор визначення значок асоціації.</target>
+    </trans-unit>
+    <trans-unit id="schema.folderNamesExpanded">
+      <source xml:lang="en">Associates folder names to icons for expanded folders. The object key is is the folder name, not including any path segments. No patterns or wildcards are allowed. Folder name matching is case insensitive.</source><target>Папка пов'язує імена іконок для розгорнутих папок. Ключовий об'єкт-ім'я папки, не включаючи будь-які відрізки шляху. Жодних шаблонів або масок. Ім'я папки зіставлення без урахування регістру.</target>
+    </trans-unit>
+    <trans-unit id="schema.folderNameExpanded">
+      <source xml:lang="en">The ID of the icon definition for the association.</source><target>Ідентифікатор визначення значок асоціації.</target>
+    </trans-unit>
+    <trans-unit id="schema.fileExtensions">
+      <source xml:lang="en">Associates file extensions to icons. The object key is is the file extension name. The extension name is the last segment of a file name after the last dot (not including the dot). Extensions are compared case insensitive.</source><target>Асоціює розширення файлів до іконок. Ключовий об'єкт-це розширення імені файлу. Назва розширення-це остання частина імені файлу після останньої крапки (не включаючи точку). Розширення порівнюються без урахування регістру.</target>
+    </trans-unit>
+    <trans-unit id="schema.fileExtension">
+      <source xml:lang="en">The ID of the icon definition for the association.</source><target>Ідентифікатор визначення значок асоціації.</target>
+    </trans-unit>
+    <trans-unit id="schema.fileNames">
+      <source xml:lang="en">Associates file names to icons. The object key is is the full file name, but not including any path segments. File name can include dots and a possible file extension. No patterns or wildcards are allowed. File name matching is case insensitive.</source><target>Пов'язує імена файлів до іконок. Ключовим об'єктом є повне ім'я файлу, але не включаючи будь-які відрізки шляху. Ім'я файлу може містити точки і можливе розширення. Жодних шаблонів або масок. Відповідність імені файлу без урахування регістру.</target>
+    </trans-unit>
+    <trans-unit id="schema.fileName">
+      <source xml:lang="en">The ID of the icon definition for the association.</source><target>Ідентифікатор визначення значок асоціації.</target>
+    </trans-unit>
+    <trans-unit id="schema.languageIds">
+      <source xml:lang="en">Associates languages to icons. The object key is the language id as defined in the language contribution point.</source><target>Асоціює мову з іконками. Ключовим об'єктом є ідентифікатор мови, як це визначено в точці вкладу мовою.</target>
+    </trans-unit>
+    <trans-unit id="schema.languageId">
+      <source xml:lang="en">The ID of the icon definition for the association.</source><target>Ідентифікатор визначення значок асоціації.</target>
+    </trans-unit>
+    <trans-unit id="schema.fonts">
+      <source xml:lang="en">Fonts that are used in the icon definitions.</source><target>Шрифти, які використовуються у визначеннях значку.</target>
+    </trans-unit>
+    <trans-unit id="schema.id">
+      <source xml:lang="en">The ID of the font.</source><target>Ідентифікатор шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.src">
+      <source xml:lang="en">The locations of the font.</source><target>Розташування шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.font-path">
+      <source xml:lang="en">The font path, relative to the current icon theme file.</source><target>Шлях шрифту щодо поточного файл значка.</target>
+    </trans-unit>
+    <trans-unit id="schema.font-format">
+      <source xml:lang="en">The format of the font.</source><target>Формат шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.font-weight">
+      <source xml:lang="en">The weight of the font.</source><target>Вага шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.font-sstyle">
+      <source xml:lang="en">The style of the font.</source><target>Стиль шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.font-size">
+      <source xml:lang="en">The default size of the font.</source><target>За замовчуванням розмір шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.iconDefinitions">
+      <source xml:lang="en">Description of all icons that can be used when associating files to icons.</source><target>Опис всіх значків які можна використовувати при зв'язуванні файлів в іконки.</target>
+    </trans-unit>
+    <trans-unit id="schema.iconDefinition">
+      <source xml:lang="en">An icon definition. The object key is the ID of the definition.</source><target>Визначення значка. Ключовий об'єкт-це ідентифікатор визначенням.</target>
+    </trans-unit>
+    <trans-unit id="schema.iconPath">
+      <source xml:lang="en">When using a SVG or PNG: The path to the image. The path is relative to the icon set file.</source><target>При використанні SVG або PNG: шлях до зображення. Шлях є відносним до ікони встановити файл.</target>
+    </trans-unit>
+    <trans-unit id="schema.fontCharacter">
+      <source xml:lang="en">When using a glyph font: The character in the font to use.</source><target>Під час використання гліфів шрифту: символів шрифту для використання.</target>
+    </trans-unit>
+    <trans-unit id="schema.fontColor">
+      <source xml:lang="en">When using a glyph font: The color to use.</source><target>Під час використання гліфів шрифту: колір буде використано.</target>
+    </trans-unit>
+    <trans-unit id="schema.fontSize">
+      <source xml:lang="en">When using a font: The font size in percentage to the text font. If not set, defaults to the size in the font definition.</source><target>При використанні шрифту: розмір шрифту у відсотках до текстового шрифту. Якщо не вказано, використовується за умовчанням розмір у визначенні шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.fontId">
+      <source xml:lang="en">When using a font: The id of the font. If not set, defaults to the first font definition.</source><target>При використанні шрифту: ідентифікатор шрифту. Якщо не задано, за замовчуванням використовується перше визначення шрифту.</target>
+    </trans-unit>
+    <trans-unit id="schema.light">
+      <source xml:lang="en">Optional associations for file icons in light color themes.</source><target>Необов'язкові асоціації для піктограм файлів у світлих тонах.</target>
+    </trans-unit>
+    <trans-unit id="schema.highContrast">
+      <source xml:lang="en">Optional associations for file icons in high contrast color themes.</source><target>Необов'язкові асоціації для піктограм файлів в контрастних колірних гамах.</target>
+    </trans-unit>
+    <trans-unit id="schema.hidesExplorerArrows">
+      <source xml:lang="en">Configures whether the file explorer's arrows should be hidden when this theme is active.</source><target>Налаштовує чи потрібно приховати Файловий провідник стрілки, коли ця тема є активною.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/electron-browser/colorThemeStore" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.themes">
+      <source xml:lang="en">Contributes textmate color themes.</source><target>Допомагає текстові кольорові теми.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.themes.id">
+      <source xml:lang="en">Id of the icon theme as used in the user settings.</source><target>Ідентифікатор теми значків, використовуваного в налаштуваннях користувача.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.themes.label">
+      <source xml:lang="en">Label of the color theme as shown in the UI.</source><target>Мітки теми колір, як показано в інтерфейсі.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.themes.uiTheme">
+      <source xml:lang="en">Base theme defining the colors around the editor: 'vs' is the light color theme, 'vs-dark' is the dark color theme. 'hc-black' is the dark high contrast theme.</source><target>Тема бази, що визначає колір навколо редактора: 'vs' - це тема світлого кольору, 'vs-dark' - темний колір теми. 'hc-black' - темна тема високої контрастності.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.themes.path">
+      <source xml:lang="en">Path of the tmTheme file. The path is relative to the extension folder and is typically './themes/themeFile.tmTheme'.</source><target>Шлях до файлу tmTheme. Шлях є відносним до папки розширення, і зазвичай './themes/themeFile.tmTheme'.</target>
+    </trans-unit>
+    <trans-unit id="reqarray">
+      <source xml:lang="en">Extension point `{0}` must be an array.</source><target>Точки розширення `{0}` повинен бути масивом.</target>
+    </trans-unit>
+    <trans-unit id="reqpath">
+      <source xml:lang="en">Expected string in `contributes.{0}.path`. Provided value: {1}</source><target>Очікуються рядки в `contributes.{0}.path`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.1">
+      <source xml:lang="en">Expected `contributes.{0}.path` ({1}) to be included inside extension's folder ({2}). This might make the extension non-portable.</source><target>Очікуваний `contributes.{0}.path` ({1}), щоб бути включеними в папці модуля ({2}). Це може усунути портативність додатку.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/themes/electron-browser/fileIconThemeStore" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.iconThemes">
+      <source xml:lang="en">Contributes file icon themes.</source><target>Сприяє файл теми іконок.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.iconThemes.id">
+      <source xml:lang="en">Id of the icon theme as used in the user settings.</source><target>Ідентифікатор теми значків, використовуваного в налаштуваннях користувача.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.iconThemes.label">
+      <source xml:lang="en">Label of the icon theme as shown in the UI.</source><target>Мітки теми значок, як показано в інтерфейсі.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.iconThemes.path">
+      <source xml:lang="en">Path of the icon theme definition file. The path is relative to the extension folder and is typically './icons/awesome-icon-theme.json'.</source><target>Шлях до файлу визначення тем іконок. Шлях є відносним до папки розширення, і зазвичай './icons/awesome-icon-theme.json'.</target>
+    </trans-unit>
+    <trans-unit id="reqarray">
+      <source xml:lang="en">Extension point `{0}` must be an array.</source><target>Точки розширення `{0}` повинен бути масивом.</target>
+    </trans-unit>
+    <trans-unit id="reqpath">
+      <source xml:lang="en">Expected string in `contributes.{0}.path`. Provided value: {1}</source><target>Очікуються рядки в `contributes.{0}.path`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="reqid">
+      <source xml:lang="en">Expected string in `contributes.{0}.id`. Provided value: {1}</source><target>Очікується, що рядки в `contributes.{0}.id`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.1">
+      <source xml:lang="en">Expected `contributes.{0}.path` ({1}) to be included inside extension's folder ({2}). This might make the extension non-portable.</source><target>Очікуваний `contributes.{0}.path` ({1}), щоб бути включеними в папці модуля ({2}). Це може усунути портативність додатку.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

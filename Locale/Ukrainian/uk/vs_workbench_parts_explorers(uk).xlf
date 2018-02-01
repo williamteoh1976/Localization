@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/explorers/browser/treeExplorer.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.view">
+      <source xml:lang="en">Contributes custom view</source><target>Надає індивідуальний вигляд</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.id">
+      <source xml:lang="en">Unique id used to identify view created through vscode.workspace.createTreeView</source><target>Унікальний ідентифікатор, використовуваний для ідентифікації вигляду, створеного через vscode.workspace.createTreeView</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.label">
+      <source xml:lang="en">Human readable string used to render the view</source><target>Зрозумілий вигляд рядка використовується для подання</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.icon">
+      <source xml:lang="en">Path to the view icon</source><target>Шлях до піктограми</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.views">
+      <source xml:lang="en">Contributes custom views</source><target>Надає індивідуальні вигляди</target>
+    </trans-unit>
+    <trans-unit id="showViewlet">
+      <source xml:lang="en">Show {0}</source><target>Показати {0}</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/explorers/browser/treeExplorerService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="treeExplorer.noMatchingProviderId">
+      <source xml:lang="en">No TreeExplorerNodeProvider with id {providerId} registered.</source><target>Немає TreeExplorerNodeProvider з ID {providerId} зареєстровано.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/explorers/browser/views/treeExplorerView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="treeExplorerViewlet.tree">
+      <source xml:lang="en">Tree Explorer Section</source><target>Розділ Провідника</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/explorers/browser/treeExplorerActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="refresh">
+      <source xml:lang="en">Refresh</source><target>Оновити</target>
+    </trans-unit>
+  </body></file>
+</xliff>

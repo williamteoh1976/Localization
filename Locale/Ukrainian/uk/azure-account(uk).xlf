@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="extensions/azure-account/out/azure-account" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="azure-account.copyAndOpen">
+      <source xml:lang="en">Copy &amp; Open</source><target>Скопіювати І Відкрити</target>
+    </trans-unit>
+    <trans-unit id="azure-account.close">
+      <source xml:lang="en">Close</source><target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="azure-account.login">
+      <source xml:lang="en">Login</source><target>Логін</target>
+    </trans-unit>
+    <trans-unit id="azure-account.loginFirst">
+      <source xml:lang="en">Not logged in, log in first.</source><target>Не ввійшли в систему, спершу увійдіть.</target>
+    </trans-unit>
+    <trans-unit id="azure-account.userCodeFailed">
+      <source xml:lang="en">Aquiring user code failed</source><target>Введення коду користувача не вдалося</target>
+    </trans-unit>
+    <trans-unit id="azure-account.tokenFailed">
+      <source xml:lang="en">Aquiring token with device code</source><target>Придбання маркер з кодом пристрою</target>
+    </trans-unit>
+    <trans-unit id="azure-account.tokenFromRefreshTokenFailed">
+      <source xml:lang="en">Aquiring token with refresh token</source><target>Придбання маркер із необмеженого оновлення</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="extensions/azure-account/out/extension" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="azure-account.loggingIn">
+      <source xml:lang="en">Azure: Logging in...</source><target>Azure: вхід в систему...</target>
+    </trans-unit>
+    <trans-unit id="azure-account.loggedIn">
+      <source xml:lang="en">Azure: {0}</source><target>Azure: {0}</target>
+    </trans-unit>
+  </body></file>
+</xliff>

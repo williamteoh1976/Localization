@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/workspace/node/workspaceEditingService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="errorInvalidTaskConfiguration">
+      <source xml:lang="en">Unable to write into workspace configuration file. Please open the file to correct errors/warnings in it and try again.</source>
+      <target>Неможливо записати у файл конфігурації робочої області. Будь-ласка виправіть помилки/застереження в ньому та спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="errorWorkspaceConfigurationFileDirty">
+      <source xml:lang="en">Unable to write into workspace configuration file because the file is dirty. Please save it and try again.</source>
+      <target>Неможливо записати у файл конфігурації робочої області тому що його змінено. Будь-ласка збережіть файл і спробуйте знову.</target>
+    </trans-unit>
+    <trans-unit id="openWorkspaceConfigurationFile">
+      <source xml:lang="en">Open Workspace Configuration File</source>
+      <target>Відкрити файл конфігурації робочої області</target>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+  </body></file>
+</xliff>
