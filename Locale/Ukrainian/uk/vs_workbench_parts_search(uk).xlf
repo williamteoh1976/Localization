@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/electron-browser/search.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="showTriggerActions">
+      <source xml:lang="en">Go to Symbol in Workspace...</source><target>Перейти на символ в робочій області...</target>
+    </trans-unit>
+    <trans-unit id="name">
+      <source xml:lang="en">Search</source><target>Пошук</target>
+    </trans-unit>
+    <trans-unit id="search">
+      <source xml:lang="en">Search</source><target>Пошук</target>
+    </trans-unit>
+    <trans-unit id="showSearchViewlet">
+      <source xml:lang="en">Show Search</source><target>Показати Пошук</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="findInFiles">
+      <source xml:lang="en">Find in Files</source><target>Знайти в файлах</target>
+    </trans-unit>
+    <trans-unit id="openAnythingHandlerDescription">
+      <source xml:lang="en">Go to File</source><target>Перейти до файлу</target>
+    </trans-unit>
+    <trans-unit id="openSymbolDescriptionNormal">
+      <source xml:lang="en">Go to Symbol in Workspace</source><target>Перейти на символ в робочій області</target>
+    </trans-unit>
+    <trans-unit id="searchOutputChannelTitle">
+      <source xml:lang="en">Search</source><target>Пошук</target>
+    </trans-unit>
+    <trans-unit id="searchConfigurationTitle">
+      <source xml:lang="en">Search</source><target>Пошук</target>
+    </trans-unit>
+    <trans-unit id="exclude">
+      <source xml:lang="en">Configure glob patterns for excluding files and folders in searches. Inherits all glob patterns from the files.exclude setting.</source><target>Налаштувати glob шаблони  для виключення файлів і папок з пошуку. Успадковує всі glob-шаблони з параметру files.exclude.</target>
+    </trans-unit>
+    <trans-unit id="exclude.boolean">
+      <source xml:lang="en">The glob pattern to match file paths against. Set to true or false to enable or disable the pattern.</source><target>Шаблон glob, щоб відповідати шляху до файлу. Встановити як true або false, щоб увімкнути або вимкнути шаблон.</target>
+    </trans-unit>
+    <trans-unit id="exclude.when">
+      <source xml:lang="en">Additional check on the siblings of a matching file. Use $(basename) as variable for the matching file name.</source><target>Додаткова перевірка на братів відповідного файлу. Використовувати $(basename) в якості змінної для зіставлення імен файлів.</target>
+    </trans-unit>
+    <trans-unit id="useRipgrep">
+      <source xml:lang="en">Controls whether to use ripgrep in text and file search</source><target>Контролює, чи буде використовуватись ripgrep в пошуку по тексті й файлів</target>
+    </trans-unit>
+    <trans-unit id="useIgnoreFiles">
+      <source xml:lang="en">Controls whether to use .gitignore and .ignore files when searching for files.</source><target>Контролює, чи використовувати .gitignore і .ignore файлів, при пошуку файлів.</target>
+    </trans-unit>
+    <trans-unit id="search.quickOpen.includeSymbols">
+      <source xml:lang="en">Configure to include results from a global symbol search in the file results for Quick Open.</source><target>Налаштуйте, щоб включити результати пошуку глобального символу у результати пошуку файлів для швидкого відкриття.</target>
+    </trans-unit>
+    <trans-unit id="search.followSymlinks">
+      <source xml:lang="en">Controls whether to follow symlinks while searching.</source><target>Контролює, чи стежити за посиланнями під час пошуку.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/searchViewlet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="moreSearch">
+      <source xml:lang="en">Toggle Search Details</source><target>On/off подробиці пошуку </target>
+    </trans-unit>
+    <trans-unit id="searchScope.includes">
+      <source xml:lang="en">files to include</source><target>файли для включення</target>
+    </trans-unit>
+    <trans-unit id="label.includes">
+      <source xml:lang="en">Search Include Patterns</source><target>Пошук включених шаблонів</target>
+    </trans-unit>
+    <trans-unit id="searchScope.excludes">
+      <source xml:lang="en">files to exclude</source><target>файли, що виключені</target>
+    </trans-unit>
+    <trans-unit id="label.excludes">
+      <source xml:lang="en">Search Exclude Patterns</source><target>Виключити шаблони пошуку</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.confirmation.title">
+      <source xml:lang="en">Replace All</source><target>Замінити всі</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.confirm.button">
+      <source xml:lang="en">&amp;&amp;Replace</source><target>&amp;&amp;Замінити</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrence.file.message">
+      <source xml:lang="en">Replaced {0} occurrence across {1} file with '{2}'.</source><target>Замінити {0} появи через {1} файл з '{2}'.</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrence.file.message">
+      <source xml:lang="en">Replaced {0} occurrence across {1} file'.</source><target>Замінено {0} появи через файл {1}'.</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrence.files.message">
+      <source xml:lang="en">Replaced {0} occurrence across {1} files with '{2}'.</source><target>Замінено {0} появи через {1} файли з '{2}'.</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrence.files.message">
+      <source xml:lang="en">Replaced {0} occurrence across {1} files.</source><target>Замінено {0} появи через {1} файли.</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrences.file.message">
+      <source xml:lang="en">Replaced {0} occurrences across {1} file with '{2}'.</source><target>Замінено {0} появи через {1} файл з '{2}'.</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrences.file.message">
+      <source xml:lang="en">Replaced {0} occurrences across {1} file'.</source><target>Замінено {0} появи через файл {1}'.</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrences.files.message">
+      <source xml:lang="en">Replaced {0} occurrences across {1} files with '{2}'.</source><target>Замінено {0} появи через {1} файли з '{2}'.</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrences.files.message">
+      <source xml:lang="en">Replaced {0} occurrences across {1} files.</source><target>Замінено {0} появи через {1} файли.</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrence.file.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrence across {1} file with '{2}'?</source><target>Замінити {0} появу через {1} файл з '{2}'?</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrence.file.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrence across {1} file'?</source><target>Замінити {0} появу через {1} файл?</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrence.files.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrence across {1} files with '{2}'?</source><target>Замінити {0} появу через {1} файли з '{2}'?</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrence.files.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrence across {1} files?</source><target>Замінити {0} появу через {1} файли?</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrences.file.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrences across {1} file with '{2}'?</source><target>Замінити {0} появи через {1} файл з '{2}'?</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrences.file.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrences across {1} file'?</source><target>Замінити {0} появи через {1} файл?</target>
+    </trans-unit>
+    <trans-unit id="removeAll.occurrences.files.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrences across {1} files with '{2}'?</source><target>Замінено {0} появи через {1} файли з '{2}'?</target>
+    </trans-unit>
+    <trans-unit id="replaceAll.occurrences.files.confirmation.message">
+      <source xml:lang="en">Replace {0} occurrences across {1} files?</source><target>Замінити {0} появи через {1} файли?</target>
+    </trans-unit>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">Search Results</source><target>Результати пошуку</target>
+    </trans-unit>
+    <trans-unit id="searchPathNotFoundError">
+      <source xml:lang="en">Search path not found: {0}</source><target>Шлях пошуку не знайдено: {0}</target>
+    </trans-unit>
+    <trans-unit id="searchMaxResultsWarning">
+      <source xml:lang="en">The result set only contains a subset of all matches. Please be more specific in your search to narrow down the results.</source><target>Набір результатів містить лише підмножину всіх відповідностей. Будь ласка, будьте більш конкретними в ваших пошуках, щоб звузити результати.</target>
+    </trans-unit>
+    <trans-unit id="searchCanceled">
+      <source xml:lang="en">Search was canceled before any results could be found - </source><target>Пошук було скасовано перш ніж знайдено якісь результати - </target>
+    </trans-unit>
+    <trans-unit id="noResultsIncludesExcludes">
+      <source xml:lang="en">No results found in '{0}' excluding '{1}' - </source><target>Нічого не знайдено в "{0}" виключення "{1}" - </target>
+    </trans-unit>
+    <trans-unit id="noResultsIncludes">
+      <source xml:lang="en">No results found in '{0}' - </source><target>Не знайдено результатів щодо '{0}' - </target>
+    </trans-unit>
+    <trans-unit id="noResultsExcludes">
+      <source xml:lang="en">No results found excluding '{0}' - </source><target>Не знайдено результатів, крім '{0}' - </target>
+    </trans-unit>
+    <trans-unit id="noResultsFound">
+      <source xml:lang="en">No results found. Review your settings for configured exclusions and ignore files - </source><target>Результатів не знайдено. Перегляньте свої налаштування для налаштованих виключень та ігнорованих файлів - </target>
+    </trans-unit>
+    <trans-unit id="rerunSearch.message">
+      <source xml:lang="en">Search again</source><target>Пошук знову</target>
+    </trans-unit>
+    <trans-unit id="rerunSearchInAll.message">
+      <source xml:lang="en">Search again in all files</source><target>Повторити пошук в усіх файлах</target>
+    </trans-unit>
+    <trans-unit id="openSettings.message">
+      <source xml:lang="en">Open Settings</source><target>Відкрити Налаштування</target>
+    </trans-unit>
+    <trans-unit id="openSettings.learnMore">
+      <source xml:lang="en">Learn More</source><target>Дізнатися Більше</target>
+    </trans-unit>
+    <trans-unit id="ariaSearchResultsStatus">
+      <source xml:lang="en">Search returned {0} results in {1} files</source><target>Пошук повернуто {0} результатів в {1} файлах</target>
+    </trans-unit>
+    <trans-unit id="search.file.result">
+      <source xml:lang="en">{0} result in {1} file</source><target>{0} результат у {1} файлі</target>
+    </trans-unit>
+    <trans-unit id="search.files.result">
+      <source xml:lang="en">{0} result in {1} files</source><target>{0} результат у {1} файлах</target>
+    </trans-unit>
+    <trans-unit id="search.file.results">
+      <source xml:lang="en">{0} results in {1} file</source><target>{0} результатів в {1} файлі</target>
+    </trans-unit>
+    <trans-unit id="search.files.results">
+      <source xml:lang="en">{0} results in {1} files</source><target>{0} результатів в {1} файлах</target>
+    </trans-unit>
+    <trans-unit id="searchWithoutFolder">
+      <source xml:lang="en">You have not yet opened a folder. Only open files are currently searched - </source><target>Ви ще не відкрила папку. В даний час пошук здійснюється тільки відкриті файли - </target>
+    </trans-unit>
+    <trans-unit id="openFolder">
+      <source xml:lang="en">Open Folder</source><target>Відкрийте Папку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/openAnythingHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileAndTypeResults">
+      <source xml:lang="en">file and symbol results</source><target>файл і символ результати</target>
+    </trans-unit>
+    <trans-unit id="fileResults">
+      <source xml:lang="en">file results</source><target>результати файлу</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/searchActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="nextSearchIncludePattern">
+      <source xml:lang="en">Show Next Search Include Pattern</source><target>Показати наступний пошук шаблону включення</target>
+    </trans-unit>
+    <trans-unit id="previousSearchIncludePattern">
+      <source xml:lang="en">Show Previous Search Include Pattern</source><target>Показати попередній пошук шаблону включення</target>
+    </trans-unit>
+    <trans-unit id="nextSearchExcludePattern">
+      <source xml:lang="en">Show Next Search Exclude Pattern</source><target>Показати наступний пошук шаблону виключення</target>
+    </trans-unit>
+    <trans-unit id="previousSearchExcludePattern">
+      <source xml:lang="en">Show Previous Search Exclude Pattern</source><target>Показати попередній пошук шаблону виключення</target>
+    </trans-unit>
+    <trans-unit id="nextSearchTerm">
+      <source xml:lang="en">Show Next Search Term</source><target>Показати наступний знайдений фрагмент</target>
+    </trans-unit>
+    <trans-unit id="previousSearchTerm">
+      <source xml:lang="en">Show Previous Search Term</source><target>Показати попередній знайдений фрагмент</target>
+    </trans-unit>
+    <trans-unit id="showSearchViewlet">
+      <source xml:lang="en">Show Search</source><target>Показати Пошук</target>
+    </trans-unit>
+    <trans-unit id="findInFiles">
+      <source xml:lang="en">Find in Files</source><target>Знайти в файлах</target>
+    </trans-unit>
+    <trans-unit id="replaceInFiles">
+      <source xml:lang="en">Replace in Files</source><target>Заміна у файлах</target>
+    </trans-unit>
+    <trans-unit id="RefreshAction.label">
+      <source xml:lang="en">Refresh</source><target>Оновити</target>
+    </trans-unit>
+    <trans-unit id="CollapseDeepestExpandedLevelAction.label">
+      <source xml:lang="en">Collapse All</source><target>Згорнути Всі</target>
+    </trans-unit>
+    <trans-unit id="ClearSearchResultsAction.label">
+      <source xml:lang="en">Clear</source><target>Очистити</target>
+    </trans-unit>
+    <trans-unit id="FocusNextSearchResult.label">
+      <source xml:lang="en">Focus Next Search Result</source><target>Фокус на наступний результат пошуку</target>
+    </trans-unit>
+    <trans-unit id="FocusPreviousSearchResult.label">
+      <source xml:lang="en">Focus Previous Search Result</source><target>Фокус на попередній результат пошуку</target>
+    </trans-unit>
+    <trans-unit id="RemoveAction.label">
+      <source xml:lang="en">Dismiss</source><target>Відхилити</target>
+    </trans-unit>
+    <trans-unit id="file.replaceAll.label">
+      <source xml:lang="en">Replace All</source><target>Замінити всі</target>
+    </trans-unit>
+    <trans-unit id="match.replace.label">
+      <source xml:lang="en">Replace</source><target>Замінити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/searchWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="search.action.replaceAll.disabled.label">
+      <source xml:lang="en">Replace All (Submit Search to Enable)</source><target>Замінити всі (прийняти пошук, щоб включити)</target>
+    </trans-unit>
+    <trans-unit id="search.action.replaceAll.enabled.label">
+      <source xml:lang="en">Replace All</source><target>Замінити всі</target>
+    </trans-unit>
+    <trans-unit id="search.replace.toggle.button.title">
+      <source xml:lang="en">Toggle Replace</source><target>On/off Заміна</target>
+    </trans-unit>
+    <trans-unit id="label.Search">
+      <source xml:lang="en">Search: Type Search Term and press Enter to search or Escape to cancel</source><target>Пошук: введіть пошуковий запит і натисніть Enter для пошуку або Escape, щоб скасувати</target>
+    </trans-unit>
+    <trans-unit id="search.placeHolder">
+      <source xml:lang="en">Search</source><target>Пошук</target>
+    </trans-unit>
+    <trans-unit id="label.Replace">
+      <source xml:lang="en">Replace: Type replace term and press Enter to preview or Escape to cancel</source><target>Замінити: введіть фрагмент заміни і натисніть клавішу Enter для перегляду або ESC, щоб скасувати</target>
+    </trans-unit>
+    <trans-unit id="search.replace.placeHolder">
+      <source xml:lang="en">Replace</source><target>Замінити</target>
+    </trans-unit>
+    <trans-unit id="regexp.validationFailure">
+      <source xml:lang="en">Expression matches everything</source><target>Вираз відповідає всім</target>
+    </trans-unit>
+    <trans-unit id="regexp.backreferenceValidationFailure">
+      <source xml:lang="en">Backreferences are not supported</source><target>Зворотні посилання не підтримуються</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/openSymbolHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, symbols picker</source><target>{0}, палітра символів</target>
+    </trans-unit>
+    <trans-unit id="symbols">
+      <source xml:lang="en">symbol results</source><target>результати пошуку символа</target>
+    </trans-unit>
+    <trans-unit id="noSymbolsMatching">
+      <source xml:lang="en">No symbols matching</source><target>Немає відповідних символів</target>
+    </trans-unit>
+    <trans-unit id="noSymbolsWithoutInput">
+      <source xml:lang="en">Type to search for symbols</source><target>Введіть текст для пошуку символів</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/electron-browser/searchActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="findInFolder">
+      <source xml:lang="en">Find in Folder...</source><target>Знайти в папці...</target>
+    </trans-unit>
+    <trans-unit id="findInWorkspace">
+      <source xml:lang="en">Find in Workspace...</source><target>Знайти в робочій області...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/common/queryBuilder" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="search.noWorkspaceWithName">
+      <source xml:lang="en">No folder in workspace with name: {0}</source><target>Немає у робочій області папки з ім'ям: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/searchResultsView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="searchFolderMatch.other.label">
+      <source xml:lang="en">Other files</source><target>Інші файли</target>
+    </trans-unit>
+    <trans-unit id="searchFileMatches">
+      <source xml:lang="en">{0} files found</source><target>{0} знайдених файлів</target>
+    </trans-unit>
+    <trans-unit id="searchFileMatch">
+      <source xml:lang="en">{0} file found</source><target>файл {0} знайдено</target>
+    </trans-unit>
+    <trans-unit id="searchMatches">
+      <source xml:lang="en">{0} matches found</source><target>знайдених збігів {0}</target>
+    </trans-unit>
+    <trans-unit id="searchMatch">
+      <source xml:lang="en">{0} match found</source><target>збіг {0} знайдено</target>
+    </trans-unit>
+    <trans-unit id="folderMatchAriaLabel">
+      <source xml:lang="en">{0} matches in folder root {1}, Search result</source><target>{0} відповідає в кореневій папці {1}, результат пошуку</target>
+    </trans-unit>
+    <trans-unit id="fileMatchAriaLabel">
+      <source xml:lang="en">{0} matches in file {1} of folder {2}, Search result</source><target>{0} збіг в файлі {1} папки {2}, результат пошуку</target>
+    </trans-unit>
+    <trans-unit id="replacePreviewResultAria">
+      <source xml:lang="en">Replace term {0} with {1} at column position {2} in line with text {3}</source><target>Замінити фрагмент {0} з {1} в стовпці позиції {2} відповідно до тексту {3}</target>
+    </trans-unit>
+    <trans-unit id="searchResultAria">
+      <source xml:lang="en">Found term {0} at column position {1} in line with text {2}</source><target>Знайдено термін {0} в колонці позиції {1} відповідно до тексту (2)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/patternInputWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defaultLabel">
+      <source xml:lang="en">input</source><target>введіть</target>
+    </trans-unit>
+    <trans-unit id="useExcludesAndIgnoreFilesDescription">
+      <source xml:lang="en">Use Exclude Settings and Ignore Files</source><target>Використовуйте параметри виключення та ігноруйте файли</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/openFileHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, file picker</source><target>{0}, вибору файла</target>
+    </trans-unit>
+    <trans-unit id="searchResults">
+      <source xml:lang="en">search results</source><target>результати пошуку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/search/browser/replaceService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileReplaceChanges">
+      <source xml:lang="en">{0} ↔ {1} (Replace Preview)</source><target>{0} {1} ↔ (замінити попередній перегляд)</target>
+    </trans-unit>
+  </body></file>
+</xliff>

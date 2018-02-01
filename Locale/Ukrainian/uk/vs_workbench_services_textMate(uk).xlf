@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/textMate/electron-browser/TMSyntax" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="invalid.language">
+      <source xml:lang="en">Unknown language in `contributes.{0}.language`. Provided value: {1}</source><target>Невідома мова в `contributes.{0}.language`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.scopeName">
+      <source xml:lang="en">Expected string in `contributes.{0}.scopeName`. Provided value: {1}</source><target>Очікується, що рядки в `contributes.{0}.scopeName`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.0">
+      <source xml:lang="en">Expected string in `contributes.{0}.path`. Provided value: {1}</source><target>Очікуються рядки в `contributes.{0}.path`. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.injectTo">
+      <source xml:lang="en">Invalid value in `contributes.{0}.injectTo`. Must be an array of language scope names. Provided value: {1}</source><target>Неприпустиме значення в `contributes.{0}.injectTo`. Повинен бути масив імен областей мови. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.embeddedLanguages">
+      <source xml:lang="en">Invalid value in `contributes.{0}.embeddedLanguages`. Must be an object map from scope name to language. Provided value: {1}</source><target>Неприпустиме значення в `contributes.{0}.embeddedLanguages`. Повинен бути об'єкт карти від імені мови. Пропоновані значення: {1}</target>
+    </trans-unit>
+    <trans-unit id="invalid.path.1">
+      <source xml:lang="en">Expected `contributes.{0}.path` ({1}) to be included inside extension's folder ({2}). This might make the extension non-portable.</source><target>Очікуваний `contributes.{0}.path` ({1}), щоб бути включеними в папці модуля ({2}). Це може усунути портативність додатку.</target>
+    </trans-unit>
+    <trans-unit id="no-tm-grammar">
+      <source xml:lang="en">No TM Grammar registered for this language.</source><target>Немає ТМ граматики зареєстровано для цієї мови.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/textMate/electron-browser/TMGrammars" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.grammars">
+      <source xml:lang="en">Contributes textmate tokenizers.</source><target>Сприяє textmate tokenizers.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.grammars.language">
+      <source xml:lang="en">Language identifier for which this syntax is contributed to.</source><target>Ідентифікатор мови, для якого цей синтаксис сприяли.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.grammars.scopeName">
+      <source xml:lang="en">Textmate scope name used by the tmLanguage file.</source><target>Textmate ім'я області, що використовується файлом tmLanguage.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.grammars.path">
+      <source xml:lang="en">Path of the tmLanguage file. The path is relative to the extension folder and typically starts with './syntaxes/'.</source><target>Шлях до файлу tmLanguage. Шлях є відносним до папки розширень і, як правило, починається з './syntaxes/'.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.grammars.embeddedLanguages">
+      <source xml:lang="en">A map of scope name to language id if this grammar contains embedded languages.</source><target>Карта назви областей дії мови, якщо ця граматика містить вбудовані мови.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.grammars.injectTo">
+      <source xml:lang="en">List of language scope names to which this grammar is injected to.</source><target>Карта назви областей дії мови, якщо ця граматика містить вбудовані мови.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

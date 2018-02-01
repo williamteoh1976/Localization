@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/files/electron-browser/remoteFileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileBinaryError">
+      <source xml:lang="en">File seems to be binary and cannot be opened as text</source><target>Файл, здається, бінарний і не може бути відкритий як текстовий</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/files/electron-browser/fileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="netVersionError">
+      <source xml:lang="en">The Microsoft .NET Framework 4.5 is required. Please follow the link to install it.</source><target>Microsoft .NET Framework 4.5 є обов'язковим. Будь ласка, слідуйте за посиланням, щоб встановити його.</target>
+    </trans-unit>
+    <trans-unit id="installNet">
+      <source xml:lang="en">Download .NET Framework 4.5</source><target>Завантажити .NET Framework 4.5</target>
+    </trans-unit>
+    <trans-unit id="neverShowAgain">
+      <source xml:lang="en">Don't Show Again</source><target>Більше не показувати</target>
+    </trans-unit>
+    <trans-unit id="trashFailed">
+      <source xml:lang="en">Failed to move '{0}' to the trash</source><target>Не вдалося перемістити "{0}" в кошик</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/files/node/fileService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileInvalidPath">
+      <source xml:lang="en">Invalid file resource ({0})</source><target>Неправильний файл ресурсу ({0})</target>
+    </trans-unit>
+    <trans-unit id="fileIsDirectoryError">
+      <source xml:lang="en">File is directory</source><target>Файл - це каталог</target>
+    </trans-unit>
+    <trans-unit id="fileNotModifiedError">
+      <source xml:lang="en">File not modified since</source><target>Файл не змінено з моменту</target>
+    </trans-unit>
+    <trans-unit id="fileTooLargeError">
+      <source xml:lang="en">File too large to open</source><target>Занадто великий файл для відкриття</target>
+    </trans-unit>
+    <trans-unit id="fileNotFoundError">
+      <source xml:lang="en">File not found ({0})</source><target>Файл не знайдено ({0})</target>
+    </trans-unit>
+    <trans-unit id="fileBinaryError">
+      <source xml:lang="en">File seems to be binary and cannot be opened as text</source><target>Файл, здається, бінарний і не може бути відкритий як текстовий</target>
+    </trans-unit>
+    <trans-unit id="filePermission">
+      <source xml:lang="en">Permission denied writing to file ({0})</source><target>Доступ заборонений при записі у файл ({0})</target>
+    </trans-unit>
+    <trans-unit id="fileExists">
+      <source xml:lang="en">File to create already exists ({0})</source><target>Файл вже існує ({0})</target>
+    </trans-unit>
+    <trans-unit id="fileMoveConflict">
+      <source xml:lang="en">Unable to move/copy. File already exists at destination.</source><target>Не вдається перемістити/скопіювати. Файл вже існує в місці призначення.</target>
+    </trans-unit>
+    <trans-unit id="unableToMoveCopyError">
+      <source xml:lang="en">Unable to move/copy. File would replace folder it is contained in.</source><target>Не вдається перемістити/скопіювати. Файл замінить папку, де він знаходиться.</target>
+    </trans-unit>
+    <trans-unit id="foldersCopyError">
+      <source xml:lang="en">Folders cannot be copied into the workspace. Please select individual files to copy them.</source><target>Папки не можуть бути скопійовані в робочу область. Будь ласка, виберіть окремі файли, щоб скопіювати їх.</target>
+    </trans-unit>
+    <trans-unit id="fileModifiedError">
+      <source xml:lang="en">File Modified Since</source><target>Файл змінено з моменту</target>
+    </trans-unit>
+    <trans-unit id="fileReadOnlyError">
+      <source xml:lang="en">File is Read Only</source><target>Файл тільки для читання</target>
+    </trans-unit>
+  </body></file>
+</xliff>

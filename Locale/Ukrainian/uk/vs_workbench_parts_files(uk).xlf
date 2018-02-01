@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/explorerViewlet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="folders">
+      <source xml:lang="en">Folders</source><target>Папки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/fileActions.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="filesCategory">
+      <source xml:lang="en">File</source><target>Файл</target>
+    </trans-unit>
+    <trans-unit id="revealInSideBar">
+      <source xml:lang="en">Reveal in Side Bar</source><target>Розкрити в бічній панелі</target>
+    </trans-unit>
+    <trans-unit id="acceptLocalChanges">
+      <source xml:lang="en">Use your changes and overwrite disk contents</source><target>Використовуйте свої зміни і переписати вміст диска</target>
+    </trans-unit>
+    <trans-unit id="revertLocalChanges">
+      <source xml:lang="en">Discard your changes and revert to content on disk</source><target>Скасувати зміни і повернутися до вмісту диску</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/files.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="showExplorerViewlet">
+      <source xml:lang="en">Show Explorer</source><target>Показати Провідник</target>
+    </trans-unit>
+    <trans-unit id="explore">
+      <source xml:lang="en">Explorer</source><target>Провідник</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="textFileEditor">
+      <source xml:lang="en">Text File Editor</source><target>Редактор текстових файлів</target>
+    </trans-unit>
+    <trans-unit id="binaryFileEditor">
+      <source xml:lang="en">Binary File Editor</source><target>Бінарний редактор файлів</target>
+    </trans-unit>
+    <trans-unit id="filesConfigurationTitle">
+      <source xml:lang="en">Files</source><target>Файли</target>
+    </trans-unit>
+    <trans-unit id="exclude">
+      <source xml:lang="en">Configure glob patterns for excluding files and folders. For example, the files explorer decides which files and folders to show or hide based on this setting.</source><target>Налаштувати glob-шаблони для виключення файлів і папок. Наприклад, Провідник вирішує, які файли і папки показувати або приховувати в залежності від цього параметра.</target>
+    </trans-unit>
+    <trans-unit id="files.exclude.boolean">
+      <source xml:lang="en">The glob pattern to match file paths against. Set to true or false to enable or disable the pattern.</source><target>Шаблон glob, щоб відповідати шляху до файлу. Встановити як true або false, щоб увімкнути або вимкнути шаблон.</target>
+    </trans-unit>
+    <trans-unit id="files.exclude.when">
+      <source xml:lang="en">Additional check on the siblings of a matching file. Use $(basename) as variable for the matching file name.</source><target>Додаткова перевірка на братів відповідного файлу. Використовувати $(basename) в якості змінної для зіставлення імен файлів.</target>
+    </trans-unit>
+    <trans-unit id="associations">
+      <source xml:lang="en">Configure file associations to languages (e.g. "*.extension": "html"). These have precedence over the default associations of the languages installed.</source><target>Налаштувати асоціації файлів в мовах (наприклад "*.extension": "html"). Вони мають пріоритет над асоціаціями за замовчуванням встановлених мов.</target>
+    </trans-unit>
+    <trans-unit id="encoding">
+      <source xml:lang="en">The default character set encoding to use when reading and writing files. This setting can be configured per language too.</source><target>Кодування набору символів за замовчуванням для читання та запису файлів. Цей параметр також можна налаштувати на кожну мову.</target>
+    </trans-unit>
+    <trans-unit id="autoGuessEncoding">
+      <source xml:lang="en">When enabled, will attempt to guess the character set encoding when opening files. This setting can be configured per language too.</source><target>Коли цей параметр увімкнено, він спробує вгадати кодування набору символів при відкритті файлів. Цей параметр також можна налаштувати на кожну мову.</target>
+    </trans-unit>
+    <trans-unit id="eol">
+      <source xml:lang="en">The default end of line character. Use \n for LF and \r\n for CRLF.</source><target>За замовчуванням символ кінця рядка. Використовувати \n для LF і \r\n для CRLF.</target>
+    </trans-unit>
+    <trans-unit id="trimTrailingWhitespace">
+      <source xml:lang="en">When enabled, will trim trailing whitespace when saving a file.</source><target>Якщо цей параметр увімкнено, він буде видаляти пробіл після збереження файлу.</target>
+    </trans-unit>
+    <trans-unit id="insertFinalNewline">
+      <source xml:lang="en">When enabled, insert a final new line at the end of the file when saving it.</source><target>Коли цей параметр увімкнено, буде додано новий рядок в кінці файлу під час його збереження.</target>
+    </trans-unit>
+    <trans-unit id="trimFinalNewlines">
+      <source xml:lang="en">When enabled, will trim all new lines after the final new line at the end of the file when saving it.</source><target>Якщо цей параметр увімкнено, він буде видаляти пусті рядки в кінці файлу при збереженні.</target>
+    </trans-unit>
+    <trans-unit id="files.autoSave.off">
+      <source xml:lang="en">A dirty file is never automatically saved.</source><target>Файл із змінами не зберігається автоматично.</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="files.autoSave.afterDelay">
+      <source xml:lang="en">A dirty file is automatically saved after the configured 'files.autoSaveDelay'.</source><target>Файл із змінами зберігається автоматично після встановлення 'files.autoSaveDelay'.</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="files.autoSave.onFocusChange">
+      <source xml:lang="en">A dirty file is automatically saved when the editor loses focus.</source><target>Файл із змінами автоматично зберігається, коли редактор втрачає фокус.</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="files.autoSave.onWindowChange">
+      <source xml:lang="en">A dirty file is automatically saved when the window loses focus.</source><target>Файл із змінами автоматично зберігається, коли вікно втрачає фокус.</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="autoSave">
+      <source xml:lang="en">Controls auto save of dirty files. Accepted values:  '{0}', '{1}', '{2}' (editor loses focus), '{3}' (window loses focus). If set to '{4}', you can configure the delay in 'files.autoSaveDelay'.</source><target>Контролює автоматичне збереження файлів із змінами. Допустимі значення: '{0}', '{1}', '{2}' (редактор втрачає фокус), '{3}' (вікно втрачає фокус). Якщо встановлено '{4}', ви можете налаштувати затримку в 'files.autoSaveDelay'.</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="autoSaveDelay">
+      <source xml:lang="en">Controls the delay in ms after which a dirty file is saved automatically. Only applies when 'files.autoSave' is set to '{0}'</source><target>Контролює затримку в ms, після чого файл із змінами зберігається автоматично. Застосовується тільки тоді, коли для "files.autoSave" встановлено значення "{0}"</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="watcherExclude">
+      <source xml:lang="en">Configure glob patterns of file paths to exclude from file watching. Patterns must match on absolute paths (i.e. prefix with ** or the full path to match properly). Changing this setting requires a restart. When you experience Code consuming lots of cpu time on startup, you can exclude large folders to reduce the initial load.</source><target>Налаштувати glob-шаблони шляхів до файлів, щоб виключити з перегляду файл. Шаблони повинні збігатися на абсолютні шляхи (тобто префікс з ** або повний шлях для правильної відповідності). Зміна цього параметра вимагає перезавантаження. Коли ви відчуваєте що Редактор забирає багато процесорного часу при завантаженні, ви можете виключити великі папки, щоб зменшити початкове навантаження.</target>
+    </trans-unit>
+    <trans-unit id="hotExit.off">
+      <source xml:lang="en">Disable hot exit.</source><target>Вимкнути гарячий вихід.</target>
+    </trans-unit>
+    <trans-unit id="hotExit.onExit">
+      <source xml:lang="en">Hot exit will be triggered when the application is closed, that is when the last window is closed on Windows/Linux or when the workbench.action.quit command is triggered (command palette, keybinding, menu). All windows with backups will be restored upon next launch.</source><target>Гарячий вихід буде спрацьовувати при закритті програми, тобто при закритті останнього вікна в Windows/Linux або коли workbench.action.quit command спрацьовує (в командній панелі, комбінації клавіш, меню). Всі вікна з резервних копії буде відновлено при наступному запуску.</target>
+    </trans-unit>
+    <trans-unit id="hotExit.onExitAndWindowClose">
+      <source xml:lang="en">Hot exit will be triggered when the application is closed, that is when the last window is closed on Windows/Linux or when the workbench.action.quit command is triggered (command palette, keybinding, menu), and also for any window with a folder opened regardless of whether it's the last window. All windows without folders opened will be restored upon next launch. To restore folder windows as they were before shutdown set "window.restoreWindows" to "all".</source><target>Гарячий вихід буде спрацьовувати при закритті програми, тобто при закритті останнього вікна в Windows/Linux або коли workbench.action.quit спрацьовує (палітра команд, комбінація клавіш, меню), а також для будь-якого вікна з відкритої папки, незалежно від того, чи є це останнє вікно. Всі вікна без відкриття папки буде відновлено при наступному запуску. Щоб відновити папку в вікні, так як вона була до вимкнення встановіть "window.restoreWindows" на "all".</target>
+    </trans-unit>
+    <trans-unit id="hotExit">
+      <source xml:lang="en">Controls whether unsaved files are remembered between sessions, allowing the save prompt when exiting the editor to be skipped.</source><target>Контролює чи збережені файли запам'ятовуються між сесіями, що дозволяє пропустити запит про збереження, коли виходить редактор.</target>
+    </trans-unit>
+    <trans-unit id="useExperimentalFileWatcher">
+      <source xml:lang="en">Use the new experimental file watcher.</source><target>Використовувати новий експериментальний переглядач файлів.</target>
+    </trans-unit>
+    <trans-unit id="defaultLanguage">
+      <source xml:lang="en">The default language mode that is assigned to new files.</source><target>Режим мови за замовчуванням який призначено для нових файлів.</target>
+    </trans-unit>
+    <trans-unit id="editorConfigurationTitle">
+      <source xml:lang="en">Editor</source><target>Редактор</target>
+    </trans-unit>
+    <trans-unit id="formatOnSave">
+      <source xml:lang="en">Format a file on save. A formatter must be available, the file must not be auto-saved, and editor must not be shutting down.</source><target>Формат файлу при збереженні. Формат повинен бути доступним, файл не повинен автоматично зберігатися, а редактор не повинен бути закритий.</target>
+    </trans-unit>
+    <trans-unit id="explorerConfigurationTitle">
+      <source xml:lang="en">File Explorer</source><target>Провідник</target>
+    </trans-unit>
+    <trans-unit id="openEditorsVisible">
+      <source xml:lang="en">Number of editors shown in the Open Editors pane. Set it to 0 to hide the pane.</source><target>Кількість редакторів, показаних на панелі "Відкриті редактори". Установіть його на 0, щоб сховати панель.</target>
+      <note>Open is an adjective</note>
+    </trans-unit>
+    <trans-unit id="dynamicHeight">
+      <source xml:lang="en">Controls if the height of the open editors section should adapt dynamically to the number of elements or not.</source><target>Контролює, чи повинна висота секції відкритих редакторів динамічно адаптуватися до кількості елементів.</target>
+      <note>Open is an adjective</note>
+    </trans-unit>
+    <trans-unit id="autoReveal">
+      <source xml:lang="en">Controls if the explorer should automatically reveal and select files when opening them.</source><target>Контролює, чи повинен провідник автоматично виявляти та вибирати файли під час їх відкриття.</target>
+    </trans-unit>
+    <trans-unit id="enableDragAndDrop">
+      <source xml:lang="en">Controls if the explorer should allow to move files and folders via drag and drop.</source><target>Контролює, чи повинен провідник переміщати файли та папки за допомогою перетягування.</target>
+    </trans-unit>
+    <trans-unit id="confirmDragAndDrop">
+      <source xml:lang="en">Controls if the explorer should ask for confirmation to move files and folders via drag and drop.</source><target>Контролює, чи повинен провідник запитувати підтвердження для переміщення файлів і папок за допомогою перетягування.</target>
+    </trans-unit>
+    <trans-unit id="confirmDelete">
+      <source xml:lang="en">Controls if the explorer should ask for confirmation when deleting a file via the trash.</source><target>Контролює, чи слід провіднику запитувати підтвердження при видаленні файлу через кошик.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder.default">
+      <source xml:lang="en">Files and folders are sorted by their names, in alphabetical order. Folders are displayed before files.</source><target>Папки та файли сортуються за їх назвами в алфавітному порядку. Показувати папки перед файлами.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder.mixed">
+      <source xml:lang="en">Files and folders are sorted by their names, in alphabetical order. Files are interwoven with folders.</source><target>Папки та файли сортуються за їх назвами в алфавітному порядку. Файли переплітаються з папками.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder.filesFirst">
+      <source xml:lang="en">Files and folders are sorted by their names, in alphabetical order. Files are displayed before folders.</source><target>Папки та файли сортуються за їх назвами в алфавітному порядку. Файли показати перш ніж папки.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder.type">
+      <source xml:lang="en">Files and folders are sorted by their extensions, in alphabetical order. Folders are displayed before files.</source><target>Папки та файли сортуються за розширенням в алфавітному порядку. Показати папки перед файлами.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder.modified">
+      <source xml:lang="en">Files and folders are sorted by last modified date, in descending order. Folders are displayed before files.</source><target>Папки та файли сортуються за датою останньої зміни у порядку убування. Показати папки перед файлами.</target>
+    </trans-unit>
+    <trans-unit id="sortOrder">
+      <source xml:lang="en">Controls sorting order of files and folders in the explorer. In addition to the default sorting, you can set the order to 'mixed' (files and folders sorted combined), 'type' (by file type), 'modified' (by last modified date) or 'filesFirst' (sort files before folders).</source><target>Контролює порядок сортування файлів і папок в провіднику. Крім сортування за замовчуванням, ви можете встановити для "змішаних" (папки та файли сортуються в поєднанні), "Тип"(Тип файлу), "модифікована" (за датою останньої зміни) або 'filesFirst' (сортування файлів до папок).</target>
+      <note>This is the description for a setting. Values surrounded by single quotes are not to be translated.</note>
+    </trans-unit>
+    <trans-unit id="explorer.decorations.colors">
+      <source xml:lang="en">Controls if file decorations should use colors.</source><target>Контролює, чи повинні прикраси файлу використовувати кольори.</target>
+    </trans-unit>
+    <trans-unit id="explorer.decorations.badges">
+      <source xml:lang="en">Controls if file decorations should use badges.</source><target>Контролює, чи повинні прикраси файлу використовувати значки(badges).</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/views/emptyView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noWorkspace">
+      <source xml:lang="en">No Folder Opened</source><target>Немає відкритих папок</target>
+    </trans-unit>
+    <trans-unit id="explorerSection">
+      <source xml:lang="en">Files Explorer Section</source><target>Розділ Провідника</target>
+    </trans-unit>
+    <trans-unit id="noWorkspaceHelp">
+      <source xml:lang="en">You have not yet added a folder to the workspace.</source><target>Ви ще не додали папки в робочій області.</target>
+    </trans-unit>
+    <trans-unit id="addFolder">
+      <source xml:lang="en">Add Folder</source><target>Додати Папку</target>
+    </trans-unit>
+    <trans-unit id="noFolderHelp">
+      <source xml:lang="en">You have not yet opened a folder.</source><target>Ви ще не відкрили папку.</target>
+    </trans-unit>
+    <trans-unit id="openFolder">
+      <source xml:lang="en">Open Folder</source><target>Відкрийте Папку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/views/explorerViewer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileInputAriaLabel">
+      <source xml:lang="en">Type file name. Press Enter to confirm or Escape to cancel.</source><target>Введіть ім'я файлу. Натисніть клавішу Enter для підтвердження або ESC, щоб скасувати.</target>
+    </trans-unit>
+    <trans-unit id="filesExplorerViewerAriaLabel">
+      <source xml:lang="en">{0}, Files Explorer</source><target>{0}, Файли В Провіднику</target>
+    </trans-unit>
+    <trans-unit id="dropFolders">
+      <source xml:lang="en">Do you want to add the folders to the workspace?</source><target>Додати папки до робочої області?</target>
+    </trans-unit>
+    <trans-unit id="dropFolder">
+      <source xml:lang="en">Do you want to add the folder to the workspace?</source><target>Додати папку до робочої області?</target>
+    </trans-unit>
+    <trans-unit id="addFolders">
+      <source xml:lang="en">&amp;&amp;Add Folders</source><target>&amp;&amp;Додати Папки</target>
+    </trans-unit>
+    <trans-unit id="addFolder">
+      <source xml:lang="en">&amp;&amp;Add Folder</source><target>&amp;&amp;Додати Папку</target>
+    </trans-unit>
+    <trans-unit id="confirmMove">
+      <source xml:lang="en">Are you sure you want to move '{0}'?</source><target>Ви впевнені, що хочете перемістити '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="doNotAskAgain">
+      <source xml:lang="en">Do not ask me again</source><target>Не питай мене знову</target>
+    </trans-unit>
+    <trans-unit id="moveButtonLabel">
+      <source xml:lang="en">&amp;&amp;Move</source><target>&amp;&amp;Перемістити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="confirmOverwriteMessage">
+      <source xml:lang="en">'{0}' already exists in the destination folder. Do you want to replace it?</source><target>'{0} вже існує в папці призначення. Ви хочете замінити його?</target>
+    </trans-unit>
+    <trans-unit id="irreversible">
+      <source xml:lang="en">This action is irreversible!</source><target>Ця дія є незворотня!</target>
+    </trans-unit>
+    <trans-unit id="replaceButtonLabel">
+      <source xml:lang="en">&amp;&amp;Replace</source><target>&amp;&amp;Замінити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/views/explorerView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="explorerSection">
+      <source xml:lang="en">Files Explorer Section</source><target>Розділ Провідника</target>
+    </trans-unit>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">Files Explorer</source><target>Провідник</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/views/openEditorsView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openEditors">
+      <source xml:lang="en">Open Editors</source><target>Відкрити редактори</target>
+      <note>Open is an adjective</note>
+    </trans-unit>
+    <trans-unit id="openEditosrSection">
+      <source xml:lang="en">Open Editors Section</source><target>Відкриті редактори розділ</target>
+      <note>Open is an adjective</note>
+    </trans-unit>
+    <trans-unit id="dirtyCounter">
+      <source xml:lang="en">{0} unsaved</source><target>{0} незбережені</target>
+    </trans-unit>
+    <trans-unit id="saveAll">
+      <source xml:lang="en">Save All</source><target>Зберегти Всі</target>
+    </trans-unit>
+    <trans-unit id="closeAllUnmodified">
+      <source xml:lang="en">Close Unmodified</source><target>Закрити незміненій</target>
+    </trans-unit>
+    <trans-unit id="closeAll">
+      <source xml:lang="en">Close All</source><target>Закрити Всі</target>
+    </trans-unit>
+    <trans-unit id="compareWithSaved">
+      <source xml:lang="en">Compare with Saved</source><target>Порівнюємо зі збереженим</target>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="closeOthers">
+      <source xml:lang="en">Close Others</source><target>Закрийте інші</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/saveErrorHandler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="userGuide">
+      <source xml:lang="en">Use the actions in the editor tool bar to the right to either **undo** your changes or **overwrite** the content on disk with your changes</source><target>Використовуйте дії на панелі інструментів редактора праворуч, щоб ** відмінити ** ваші зміни або ** перезаписати ** вміст на диску з вашими змінами</target>
+    </trans-unit>
+    <trans-unit id="overwriteElevated">
+      <source xml:lang="en">Overwrite as Admin...</source><target>Перезапис як адмін...</target>
+    </trans-unit>
+    <trans-unit id="saveElevated">
+      <source xml:lang="en">Retry as Admin...</source><target>Повторити як Адмін...</target>
+    </trans-unit>
+    <trans-unit id="overwrite">
+      <source xml:lang="en">Overwrite</source><target>Перезаписати</target>
+    </trans-unit>
+    <trans-unit id="retry">
+      <source xml:lang="en">Retry</source><target>Повторити</target>
+    </trans-unit>
+    <trans-unit id="discard">
+      <source xml:lang="en">Discard</source><target>Відхилити</target>
+    </trans-unit>
+    <trans-unit id="readonlySaveErrorAdmin">
+      <source xml:lang="en">Failed to save '{0}': File is write protected. Select 'Overwrite as Admin' to retry as administrator.</source><target>Не вдалося зберегти '{0}': файл захищений від запису. Виберіть Перезаписати в якості адміністратора, щоб повторити від імені адміністратора.</target>
+    </trans-unit>
+    <trans-unit id="readonlySaveError">
+      <source xml:lang="en">Failed to save '{0}': File is write protected. Select 'Overwrite' to attempt to remove protection.</source><target>Не вдалося зберегти '{0}': файл захищений від запису. Виберіть 'Замінити', щоб спробувати зняти захист.</target>
+    </trans-unit>
+    <trans-unit id="permissionDeniedSaveError">
+      <source xml:lang="en">Failed to save '{0}': Insufficient permissions. Select 'Retry as Admin' to retry as administrator.</source><target>Не вдалося зберегти '{0}': недостатньо прав. Виберіть "повторити" в якості адміністратора, щоб повторити від імені адміністратора.</target>
+    </trans-unit>
+    <trans-unit id="genericSaveError">
+      <source xml:lang="en">Failed to save '{0}': {1}</source><target>Не вдалося зберегти '{0}': {1}</target>
+    </trans-unit>
+    <trans-unit id="staleSaveError">
+      <source xml:lang="en">Failed to save '{0}': The content on disk is newer. Click on **Compare** to compare your version with the one on disk.</source><target>Не вдалося зберегти '{0}': зміст на диску новіше. Натисніть на **порівнювати** порівняйте вашу версію з іншою на диску.</target>
+    </trans-unit>
+    <trans-unit id="compareChanges">
+      <source xml:lang="en">Compare</source><target>Порівняти</target>
+    </trans-unit>
+    <trans-unit id="saveConflictDiffLabel">
+      <source xml:lang="en">{0} (on disk) ↔ {1} (in {2}) - Resolve save conflict</source><target>{0} (На диску) ↔ {1} ({2}) - розв'язати конфлікт збереження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/common/editors/fileEditorInput" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="orphanedFile">
+      <source xml:lang="en">{0} (deleted from disk)</source><target>{0} (видалити з диска)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/fileActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="retry">
+      <source xml:lang="en">Retry</source><target>Повторити</target>
+    </trans-unit>
+    <trans-unit id="rename">
+      <source xml:lang="en">Rename</source><target>Перейменувати</target>
+    </trans-unit>
+    <trans-unit id="newFile">
+      <source xml:lang="en">New File</source><target>Новий Файл</target>
+    </trans-unit>
+    <trans-unit id="newFolder">
+      <source xml:lang="en">New Folder</source><target>Нова Папка</target>
+    </trans-unit>
+    <trans-unit id="openFolderFirst">
+      <source xml:lang="en">Open a folder first to create files or folders within.</source><target>Відкрийте папку для створення файлів або папок.</target>
+    </trans-unit>
+    <trans-unit id="newUntitledFile">
+      <source xml:lang="en">New Untitled File</source><target>Новий файл без назви</target>
+    </trans-unit>
+    <trans-unit id="createNewFile">
+      <source xml:lang="en">New File</source><target>Новий Файл</target>
+    </trans-unit>
+    <trans-unit id="createNewFolder">
+      <source xml:lang="en">New Folder</source><target>Нова Папка</target>
+    </trans-unit>
+    <trans-unit id="deleteButtonLabelRecycleBin">
+      <source xml:lang="en">&amp;&amp;Move to Recycle Bin</source><target>&amp;&amp;Перемістити в кошик</target>
+    </trans-unit>
+    <trans-unit id="deleteButtonLabelTrash">
+      <source xml:lang="en">&amp;&amp;Move to Trash</source><target>&amp;&amp; Пересунути до смітника</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="deleteButtonLabel">
+      <source xml:lang="en">&amp;&amp;Delete</source><target>&amp;&amp;Видалити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="dirtyMessageFolderOneDelete">
+      <source xml:lang="en">You are deleting a folder with unsaved changes in 1 file. Do you want to continue?</source><target>Ви видаляєте папку з незбереженими змінами в 1-файлі. Ви хочете продовжити?</target>
+    </trans-unit>
+    <trans-unit id="dirtyMessageFolderDelete">
+      <source xml:lang="en">You are deleting a folder with unsaved changes in {0} files. Do you want to continue?</source><target>Ви маєте намір видалити папку з незбереженими змінами в файлах {0}. Ви хочете продовжити?</target>
+    </trans-unit>
+    <trans-unit id="dirtyMessageFileDelete">
+      <source xml:lang="en">You are deleting a file with unsaved changes. Do you want to continue?</source><target>Видалення файлу з незбереженими змінами. Ви дійсно хочете продовжити?</target>
+    </trans-unit>
+    <trans-unit id="dirtyWarning">
+      <source xml:lang="en">Your changes will be lost if you don't save them.</source><target>Ваші зміни будуть втрачені, якщо Ви не збережете їх.</target>
+    </trans-unit>
+    <trans-unit id="confirmMoveTrashMessageFolder">
+      <source xml:lang="en">Are you sure you want to delete '{0}' and its contents?</source><target>Ви впевнені, що хочете видалити '{0}' і його зміст?</target>
+    </trans-unit>
+    <trans-unit id="confirmMoveTrashMessageFile">
+      <source xml:lang="en">Are you sure you want to delete '{0}'?</source><target>Ви впевнені, що хочете видалити '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="undoBin">
+      <source xml:lang="en">You can restore from the recycle bin.</source><target>Можна відновити з кошика.</target>
+    </trans-unit>
+    <trans-unit id="undoTrash">
+      <source xml:lang="en">You can restore from the trash.</source><target>Ви можете відновити його з кошика.</target>
+    </trans-unit>
+    <trans-unit id="doNotAskAgain">
+      <source xml:lang="en">Do not ask me again</source><target>Не питай мене знову</target>
+    </trans-unit>
+    <trans-unit id="confirmDeleteMessageFolder">
+      <source xml:lang="en">Are you sure you want to permanently delete '{0}' and its contents?</source><target>Ви впевнені, що хочете видалити '{0}' і його вміст?</target>
+    </trans-unit>
+    <trans-unit id="confirmDeleteMessageFile">
+      <source xml:lang="en">Are you sure you want to permanently delete '{0}'?</source><target>Ви впевнені, що хочете видалити '{0}'?</target>
+    </trans-unit>
+    <trans-unit id="irreversible">
+      <source xml:lang="en">This action is irreversible!</source><target>Ця дія є незворотня!</target>
+    </trans-unit>
+    <trans-unit id="permDelete">
+      <source xml:lang="en">Delete Permanently</source><target>Остаточно вилучити</target>
+    </trans-unit>
+    <trans-unit id="delete">
+      <source xml:lang="en">Delete</source><target>Видалити</target>
+    </trans-unit>
+    <trans-unit id="importFiles">
+      <source xml:lang="en">Import Files</source><target>Імпорт файлів</target>
+    </trans-unit>
+    <trans-unit id="confirmOverwrite">
+      <source xml:lang="en">A file or folder with the same name already exists in the destination folder. Do you want to replace it?</source><target>Файл або папка з таким ім'ям вже існує в папці призначення. Ви хочете замінити його?</target>
+    </trans-unit>
+    <trans-unit id="replaceButtonLabel">
+      <source xml:lang="en">&amp;&amp;Replace</source><target>&amp;&amp;Замінити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="copyFile">
+      <source xml:lang="en">Copy</source><target>Скопіювати</target>
+    </trans-unit>
+    <trans-unit id="pasteFile">
+      <source xml:lang="en">Paste</source><target>Вставити</target>
+    </trans-unit>
+    <trans-unit id="duplicateFile">
+      <source xml:lang="en">Duplicate</source><target>Дублювати</target>
+    </trans-unit>
+    <trans-unit id="openToSide">
+      <source xml:lang="en">Open to the Side</source><target>Відкрити збоку</target>
+    </trans-unit>
+    <trans-unit id="compareSource">
+      <source xml:lang="en">Select for Compare</source><target>Обрати для порівняння</target>
+    </trans-unit>
+    <trans-unit id="globalCompareFile">
+      <source xml:lang="en">Compare Active File With...</source><target>Порівняння активного файлу з...</target>
+    </trans-unit>
+    <trans-unit id="openFileToCompare">
+      <source xml:lang="en">Open a file first to compare it with another file.</source><target>Відкрити перший файл, щоб порівняти його з іншим файлом.</target>
+    </trans-unit>
+    <trans-unit id="compareWith">
+      <source xml:lang="en">Compare '{0}' with '{1}'</source><target>Порівняти "{0}" з "{1}"</target>
+    </trans-unit>
+    <trans-unit id="compareFiles">
+      <source xml:lang="en">Compare Files</source><target>Порівняти файли</target>
+    </trans-unit>
+    <trans-unit id="refresh">
+      <source xml:lang="en">Refresh</source><target>Оновити</target>
+    </trans-unit>
+    <trans-unit id="save">
+      <source xml:lang="en">Save</source><target>Зберегти</target>
+    </trans-unit>
+    <trans-unit id="saveAs">
+      <source xml:lang="en">Save As...</source><target>Зберегти Як...</target>
+    </trans-unit>
+    <trans-unit id="saveAll">
+      <source xml:lang="en">Save All</source><target>Зберегти Всі</target>
+    </trans-unit>
+    <trans-unit id="saveAllInGroup">
+      <source xml:lang="en">Save All in Group</source><target>Зберегти все в групі</target>
+    </trans-unit>
+    <trans-unit id="saveFiles">
+      <source xml:lang="en">Save All Files</source><target>Збережіть всі файли</target>
+    </trans-unit>
+    <trans-unit id="revert">
+      <source xml:lang="en">Revert File</source><target>Повернути файл</target>
+    </trans-unit>
+    <trans-unit id="genericRevertError">
+      <source xml:lang="en">Failed to revert '{0}': {1}</source><target>Не вдалося відновити '{0}': {1}</target>
+    </trans-unit>
+    <trans-unit id="focusOpenEditors">
+      <source xml:lang="en">Focus on Open Editors View</source><target>Фокус на відкритих редакторах</target>
+      <note>Open is an adjective</note>
+    </trans-unit>
+    <trans-unit id="focusFilesExplorer">
+      <source xml:lang="en">Focus on Files Explorer</source><target>Фокус на файли в провіднику</target>
+    </trans-unit>
+    <trans-unit id="showInExplorer">
+      <source xml:lang="en">Reveal Active File in Side Bar</source><target>Розкрити активний файл в бічній панелі</target>
+    </trans-unit>
+    <trans-unit id="openFileToShow">
+      <source xml:lang="en">Open a file first to show it in the explorer</source><target>Відкрити перший файл, щоб показати його в провіднику</target>
+    </trans-unit>
+    <trans-unit id="collapseExplorerFolders">
+      <source xml:lang="en">Collapse Folders in Explorer</source><target>Згорнути папки в провіднику</target>
+    </trans-unit>
+    <trans-unit id="refreshExplorer">
+      <source xml:lang="en">Refresh Explorer</source><target>Оновити Провідник</target>
+    </trans-unit>
+    <trans-unit id="openFileInNewWindow">
+      <source xml:lang="en">Open Active File in New Window</source><target>Відкриті поточного файлу в новому вікні</target>
+    </trans-unit>
+    <trans-unit id="openFileToShowInNewWindow">
+      <source xml:lang="en">Open a file first to open in new window</source><target>Відкрийте файл спочатку, щоб відкрити в новому вікні</target>
+    </trans-unit>
+    <trans-unit id="revealInWindows">
+      <source xml:lang="en">Reveal in Explorer</source><target>Розкрити в провіднику</target>
+    </trans-unit>
+    <trans-unit id="revealInMac">
+      <source xml:lang="en">Reveal in Finder</source><target>Показати в Пошуку</target>
+    </trans-unit>
+    <trans-unit id="openContainer">
+      <source xml:lang="en">Open Containing Folder</source><target>Відкрити відповідну теку</target>
+    </trans-unit>
+    <trans-unit id="revealActiveFileInWindows">
+      <source xml:lang="en">Reveal Active File in Windows Explorer</source><target>Розкрити активний файл у провіднику Windows</target>
+    </trans-unit>
+    <trans-unit id="revealActiveFileInMac">
+      <source xml:lang="en">Reveal Active File in Finder</source><target>Розкрити активний файл у Finder</target>
+    </trans-unit>
+    <trans-unit id="openActiveFileContainer">
+      <source xml:lang="en">Open Containing Folder of Active File</source><target>Відкрити папку з активним файлом</target>
+    </trans-unit>
+    <trans-unit id="copyPath">
+      <source xml:lang="en">Copy Path</source><target>Копіювати шлях</target>
+    </trans-unit>
+    <trans-unit id="copyPathOfActive">
+      <source xml:lang="en">Copy Path of Active File</source><target>Копіювати шлях поточного файлу</target>
+    </trans-unit>
+    <trans-unit id="emptyFileNameError">
+      <source xml:lang="en">A file or folder name must be provided.</source><target>Ім'я файлу або папки повинні бути забезпечені.</target>
+    </trans-unit>
+    <trans-unit id="fileNameExistsError">
+      <source xml:lang="en">A file or folder **{0}** already exists at this location. Please choose a different name.</source><target>Файлу або папки **{0}** вже існує в даному місці. Будь ласка виберіть інше ім'я.</target>
+    </trans-unit>
+    <trans-unit id="invalidFileNameError">
+      <source xml:lang="en">The name **{0}** is not valid as a file or folder name. Please choose a different name.</source><target>Ім'я **{0}** не є допустимим як Ім'я файлу або папки. Будь ласка виберіть інше ім'я.</target>
+    </trans-unit>
+    <trans-unit id="filePathTooLongError">
+      <source xml:lang="en">The name **{0}** results in a path that is too long. Please choose a shorter name.</source><target>Ім'я **{0}** призводить до занадто довгого шляху. Будь ласка, вибирайте ім'я коротше.</target>
+    </trans-unit>
+    <trans-unit id="compareWithSaved">
+      <source xml:lang="en">Compare Active File with Saved</source><target>Порівняйте активний файл зі збереженим</target>
+    </trans-unit>
+    <trans-unit id="modifiedLabel">
+      <source xml:lang="en">{0} (on disk) ↔ {1}</source><target>{0} (На диску) ↔ {1}</target>
+    </trans-unit>
+    <trans-unit id="compareWithClipboard">
+      <source xml:lang="en">Compare Active File with Clipboard</source><target>Порівняйте Активні файлу з буфером обміну</target>
+    </trans-unit>
+    <trans-unit id="clipboardComparisonLabel">
+      <source xml:lang="en">Clipboard ↔ {0}</source><target>Буфер обміну ↔ {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/browser/editors/textFileEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="textFileEditor">
+      <source xml:lang="en">Text File Editor</source><target>Редактор текстових файлів</target>
+    </trans-unit>
+    <trans-unit id="createFile">
+      <source xml:lang="en">Create File</source><target>Створити Файл</target>
+    </trans-unit>
+    <trans-unit id="fileEditorWithInputAriaLabel">
+      <source xml:lang="en">{0}. Text file editor.</source><target>{0}. Редактор текстових файлів.</target>
+    </trans-unit>
+    <trans-unit id="fileEditorAriaLabel">
+      <source xml:lang="en">Text file editor.</source><target>Редактор текстових файлів.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/fileCommands" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openFileToCopy">
+      <source xml:lang="en">Open a file first to copy its path</source><target>Відкрийте файл спочатку, щоб скопіювати його шлях</target>
+    </trans-unit>
+    <trans-unit id="openFileToReveal">
+      <source xml:lang="en">Open a file first to reveal</source><target>Відкрийте файл спочатку, щоб виявити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/browser/editors/binaryFileEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="binaryFileEditor">
+      <source xml:lang="en">Binary File Viewer</source><target>Двійковий Переглядач Файлів</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/common/dirtyFilesTracker" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="dirtyFile">
+      <source xml:lang="en">1 unsaved file</source><target>1 незбережений файл</target>
+    </trans-unit>
+    <trans-unit id="dirtyFiles">
+      <source xml:lang="en">{0} unsaved files</source><target>{0} незбережені файли</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/files/electron-browser/views/explorerDecorationsProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="label">
+      <source xml:lang="en">Explorer</source><target>Провідник</target>
+    </trans-unit>
+    <trans-unit id="canNotResolve">
+      <source xml:lang="en">Can not resolve workspace folder</source><target>Не можете вирішити папку робочої області</target>
+    </trans-unit>
+  </body></file>
+</xliff>

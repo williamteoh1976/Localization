@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/editor/browser/widget/diffEditorWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="diff.tooLarge">
+      <source xml:lang="en">Cannot compare files because one file is too large.</source>
+      <target>Не можна порівнювати файли, тому що один з файлів завеликий.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/view/editorColorRegistry" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="lineHighlight">
+      <source xml:lang="en">Background color for the highlight of line at the cursor position.</source>
+      <target>Фоновий колір для підсвічування рядка на позиції курсора.</target>
+    </trans-unit>
+    <trans-unit id="lineHighlightBorderBox">
+      <source xml:lang="en">Background color for the border around the line at the cursor position.</source>
+      <target>Фоновий колір обрамлення навколо рядка де знаходиться курсор.</target>
+    </trans-unit>
+    <trans-unit id="rangeHighlight">
+      <source xml:lang="en">Background color of highlighted ranges, like by quick open and find features.</source>
+      <target>Тло виділеного проміжку, як при швидкому відкритті та пошуку функцій.</target>
+    </trans-unit>
+    <trans-unit id="caret">
+      <source xml:lang="en">Color of the editor cursor.</source>
+      <target>Колір курсора редактора.</target>
+    </trans-unit>
+    <trans-unit id="editorCursorBackground">
+      <source xml:lang="en">The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.</source>
+      <target>Тло курсора редактора. Дозволяє обрати колір символів, що покриті блочним курсором.</target>
+    </trans-unit>
+    <trans-unit id="editorWhitespaces">
+      <source xml:lang="en">Color of whitespace characters in the editor.</source>
+      <target>Колір символів пробілу в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="editorIndentGuides">
+      <source xml:lang="en">Color of the editor indentation guides.</source>
+      <target>Колір відступних ліній редактора.</target>
+    </trans-unit>
+    <trans-unit id="editorLineNumbers">
+      <source xml:lang="en">Color of editor line numbers.</source>
+      <target>Колір нумерації рядків редактора.</target>
+    </trans-unit>
+    <trans-unit id="editorRuler">
+      <source xml:lang="en">Color of the editor rulers.</source>
+      <target>Колір лінійок редактора</target>
+    </trans-unit>
+    <trans-unit id="editorCodeLensForeground">
+      <source xml:lang="en">Foreground color of editor code lenses</source>
+      <target>Колір тексту в редакторі під кодолінзою</target>
+    </trans-unit>
+    <trans-unit id="editorBracketMatchBackground">
+      <source xml:lang="en">Background color behind matching brackets</source>
+      <target>Колір фону за парною дужкою</target>
+    </trans-unit>
+    <trans-unit id="editorBracketMatchBorder">
+      <source xml:lang="en">Color for matching brackets boxes</source>
+      <target>Колір для рамок парних дужкою</target>
+    </trans-unit>
+    <trans-unit id="editorOverviewRulerBorder">
+      <source xml:lang="en">Color of the overview ruler border.</source>
+      <target>Колір рамки олядової лінійки.</target>
+    </trans-unit>
+    <trans-unit id="editorGutter">
+      <source xml:lang="en">Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.</source>
+      <target>Колір фону поля. Поле містить значки і номери рядків</target>
+    </trans-unit>
+    <trans-unit id="errorForeground">
+      <source xml:lang="en">Foreground color of error squigglies in the editor.</source>
+      <target>Колір переднього плану хвильок для помилок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="errorBorder">
+      <source xml:lang="en">Border color of error squigglies in the editor.</source>
+      <target>Колір рамки хвильок для помилок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="warningForeground">
+      <source xml:lang="en">Foreground color of warning squigglies in the editor.</source>
+      <target>Колір переднього плау попереждувальних хвильок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="warningBorder">
+      <source xml:lang="en">Border color of warning squigglies in the editor.</source>
+      <target>Колір рамки попереджувальних хвильок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="infoForeground">
+      <source xml:lang="en">Foreground color of info squigglies in the editor.</source>
+      <target>Колір переднього фону інформаційних хвильок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="infoBorder">
+      <source xml:lang="en">Border color of info squigglies in the editor.</source>
+      <target>Колір рамки інформаційних хвильок в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerRangeHighlight">
+      <source xml:lang="en">Overview ruler marker color for range highlights.</source>
+      <target>Колір для виділених проміжків на лінійці огляду</target>
+    </trans-unit>
+    <trans-unit id="overviewRuleError">
+      <source xml:lang="en">Overview ruler marker color for errors.</source>
+      <target>Колір для помилок на лінійці огляду</target>
+    </trans-unit>
+    <trans-unit id="overviewRuleWarning">
+      <source xml:lang="en">Overview ruler marker color for warnings.</source>
+      <target>Колір для застережень на лінійці огляду</target>
+    </trans-unit>
+    <trans-unit id="overviewRuleInfo">
+      <source xml:lang="en">Overview ruler marker color for infos.</source>
+      <target>Колір для інформацій на лінійці огляду</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/modes/modesRegistry" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="plainText.alias">
+      <source xml:lang="en">Plain Text</source>
+      <target>Звичайний текст</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/config/editorOptions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="accessibilityOffAriaLabel">
+      <source xml:lang="en">The editor is not accessible at this time. Press Alt+F1 for options.</source>
+      <target>Редактор зараз не доступний. Натисни Alt+F1 для варіантів.</target>
+    </trans-unit>
+    <trans-unit id="editorViewAccessibleLabel">
+      <source xml:lang="en">Editor content</source>
+      <target>Вміст редактора</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/browser/widget/diffReview" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="label.close">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="header">
+      <source xml:lang="en">Difference {0} of {1}: original {2}, {3} lines, modified {4}, {5} lines</source>
+      <target>Зміна  {0} з {1}: оригінал {2}, {3} рядків, змінено {4}, {5}</target>
+    </trans-unit>
+    <trans-unit id="blankLine">
+      <source xml:lang="en">blank</source>
+      <target>пусто</target>
+    </trans-unit>
+    <trans-unit id="equalLine">
+      <source xml:lang="en">original {0}, modified {1}: {2}</source>
+      <target>оригінал {0}, змінено {1}: {2}</target>
+    </trans-unit>
+    <trans-unit id="insertLine">
+      <source xml:lang="en">+ modified {0}: {1}</source>
+      <target>+ змінено {0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="deleteLine">
+      <source xml:lang="en">- original {0}: {1}</source>
+      <target>- оригінал {0}: {1}</target>
+    </trans-unit>
+    <trans-unit id="editor.action.diffReview.next">
+      <source xml:lang="en">Go to Next Difference</source>
+      <target>Перейти до наступної відмінності</target>
+    </trans-unit>
+    <trans-unit id="editor.action.diffReview.prev">
+      <source xml:lang="en">Go to Previous Difference</source>
+      <target>Перейти до попередньої відмінності</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/browser/services/bulkEdit" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="conflict">
+      <source xml:lang="en">These files have changed in the meantime: {0}</source>
+      <target>Ці файли було нещодавно змінено: {0}</target>
+    </trans-unit>
+    <trans-unit id="summary.0">
+      <source xml:lang="en">Made no edits</source>
+      <target>Жодних змін</target>
+    </trans-unit>
+    <trans-unit id="summary.nm">
+      <source xml:lang="en">Made {0} text edits in {1} files</source>
+      <target>Зроблено {0} змін до змісту {1} файлів</target>
+    </trans-unit>
+    <trans-unit id="summary.n0">
+      <source xml:lang="en">Made {0} text edits in one file</source>
+      <target>Зроблено {0} змін до змісту в одному файлі</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/config/commonEditorConfig" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="editorConfigurationTitle">
+      <source xml:lang="en">Editor</source>
+      <target>Редактор</target>
+    </trans-unit>
+    <trans-unit id="fontFamily">
+      <source xml:lang="en">Controls the font family.</source>
+      <target>Контролює сімейство шрифту.</target>
+    </trans-unit>
+    <trans-unit id="fontWeight">
+      <source xml:lang="en">Controls the font weight.</source>
+      <target>Контролює товщину шрифту.</target>
+    </trans-unit>
+    <trans-unit id="fontSize">
+      <source xml:lang="en">Controls the font size in pixels.</source>
+      <target>Контролює розмір шрифту в пікселях.</target>
+    </trans-unit>
+    <trans-unit id="lineHeight">
+      <source xml:lang="en">Controls the line height. Use 0 to compute the lineHeight from the fontSize.</source>
+      <target>Контролює висоту рядка. При 0 висота рядка буде розрахована на основі розміру шрифту.</target>
+    </trans-unit>
+    <trans-unit id="letterSpacing">
+      <source xml:lang="en">Controls the letter spacing in pixels.</source>
+      <target>Контролює інтервал між літерами в пікселях</target>
+    </trans-unit>
+    <trans-unit id="lineNumbers.off">
+      <source xml:lang="en">Line numbers are not rendered.</source>
+      <target>Номери рядків не відображаються.</target>
+    </trans-unit>
+    <trans-unit id="lineNumbers.on">
+      <source xml:lang="en">Line numbers are rendered as absolute number.</source>
+      <target>Номери рядків  відображаються як абсолютне значення.</target>
+    </trans-unit>
+    <trans-unit id="lineNumbers.relative">
+      <source xml:lang="en">Line numbers are rendered as distance in lines to cursor position.</source>
+      <target>Номери рядків відображаються як відстань а рядках до позиції курсора.</target>
+    </trans-unit>
+    <trans-unit id="lineNumbers.interval">
+      <source xml:lang="en">Line numbers are rendered every 10 lines.</source>
+      <target>Номери відображаються кожних 10 рядків.</target>
+    </trans-unit>
+    <trans-unit id="lineNumbers">
+      <source xml:lang="en">Controls the display of line numbers. Possible values are 'on', 'off', 'relative' and 'interval'.</source>
+      <target>Контролює відображення номерів рядків. Можливими значеннями є 'on', 'off', 'relative' та 'interval'.</target>
+    </trans-unit>
+    <trans-unit id="rulers">
+      <source xml:lang="en">Render vertical rulers after a certain number of monospace characters. Use multiple values for multiple rulers. No rulers are drawn if array is empty</source>
+      <target>Відображати вертикальні лінійки після заданої кількості символів. Задайте більше одного значення для відповідної кількості лінійок. Якщо масив пустий, лінійки відображатись не будуть.</target>
+    </trans-unit>
+    <trans-unit id="wordSeparators">
+      <source xml:lang="en">Characters that will be used as word separators when doing word related navigations or operations</source>
+      <target>Символ, що використовуватиметься для розділення слів при навігації по словах або схожий операціях</target>
+    </trans-unit>
+    <trans-unit id="tabSize">
+      <source xml:lang="en">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `editor.detectIndentation` is on.</source>
+      <target>Кількість пробілів яка рівна одній табуляції. Це налаштування переКонтролюється значенням базованим на вмісті файлу коли ввімкнено `editor.detectIndentation`.</target>
+    </trans-unit>
+    <trans-unit id="tabSize.errorMessage">
+      <source xml:lang="en">Expected 'number'. Note that the value "auto" has been replaced by the `editor.detectIndentation` setting.</source>
+      <target>Очікується число. Зауважте, що значення "auto" (автоматично) було замінено налаштуванням `editor.detectIndentation`.</target>
+    </trans-unit>
+    <trans-unit id="insertSpaces">
+      <source xml:lang="en">Insert spaces when pressing Tab. This setting is overridden based on the file contents when `editor.detectIndentation` is on.</source>
+      <target>Вставляти пробіли при табуляції.  Це налаштування переКонтролюється значенням базованим на вмісті файлу коли ввімкнено `editor.detectIndentation`.</target>
+    </trans-unit>
+    <trans-unit id="insertSpaces.errorMessage">
+      <source xml:lang="en">Expected 'boolean'. Note that the value "auto" has been replaced by the `editor.detectIndentation` setting.</source>
+      <target>Очікується логічне значення. Зауважте, що значення "auto" (автоматично) було замінено налаштуванням `editor.detectIndentation`.</target>
+    </trans-unit>
+    <trans-unit id="detectIndentation">
+      <source xml:lang="en">When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.</source>
+      <target>При відкриванні файлу, `editor.tabSize` та `editor.insertSpaces` буде визначено на основі змісту файлу. </target>
+    </trans-unit>
+    <trans-unit id="roundedSelection">
+      <source xml:lang="en">Controls if selections have rounded corners</source>
+      <target>Контролює чи виділення має округлені краї</target>
+    </trans-unit>
+    <trans-unit id="scrollBeyondLastLine">
+      <source xml:lang="en">Controls if the editor will scroll beyond the last line</source>
+      <target>Контролює, чи редактор прокручуватиме зміст поза останній рядок</target>
+    </trans-unit>
+    <trans-unit id="smoothScrolling">
+      <source xml:lang="en">Controls if the editor will scroll using an animation</source>
+      <target>Контролює чи редактор буде прокручуватись з використанням анімації</target>
+    </trans-unit>
+    <trans-unit id="minimap.enabled">
+      <source xml:lang="en">Controls if the minimap is shown</source>
+      <target>Контролює чи міні-карту буде показано</target>
+    </trans-unit>
+    <trans-unit id="minimap.showSlider">
+      <source xml:lang="en">Controls whether the minimap slider is automatically hidden. Possible values are 'always' and 'mouseover'</source>
+      <target>Контролює, чи міні-кару буде автоматично сховано. Можливі значення є 'always' (завжди) та 'mouseover' (залежно від позиції вказівника миші)</target>
+    </trans-unit>
+    <trans-unit id="minimap.renderCharacters">
+      <source xml:lang="en">Render the actual characters on a line (as opposed to color blocks)</source>
+      <target>Відображати символи в рядку (на відміну від кольорових блоків)</target>
+    </trans-unit>
+    <trans-unit id="minimap.maxColumn">
+      <source xml:lang="en">Limit the width of the minimap to render at most a certain number of columns</source>
+      <target>Обмежує ширину міні-карти до максимальної кількості колонок</target>
+    </trans-unit>
+    <trans-unit id="find.seedSearchStringFromSelection">
+      <source xml:lang="en">Controls if we seed the search string in Find Widget from editor selection</source>
+      <target>Контролює, чи виділення в редакторі буде використано в діалозі пошуку віджетів</target>
+    </trans-unit>
+    <trans-unit id="find.autoFindInSelection">
+      <source xml:lang="en">Controls if Find in Selection flag is turned on when multiple characters or lines of text are selected in the editor</source>
+      <target>Контролює, чи вибір "шукати у виділеному" ввімкнено, коли  в редакторі вибрано кілька символів або рядків тексту.</target>
+    </trans-unit>
+    <trans-unit id="find.globalFindClipboard">
+      <source xml:lang="en">Controls if the Find Widget should read or modify the shared find clipboard on macOS</source>
+      <target>Контролює, чи віджет пошуку читає або змінює спільний буфер пошуку на macOS </target>
+    </trans-unit>
+    <trans-unit id="wordWrap.off">
+      <source xml:lang="en">Lines will never wrap.</source>
+      <target>Рядки не переноситимуться.</target>
+    </trans-unit>
+    <trans-unit id="wordWrap.on">
+      <source xml:lang="en">Lines will wrap at the viewport width.</source>
+      <target>Рядки буде перенесено при виході за межі видимої області.</target>
+    </trans-unit>
+    <trans-unit id="wordWrap.wordWrapColumn">
+      <source xml:lang="en">Lines will wrap at `editor.wordWrapColumn`.</source>
+      <target>Рядки буде перенесено з колонки заданої в `editor.wordWrapColumn`.</target>
+      <note>- `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
+    </trans-unit>
+    <trans-unit id="wordWrap.bounded">
+      <source xml:lang="en">Lines will wrap at the minimum of viewport and `editor.wordWrapColumn`.</source>
+      <target>Рядки буде перенесено коли менше з двох значень досягнуто - видимої області або `editor.wordWrapColumn`.</target>
+      <note>- viewport means the edge of the visible window size.
+- `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
+    </trans-unit>
+    <trans-unit id="wordWrap">
+      <source xml:lang="en">Controls how lines should wrap. Can be:
+ - 'off' (disable wrapping),
+ - 'on' (viewport wrapping),
+ - 'wordWrapColumn' (wrap at `editor.wordWrapColumn`) or
+ - 'bounded' (wrap at minimum of viewport and `editor.wordWrapColumn`).</source>
+      <target>Контролює як рядки буде перенесено. Можливі значення: 
+- 'off' (перенесення вимкнуто), 
+- 'on' (перенесення видимої області), 
+- 'wordWrapColumn' (переносити на колонці завданій у `editor.wordWrapColumn`) або 
+- 'bounded' (переносити на мінімумі з видимої області та колонки завданої у `editor.wordWrapColumn`).</target>
+      <note>- 'off', 'on', 'wordWrapColumn' and 'bounded' refer to values the setting can take and should not be localized.
+- `editor.wordWrapColumn` refers to a different setting and should not be localized.</note>
+    </trans-unit>
+    <trans-unit id="wordWrapColumn">
+      <source xml:lang="en">Controls the wrapping column of the editor when `editor.wordWrap` is 'wordWrapColumn' or 'bounded'.</source>
+      <target>Контролює колонку з якого рядку редактора буде перенесено коли `editor.wordWrap` має значення 'wordWrapColumn' або 'bounded'.</target>
+      <note>- `editor.wordWrap` refers to a different setting and should not be localized.
+- 'wordWrapColumn' and 'bounded' refer to values the different setting can take and should not be localized.</note>
+    </trans-unit>
+    <trans-unit id="wrappingIndent">
+      <source xml:lang="en">Controls the indentation of wrapped lines. Can be one of 'none', 'same' or 'indent'.</source>
+      <target>Контролює відступ на перенесених рядках. Може бути одне з 'none' (жодного), 'same' (однаковий) або 'indent' (відступ).</target>
+    </trans-unit>
+    <trans-unit id="mouseWheelScrollSensitivity">
+      <source xml:lang="en">A multiplier to be used on the `deltaX` and `deltaY` of mouse wheel scroll events</source>
+      <target>Множник, що застосовуватиметься до `deltaX` та `deltaY`  колеса прокрутки миші</target>
+    </trans-unit>
+    <trans-unit id="multiCursorModifier.ctrlCmd">
+      <source xml:lang="en">Maps to `Control` on Windows and Linux and to `Command` on OSX.</source>
+      <target>ПереКонтролює в `Control` на Windows та Linux і в `Command` на OSX.</target>
+    </trans-unit>
+    <trans-unit id="multiCursorModifier.alt">
+      <source xml:lang="en">Maps to `Alt` on Windows and Linux and to `Option` on OSX.</source>
+      <target>ПереКонтролює в `Alt` на Windows та Linux і в `Option` на OSX.</target>
+    </trans-unit>
+    <trans-unit id="multiCursorModifier">
+      <source xml:lang="en">The modifier to be used to add multiple cursors with the mouse. `ctrlCmd` maps to `Control` on Windows and Linux and to `Command` on OSX. The Go To Definition and Open Link mouse gestures will adapt such that they do not conflict with the multicursor modifier.</source>
+      <target>Клавіша-модифікатор котра буде використовуватись щоб додати кілька курсорів мишею. `ctrlCmd` визначена як `Control` у Windows та Linux і як `Command` у OSX. Жести "Йти до визначення" та "Відкрити посилання" буде відповідно пристосовано так, що не виникало конфлікту з клавішею-модифікатором.</target>
+      <note>- `ctrlCmd` refers to a value the setting can take and should not be localized.
+- `Control` and `Command` refer to the modifier keys Ctrl or Cmd on the keyboard and can be localized.</note>
+    </trans-unit>
+    <trans-unit id="quickSuggestions.strings">
+      <source xml:lang="en">Enable quick suggestions inside strings.</source>
+      <target>Дозволити швидкі пропозиції всередині рядка.</target>
+    </trans-unit>
+    <trans-unit id="quickSuggestions.comments">
+      <source xml:lang="en">Enable quick suggestions inside comments.</source>
+      <target>Дозволити швидкі пропозиції всередині коментаря.</target>
+    </trans-unit>
+    <trans-unit id="quickSuggestions.other">
+      <source xml:lang="en">Enable quick suggestions outside of strings and comments.</source>
+      <target>Дозволити миттєві пропозиції поза строками та коментарями.</target>
+    </trans-unit>
+    <trans-unit id="quickSuggestions">
+      <source xml:lang="en">Controls if suggestions should automatically show up while typing</source>
+      <target>Контролює, чи пропозиції буде автоматично показано під час набору </target>
+    </trans-unit>
+    <trans-unit id="quickSuggestionsDelay">
+      <source xml:lang="en">Controls the delay in ms after which quick suggestions will show up</source>
+      <target>Контролює затримку в мілісекундах після котрої миттєва пропозиція буде показана</target>
+    </trans-unit>
+    <trans-unit id="parameterHints">
+      <source xml:lang="en">Enables pop-up that shows parameter documentation and type information as you type</source>
+      <target>Вмикає спливаюче вікно з документацією параметрів та інформацію про типи під час набору </target>
+    </trans-unit>
+    <trans-unit id="autoClosingBrackets">
+      <source xml:lang="en">Controls if the editor should automatically close brackets after opening them</source>
+      <target>Контролює, чи редактор автоматично закриває дужки після їх відкриття</target>
+    </trans-unit>
+    <trans-unit id="formatOnType">
+      <source xml:lang="en">Controls if the editor should automatically format the line after typing</source>
+      <target>Контролює, чи редактор автоматично форматує рядок коли набір закінчено</target>
+    </trans-unit>
+    <trans-unit id="formatOnPaste">
+      <source xml:lang="en">Controls if the editor should automatically format the pasted content. A formatter must be available and the formatter should be able to format a range in a document.</source>
+      <target>Контролює, чи редактор автоматично форматує вставлений вміст. Форматувальник має бути доступним і в стані опрацювати проміжок документу.</target>
+    </trans-unit>
+    <trans-unit id="autoIndent">
+      <source xml:lang="en">Controls if the editor should automatically adjust the indentation when users type, paste or move lines. Indentation rules of the language must be available.</source>
+      <target>Контролює, чи редактор автоматично підправляє відступи під час набору, вставки чи перенесення рядків. Необхідна присутність налаштувань  відступів для актуальної мови.</target>
+    </trans-unit>
+    <trans-unit id="suggestOnTriggerCharacters">
+      <source xml:lang="en">Controls if suggestions should automatically show up when typing trigger characters</source>
+      <target>Контролює, чи показувати пропозиції автоматично коли введено символ-тригер</target>
+    </trans-unit>
+    <trans-unit id="acceptSuggestionOnEnter">
+      <source xml:lang="en">Controls if suggestions should be accepted on 'Enter' - in addition to 'Tab'. Helps to avoid ambiguity between inserting new lines or accepting suggestions. The value 'smart' means only accept a suggestion with Enter when it makes a textual change</source>
+      <target>Контролює, чи пропозиції приймаються після клавіші введення, додатково до клавіші табуляції. Це допомагає уникнути двозначності при введенні нових рядків та прийнятті пропозицій. Значення  'smart' (розумно) веде до прийняття пропозиції після клавіші введення тільки коли це приведе до зміни тексту</target>
+    </trans-unit>
+    <trans-unit id="acceptSuggestionOnCommitCharacter">
+      <source xml:lang="en">Controls if suggestions should be accepted on commit characters. For instance in JavaScript the semi-colon (';') can be a commit character that accepts a suggestion and types that character.</source>
+      <target>Контролює, чи пропозиції будуть прийняті після завершувального символу. Наприклад, в JavaScript крапка з комою (';') може бути таким завершувальним символом, який приймає пропозицію доповнюючи текст цим символом.</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggestions.top">
+      <source xml:lang="en">Show snippet suggestions on top of other suggestions.</source>
+      <target>Показувати пропозиції сніпетів перед усіма іншими пропозиціями.</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggestions.bottom">
+      <source xml:lang="en">Show snippet suggestions below other suggestions.</source>
+      <target>Показувати пропозиції сніпетів після усіх інших пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggestions.inline">
+      <source xml:lang="en">Show snippets suggestions with other suggestions.</source>
+      <target>Показувати пропозиції сніпетів разом з усіма іншими пропозиціями.</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggestions.none">
+      <source xml:lang="en">Do not show snippet suggestions.</source>
+      <target>Не показувати пропозиції сніпетів.</target>
+    </trans-unit>
+    <trans-unit id="snippetSuggestions">
+      <source xml:lang="en">Controls whether snippets are shown with other suggestions and how they are sorted.</source>
+      <target>Контролює чи сніпети буде показано разом з іншими пропозиціями і як їх сортувати.</target>
+    </trans-unit>
+    <trans-unit id="emptySelectionClipboard">
+      <source xml:lang="en">Controls whether copying without a selection copies the current line.</source>
+      <target>Контролює, чи при копіюванні без виділення буде скопійовано цілий рядок.</target>
+    </trans-unit>
+    <trans-unit id="wordBasedSuggestions">
+      <source xml:lang="en">Controls whether completions should be computed based on words in the document.</source>
+      <target>Контролює, чи пропозиції завершення будуть обиратися на основі слів у документі.</target>
+    </trans-unit>
+    <trans-unit id="suggestFontSize">
+      <source xml:lang="en">Font size for the suggest widget</source>
+      <target>Розмір шрифту для віджету пропозицій</target>
+    </trans-unit>
+    <trans-unit id="suggestLineHeight">
+      <source xml:lang="en">Line height for the suggest widget</source>
+      <target>Висота рядка для віджету пропозицій</target>
+    </trans-unit>
+    <trans-unit id="selectionHighlight">
+      <source xml:lang="en">Controls whether the editor should highlight similar matches to the selection</source>
+      <target>Чи треба підсвічувати подібні збіги у виділенні</target>
+    </trans-unit>
+    <trans-unit id="occurrencesHighlight">
+      <source xml:lang="en">Controls whether the editor should highlight semantic symbol occurrences</source>
+      <target>Чи треба виділяти входження семантичних символів</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerLanes">
+      <source xml:lang="en">Controls the number of decorations that can show up at the same position in the overview ruler</source>
+      <target>Кількість декорацій, що можуть з'явитися в оглядовій лінійці на одній позиції</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerBorder">
+      <source xml:lang="en">Controls if a border should be drawn around the overview ruler.</source>
+      <target>Чи треба малювати межу довкола оглядової лінійки.</target>
+    </trans-unit>
+    <trans-unit id="cursorBlinking">
+      <source xml:lang="en">Control the cursor animation style, possible values are 'blink', 'smooth', 'phase', 'expand' and 'solid'</source>
+      <target>Стиль блимання курсора. Можливі варіанти: 'blink' (звичайне), 'smooth' (плавне),  'phase' (поступове), 'expand' (вертикальне), 'solid' (не блимати)</target>
+    </trans-unit>
+    <trans-unit id="mouseWheelZoom">
+      <source xml:lang="en">Zoom the font of the editor when using mouse wheel and holding Ctrl</source>
+      <target>Встановлювати розмір шрифта відповідно до колеса миші при затисненому Ctrl</target>
+    </trans-unit>
+    <trans-unit id="cursorStyle">
+      <source xml:lang="en">Controls the cursor style, accepted values are 'block', 'block-outline', 'line', 'line-thin', 'underline' and 'underline-thin'</source>
+      <target>Стиль курсора. Можливі варіанти: 'block' (примокутник), 'block-outline' (рамка), 'line' (вертикальний), 'line-thin' (тонкий вертикальний), 'underline' (підкреслення) and 'underline-thin' (тонке підкреслення)</target>
+    </trans-unit>
+    <trans-unit id="fontLigatures">
+      <source xml:lang="en">Enables font ligatures</source>
+      <target>Дозволяє шрифтові лігатури</target>
+    </trans-unit>
+    <trans-unit id="hideCursorInOverviewRuler">
+      <source xml:lang="en">Controls if the cursor should be hidden in the overview ruler.</source>
+      <target>Чи ховати курсор в оглядовій лінійці</target>
+    </trans-unit>
+    <trans-unit id="renderWhitespace">
+      <source xml:lang="en">Controls how the editor should render whitespace characters, possibilities are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.</source>
+      <target>Чи виводити в редакторі пробіли. Можливо 'none' (жодного), 'all' (всі), 'boundary' (тільки поля, між словами пробіли не виводити)</target>
+    </trans-unit>
+    <trans-unit id="renderControlCharacters">
+      <source xml:lang="en">Controls whether the editor should render control characters</source>
+      <target>Контролює, чи має редактор відображати контрольні символи</target>
+    </trans-unit>
+    <trans-unit id="renderIndentGuides">
+      <source xml:lang="en">Controls whether the editor should render indent guides</source>
+      <target>Чи виводити межі відступів (вертикальні лінії, що з'єднують відступи однакового розміру)</target>
+    </trans-unit>
+    <trans-unit id="renderLineHighlight">
+      <source xml:lang="en">Controls how the editor should render the current line highlight, possibilities are 'none', 'gutter', 'line', and 'all'.</source>
+      <target>Контролює, як редакторі відображає виділення поточного рядку, можливі значення є 'none' (жодного), 'gutter' (поле), 'line' (рядок), та 'all' (все).</target>
+    </trans-unit>
+    <trans-unit id="codeLens">
+      <source xml:lang="en">Controls if the editor shows code lenses</source>
+      <target>Контролює чи кодо-лінзу буде відображено в редакторі</target>
+    </trans-unit>
+    <trans-unit id="folding">
+      <source xml:lang="en">Controls whether the editor has code folding enabled</source>
+      <target>Контролює чи редактор дозволяє згортання коду</target>
+    </trans-unit>
+    <trans-unit id="showFoldingControls">
+      <source xml:lang="en">Controls whether the fold controls on the gutter are automatically hidden.</source>
+      <target>Контролює чи елементи керування згортанням на полі буде автоматично приховано.</target>
+    </trans-unit>
+    <trans-unit id="matchBrackets">
+      <source xml:lang="en">Highlight matching brackets when one of them is selected.</source>
+      <target>Підсвітити відповідну дужку, з однієї пари, коли вибрано одну з них.</target>
+    </trans-unit>
+    <trans-unit id="glyphMargin">
+      <source xml:lang="en">Controls whether the editor should render the vertical glyph margin. Glyph margin is mostly used for debugging.</source>
+      <target>Контролює, чи редактор додає вертикальний відступ для значків. Відступ для значків в основному використовується при відлагодженні програм.</target>
+    </trans-unit>
+    <trans-unit id="useTabStops">
+      <source xml:lang="en">Inserting and deleting whitespace follows tab stops</source>
+      <target>Вставлення та усунення пробілів враховує розмір табуляції</target>
+    </trans-unit>
+    <trans-unit id="trimAutoWhitespace">
+      <source xml:lang="en">Remove trailing auto inserted whitespace</source>
+      <target>Прибирати автоматично вставлені в кінці рядків пробіли</target>
+    </trans-unit>
+    <trans-unit id="stablePeek">
+      <source xml:lang="en">Keep peek editors open even when double clicking their content or when hitting Escape.</source>
+      <target>Залишати редактор швидкого перегляду відкритим, навіть коли клацнуто на їх зміст або натиснуто клавішу Escape.</target>
+    </trans-unit>
+    <trans-unit id="dragAndDrop">
+      <source xml:lang="en">Controls if the editor should allow to move selections via drag and drop.</source>
+      <target>Контролює, чи редактор повинен дозволити переміщення виділень за допомогою перетягування.</target>
+    </trans-unit>
+    <trans-unit id="accessibilitySupport.auto">
+      <source xml:lang="en">The editor will use platform APIs to detect when a Screen Reader is attached.</source>
+      <target>Редактор використовуватиме API платформи, щоб визначити, коли прикріплено читач екрану (Screen Reader).</target>
+    </trans-unit>
+    <trans-unit id="accessibilitySupport.on">
+      <source xml:lang="en">The editor will be permanently optimized for usage with a Screen Reader.</source>
+      <target>Редактор буде перманентно оптимізований для використання з читачем екрану (Screen Reader).</target>
+    </trans-unit>
+    <trans-unit id="accessibilitySupport.off">
+      <source xml:lang="en">The editor will never be optimized for usage with a Screen Reader.</source>
+      <target>Редактор ніколи не буде оптимізовано для використання з читачами екрану.</target>
+    </trans-unit>
+    <trans-unit id="accessibilitySupport">
+      <source xml:lang="en">Controls whether the editor should run in a mode where it is optimized for screen readers.</source><target>Визначає, чи редактор повинен працювати в режимі, коли він оптимізований для читання з екрану.</target>
+    </trans-unit>
+    <trans-unit id="links">
+      <source xml:lang="en">Controls whether the editor should detect links and make them clickable</source>
+      <target>Контролює, чи повинен редактор виявляти посилання та зробити їх активними, для переходу по них</target>
+    </trans-unit>
+    <trans-unit id="colorDecorators">
+      <source xml:lang="en">Controls whether the editor should render the inline color decorators and color picker.</source>
+      <target>Контролює, чи має редактор відображати вбудовані декоратори кольорів та віджет вибору кольору.</target>
+    </trans-unit>
+    <trans-unit id="codeActions">
+      <source xml:lang="en">Enables the code action lightbulb</source>
+      <target>Вмикає лампочку дій</target>
+    </trans-unit>
+    <trans-unit id="selectionClipboard">
+      <source xml:lang="en">Controls if the Linux primary clipboard should be supported.</source><target>Елементи управління якщо основна буфер обміну в Linux повинна бути підтримана.</target>
+    </trans-unit>
+    <trans-unit id="sideBySide">
+      <source xml:lang="en">Controls if the diff editor shows the diff side by side or inline</source><target>Контролює, якщо редактор diff показує різницю пліч-о-пліч або рядний</target>
+    </trans-unit>
+    <trans-unit id="ignoreTrimWhitespace">
+      <source xml:lang="en">Controls if the diff editor shows changes in leading or trailing whitespace as diffs</source><target>Управління якщо діфф редактор показує зміни в початкові чи кінцеві пробіли як диференціали</target>
+    </trans-unit>
+    <trans-unit id="renderIndicators">
+      <source xml:lang="en">Controls if the diff editor shows +/- indicators for added/removed changes</source><target>Елементи управління, якщо редактор diff показує +/- індикатори для додавання або видалення зміни</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/services/modelServiceImpl" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="diagAndSourceMultiline">
+      <source xml:lang="en">[{0}]
+{1}</source>
+      <target>[{0}]
+{1}</target>
+    </trans-unit>
+    <trans-unit id="diagAndSource">
+      <source xml:lang="en">[{0}] {1}</source>
+      <target>[{0}] {1}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/controller/cursor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="corrupt.commands">
+      <source xml:lang="en">Unexpected exception while executing command.</source>
+      <target>Неочікувана халепа під час виконання команди.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/common/model/textModelWithTokens" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="mode.tokenizationSupportFailed">
+      <source xml:lang="en">The mode has failed while tokenizing the input.</source>
+      <target>Режим завершено з халепою при розборі вводу.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

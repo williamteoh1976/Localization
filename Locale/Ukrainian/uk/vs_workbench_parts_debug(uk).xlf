@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debug.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleDebugViewlet">
+      <source xml:lang="en">Show Debug</source><target>Показати Налагодження</target>
+    </trans-unit>
+    <trans-unit id="toggleDebugPanel">
+      <source xml:lang="en">Debug Console</source><target>Консоль Налагодження</target>
+    </trans-unit>
+    <trans-unit id="debug">
+      <source xml:lang="en">Debug</source><target>Налагоджувати</target>
+    </trans-unit>
+    <trans-unit id="debugPanel">
+      <source xml:lang="en">Debug Console</source><target>Консоль Налагодження</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="variables">
+      <source xml:lang="en">Variables</source><target>Змінні</target>
+    </trans-unit>
+    <trans-unit id="watch">
+      <source xml:lang="en">Watch</source><target>Дивитися</target>
+    </trans-unit>
+    <trans-unit id="callStack">
+      <source xml:lang="en">Call Stack</source><target>Стек Викликів</target>
+    </trans-unit>
+    <trans-unit id="breakpoints">
+      <source xml:lang="en">Breakpoints</source><target>Точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="view">
+      <source xml:lang="en">View</source><target>Вид</target>
+    </trans-unit>
+    <trans-unit id="debugCategory">
+      <source xml:lang="en">Debug</source><target>Налагоджувати</target>
+    </trans-unit>
+    <trans-unit id="debugCommands">
+      <source xml:lang="en">Debug Configuration</source><target>Конфігурації Налагодження</target>
+    </trans-unit>
+    <trans-unit id="debugConfigurationTitle">
+      <source xml:lang="en">Debug</source><target>Налагоджувати</target>
+    </trans-unit>
+    <trans-unit id="allowBreakpointsEverywhere">
+      <source xml:lang="en">Allows setting breakpoint in any file</source><target>Дозволяє встановити точку зупинки у будь-який файл</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+    <trans-unit id="openExplorerOnEnd">
+      <source xml:lang="en">Automatically open explorer view on the end of a debug session</source><target>Автоматично відкрийте вікно оглядача в кінці сеансу налагодження</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+    <trans-unit id="inlineValues">
+      <source xml:lang="en">Show variable values inline in editor while debugging</source><target>Показати значення змінних вбудованого в редактор під час налагодження</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+    <trans-unit id="hideActionBar">
+      <source xml:lang="en">Controls if the floating debug action bar should be hidden</source><target>Контролює, чи слід приховати плаваючу панель дій для налагодження</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+    <trans-unit id="never">
+      <source xml:lang="en">Never show debug in status bar</source><target>Ніколи не показувати налагодження в рядку стану</target>
+    </trans-unit>
+    <trans-unit id="always">
+      <source xml:lang="en">Always show debug in status bar</source><target>Завжди показують налагодження в рядку стану</target>
+    </trans-unit>
+    <trans-unit id="onFirstSessionStart">
+      <source xml:lang="en">Show debug in status bar only after debug was started for the first time</source><target>Показувати налагодження в рядку стану лише після першого запуску налагодження</target>
+    </trans-unit>
+    <trans-unit id="showInStatusBar">
+      <source xml:lang="en">Controls when the debug status bar should be visible</source><target>Контролює, коли панель стану налагодження повинна бути видимою</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+    <trans-unit id="openDebug">
+      <source xml:lang="en">Controls whether debug viewlet should be open on debugging session start.</source><target>Контролює налагодження viewlet повинні бути відкриті на налагодження початку сесії.</target>
+    </trans-unit>
+    <trans-unit id="launch">
+      <source xml:lang="en">Global debug launch configuration. Should be used as an alternative to 'launch.json' that is shared across workspaces</source><target>Глобальні конфігурації запуску налагодження. Повинні бути використані в якості альтернативи для 'launch.json', яка використовується в різних робочих областях</target>
+      <note>This is the description for a setting</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugQuickOpen" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="entryAriaLabel">
+      <source xml:lang="en">{0}, debug</source><target>{0}, налагодження</target>
+    </trans-unit>
+    <trans-unit id="debugAriaLabel">
+      <source xml:lang="en">Type a name of a launch configuration to run.</source><target>Введіть ім'я конфігурації запуску для запуску.</target>
+    </trans-unit>
+    <trans-unit id="addConfigTo">
+      <source xml:lang="en">Add Config ({0})...</source><target>Додати конфігурацію ({0})...</target>
+    </trans-unit>
+    <trans-unit id="addConfiguration">
+      <source xml:lang="en">Add Configuration...</source><target>Додати конфігурацію...</target>
+    </trans-unit>
+    <trans-unit id="noConfigurationsMatching">
+      <source xml:lang="en">No debug configurations matching</source><target>Немає відповідної конфігурації налагодження</target>
+    </trans-unit>
+    <trans-unit id="noConfigurationsFound">
+      <source xml:lang="en">No debug configurations found. Please create a 'launch.json' file.</source><target>Конфігурацій налагодження не знайдено. Будь ласка, створіть файл 'launch.json'.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/repl" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="replAriaLabel">
+      <source xml:lang="en">Read Eval Print Loop Panel</source><target>Читати панель Loop Eval Print</target>
+    </trans-unit>
+    <trans-unit id="actions.repl.historyPrevious">
+      <source xml:lang="en">History Previous</source><target>Історія Попередніх</target>
+    </trans-unit>
+    <trans-unit id="actions.repl.historyNext">
+      <source xml:lang="en">History Next</source><target>Наступна Історія</target>
+    </trans-unit>
+    <trans-unit id="actions.repl.acceptInput">
+      <source xml:lang="en">REPL Accept Input</source><target>REPL приймати введені дані</target>
+      <note>Apply input from the debug console input box</note>
+    </trans-unit>
+    <trans-unit id="actions.repl.copyAll">
+      <source xml:lang="en">Debug: Console Copy All</source><target>Налагодження: Консоль Скопіювати Всі</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugEditorActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggleBreakpointAction">
+      <source xml:lang="en">Debug: Toggle Breakpoint</source><target>Налагодження: Перемикання точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="columnBreakpointAction">
+      <source xml:lang="en">Debug: Column Breakpoint</source><target>Налагодження: Стовпець точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="columnBreakpoint">
+      <source xml:lang="en">Add Column Breakpoint</source><target>Додати стовпець точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="conditionalBreakpointEditorAction">
+      <source xml:lang="en">Debug: Add Conditional Breakpoint...</source><target>Налагодження: Додати умовну точку зупинки...</target>
+    </trans-unit>
+    <trans-unit id="runToCursor">
+      <source xml:lang="en">Run to Cursor</source><target>Виконати до курсору</target>
+    </trans-unit>
+    <trans-unit id="debugEvaluate">
+      <source xml:lang="en">Debug: Evaluate</source><target>Налагодження: Оцінка</target>
+    </trans-unit>
+    <trans-unit id="debugAddToWatch">
+      <source xml:lang="en">Debug: Add to Watch</source><target>Налагодження: Додати до спостереження</target>
+    </trans-unit>
+    <trans-unit id="showDebugHover">
+      <source xml:lang="en">Debug: Show Hover</source><target>Налагодження: Показати Hover</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugViewlet" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="debugFocusVariablesView">
+      <source xml:lang="en">Focus Variables</source><target>Фокус Змінних</target>
+    </trans-unit>
+    <trans-unit id="debugFocusWatchView">
+      <source xml:lang="en">Focus Watch</source><target>Фокус спостереження</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="debugFocusCallStackView">
+      <source xml:lang="en">Focus CallStack</source><target>Фокус-Стек Викликів</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="debugFocusBreakpointsView">
+      <source xml:lang="en">Focus Breakpoints</source><target>Фокус-Точки Зупинки</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/callStackView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="callstackSection">
+      <source xml:lang="en">Call Stack Section</source><target>Розділ Стек Викликів</target>
+    </trans-unit>
+    <trans-unit id="debugStopped">
+      <source xml:lang="en">Paused on {0}</source><target>Призупинення на {0}</target>
+    </trans-unit>
+    <trans-unit id="callStackAriaLabel">
+      <source xml:lang="en">Debug Call Stack</source><target>Налагодження Стека Викликів</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="process">
+      <source xml:lang="en">Process</source><target>Процес</target>
+      <note>Process is a noun</note>
+    </trans-unit>
+    <trans-unit id="paused">
+      <source xml:lang="en">Paused</source><target>Призупинено</target>
+    </trans-unit>
+    <trans-unit id="running">
+      <source xml:lang="en">Running</source><target>Працює</target>
+      <note>indicates state</note>
+    </trans-unit>
+    <trans-unit id="thread">
+      <source xml:lang="en">Thread</source><target>Нитка</target>
+    </trans-unit>
+    <trans-unit id="pausedOn">
+      <source xml:lang="en">Paused on {0}</source><target>Призупинення на {0}</target>
+      <note>indicates reason for program being paused</note>
+    </trans-unit>
+    <trans-unit id="running">
+      <source xml:lang="en">Running</source><target>Працює</target>
+      <note>indicates state</note>
+    </trans-unit>
+    <trans-unit id="loadMoreStackFrames">
+      <source xml:lang="en">Load More Stack Frames</source><target>Навантаження Більш Стекових Фреймів</target>
+    </trans-unit>
+    <trans-unit id="threadAriaLabel">
+      <source xml:lang="en">Thread {0}, callstack, debug</source><target>Потік {0}, стек викликів, налагодження</target>
+    </trans-unit>
+    <trans-unit id="stackFrameAriaLabel">
+      <source xml:lang="en">Stack Frame {0} line {1} {2}, callstack, debug</source><target>Стековий фрейм {0} рядок {1} {2}, стек викликів, налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/variablesView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="variablesSection">
+      <source xml:lang="en">Variables Section</source><target>Змінні розділ</target>
+    </trans-unit>
+    <trans-unit id="variablesAriaTreeLabel">
+      <source xml:lang="en">Debug Variables</source><target>Змінні Налагодження</target>
+    </trans-unit>
+    <trans-unit id="variableValueAriaLabel">
+      <source xml:lang="en">Type new variable value</source><target>Введіть нове значення змінної</target>
+    </trans-unit>
+    <trans-unit id="variableScopeAriaLabel">
+      <source xml:lang="en">Scope {0}, variables, debug</source><target>Області {0}, змінні, налагодження</target>
+    </trans-unit>
+    <trans-unit id="variableAriaLabel">
+      <source xml:lang="en">{0} value {1}, variables, debug</source><target>{0} значення {1}, змінних, налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/breakpointsView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="editConditionalBreakpoint">
+      <source xml:lang="en">Edit Breakpoint...</source><target>Редагувати Зупинку...</target>
+    </trans-unit>
+    <trans-unit id="functionBreakpointsNotSupported">
+      <source xml:lang="en">Function breakpoints are not supported by this debug type</source><target>Функція зупинки не підтримує цей тип налагодження</target>
+    </trans-unit>
+    <trans-unit id="functionBreakpointPlaceholder">
+      <source xml:lang="en">Function to break on</source><target>Функції розбити на</target>
+    </trans-unit>
+    <trans-unit id="functionBreakPointInputAriaLabel">
+      <source xml:lang="en">Type function breakpoint</source><target>Тип функції зупинки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/watchExpressionsView" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="expressionsSection">
+      <source xml:lang="en">Expressions Section</source><target>Розділ Вираження</target>
+    </trans-unit>
+    <trans-unit id="watchAriaTreeLabel">
+      <source xml:lang="en">Debug Watch Expressions</source><target>Налагодження дивитися вирази</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="watchExpressionPlaceholder">
+      <source xml:lang="en">Expression to watch</source><target>Вираз дивитися</target>
+    </trans-unit>
+    <trans-unit id="watchExpressionInputAriaLabel">
+      <source xml:lang="en">Type watch expression</source><target>Тип дивитися вираз</target>
+    </trans-unit>
+    <trans-unit id="watchExpressionAriaLabel">
+      <source xml:lang="en">{0} value {1}, watch, debug</source><target>{0} значення {1}, дивитися, налагодження</target>
+    </trans-unit>
+    <trans-unit id="watchVariableAriaLabel">
+      <source xml:lang="en">{0} value {1}, watch, debug</source><target>{0} значення {1}, дивитися, налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/common/debug" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="internalConsoleOptions">
+      <source xml:lang="en">Controls behavior of the internal debug console.</source><target>Контролює поведінку консолі внутрішнього налагодження.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugEditorModelManager" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="breakpointDisabledHover">
+      <source xml:lang="en">Disabled Breakpoint</source><target>Точки Зупинки Відключені</target>
+    </trans-unit>
+    <trans-unit id="breakpointUnverifieddHover">
+      <source xml:lang="en">Unverified Breakpoint</source><target>Неперевірена точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="breakpointDirtydHover">
+      <source xml:lang="en">Unverified breakpoint. File is modified, please restart debug session.</source><target>Неперевірені точки зупинки. Файл змінено, необхідно перезавантажити сеанс налагодження.</target>
+    </trans-unit>
+    <trans-unit id="breakpointUnsupported">
+      <source xml:lang="en">Conditional breakpoints not supported by this debug type</source><target>Умовні точки зупинки не підтримуються цим типом налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugActionsWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="debugToolBarBackground">
+      <source xml:lang="en">Debug toolbar background color.</source><target>Фоновий колір панелі інструментів Налагодження.</target>
+    </trans-unit>
+    <trans-unit id="debugToolBarBorder">
+      <source xml:lang="en">Debug toolbar border color.</source><target>Колір рамки панелі інструментів Налагодження.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openLaunchJson">
+      <source xml:lang="en">Open {0}</source><target>Відкрити {0}</target>
+    </trans-unit>
+    <trans-unit id="launchJsonNeedsConfigurtion">
+      <source xml:lang="en">Configure or Fix 'launch.json'</source><target>Налаштувати або виправити 'launch.json'</target>
+    </trans-unit>
+    <trans-unit id="noFolderDebugConfig">
+      <source xml:lang="en">Please first open a folder in order to do advanced debug configuration.</source><target>Будь ласка, спочатку відкрийте папку для того, щоб зробити додаткові параметри налагодження.</target>
+    </trans-unit>
+    <trans-unit id="startDebug">
+      <source xml:lang="en">Start Debugging</source><target>Почати Налагодження</target>
+    </trans-unit>
+    <trans-unit id="startWithoutDebugging">
+      <source xml:lang="en">Start Without Debugging</source><target>Запуск Без Налагодження</target>
+    </trans-unit>
+    <trans-unit id="selectAndStartDebugging">
+      <source xml:lang="en">Select and Start Debugging</source><target>Вибрати й почати налагодження</target>
+    </trans-unit>
+    <trans-unit id="restartDebug">
+      <source xml:lang="en">Restart</source><target>Перезавантаження</target>
+    </trans-unit>
+    <trans-unit id="reconnectDebug">
+      <source xml:lang="en">Reconnect</source><target>Повторне підключення</target>
+    </trans-unit>
+    <trans-unit id="stepOverDebug">
+      <source xml:lang="en">Step Over</source><target>Переступити</target>
+    </trans-unit>
+    <trans-unit id="stepIntoDebug">
+      <source xml:lang="en">Step Into</source><target>Крок у</target>
+    </trans-unit>
+    <trans-unit id="stepOutDebug">
+      <source xml:lang="en">Step Out</source><target>Вийти</target>
+    </trans-unit>
+    <trans-unit id="stopDebug">
+      <source xml:lang="en">Stop</source><target>Зупинити</target>
+    </trans-unit>
+    <trans-unit id="disconnectDebug">
+      <source xml:lang="en">Disconnect</source><target>Від'єднати</target>
+    </trans-unit>
+    <trans-unit id="continueDebug">
+      <source xml:lang="en">Continue</source><target>Продовжити</target>
+    </trans-unit>
+    <trans-unit id="pauseDebug">
+      <source xml:lang="en">Pause</source><target>Пауза</target>
+    </trans-unit>
+    <trans-unit id="restartFrame">
+      <source xml:lang="en">Restart Frame</source><target>Перезавантаження Кадру</target>
+    </trans-unit>
+    <trans-unit id="removeBreakpoint">
+      <source xml:lang="en">Remove Breakpoint</source><target>Видалити Точку Зупину</target>
+    </trans-unit>
+    <trans-unit id="removeAllBreakpoints">
+      <source xml:lang="en">Remove All Breakpoints</source><target>Видалити Всі Точки Зупинки</target>
+    </trans-unit>
+    <trans-unit id="enableBreakpoint">
+      <source xml:lang="en">Enable Breakpoint</source><target>Включити Точку Зупину</target>
+    </trans-unit>
+    <trans-unit id="disableBreakpoint">
+      <source xml:lang="en">Disable Breakpoint</source><target>Відключити Точку Зупину</target>
+    </trans-unit>
+    <trans-unit id="enableAllBreakpoints">
+      <source xml:lang="en">Enable All Breakpoints</source><target>Увімкнути всі точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="disableAllBreakpoints">
+      <source xml:lang="en">Disable All Breakpoints</source><target>Вимкнути Всі Точки Зупинки</target>
+    </trans-unit>
+    <trans-unit id="activateBreakpoints">
+      <source xml:lang="en">Activate Breakpoints</source><target>Активувати Точки Зупинки</target>
+    </trans-unit>
+    <trans-unit id="deactivateBreakpoints">
+      <source xml:lang="en">Deactivate Breakpoints</source><target>Деактивувати точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="reapplyAllBreakpoints">
+      <source xml:lang="en">Reapply All Breakpoints</source><target>Повторно застосувати всі точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="addFunctionBreakpoint">
+      <source xml:lang="en">Add Function Breakpoint</source><target>Додати Функцію Зупинки</target>
+    </trans-unit>
+    <trans-unit id="addConditionalBreakpoint">
+      <source xml:lang="en">Add Conditional Breakpoint...</source><target>Додати Умовну Точку Зупину...</target>
+    </trans-unit>
+    <trans-unit id="editConditionalBreakpoint">
+      <source xml:lang="en">Edit Breakpoint...</source><target>Редагувати Зупинку...</target>
+    </trans-unit>
+    <trans-unit id="setValue">
+      <source xml:lang="en">Set Value</source><target>Встановиити значення</target>
+    </trans-unit>
+    <trans-unit id="addWatchExpression">
+      <source xml:lang="en">Add Expression</source><target>Додати вираз</target>
+    </trans-unit>
+    <trans-unit id="editWatchExpression">
+      <source xml:lang="en">Edit Expression</source><target>Редагування виразу</target>
+    </trans-unit>
+    <trans-unit id="addToWatchExpressions">
+      <source xml:lang="en">Add to Watch</source><target>Додати до спостереження</target>
+    </trans-unit>
+    <trans-unit id="removeWatchExpression">
+      <source xml:lang="en">Remove Expression</source><target>Видалити вираз</target>
+    </trans-unit>
+    <trans-unit id="removeAllWatchExpressions">
+      <source xml:lang="en">Remove All Expressions</source><target>Видалити всі вирази</target>
+    </trans-unit>
+    <trans-unit id="clearRepl">
+      <source xml:lang="en">Clear Console</source><target>Очистити консоль</target>
+    </trans-unit>
+    <trans-unit id="debugConsoleAction">
+      <source xml:lang="en">Debug Console</source><target>Консоль Налагодження</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="unreadOutput">
+      <source xml:lang="en">New Output in Debug Console</source><target>Новий вихід у налагодження консолі</target>
+    </trans-unit>
+    <trans-unit id="debugFocusConsole">
+      <source xml:lang="en">Focus Debug Console</source><target>Фокус налагодження консолі</target>
+      <note>Debug is a noun in this context, not a verb.</note>
+    </trans-unit>
+    <trans-unit id="focusProcess">
+      <source xml:lang="en">Focus Process</source><target>Фокус Процесу</target>
+    </trans-unit>
+    <trans-unit id="stepBackDebug">
+      <source xml:lang="en">Step Back</source><target>Крок Назад</target>
+    </trans-unit>
+    <trans-unit id="reverseContinue">
+      <source xml:lang="en">Reverse</source><target>Реверс</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugContentProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="unable">
+      <source xml:lang="en">Unable to resolve the resource without a debug session</source><target>Неможливо вирішити ресурс без сеансу налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debugCommands" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noFolderDebugConfig">
+      <source xml:lang="en">Please first open a folder in order to do advanced debug configuration.</source><target>Будь ласка, спочатку відкрийте папку для того, щоб зробити додаткові параметри налагодження.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/statusbarColorProvider" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="statusBarDebuggingBackground">
+      <source xml:lang="en">Status bar background color when a program is being debugged. The status bar is shown in the bottom of the window</source><target>Колір фону панелі статусу під час налагодження програми. Стрічка стану відображається у нижній частині вікна</target>
+    </trans-unit>
+    <trans-unit id="statusBarDebuggingForeground">
+      <source xml:lang="en">Status bar foreground color when a program is being debugged. The status bar is shown in the bottom of the window</source><target>Колір переднього плану панелі стану при налагодженні програми. Стрічка стану відображається у нижній частині вікна</target>
+    </trans-unit>
+    <trans-unit id="statusBarDebuggingBorder">
+      <source xml:lang="en">Status bar border color separating to the sidebar and editor when a program is being debugged. The status bar is shown in the bottom of the window</source><target>Колір рамки панелі стану при налагодженні програми. Стрічка стану відображається у нижній частині вікна</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugStatus" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="selectAndStartDebug">
+      <source xml:lang="en">Select and start debug configuration</source><target>Виберіть і запустіть конфігурацію debug</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debugService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="snapshotObj">
+      <source xml:lang="en">Only primitive values are shown for this object.</source><target>Для цього об'єкта відображаються лише примітивні значення.</target>
+    </trans-unit>
+    <trans-unit id="debuggingPaused">
+      <source xml:lang="en">Debugging paused, reason {0}, {1} {2}</source><target>Налагодження призупиненого, причина {0}, {1} (2)</target>
+    </trans-unit>
+    <trans-unit id="debuggingStarted">
+      <source xml:lang="en">Debugging started.</source><target>Налагодження почалося.</target>
+    </trans-unit>
+    <trans-unit id="debuggingStopped">
+      <source xml:lang="en">Debugging stopped.</source><target>Налагодження зупиненно.</target>
+    </trans-unit>
+    <trans-unit id="breakpointAdded">
+      <source xml:lang="en">Added breakpoint, line {0}, file {1}</source><target>Додана точка зупинки, рядок {0}, файл {1}</target>
+    </trans-unit>
+    <trans-unit id="breakpointRemoved">
+      <source xml:lang="en">Removed breakpoint, line {0}, file {1}</source><target>Видалити точку зупину, рядок {0}, файл {1}</target>
+    </trans-unit>
+    <trans-unit id="compoundMustHaveConfigurations">
+      <source xml:lang="en">Compound must have "configurations" attribute set in order to start multiple configurations.</source><target>З'єднання повинне мати атрибут "configurations", встановлений для запуску декількох конфігурацій.</target>
+      <note>compound indicates a "compounds" configuration item
+"configurations" is an attribute and should not be localized</note>
+    </trans-unit>
+    <trans-unit id="configMissing">
+      <source xml:lang="en">Configuration '{0}' is missing in 'launch.json'.</source><target>Конфігурація "{0}" відсутня в 'launch.json'.</target>
+    </trans-unit>
+    <trans-unit id="launchJsonDoesNotExist">
+      <source xml:lang="en">'launch.json' does not exist.</source><target>'launch.json' не існує.</target>
+    </trans-unit>
+    <trans-unit id="debugRequestNotSupported">
+      <source xml:lang="en">Attribute `{0}` has an unsupported value '{1}' in the chosen debug configuration.</source><target>Атрибут `{0}` має неприпустиме значення '{1}' в обраній конфігурації налагодження.</target>
+    </trans-unit>
+    <trans-unit id="debugRequesMissing">
+      <source xml:lang="en">Attribute '{0}' is missing from the chosen debug configuration.</source><target>Атрибут '{0}' відсутній в обраної конфігурації налагодження.</target>
+    </trans-unit>
+    <trans-unit id="debugTypeNotSupported">
+      <source xml:lang="en">Configured debug type '{0}' is not supported.</source><target>Налаштований тип налагодження '{0}' не підтримується.</target>
+    </trans-unit>
+    <trans-unit id="debugTypeMissing">
+      <source xml:lang="en">Missing property `type` for the chosen launch configuration.</source><target>Відсутня властивість 'type' для обраної запуску конфігурації.</target>
+    </trans-unit>
+    <trans-unit id="debugAnyway">
+      <source xml:lang="en">Debug Anyway</source><target>У всякому разі налагодження</target>
+    </trans-unit>
+    <trans-unit id="preLaunchTaskErrors">
+      <source xml:lang="en">Build errors have been detected during preLaunchTask '{0}'.</source><target>Помилки побудови були виявлені під час preLaunchTask "{0}".</target>
+    </trans-unit>
+    <trans-unit id="preLaunchTaskError">
+      <source xml:lang="en">Build error has been detected during preLaunchTask '{0}'.</source><target>Помилка побудови була виявлена під час preLaunchTask "{0}".</target>
+    </trans-unit>
+    <trans-unit id="preLaunchTaskExitCode">
+      <source xml:lang="en">The preLaunchTask '{0}' terminated with exit code {1}.</source><target>preLaunchTask '{0}' завершено з кодом виходу {1}.</target>
+    </trans-unit>
+    <trans-unit id="noFolderWorkspaceDebugError">
+      <source xml:lang="en">The active file can not be debugged. Make sure it is saved on disk and that you have a debug extension installed for that file type.</source><target>Активний файл не може бути налагоджений. Переконайтеся, що він збережений на диску і що у вас є розширення налагодження встановлених для цього типу файлів.</target>
+    </trans-unit>
+    <trans-unit id="NewLaunchConfig">
+      <source xml:lang="en">Please set up the launch configuration file for your application. {0}</source><target>Будь ласка налаштуйте файл конфігурації запуску для вашої програми. {0}</target>
+    </trans-unit>
+    <trans-unit id="DebugTaskNotFound">
+      <source xml:lang="en">Could not find the preLaunchTask '{0}'.</source><target>Не вдалося знайти preLaunchTask '{0}'.</target>
+    </trans-unit>
+    <trans-unit id="taskNotTracked">
+      <source xml:lang="en">The preLaunchTask '{0}' cannot be tracked.</source><target>PreLaunchTask '{0}' неможливо відстежити.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debugEditorContribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="removeBreakpoints">
+      <source xml:lang="en">Remove Breakpoints</source><target>Видалити точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="removeBreakpointOnColumn">
+      <source xml:lang="en">Remove Breakpoint on Column {0}</source><target>Видалити точку зупину на стовпець {0}</target>
+    </trans-unit>
+    <trans-unit id="removeLineBreakpoint">
+      <source xml:lang="en">Remove Line Breakpoint</source><target>Видалити Точки Зупину Лінії</target>
+    </trans-unit>
+    <trans-unit id="editBreakpoints">
+      <source xml:lang="en">Edit Breakpoints</source><target>Редагувати точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="editBreakpointOnColumn">
+      <source xml:lang="en">Edit Breakpoint on Column {0}</source><target>Редагувати точку зупинки у стовпці {0}</target>
+    </trans-unit>
+    <trans-unit id="editLineBrekapoint">
+      <source xml:lang="en">Edit Line Breakpoint</source><target>Редагувати рядок точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="enableDisableBreakpoints">
+      <source xml:lang="en">Enable/Disable Breakpoints</source><target>Включення/Відключення точок зупинки</target>
+    </trans-unit>
+    <trans-unit id="disableColumnBreakpoint">
+      <source xml:lang="en">Disable Breakpoint on Column {0}</source><target>Відключити точку зупинки у стовпці {0}</target>
+    </trans-unit>
+    <trans-unit id="disableBreakpointOnLine">
+      <source xml:lang="en">Disable Line Breakpoint</source><target>Відключити точку зупинки рядку</target>
+    </trans-unit>
+    <trans-unit id="enableBreakpoints">
+      <source xml:lang="en">Enable Breakpoint on Column {0}</source><target>Включити точку зупинки у стовпці {0}</target>
+    </trans-unit>
+    <trans-unit id="enableBreakpointOnLine">
+      <source xml:lang="en">Enable Line Breakpoint</source><target>Включити точку зупинки рядку</target>
+    </trans-unit>
+    <trans-unit id="addBreakpoint">
+      <source xml:lang="en">Add Breakpoint</source><target>Додати Точку Зупину</target>
+    </trans-unit>
+    <trans-unit id="addConfiguration">
+      <source xml:lang="en">Add Configuration...</source><target>Додати конфігурацію...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/replViewer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="stateCapture">
+      <source xml:lang="en">Object state is captured from first evaluation</source><target>Стан об'єкта фіксується від першої оцінки</target>
+    </trans-unit>
+    <trans-unit id="replVariableAriaLabel">
+      <source xml:lang="en">Variable {0} has value {1}, read eval print loop, debug</source><target>Змінна {0} має значення {1}, читати цикл друку эвал налагодження</target>
+    </trans-unit>
+    <trans-unit id="replExpressionAriaLabel">
+      <source xml:lang="en">Expression {0} has value {1}, read eval print loop, debug</source><target>Вираз {0} має значення {1}, читати цикл друку эвал налагодження</target>
+    </trans-unit>
+    <trans-unit id="replValueOutputAriaLabel">
+      <source xml:lang="en">{0}, read eval print loop, debug</source><target>{0}, читати цикл друку эвал налагодження</target>
+    </trans-unit>
+    <trans-unit id="replRawObjectAriaLabel">
+      <source xml:lang="en">Repl variable {0} has value {1}, read eval print loop, debug</source><target>Змінні витрат {0} має значення {1}, читати цикл друку эвал налагодження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/debugActionItems" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noConfigurations">
+      <source xml:lang="en">No Configurations</source><target>Жодних Конфігурацій</target>
+    </trans-unit>
+    <trans-unit id="addConfigTo">
+      <source xml:lang="en">Add Config ({0})...</source><target>Додати конфігурацію ({0})...</target>
+    </trans-unit>
+    <trans-unit id="addConfiguration">
+      <source xml:lang="en">Add Configuration...</source><target>Додати конфігурацію...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/common/debugModel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="notAvailable">
+      <source xml:lang="en">not available</source><target>не доступний</target>
+    </trans-unit>
+    <trans-unit id="startDebugFirst">
+      <source xml:lang="en">Please start a debug session to evaluate</source><target>Будь ласка, почніть сеанс налагодження, щоб оцінити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/electronDebugActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="copyValue">
+      <source xml:lang="en">Copy Value</source><target>Скопіювати значення</target>
+    </trans-unit>
+    <trans-unit id="copy">
+      <source xml:lang="en">Copy</source><target>Скопіювати</target>
+    </trans-unit>
+    <trans-unit id="copyAll">
+      <source xml:lang="en">Copy All</source><target>Скопіювати Всі</target>
+    </trans-unit>
+    <trans-unit id="copyStackTrace">
+      <source xml:lang="en">Copy Call Stack</source><target>Стек Викликів Копія</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/rawDebugSession" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="moreInfo">
+      <source xml:lang="en">More Info</source><target>Детальніше</target>
+    </trans-unit>
+    <trans-unit id="unableToLaunchDebugAdapter">
+      <source xml:lang="en">Unable to launch debug adapter from '{0}'.</source><target>Не вдається запустити налагодження адаптер від "{0}".</target>
+    </trans-unit>
+    <trans-unit id="unableToLaunchDebugAdapterNoArgs">
+      <source xml:lang="en">Unable to launch debug adapter.</source><target>Не вдається запустити налагодження адаптера.</target>
+    </trans-unit>
+    <trans-unit id="stoppingDebugAdapter">
+      <source xml:lang="en">{0}. Stopping the debug adapter.</source><target>{0}. зупинки debug адаптера.</target>
+    </trans-unit>
+    <trans-unit id="debugAdapterCrash">
+      <source xml:lang="en">Debug adapter process has terminated unexpectedly</source><target>Процес адаптеру налагодження було несподівано перервано</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/common/debugSource" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="unknownSource">
+      <source xml:lang="en">Unknown Source</source><target>Невідоме джерело</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debugHover" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">Debug Hover</source><target>Налагодження Hover</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/breakpointWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="breakpointWidgetExpressionPlaceholder">
+      <source xml:lang="en">Break when expression evaluates to true. 'Enter' to accept, 'esc' to cancel.</source><target>Перерва, якщо вираз має значення true. 'Enter' - прийняти, 'esc' щоб скасувати.</target>
+    </trans-unit>
+    <trans-unit id="breakpointWidgetAriaLabel">
+      <source xml:lang="en">The program will only stop here if this condition is true. Press Enter to accept or Escape to cancel.</source><target>Програма буде зупинятися тільки тут, якщо виконується така умова. Натисніть клавішу Enter для підтвердження або ESC, щоб скасувати.</target>
+    </trans-unit>
+    <trans-unit id="breakpointWidgetHitCountPlaceholder">
+      <source xml:lang="en">Break when hit count condition is met. 'Enter' to accept, 'esc' to cancel.</source><target>Перерва коли досягнуто кількості умов hit лічильника.  'Enter' - прийняти, 'esc' щоб скасувати.</target>
+    </trans-unit>
+    <trans-unit id="breakpointWidgetHitCountAriaLabel">
+      <source xml:lang="en">The program will only stop here if the hit count is met. Press Enter to accept or Escape to cancel.</source><target>Програма буде зупинятися тільки тут, якщо досягнуто кількості hit лічильника. Натисніть клавішу Enter для підтвердження або ESC, щоб скасувати.</target>
+    </trans-unit>
+    <trans-unit id="expression">
+      <source xml:lang="en">Expression</source><target>Вираз</target>
+    </trans-unit>
+    <trans-unit id="hitCount">
+      <source xml:lang="en">Hit Count</source><target>Хіт лічильник</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/exceptionWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="debugExceptionWidgetBorder">
+      <source xml:lang="en">Exception widget border color.</source><target>Виключення елемента керування колір рамки.</target>
+    </trans-unit>
+    <trans-unit id="debugExceptionWidgetBackground">
+      <source xml:lang="en">Exception widget background color.</source><target>Колір фону віджету винятку.</target>
+    </trans-unit>
+    <trans-unit id="exceptionThrownWithId">
+      <source xml:lang="en">Exception has occurred: {0}</source><target>Виняток відбувся: {0}</target>
+    </trans-unit>
+    <trans-unit id="exceptionThrown">
+      <source xml:lang="en">Exception has occurred.</source><target>Виключення відбулося.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/debugConfigurationManager" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="vscode.extension.contributes.debuggers">
+      <source xml:lang="en">Contributes debug adapters.</source><target>Сприяє налагодження адаптерів.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.type">
+      <source xml:lang="en">Unique identifier for this debug adapter.</source><target>Унікальний ідентифікатор для цього адаптера налагодження.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.label">
+      <source xml:lang="en">Display name for this debug adapter.</source><target>Коротке ім'я для цього адаптера налагодження.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.program">
+      <source xml:lang="en">Path to the debug adapter program. Path is either absolute or relative to the extension folder.</source><target>Шлях до адаптеру налагодження програми. Шлях абсолютним або відносним до папки розширення.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.args">
+      <source xml:lang="en">Optional arguments to pass to the adapter.</source><target>Додаткові аргументи для передачі в адаптер.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.runtime">
+      <source xml:lang="en">Optional runtime in case the program attribute is not an executable but requires a runtime.</source><target>Необов'язково під час виконання у разі, якщо атрибут програми не є виконуваним, але вимагає виконання.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.runtimeArgs">
+      <source xml:lang="en">Optional runtime arguments.</source><target>Необов'язкові аргументи під час виконання.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.variables">
+      <source xml:lang="en">Mapping from interactive variables (e.g ${action.pickProcess}) in `launch.json` to a command.</source><target>Зіставлення з інтерактивними змінними (наприклад ${action.pickProcess}) в 'launch.json' до команди.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.initialConfigurations">
+      <source xml:lang="en">Configurations for generating the initial 'launch.json'.</source><target>Конфігурації для генерації початкового 'launch.json'.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.languages">
+      <source xml:lang="en">List of languages for which the debug extension could be considered the "default debugger".</source><target>Список мов, для яких розширення налагодження можна вважати "типовий відладчик".</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.adapterExecutableCommand">
+      <source xml:lang="en">If specified VS Code will call this command to determine the executable path of the debug adapter and the arguments to pass.</source><target>Якщо вказаний VS Code закликає цю команду визначити виконуваний шлях адаптера налагодження та аргументи для передачі.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.configurationSnippets">
+      <source xml:lang="en">Snippets for adding new configurations in 'launch.json'.</source><target>Фрагменти для додавання нових конфігурацій в 'launch.json'.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.configurationAttributes">
+      <source xml:lang="en">JSON schema configurations for validating 'launch.json'.</source><target>JSON схему конфігураціях для перевірки 'launch.json'.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.windows">
+      <source xml:lang="en">Windows specific settings.</source><target>Конкретні параметри Windows.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.windows.runtime">
+      <source xml:lang="en">Runtime used for Windows.</source><target>Середовище виконання для Windows.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.osx">
+      <source xml:lang="en">OS X specific settings.</source><target>Конкретні параметри ОС х.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.osx.runtime">
+      <source xml:lang="en">Runtime used for OSX.</source><target>Виконання, що використовуються для OSX.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.linux">
+      <source xml:lang="en">Linux specific settings.</source><target>Специфічні налаштування ОС Linux.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.debuggers.linux.runtime">
+      <source xml:lang="en">Runtime used for Linux.</source><target>Середовище виконання для Linux.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.breakpoints">
+      <source xml:lang="en">Contributes breakpoints.</source><target>Сприяє точці зупинки.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.breakpoints.language">
+      <source xml:lang="en">Allow breakpoints for this language.</source><target>Дозволити точки зупинки для цієї мови.</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.title">
+      <source xml:lang="en">Launch</source><target>Запуск</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.version">
+      <source xml:lang="en">Version of this file format.</source><target>Версія цього формату файлів.</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.configurations">
+      <source xml:lang="en">List of configurations. Add new configurations or edit existing ones by using IntelliSense.</source><target>Список конфігурацій. Додати нові конфігурації або редагувати вже існуючі за допомогою intellisense.</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.compounds">
+      <source xml:lang="en">List of compounds. Each compound references multiple configurations which will get launched together.</source><target>Список сполучень. Кожне сполучення посилається на кілька конфігурацій, які запускаються разом.</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.compound.name">
+      <source xml:lang="en">Name of compound. Appears in the launch configuration drop down menu.</source><target>Назва сполучення. З'являється в запуску конфігурації випадаючого меню.</target>
+    </trans-unit>
+    <trans-unit id="app.launch.json.compounds.configurations">
+      <source xml:lang="en">Names of configurations that will be started as part of this compound.</source><target>Імена конфігурацій, які будуть запущені в рамках цього сполучення.</target>
+    </trans-unit>
+    <trans-unit id="debugNoType">
+      <source xml:lang="en">Debug adapter 'type' can not be omitted and must be of type 'string'.</source><target>Тип адаптеру налагодження не може бути пропущено і має належати до типу "рядок".</target>
+    </trans-unit>
+    <trans-unit id="selectDebug">
+      <source xml:lang="en">Select Environment</source><target>Виберіть Середовище</target>
+    </trans-unit>
+    <trans-unit id="DebugConfig.failed">
+      <source xml:lang="en">Unable to create 'launch.json' file inside the '.vscode' folder ({0}).</source><target>Не вдалося створити файл 'launch.json'  всередині '.vscode' папки ({0}).</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/browser/linkDetector" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="fileLinkMac">
+      <source xml:lang="en">Click to follow (Cmd + click opens to the side)</source><target>Натисніть, щоб слідувати (Cmd + клік відкриється збоку)</target>
+    </trans-unit>
+    <trans-unit id="fileLink">
+      <source xml:lang="en">Click to follow (Ctrl + click opens to the side)</source><target>Натисніть, щоб слідувати  (Ctrl + клік відкриється збоку)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/electron-browser/terminalSupport" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="debug.terminal.title">
+      <source xml:lang="en">debuggee</source><target>відладчик</target>
+    </trans-unit>
+    <trans-unit id="debug.terminal.not.available.error">
+      <source xml:lang="en">Integrated terminal not available</source><target>Інтегрований термінал не доступний</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/debug/node/debugAdapter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="debugAdapterBinNotFound">
+      <source xml:lang="en">Debug adapter executable '{0}' does not exist.</source><target>Адаптер налагодження виконуваного файлу '{0}' не існує.</target>
+    </trans-unit>
+    <trans-unit id="debugAdapterCannotDetermineExecutable">
+      <source xml:lang="en">Cannot determine executable for debug adapter '{0}'.</source><target>Не вдалося визначити виконуваний файл для адаптеру налагодження '{0}'.</target>
+      <note>Adapter executable file not found</note>
+    </trans-unit>
+    <trans-unit id="launch.config.comment1">
+      <source xml:lang="en">Use IntelliSense to learn about possible attributes.</source><target>Використовувати intellisense, щоб дізнатися про можливі атрибутів.</target>
+    </trans-unit>
+    <trans-unit id="launch.config.comment2">
+      <source xml:lang="en">Hover to view descriptions of existing attributes.</source><target>Наведіть для перегляду опису існуючих атрибутів.</target>
+    </trans-unit>
+    <trans-unit id="launch.config.comment3">
+      <source xml:lang="en">For more information, visit: {0}</source><target>Для отримання додаткової інформації, відвідайте: {0}</target>
+    </trans-unit>
+    <trans-unit id="debugType">
+      <source xml:lang="en">Type of configuration.</source><target>Тип конфігурації.</target>
+    </trans-unit>
+    <trans-unit id="debugTypeNotRecognised">
+      <source xml:lang="en">The debug type is not recognized. Make sure that you have a corresponding debug extension installed and that it is enabled.</source><target>Тип Налагодження не розпізнано. Переконайтеся, що у вас встановлено відповідне розширення налагодження і що воно включене.</target>
+    </trans-unit>
+    <trans-unit id="node2NotSupported">
+      <source xml:lang="en">"node2" is no longer supported, use "node" instead and set the "protocol" attribute to "inspector".</source><target>"node2" не підтримується, натомість Використовуйте "node" та встановіть атрибут "protocol" до "inspector".</target>
+    </trans-unit>
+    <trans-unit id="debugName">
+      <source xml:lang="en">Name of configuration; appears in the launch configuration drop down menu.</source><target>Назва конфігурації; з'являється при запуску конфігурації в випадаючому меню.</target>
+    </trans-unit>
+    <trans-unit id="debugRequest">
+      <source xml:lang="en">Request type of configuration. Can be "launch" or "attach".</source><target>Тип запиту конфігурації. Можна "запустити" або "прикріпити".</target>
+    </trans-unit>
+    <trans-unit id="debugServer">
+      <source xml:lang="en">For debug extension development only: if a port is specified VS Code tries to connect to a debug adapter running in server mode</source><target>Для налагодження розвитку розширення тільки: якщо зазначений порт VS Code намагається підключитися до адаптера налагодження, що працює в режимі сервера</target>
+    </trans-unit>
+    <trans-unit id="debugPrelaunchTask">
+      <source xml:lang="en">Task to run before debug session starts.</source><target>Завдання для виконання перед початком сесії налагодження починається.</target>
+    </trans-unit>
+    <trans-unit id="debugWindowsConfiguration">
+      <source xml:lang="en">Windows specific launch configuration attributes.</source><target>Специфічні Windows атрибути налаштування запуску.</target>
+    </trans-unit>
+    <trans-unit id="debugOSXConfiguration">
+      <source xml:lang="en">OS X specific launch configuration attributes.</source><target>Конкретні ОС x атрибути конфігурація запуску.</target>
+    </trans-unit>
+    <trans-unit id="debugLinuxConfiguration">
+      <source xml:lang="en">Linux specific launch configuration attributes.</source><target>Спеціальні Linux атрибути конфігурації запуску.</target>
+    </trans-unit>
+    <trans-unit id="deprecatedVariables">
+      <source xml:lang="en">'env.', 'config.' and 'command.' are deprecated, use 'env:', 'config:' and 'command:' instead.</source><target>'env.', 'config.' і 'command.'  є застарілими, використовуйте краще 'env:', 'config:' and 'command:'.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

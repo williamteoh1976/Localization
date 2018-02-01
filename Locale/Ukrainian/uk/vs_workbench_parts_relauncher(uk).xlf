@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/relauncher/electron-browser/relauncher.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="relaunchSettingMessage">
+      <source xml:lang="en">A setting has changed that requires a restart to take effect.</source><target>Параметр був змінений, що вимагає перезавантаження для застосування.</target>
+    </trans-unit>
+    <trans-unit id="relaunchSettingDetail">
+      <source xml:lang="en">Press the restart button to restart {0} and enable the setting.</source><target>Натисніть кнопку перезавантаження, щоб перезавантажити {0} і увімкнути параметр.</target>
+    </trans-unit>
+    <trans-unit id="restart">
+      <source xml:lang="en">&amp;&amp;Restart</source><target>&amp;&amp;Перезавантаження</target>
+    </trans-unit>
+  </body></file>
+</xliff>

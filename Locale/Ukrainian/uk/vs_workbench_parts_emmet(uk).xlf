@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/emmet/electron-browser/actions/expandAbbreviation" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="expandAbbreviationAction">
+      <source xml:lang="en">Emmet: Expand Abbreviation</source><target>Еммет: Розгорніть Абревіатуру</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/emmet/browser/actions/showEmmetCommands" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="showEmmetCommands">
+      <source xml:lang="en">Show Emmet Commands</source><target>Показати Еммет Команди</target>
+    </trans-unit>
+  </body></file>
+</xliff>

@@ -1,0 +1,1393 @@
+<?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/platform/actions/electron-browser/menusExtensionPoint" source-language="en" target-language="uk"><body>
+    <trans-unit id="requirearray">
+      <source xml:lang="en">menu items must be an array</source>
+      <target>елементи меню повинні бути масивом</target>
+    </trans-unit>
+    <trans-unit id="requirestring">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і повинна мати тип `string`</target>
+    </trans-unit>
+    <trans-unit id="optstring">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; може бути опущена або ж повинна мати тип `string`</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.menuItem.command">
+      <source xml:lang="en">Identifier of the command to execute. The command must be declared in the 'commands'-section</source>
+      <target>Ідентифікатор команди, яку потрібно виконати. Ця команда мусить бути оголошена в розділі commands</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.menuItem.alt">
+      <source xml:lang="en">Identifier of an alternative command to execute. The command must be declared in the 'commands'-section</source>
+      <target>Ідентифікатор альтернитивної команди, яку потрібно виконати. Ця команда мусить бути оголошена в розділі commands</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.menuItem.when">
+      <source xml:lang="en">Condition which must be true to show this item</source>
+      <target>Умова, яка мусить мати значення True, щоб відображався цей елемент</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.menuItem.group">
+      <source xml:lang="en">Group into which this command belongs</source>
+      <target>Група до котрої ця команда належить</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.menus">
+      <source xml:lang="en">Contributes menu items to the editor</source>
+      <target>Додає елементи меню в редактора</target>
+    </trans-unit>
+    <trans-unit id="menus.commandPalette">
+      <source xml:lang="en">The Command Palette</source>
+      <target>Палітра команд</target>
+    </trans-unit>
+    <trans-unit id="menus.touchBar">
+      <source xml:lang="en">The touch bar (macOS only)</source>
+      <target>Панель дотику (лише для macOS)</target>
+    </trans-unit>
+    <trans-unit id="menus.editorTitle">
+      <source xml:lang="en">The editor title menu</source>
+      <target>Головне меню редактора</target>
+    </trans-unit>
+    <trans-unit id="menus.editorContext">
+      <source xml:lang="en">The editor context menu</source>
+      <target>Контекстне меню редактора</target>
+    </trans-unit>
+    <trans-unit id="menus.explorerContext">
+      <source xml:lang="en">The file explorer context menu</source>
+      <target>Контекстне меню оглядача файлів</target>
+    </trans-unit>
+    <trans-unit id="menus.editorTabContext">
+      <source xml:lang="en">The editor tabs context menu</source>
+      <target>Контекстне меню вкладок редактора</target>
+    </trans-unit>
+    <trans-unit id="menus.debugCallstackContext">
+      <source xml:lang="en">The debug callstack context menu</source>
+      <target>Контекстне меню стеку викликів при налагодженні</target>
+    </trans-unit>
+    <trans-unit id="menus.scmTitle">
+      <source xml:lang="en">The Source Control title menu</source>
+      <target>Головне меню системи контролю версій</target>
+    </trans-unit>
+    <trans-unit id="menus.scmSourceControl">
+      <source xml:lang="en">The Source Control menu</source>
+      <target>Меню &quot;Система контролю версій&quot;</target>
+    </trans-unit>
+    <trans-unit id="menus.resourceGroupContext">
+      <source xml:lang="en">The Source Control resource group context menu</source>
+      <target>Контекстне меню групи ресурсів для системи контролю версій</target>
+    </trans-unit>
+    <trans-unit id="menus.resourceStateContext">
+      <source xml:lang="en">The Source Control resource state context menu</source>
+      <target>Контекстне меню стану ресурсів для системи контролю версій</target>
+    </trans-unit>
+    <trans-unit id="view.viewTitle">
+      <source xml:lang="en">The contributed view title menu</source>
+      <target>Меню заголовку для вікна учасників</target>
+    </trans-unit>
+    <trans-unit id="view.itemContext">
+      <source xml:lang="en">The contributed view item context menu</source>
+      <target>Контекстне меню елементу для вікна учасників</target>
+    </trans-unit>
+    <trans-unit id="nonempty">
+      <source xml:lang="en">expected non-empty value.</source>
+      <target>очікується НЕпорожнє значення.</target>
+    </trans-unit>
+    <trans-unit id="opticon">
+      <source xml:lang="en">property `icon` can be omitted or must be either a string or a literal like `{dark, light}`</source>
+      <target>властивість 'icon' може бути опущена або мусить бути 'рядком' або літералом, наприклад &quot;{dark, light}&quot;</target>
+    </trans-unit>
+    <trans-unit id="requireStringOrObject">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string` or `object`</source>
+      <target>властивість &quot;{0}&quot; обов'язкова і повинна мати тип &quot;string&quot; або &quot;object&quot;</target>
+    </trans-unit>
+    <trans-unit id="requirestrings">
+      <source xml:lang="en">properties `{0}` and `{1}` are mandatory and must be of type `string`</source>
+      <target>властивості &quot;{0}&quot; і &quot;{1}&quot; обов'язкові та мусять мати тип &quot;string&quot;</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.command">
+      <source xml:lang="en">Identifier of the command to execute</source>
+      <target>Ідентифікатор виконуваної команди</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.title">
+      <source xml:lang="en">Title by which the command is represented in the UI</source>
+      <target>Назва команди в інтерфейсі користувача</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.category">
+      <source xml:lang="en">(Optional) Category string by the command is grouped in the UI</source>
+      <target>(Необов'язково) Рядок категорій, по яким команди групуються в інтерфейсі користувача</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.icon">
+      <source xml:lang="en">(Optional) Icon which is used to represent the command in the UI. Either a file path or a themable configuration</source>
+      <target>(Необов'язково) Значок, який використовується для представлення команди в інтерфейсі користувача. Це шлях до файлу або конфігурація з можливістю застосування тем</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.icon.light">
+      <source xml:lang="en">Icon path when a light theme is used</source>
+      <target>Шлях до значка, якщо використовується світла тема</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commandType.icon.dark">
+      <source xml:lang="en">Icon path when a dark theme is used</source>
+      <target>Шлях до значка, якщо використовується темна тема</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.commands">
+      <source xml:lang="en">Contributes commands to the command palette.</source>
+      <target>Додає команди в палітру команд.</target>
+    </trans-unit>
+    <trans-unit id="dup">
+      <source xml:lang="en">Command `{0}` appears multiple times in the `commands` section.</source>
+      <target>Команда &quot;{0}&quot; зустрічається кілька разів у розділі commands.</target>
+    </trans-unit>
+    <trans-unit id="menuId.invalid">
+      <source xml:lang="en">`{0}` is not a valid menu identifier</source>
+      <target>&quot;{0}&quot; не є припустимим ідентифікатором меню</target>
+    </trans-unit>
+    <trans-unit id="missing.command">
+      <source xml:lang="en">Menu item references a command `{0}` which is not defined in the 'commands' section.</source>
+      <target>Елемент меню посилається на команду &quot;{0}&quot;, яка не визначена в розділі commands.</target>
+    </trans-unit>
+    <trans-unit id="missing.altCommand">
+      <source xml:lang="en">Menu item references an alt-command `{0}` which is not defined in the 'commands' section.</source>
+      <target>Елемент меню посилається на альтернативну команду &quot;{0}&quot;, яка не визначена в розділі commands.</target>
+    </trans-unit>
+    <trans-unit id="dupe.command">
+      <source xml:lang="en">Menu item references the same command as default and alt-command</source>
+      <target>Елемент меню посилається на одну і ту ж команду як команду за замовчуванням та альтернативну команду</target>
+    </trans-unit>
+    <trans-unit id="nosupport.altCommand">
+      <source xml:lang="en">Sorry, but currently only the 'navigation' group of the 'editor/title' menu supports alt-commands</source>
+      <target>Зараз лише группа navigation меню editor/title підтримує альтернативні команди</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/environment/node/argv" source-language="en" target-language="uk"><body>
+    <trans-unit id="gotoValidation">
+      <source xml:lang="en">Arguments in `--goto` mode should be in the format of `FILE(:LINE(:CHARACTER))`.</source>
+      <target>Аргументи в режимі &quot;--goto&quot; повинні бути в форматі &quot;ФАЙЛ(:РЯДОК(:СИМВОЛ))&quot;.</target>
+    </trans-unit>
+    <trans-unit id="diff">
+      <source xml:lang="en">Compare two files with each other.</source>
+      <target>Порівняння двох файлів між собою.</target>
+    </trans-unit>
+    <trans-unit id="add">
+      <source xml:lang="en">Add folder(s) to the last active window.</source>
+      <target>Додавання папок до останнього активного вікна.</target>
+    </trans-unit>
+    <trans-unit id="goto">
+      <source xml:lang="en">Open a file at the path on the specified line and character position.</source>
+      <target>Відкриття файла по заданому шляху з виділенням вказаного символа у вказаному рядкові.</target>
+    </trans-unit>
+    <trans-unit id="locale">
+      <source xml:lang="en">The locale to use (e.g. en-US or zh-TW).</source>
+      <target>Мовний стандарт, який варто використовувати (наприклад, en-US або zh-TW).</target>
+    </trans-unit>
+    <trans-unit id="newWindow">
+      <source xml:lang="en">Force a new instance of Code.</source>
+      <target>Примусово запустити новий екземпляр Code.</target>
+    </trans-unit>
+    <trans-unit id="performance">
+      <source xml:lang="en">Start with the 'Developer: Startup Performance' command enabled.</source>
+      <target>Запустити з включеною командою &quot;Developer: Startup Performance&quot;.</target>
+    </trans-unit>
+    <trans-unit id="prof-startup">
+      <source xml:lang="en">Run CPU profiler during startup</source>
+      <target>Запустити профайлер ЦП при запуску</target>
+    </trans-unit>
+    <trans-unit id="inspect-extensions">
+      <source xml:lang="en">Allow debugging and profiling of extensions. Check the developer tools for the connection uri.</source>
+      <target>Дозволити відладку та профілювання додатків. Перевірте URI підключення для інструментів розробника</target>
+    </trans-unit>
+    <trans-unit id="inspect-brk-extensions">
+      <source xml:lang="en">Allow debugging and profiling of extensions with the extension host being paused after start. Check the developer tools for the connection uri.</source>
+      <target>Дозволити відладку та профілювання додатків, коли вузол додатку призупинений після запуску. Перевірте URI підключення для інструментів розробника </target>
+    </trans-unit>
+    <trans-unit id="reuseWindow">
+      <source xml:lang="en">Force opening a file or folder in the last active window.</source>
+      <target>Примусово відкрити файл або папку в останньому активному вікні.</target>
+    </trans-unit>
+    <trans-unit id="userDataDir">
+      <source xml:lang="en">Specifies the directory that user data is kept in, useful when running as root.</source>
+      <target>Визначає папку, в якій зберігаються дані користувачів, використовується у випадку виконання під назви привілейованого користувача.</target>
+    </trans-unit>
+    <trans-unit id="log">
+      <source xml:lang="en">Log level to use. Default is 'info'. Allowed values are 'critical', 'error', 'warn', 'info', 'debug', 'trace', 'off'.</source>
+      <target>Використовуваний рівень ведення журналу. Значення за замовчуванням — &quot;info&quot;. Допустимі значення: &quot;critical&quot;, &quot;error&quot;, &quot;warn&quot;, &quot;info&quot;, &quot;debug&quot;, &quot;trace&quot;, &quot;off&quot;.</target>
+    </trans-unit>
+    <trans-unit id="verbose">
+      <source xml:lang="en">Print verbose output (implies --wait).</source>
+      <target>Друк докладного виводу (мається на увазі використання параметру &quot;--wait&quot;).</target>
+    </trans-unit>
+    <trans-unit id="wait">
+      <source xml:lang="en">Wait for the files to be closed before returning.</source>
+      <target>Чекати закриття файлів перед поверненням.</target>
+    </trans-unit>
+    <trans-unit id="extensionHomePath">
+      <source xml:lang="en">Set the root path for extensions.</source>
+      <target>Встановіть основний шлях для додатків.</target>
+    </trans-unit>
+    <trans-unit id="listExtensions">
+      <source xml:lang="en">List the installed extensions.</source>
+      <target>Вивести встановлені додатки.</target>
+    </trans-unit>
+    <trans-unit id="showVersions">
+      <source xml:lang="en">Show versions of installed extensions, when using --list-extension.</source>
+      <target>Показати версії встановлених додатків коли доданий параметр --list-extension.</target>
+    </trans-unit>
+    <trans-unit id="installExtension">
+      <source xml:lang="en">Installs an extension.</source>
+      <target>Встановлює додаток.</target>
+    </trans-unit>
+    <trans-unit id="uninstallExtension">
+      <source xml:lang="en">Uninstalls an extension.</source>
+      <target>Видаляє додаток.</target>
+    </trans-unit>
+    <trans-unit id="experimentalApis">
+      <source xml:lang="en">Enables proposed api features for an extension.</source>
+      <target>Включає запропоновані функції API для додатку.</target>
+    </trans-unit>
+    <trans-unit id="disableExtensions">
+      <source xml:lang="en">Disable all installed extensions.</source>
+      <target>Виключити всі встановлені додатки.</target>
+    </trans-unit>
+    <trans-unit id="disableGPU">
+      <source xml:lang="en">Disable GPU hardware acceleration.</source>
+      <target>Виключити апаратне прискорення GPU.</target>
+    </trans-unit>
+    <trans-unit id="status">
+      <source xml:lang="en">Print process usage and diagnostics information.</source>
+      <target>Друк відомостей про використання процесу і діагностичну інформацію.</target>
+    </trans-unit>
+    <trans-unit id="version">
+      <source xml:lang="en">Print version.</source>
+      <target>Друк версії.</target>
+    </trans-unit>
+    <trans-unit id="help">
+      <source xml:lang="en">Print usage.</source>
+      <target>Друк інформації про використання.</target>
+    </trans-unit>
+    <trans-unit id="usage">
+      <source xml:lang="en">Usage</source>
+      <target>Використання</target>
+    </trans-unit>
+    <trans-unit id="options">
+      <source xml:lang="en">options</source>
+      <target>параметри</target>
+    </trans-unit>
+    <trans-unit id="paths">
+      <source xml:lang="en">paths</source>
+      <target>шляхи</target>
+    </trans-unit>
+    <trans-unit id="stdinWindows">
+      <source xml:lang="en">To read output from another program, append '-' (e.g. 'echo Hello World | {0} -')</source>
+      <target>Щоб прочитати вивід з іншої програми, додайте '-' (ось так 'echo Hello World | {0} -')</target>
+    </trans-unit>
+    <trans-unit id="stdinUnix">
+      <source xml:lang="en">To read from stdin, append '-' (e.g. 'ps aux | grep code | {0} -')</source>
+      <target>Щоб прочитати з 'stdin', додайте '-' (наприклад, 'ps aux | grep code | {0} -')</target>
+    </trans-unit>
+    <trans-unit id="optionsUpperCase">
+      <source xml:lang="en">Options</source>
+      <target>Параметри</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/request/node/request" source-language="en" target-language="uk"><body>
+    <trans-unit id="httpConfigurationTitle">
+      <source xml:lang="en">HTTP</source>
+      <target>HTTP</target>
+    </trans-unit>
+    <trans-unit id="proxy">
+      <source xml:lang="en">The proxy setting to use. If not set will be taken from the http_proxy and https_proxy environment variables</source>
+      <target>Використовуваний параметр проксі. Якщо він не заданий, то буде взятий з змінних середовища http_proxy і https_proxy.</target>
+    </trans-unit>
+    <trans-unit id="strictSSL">
+      <source xml:lang="en">Whether the proxy server certificate should be verified against the list of supplied CAs.</source>
+      <target>Чи повинен сертифікат проксі-сервера перевірятися за списком наданих ЦС.</target>
+    </trans-unit>
+    <trans-unit id="proxyAuthorization">
+      <source xml:lang="en">The value to send as the 'Proxy-Authorization' header for every network request.</source>
+      <target>Значення, що відправляється як заголовок &quot;Proxy-Authorization&quot; для кожного мережевого запиту.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/history/electron-main/historyMainService" source-language="en" target-language="uk"><body>
+    <trans-unit id="newWindow">
+      <source xml:lang="en">New Window</source>
+      <target>Нове вікно</target>
+    </trans-unit>
+    <trans-unit id="newWindowDesc">
+      <source xml:lang="en">Opens a new window</source>
+      <target>Відкриває нове вікно</target>
+    </trans-unit>
+    <trans-unit id="recentFolders">
+      <source xml:lang="en">Recent Workspaces</source>
+      <target>Недавні робочі області</target>
+    </trans-unit>
+    <trans-unit id="folderDesc">
+      <source xml:lang="en">{0} {1}</source>
+      <target>{0} {1}</target>
+    </trans-unit>
+    <trans-unit id="codeWorkspace">
+      <source xml:lang="en">Code Workspace</source>
+      <target>Робоча область кода</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/workspaces/common/workspaces" source-language="en" target-language="uk"><body>
+    <trans-unit id="codeWorkspace">
+      <source xml:lang="en">Code Workspace</source>
+      <target>Робоча область кода</target>
+    </trans-unit>
+    <trans-unit id="untitledWorkspace">
+      <source xml:lang="en">Untitled (Workspace)</source>
+      <target>(Робоча область) без назви</target>
+    </trans-unit>
+    <trans-unit id="workspaceNameVerbose">
+      <source xml:lang="en">{0} (Workspace)</source>
+      <target>{0} (робоча область)</target>
+    </trans-unit>
+    <trans-unit id="workspaceName">
+      <source xml:lang="en">{0} (Workspace)</source>
+      <target>{0} (робоча область)</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensionManagement/common/extensionManagement" source-language="en" target-language="uk"><body>
+    <trans-unit id="extensions">
+      <source xml:lang="en">Extensions</source>
+      <target>Додатки</target>
+    </trans-unit>
+    <trans-unit id="preferences">
+      <source xml:lang="en">Preferences</source>
+      <target>Параметри</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensionManagement/node/extensionManagementService" source-language="en" target-language="uk"><body>
+    <trans-unit id="invalidManifest">
+      <source xml:lang="en">Extension invalid: package.json is not a JSON file.</source>
+      <target>Неприпустимий додаток: package.json не є файлом JSON.</target>
+    </trans-unit>
+    <trans-unit id="restartCode">
+      <source xml:lang="en">Please restart Code before reinstalling {0}.</source>
+      <target>Будь ласка, перезавантажте Code перед повторним встановленням {0}.</target>
+    </trans-unit>
+    <trans-unit id="installingOutdatedExtension">
+      <source xml:lang="en">A newer version of this extension is already installed. Would you like to override this with the older version?</source>
+      <target>Уже встановлена більш новіша версія цього додатку. Ви хочете перезаписати її  старішою версією?</target>
+    </trans-unit>
+    <trans-unit id="override">
+      <source xml:lang="en">Override</source>
+      <target>Перезаписати</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source>
+      <target>Відміна</target>
+    </trans-unit>
+    <trans-unit id="notFoundCompatible">
+      <source xml:lang="en">Unable to install '{0}'; there is no available version compatible with VS Code '{1}'.</source>
+      <target>Неможливо встановити '{0}'; немає доступної версії, сумісної з VS Code-ом '{1}'.</target>
+    </trans-unit>
+    <trans-unit id="notFoundCompatibleDependency">
+      <source xml:lang="en">Unable to install because, the depending extension '{0}' compatible with current version '{1}' of VS Code is not found.</source>
+      <target>Не вдається виконати установку, так як не знайдено залежний додаток '{0}', сумісний з поточною версією VS Code '{1}'. </target>
+    </trans-unit>
+    <trans-unit id="quitCode">
+      <source xml:lang="en">Unable to install the extension. Please Quit and Start VS Code before reinstalling.</source>
+      <target>Неможливо встановити додаток. Будь ласка, закрийте і запустіть VS Code перед повторним встановленням.</target>
+    </trans-unit>
+    <trans-unit id="exitCode">
+      <source xml:lang="en">Unable to install the extension. Please Exit and Start VS Code before reinstalling.</source>
+    </trans-unit>
+    <trans-unit id="uninstallDependeciesConfirmation">
+      <source xml:lang="en">Would you like to uninstall '{0}' only or its dependencies also?</source>
+      <target>Ви хочете видалити &quot;{0}&quot; окремо або разом із залежностями?</target>
+    </trans-unit>
+    <trans-unit id="uninstallOnly">
+      <source xml:lang="en">Only</source>
+      <target>Лише</target>
+    </trans-unit>
+    <trans-unit id="uninstallAll">
+      <source xml:lang="en">All</source>
+      <target>Все</target>
+    </trans-unit>
+    <trans-unit id="uninstallConfirmation">
+      <source xml:lang="en">Are you sure you want to uninstall '{0}'?</source>
+      <target>Ви дійсно хочете видалити &quot;{0}&quot;?</target>
+    </trans-unit>
+    <trans-unit id="ok">
+      <source xml:lang="en">OK</source>
+      <target>ОК</target>
+    </trans-unit>
+    <trans-unit id="singleDependentError">
+      <source xml:lang="en">Cannot uninstall extension '{0}'. Extension '{1}' depends on this.</source>
+      <target>Не вдається видалити додаток &quot;{0}&quot;. Від нього залежить додаток &quot;{1}&quot;.</target>
+    </trans-unit>
+    <trans-unit id="twoDependentsError">
+      <source xml:lang="en">Cannot uninstall extension '{0}'. Extensions '{1}' and '{2}' depend on this.</source>
+      <target>Не вдається видалити додаток &quot;{0}&quot;. Від нього залежать додатки &quot;{1}&quot; і &quot;{2}&quot;.</target>
+    </trans-unit>
+    <trans-unit id="multipleDependentsError">
+      <source xml:lang="en">Cannot uninstall extension '{0}'. Extensions '{1}', '{2}' and others depend on this.</source>
+      <target>Не вдається видалити додаток &quot;{0}&quot;. Від нього залежать додатки &quot;{1}&quot;, &quot;{2}&quot; та інші.</target>
+    </trans-unit>
+    <trans-unit id="notExists">
+      <source xml:lang="en">Could not find extension</source>
+      <target>Не вдалося знайти додаток</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensionManagement/node/extensionGalleryService" source-language="en" target-language="uk"><body>
+    <trans-unit id="notCompatibleDownload">
+      <source xml:lang="en">Unable to download because the extension compatible with current version '{0}' of VS Code is not found.</source>
+      <target>Не вдається виконати завантаження, так як не знайдено додаток, сумісний з поточною версією VS Code '{0}'. </target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/telemetry/common/telemetryService" source-language="en" target-language="uk"><body>
+    <trans-unit id="telemetryConfigurationTitle">
+      <source xml:lang="en">Telemetry</source>
+      <target>Телеметрія</target>
+    </trans-unit>
+    <trans-unit id="telemetry.enableTelemetry">
+      <source xml:lang="en">Enable usage data and errors to be sent to Microsoft.</source>
+      <target>Дозволити відправку свідчень про використання й помилки в корпорацію Майкрософт.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/message/common/message" source-language="en" target-language="uk"><body>
+    <trans-unit id="close">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="later">
+      <source xml:lang="en">Later</source>
+      <target>Пізніше</target>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source>
+      <target>Відміна</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensions/common/extensionsRegistry" source-language="en" target-language="uk"><body>
+    <trans-unit id="vscode.extension.engines.vscode">
+      <source xml:lang="en">For VS Code extensions, specifies the VS Code version that the extension is compatible with. Cannot be *. For example: ^0.10.5 indicates compatibility with a minimum VS Code version of 0.10.5.</source>
+      <target>Для додатків VS Code вказує версию VS Code, з якою сумісний додаток. Вона не може бути задана як &quot;*&quot;. Наприклад, ^0.10.5 повідомляє про сумісність з мінімальною версією VS Code 0.10.5.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.publisher">
+      <source xml:lang="en">The publisher of the VS Code extension.</source>
+      <target>Видавець додатку VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.displayName">
+      <source xml:lang="en">The display name for the extension used in the VS Code gallery.</source>
+      <target>Відображається ім'я додатку, яке використовується у галереї VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.categories">
+      <source xml:lang="en">The categories used by the VS Code gallery to categorize the extension.</source>
+      <target>Категорії, що використовуються галереєю VS Code для класифікації додатку.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.galleryBanner">
+      <source xml:lang="en">Banner used in the VS Code marketplace.</source>
+      <target>Банер, що використовується в магазині VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.galleryBanner.color">
+      <source xml:lang="en">The banner color on the VS Code marketplace page header.</source>
+      <target>Колір банера в заголовці сторінки магазину VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.galleryBanner.theme">
+      <source xml:lang="en">The color theme for the font used in the banner.</source>
+      <target>Кольорова тема для шрифта, що використовується у банері.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes">
+      <source xml:lang="en">All contributions of the VS Code extension represented by this package.</source>
+      <target>Всі публикації додатку VS Code, представлені цим пакетом.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.preview">
+      <source xml:lang="en">Sets the extension to be flagged as a Preview in the Marketplace.</source>
+      <target>Додає мітку &quot;Попередня версія&quot; для додатку в Marketplace.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents">
+      <source xml:lang="en">Activation events for the VS Code extension.</source>
+      <target>Події активації для додатку VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onLanguage">
+      <source xml:lang="en">An activation event emitted whenever a file that resolves to the specified language gets opened.</source>
+      <target>Подія активації випускається кожного разу, коли відкривається файл, який вирішує задану мову.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onCommand">
+      <source xml:lang="en">An activation event emitted whenever the specified command gets invoked.</source>
+      <target>Подія активації видається кожен раз при виклику зазначеної команди.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onDebug">
+      <source xml:lang="en">An activation event emitted whenever a user is about to start debugging or about to setup debug configurations.</source>
+      <target>Подія активації видається кожен раз, коли користувач запускає відладку або збирається встановити конфигурацію відладки.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onDebugInitialConfigurations">
+      <source xml:lang="en">An activation event emitted whenever a &quot;launch.json&quot; needs to be created (and all provideDebugConfigurations methods need to be called).</source>
+      <target>Подія активації видається кожен раз, коли необхідно створити файл &quot;launch.json&quot; (і викликати всі методи provideDebugConfigurations).</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onDebugResolve">
+      <source xml:lang="en">An activation event emitted whenever a debug session with the specific type is about to be launched (and a corresponding resolveDebugConfiguration method needs to be called).</source>
+      <target>Подія активації видається кожен раз при запуску сеансу відладки вказаного типу (і при виклику відповідного методу resolveDebugConfiguration).</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.workspaceContains">
+      <source xml:lang="en">An activation event emitted whenever a folder is opened that contains at least a file matching the specified glob pattern.</source>
+      <target>Подія активації видається кожен раз при відкритті папки, яка містить принаймні один файл, який відповідає зазначеній стандартній масці.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.onView">
+      <source xml:lang="en">An activation event emitted whenever the specified view is expanded.</source>
+      <target>Подія активації видається кожен раз при розгортанні вказаного вікна.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.activationEvents.star">
+      <source xml:lang="en">An activation event emitted on VS Code startup. To ensure a great end user experience, please use this activation event in your extension only when no other activation events combination works in your use-case.</source>
+      <target>Подія активації видається при запуску VS Code. Для зручності користувача використовуйте цю подію в своєму додатку лише в том випадку, якщо інші поєднання подій не підходять.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.badges">
+      <source xml:lang="en">Array of badges to display in the sidebar of the Marketplace's extension page.</source>
+      <target>Масив емблем, на боковій панелі сторінки додатку Marketplace.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.badges.url">
+      <source xml:lang="en">Badge image URL.</source>
+      <target>URL-адрес зображення емблеми.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.badges.href">
+      <source xml:lang="en">Badge link.</source>
+      <target>Посилання на емблему.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.badges.description">
+      <source xml:lang="en">Badge description.</source>
+      <target>Опис емблеми.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.extensionDependencies">
+      <source xml:lang="en">Dependencies to other extensions. The identifier of an extension is always ${publisher}.${name}. For example: vscode.csharp.</source>
+      <target>Залежності від інших додатків. Ідентифікатор додатку — завжди ${publisher}.${name}. Наприклад: vscode.csharp.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.scripts.prepublish">
+      <source xml:lang="en">Script executed before the package is published as a VS Code extension.</source>
+      <target>Скрипт, що виконується перед публікацією пакета в якості додатку VS Code.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.icon">
+      <source xml:lang="en">The path to a 128x128 pixel icon.</source>
+      <target>Шлях до значка розміром 128 x 128 пікселів.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/configuration/common/configurationRegistry" source-language="en" target-language="uk"><body>
+    <trans-unit id="defaultConfigurations.title">
+      <source xml:lang="en">Default Configuration Overrides</source>
+      <target>Перевизначення конфигурації за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="overrideSettings.description">
+      <source xml:lang="en">Configure editor settings to be overridden for {0} language.</source>
+      <target>Налаштування обумовлених параметрів редактору для мови {0}.</target>
+    </trans-unit>
+    <trans-unit id="overrideSettings.defaultDescription">
+      <source xml:lang="en">Configure editor settings to be overridden for a language.</source>
+      <target>Налаштування параметрів редактору, обумовлених для мови.</target>
+    </trans-unit>
+    <trans-unit id="config.property.languageDefault">
+      <source xml:lang="en">Cannot register '{0}'. This matches property pattern '\\[.*\\]$' for describing language specific editor settings. Use 'configurationDefaults' contribution.</source>
+      <target>Неможливо зареєструвати &quot;{0}&quot;. Це відповідає шаблону властивості '\\[.*\\]$' для опису параметрів редактору, визначених мовою. Використовуйте вкладку configurationDefaults.</target>
+    </trans-unit>
+    <trans-unit id="config.property.duplicate">
+      <source xml:lang="en">Cannot register '{0}'. This property is already registered.</source>
+      <target>Неможливо зареєструвати &quot;{0}&quot;. Це властивість уже зареєстрована.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/theme/common/colorRegistry" source-language="en" target-language="uk"><body>
+    <trans-unit id="schema.colors">
+      <source xml:lang="en">Colors used in the workbench.</source>
+      <target>Кольори, що використовуються на робочому місці.</target>
+    </trans-unit>
+    <trans-unit id="foreground">
+      <source xml:lang="en">Overall foreground color. This color is only used if not overridden by a component.</source>
+      <target>Загальний колір переднього плану. Цей колір використовується, лише якщо його не перевизначить компонент.</target>
+    </trans-unit>
+    <trans-unit id="errorForeground">
+      <source xml:lang="en">Overall foreground color for error messages. This color is only used if not overridden by a component.</source>
+      <target>Загальний колір переднього плану для повідомлень про помилки. Цей колір використовується лише якщо його не перевизначить компонент.</target>
+    </trans-unit>
+    <trans-unit id="descriptionForeground">
+      <source xml:lang="en">Foreground color for description text providing additional information, for example for a label.</source>
+      <target>Колір тексту елементу, що містить пояснення, наприклад, для мітки.</target>
+    </trans-unit>
+    <trans-unit id="focusBorder">
+      <source xml:lang="en">Overall border color for focused elements. This color is only used if not overridden by a component.</source>
+      <target>Загальний колір рамки для елементів з фокусом. Цей колір використовується лише в том випадку, якщо не перевизначений в компоненті.</target>
+    </trans-unit>
+    <trans-unit id="contrastBorder">
+      <source xml:lang="en">An extra border around elements to separate them from others for greater contrast.</source>
+      <target>Додаткова рамка навколо елементів, яка відділяє їх від інших елементів для поліпшення контрасту.</target>
+    </trans-unit>
+    <trans-unit id="activeContrastBorder">
+      <source xml:lang="en">An extra border around active elements to separate them from others for greater contrast.</source>
+      <target>Додаткова рамка навколо активних елементів, яка відділяє їх від інших елементів для поліпшення контрасту.</target>
+    </trans-unit>
+    <trans-unit id="selectionBackground">
+      <source xml:lang="en">The background color of text selections in the workbench (e.g. for input fields or text areas). Note that this does not apply to selections within the editor.</source>
+      <target>Колір фону виділеного тексту в робочій області (наприклад, в полях вводу або в текстових полях). Не застосовується до виділеного тексту в редакторі.</target>
+    </trans-unit>
+    <trans-unit id="textSeparatorForeground">
+      <source xml:lang="en">Color for text separators.</source>
+      <target>Колір для розділювачів тексту.</target>
+    </trans-unit>
+    <trans-unit id="textLinkForeground">
+      <source xml:lang="en">Foreground color for links in text.</source>
+      <target>Колір переднього плану для посилань в тексті.</target>
+    </trans-unit>
+    <trans-unit id="textLinkActiveForeground">
+      <source xml:lang="en">Foreground color for active links in text.</source>
+      <target>Колір переднего фону для активних посилань в тексті.</target>
+    </trans-unit>
+    <trans-unit id="textPreformatForeground">
+      <source xml:lang="en">Foreground color for preformatted text segments.</source>
+      <target>Колір тексту фіксованого формату.</target>
+    </trans-unit>
+    <trans-unit id="textBlockQuoteBackground">
+      <source xml:lang="en">Background color for block quotes in text.</source>
+      <target>Колір фону для блоків з цитатами в тексті.</target>
+    </trans-unit>
+    <trans-unit id="textBlockQuoteBorder">
+      <source xml:lang="en">Border color for block quotes in text.</source>
+      <target>Колір рамки для блоків з цитатами в тексті.</target>
+    </trans-unit>
+    <trans-unit id="textCodeBlockBackground">
+      <source xml:lang="en">Background color for code blocks in text.</source>
+      <target>Колір фону для програмного коду в тексті.</target>
+    </trans-unit>
+    <trans-unit id="widgetShadow">
+      <source xml:lang="en">Shadow color of widgets such as find/replace inside the editor.</source>
+      <target>Колір тіні віджетів редактору, таких як &quot;Знайти/замінити&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputBoxBackground">
+      <source xml:lang="en">Input box background.</source>
+      <target>Фон поля вводу.</target>
+    </trans-unit>
+    <trans-unit id="inputBoxForeground">
+      <source xml:lang="en">Input box foreground.</source>
+      <target>Передній план поля вводу.</target>
+    </trans-unit>
+    <trans-unit id="inputBoxBorder">
+      <source xml:lang="en">Input box border.</source>
+      <target>Рамка поля вводу.</target>
+    </trans-unit>
+    <trans-unit id="inputBoxActiveOptionBorder">
+      <source xml:lang="en">Border color of activated options in input fields.</source>
+      <target>Колір рамки активованих параметрів в полях вводу.</target>
+    </trans-unit>
+    <trans-unit id="inputPlaceholderForeground">
+      <source xml:lang="en">Input box foreground color for placeholder text.</source>
+      <target>Колір фону заповнювачу тексту в елементі вводу.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationInfoBackground">
+      <source xml:lang="en">Input validation background color for information severity.</source>
+      <target>Фоновий колір перевірки вводу для рівня важливості &quot;Інформування&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationInfoBorder">
+      <source xml:lang="en">Input validation border color for information severity.</source>
+      <target>Колір рамки перевірки вводу для рівня важливості &quot;Інформування&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationWarningBackground">
+      <source xml:lang="en">Input validation background color for information warning.</source>
+      <target>Фоновий колір перевірки вводу для рівня важливості &quot;Попередження&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationWarningBorder">
+      <source xml:lang="en">Input validation border color for warning severity.</source>
+      <target>Колір рамки перевірки вводу для рівня важливості &quot;Попередження&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationErrorBackground">
+      <source xml:lang="en">Input validation background color for error severity.</source>
+      <target>Фоновий колір перевірки вводу для рівня важливості &quot;Помилка&quot;.</target>
+    </trans-unit>
+    <trans-unit id="inputValidationErrorBorder">
+      <source xml:lang="en">Input validation border color for error severity.</source>
+      <target>Колір рамки перевірки вводу для рівня важливості &quot;Помилка&quot;.</target>
+    </trans-unit>
+    <trans-unit id="dropdownBackground">
+      <source xml:lang="en">Dropdown background.</source>
+      <target>Фон Випадаючого меню.</target>
+    </trans-unit>
+    <trans-unit id="dropdownForeground">
+      <source xml:lang="en">Dropdown foreground.</source>
+      <target>Передній план Випадаючого меню.</target>
+    </trans-unit>
+    <trans-unit id="dropdownBorder">
+      <source xml:lang="en">Dropdown border.</source>
+      <target>Рамка Випадаючого меню.</target>
+    </trans-unit>
+    <trans-unit id="listFocusBackground">
+      <source xml:lang="en">List/Tree background color for the focused item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Фоновий колір елементу в фокусі List/Tree, коли елемент List/Tree активний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listFocusForeground">
+      <source xml:lang="en">List/Tree foreground color for the focused item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Колір переднього плану елементу в фокусі List/Tree, коли елемент List/Tree активний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listActiveSelectionBackground">
+      <source xml:lang="en">List/Tree background color for the selected item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Фоновий колір вибраного елементу List/Tree, коли елемент List/Tree активний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listActiveSelectionForeground">
+      <source xml:lang="en">List/Tree foreground color for the selected item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Колір переднього плану вибраного елементу List/Tree, коли елемент List/Tree активний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listInactiveSelectionBackground">
+      <source xml:lang="en">List/Tree background color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Фоновий колір вибраного елементу List/Tree, коли елемент List/Tree неактивний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listInactiveSelectionForeground">
+      <source xml:lang="en">List/Tree foreground color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.</source>
+      <target>Колір тексту вибраного елементу List/Tree, коли елемент List/Tree неактивний. На активному елементі List/Tree є фокус клавіатури, на неактивному — ні.</target>
+    </trans-unit>
+    <trans-unit id="listHoverBackground">
+      <source xml:lang="en">List/Tree background when hovering over items using the mouse.</source>
+      <target>Фоновий колір елементів List/Tree при наведені курсору мишки.</target>
+    </trans-unit>
+    <trans-unit id="listHoverForeground">
+      <source xml:lang="en">List/Tree foreground when hovering over items using the mouse.</source>
+      <target>Колір переднього плану елементів List/Tree при наведені курсору мишки.</target>
+    </trans-unit>
+    <trans-unit id="listDropBackground">
+      <source xml:lang="en">List/Tree drag and drop background when moving items around using the mouse.</source>
+      <target>Фоновий колір елементів List/Tree при переміщені мишкою.</target>
+    </trans-unit>
+    <trans-unit id="highlight">
+      <source xml:lang="en">List/Tree foreground color of the match highlights when searching inside the list/tree.</source>
+      <target>Колір переднього плану для виділення відповідності при пошуку по елементу List/Tree.</target>
+    </trans-unit>
+    <trans-unit id="invalidItemForeground">
+      <source xml:lang="en">List/Tree foreground color for invalid items, for example an unresolved root in explorer.</source>
+      <target>Колір переднього плану списку/дерева для неприпустимих елементів, наприклад, для нерозкритого корневого вузла в провіднику.</target>
+    </trans-unit>
+    <trans-unit id="pickerGroupForeground">
+      <source xml:lang="en">Quick picker color for grouping labels.</source>
+      <target>Засоби швидкого вибору кольору для групування міток.</target>
+    </trans-unit>
+    <trans-unit id="pickerGroupBorder">
+      <source xml:lang="en">Quick picker color for grouping borders.</source>
+      <target>Засоби швидкого вибору кольору для групування рамок.</target>
+    </trans-unit>
+    <trans-unit id="buttonForeground">
+      <source xml:lang="en">Button foreground color.</source>
+      <target>Колір переднього плану кнопки.</target>
+    </trans-unit>
+    <trans-unit id="buttonBackground">
+      <source xml:lang="en">Button background color.</source>
+      <target>Колір фону кнопки.</target>
+    </trans-unit>
+    <trans-unit id="buttonHoverBackground">
+      <source xml:lang="en">Button background color when hovering.</source>
+      <target>Колір фону кнопки при наведені.</target>
+    </trans-unit>
+    <trans-unit id="badgeBackground">
+      <source xml:lang="en">Badge background color. Badges are small information labels, e.g. for search results count.</source>
+      <target>Колір фону бэджа. Бэджи - небольшие информационные елементи,  отображающие количество, наприклад, результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="badgeForeground">
+      <source xml:lang="en">Badge foreground color. Badges are small information labels, e.g. for search results count.</source>
+      <target>Колір тексту бэджа. Бэджи - небольшие информационные елементи, отображающие количество, наприклад, результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="scrollbarShadow">
+      <source xml:lang="en">Scrollbar shadow to indicate that the view is scrolled.</source>
+      <target>Колір тіні полосы прокрутки, яка свидетельствует про том, що содержимое прокручивается.</target>
+    </trans-unit>
+    <trans-unit id="scrollbarSliderBackground">
+      <source xml:lang="en">Scrollbar slider background color.</source>
+      <target>Колір фону ползунка полосы прокрутки.</target>
+    </trans-unit>
+    <trans-unit id="scrollbarSliderHoverBackground">
+      <source xml:lang="en">Scrollbar slider background color when hovering.</source>
+      <target>Колір фону ползунка полосы прокрутки при наведені курсору.</target>
+    </trans-unit>
+    <trans-unit id="scrollbarSliderActiveBackground">
+      <source xml:lang="en">Scrollbar slider background color when active.</source>
+      <target>Колір фону активного ползунка полосы прокрутки.</target>
+    </trans-unit>
+    <trans-unit id="progressBarBackground">
+      <source xml:lang="en">Background color of the progress bar that can show for long running operations.</source>
+      <target>Колір фону индикатора виконання, який может отображаться для длительных операций.</target>
+    </trans-unit>
+    <trans-unit id="editorBackground">
+      <source xml:lang="en">Editor background color.</source>
+      <target>Колір фону редактора.</target>
+    </trans-unit>
+    <trans-unit id="editorForeground">
+      <source xml:lang="en">Editor default foreground color.</source>
+      <target>Колір переднього плану редактора за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="editorWidgetBackground">
+      <source xml:lang="en">Background color of editor widgets, such as find/replace.</source>
+      <target>Колір фону виджетов редактора, таких як найти/заменить.</target>
+    </trans-unit>
+    <trans-unit id="editorWidgetBorder">
+      <source xml:lang="en">Border color of editor widgets. The color is only used if the widget chooses to have a border and if the color is not overridden by a widget.</source>
+      <target>Колір рамкиы віджетів редактора. Цей колір використовується лише в том випадку, якщо у міні-приложения є рамка і якщо цей колір не переопределен міні-приложением.</target>
+    </trans-unit>
+    <trans-unit id="editorSelectionBackground">
+      <source xml:lang="en">Color of the editor selection.</source>
+      <target>Колір виділення редактора.</target>
+    </trans-unit>
+    <trans-unit id="editorSelectionForeground">
+      <source xml:lang="en">Color of the selected text for high contrast.</source>
+      <target>Колір виділеного тексту в режимі высокого контрасту.</target>
+    </trans-unit>
+    <trans-unit id="editorInactiveSelection">
+      <source xml:lang="en">Color of the selection in an inactive editor.</source>
+      <target>Колір виділення в неактивному редакторе.</target>
+    </trans-unit>
+    <trans-unit id="editorSelectionHighlight">
+      <source xml:lang="en">Color for regions with the same content as the selection.</source>
+      <target>Колір регионов з тем же содержимым, що і в выделении.</target>
+    </trans-unit>
+    <trans-unit id="editorFindMatch">
+      <source xml:lang="en">Color of the current search match.</source>
+      <target>Колір поточного пошуку совпадений.</target>
+    </trans-unit>
+    <trans-unit id="findMatchHighlight">
+      <source xml:lang="en">Color of the other search matches.</source>
+      <target>Колір інших совпадений пошуку.</target>
+    </trans-unit>
+    <trans-unit id="findRangeHighlight">
+      <source xml:lang="en">Color the range limiting the search.</source>
+      <target>Колір диапазона, ограничивающего поиск.</target>
+    </trans-unit>
+    <trans-unit id="hoverHighlight">
+      <source xml:lang="en">Highlight below the word for which a hover is shown.</source>
+      <target>Виделение под словом, для которого показано наведение.</target>
+    </trans-unit>
+    <trans-unit id="hoverBackground">
+      <source xml:lang="en">Background color of the editor hover.</source>
+      <target>Колір фону при наведені вказівника на редактор.</target>
+    </trans-unit>
+    <trans-unit id="hoverBorder">
+      <source xml:lang="en">Border color of the editor hover.</source>
+      <target>Колір рамки при наведені вказівника на редактор.</target>
+    </trans-unit>
+    <trans-unit id="activeLinkForeground">
+      <source xml:lang="en">Color of active links.</source>
+      <target>Колір активних посилань.</target>
+    </trans-unit>
+    <trans-unit id="diffEditorInserted">
+      <source xml:lang="en">Background color for text that got inserted.</source>
+      <target>Колір фону для добавлених рядків.</target>
+    </trans-unit>
+    <trans-unit id="diffEditorRemoved">
+      <source xml:lang="en">Background color for text that got removed.</source>
+      <target>Колір фону для видалених рядків.</target>
+    </trans-unit>
+    <trans-unit id="diffEditorInsertedOutline">
+      <source xml:lang="en">Outline color for the text that got inserted.</source>
+      <target>Колір контуру для добавлених рядків.</target>
+    </trans-unit>
+    <trans-unit id="diffEditorRemovedOutline">
+      <source xml:lang="en">Outline color for text that got removed.</source>
+      <target>Колір контуру для видалених рядків.</target>
+    </trans-unit>
+    <trans-unit id="mergeCurrentHeaderBackground">
+      <source xml:lang="en">Current header background in inline merge-conflicts.</source>
+      <target>Колір фону поточного заголовку у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeCurrentContentBackground">
+      <source xml:lang="en">Current content background in inline merge-conflicts.</source>
+      <target>Колір фону поточного вмісту у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeIncomingHeaderBackground">
+      <source xml:lang="en">Incoming header background in inline merge-conflicts.</source>
+      <target>Колір фону вхідного заголовку у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeIncomingContentBackground">
+      <source xml:lang="en">Incoming content background in inline merge-conflicts.</source>
+      <target>Колір фону вхідного вмісту у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeCommonHeaderBackground">
+      <source xml:lang="en">Common ancestor header background in inline merge-conflicts.</source>
+      <target>Колір фону заголовку для загального предка у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeCommonContentBackground">
+      <source xml:lang="en">Common ancester content background in inline merge-conflicts.</source>
+      <target>Колір фону вмісту для загального предка у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="mergeBorder">
+      <source xml:lang="en">Border color on headers and the splitter in inline merge-conflicts.</source>
+      <target>Колір рамки заголовків і розділювачів у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerCurrentContentForeground">
+      <source xml:lang="en">Current overview ruler foreground for inline merge-conflicts.</source>
+      <target>Колір переднього плану лінійки поточного вікна у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerIncomingContentForeground">
+      <source xml:lang="en">Incoming overview ruler foreground for inline merge-conflicts.</source>
+      <target>Колір переднього плану лінійки вхідного вікна у внутрішніх конфліктах злиття.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerCommonContentForeground">
+      <source xml:lang="en">Common ancestor overview ruler foreground for inline merge-conflicts.</source>
+      <target>Колір переднього плану для обзорної лінійки для загального предка у внутрішніх конфліктах злиття. </target>
+    </trans-unit>
+    <trans-unit id="overviewRulerFindMatchForeground">
+      <source xml:lang="en">Overview ruler marker color for find matches.</source>
+      <target>Колір мітки лінійки в вікні спостереження для результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerSelectionHighlightForeground">
+      <source xml:lang="en">Overview ruler marker color for selection highlights.</source>
+      <target>Колір мітки лінійки в вікні спостереження для виділення.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/actions/browser/menuItemActionItem" source-language="en" target-language="uk"><body>
+    <trans-unit id="titleAndKb">
+      <source xml:lang="en">{0} ({1})</source>
+      <target>{0} ({1})</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/markers/common/problemMatcher" source-language="en" target-language="uk"><body>
+    <trans-unit id="ProblemPatternParser.loopProperty.notLast">
+      <source xml:lang="en">The loop property is only supported on the last line matcher.</source>
+      <target>Властивість циклу підтримується лише на останньому списку.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternParser.problemPattern.missingRegExp">
+      <source xml:lang="en">The problem pattern is missing a regular expression.</source>
+      <target>В шаблоні проблем відсутній регулярний вираз.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternParser.problemPattern.missingProperty">
+      <source xml:lang="en">The problem pattern is invalid. It must have at least a file, message and line or location match group.</source>
+      <target>Шаблон проблеми недійсний. Вона повинна мати, принаймні, групу відповідей файлів, повідомлень, рядків або місцеположень.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternParser.invalidRegexp">
+      <source xml:lang="en">Error: The string {0} is not a valid regular expression.
+</source>
+      <target>Помилка: рядок {0} не є припустимим регулярним виразом.
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.regexp">
+      <source xml:lang="en">The regular expression to find an error, warning or info in the output.</source>
+      <target>Регулярний вираз для пошуку помилки, попередження або інформації на виході.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.file">
+      <source xml:lang="en">The match group index of the filename. If omitted 1 is used.</source>
+      <target>Індекс групи співставлення для назви файла. Якщо він не вказаний, використовується значення 1.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.location">
+      <source xml:lang="en">The match group index of the problem's location. Valid location patterns are: (line), (line,column) and (startLine,startColumn,endLine,endColumn). If omitted (line,column) is assumed.</source>
+      <target>Індекс групи співставлення для розташування проблеми. Допустимі шаблони розташування: (рядок), (рядок,стовпець) і (початковий_рядок,початковий_стовпець,кінцевий_рядок,кінцевий_стовпець). Якщо індекс не вказаний, передбачається шаблон (рядок,стовпець).</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.line">
+      <source xml:lang="en">The match group index of the problem's line. Defaults to 2</source>
+      <target>Індекс групи співставлення для рядківи проблеми. Значення за замовчуванням — 2.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.column">
+      <source xml:lang="en">The match group index of the problem's line character. Defaults to 3</source>
+      <target>Індекс групи співставлення для символа в рядківе проблеми. Значення за замовчуванням — 3</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.endLine">
+      <source xml:lang="en">The match group index of the problem's end line. Defaults to undefined</source>
+      <target>Індекс групи співставлення для проблеми кінцевого рядка. За замовчуванням це невизначено.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.endColumn">
+      <source xml:lang="en">The match group index of the problem's end line character. Defaults to undefined</source>
+      <target>Індекс групи співставлення для проблеми кінцевого символа. За замовчуванням це невизначено.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.severity">
+      <source xml:lang="en">The match group index of the problem's severity. Defaults to undefined</source>
+      <target>Індекс групи співставлення для проблеми важливості. За замовчуванням це невизначено.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.code">
+      <source xml:lang="en">The match group index of the problem's code. Defaults to undefined</source>
+      <target>Індекс групи співставлення для проблеми кода. За замовчуванням це невизначено.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.message">
+      <source xml:lang="en">The match group index of the message. If omitted it defaults to 4 if location is specified. Otherwise it defaults to 5.</source>
+      <target>Індекс групи співставлення для повідомлення. Якщо він не вказаний, значення за замовчуванням — 4 при незаданому розташуванні. Інакше значення за замовчуванням — 5.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternSchema.loop">
+      <source xml:lang="en">In a multi line matcher loop indicated whether this pattern is executed in a loop as long as it matches. Can only specified on a last pattern in a multi line pattern.</source>
+      <target>В циклі багаторядкового співставника вказує, чи виконується цей шаблон в циклі, пока він збігається. Може вказуватися лише для кінцевого шаблону в багаторядковому шаблоні.</target>
+    </trans-unit>
+    <trans-unit id="NamedProblemPatternSchema.name">
+      <source xml:lang="en">The name of the problem pattern.</source>
+      <target>Назва шаблону проблем.</target>
+    </trans-unit>
+    <trans-unit id="NamedMultiLineProblemPatternSchema.name">
+      <source xml:lang="en">The name of the problem multi line problem pattern.</source>
+      <target>Назва шаблону багаторядкових проблем.</target>
+    </trans-unit>
+    <trans-unit id="NamedMultiLineProblemPatternSchema.patterns">
+      <source xml:lang="en">The actual patterns.</source>
+      <target>Фактичні шаблони.</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternExtPoint">
+      <source xml:lang="en">Contributes problem patterns</source>
+      <target>Публіку шаблони проблем</target>
+    </trans-unit>
+    <trans-unit id="ProblemPatternRegistry.error">
+      <source xml:lang="en">Invalid problem pattern. The pattern will be ignored.</source>
+      <target>Неприпустимий шаблон проблем. Він буде пропущений.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noProblemMatcher">
+      <source xml:lang="en">Error: the description can't be converted into a problem matcher:
+{0}
+</source>
+      <target>Помилка: опис неможливо перетворити співставник проблем:
+{0}
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noProblemPattern">
+      <source xml:lang="en">Error: the description doesn't define a valid problem pattern:
+{0}
+</source>
+      <target>Помилка: в описі не визначений допустимий шаблон проблеми:
+{0}
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noOwner">
+      <source xml:lang="en">Error: the description doesn't define an owner:
+{0}
+</source>
+      <target>Помилка: в описі не визначений власник:
+{0}
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noFileLocation">
+      <source xml:lang="en">Error: the description doesn't define a file location:
+{0}
+</source>
+      <target>Помилка: в описі не вказане розташування файла:
+{0}
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.unknownSeverity">
+      <source xml:lang="en">Info: unknown severity {0}. Valid values are error, warning and info.
+</source>
+      <target>Інформація: невідомий рівень важливості {0}. Допустимі значення: помилка, попередження і інформація.
+</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noDefinedPatter">
+      <source xml:lang="en">Error: the pattern with the identifier {0} doesn't exist.</source>
+      <target>Помилка: шаблон з ідентифікатором {0} не існує.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noIdentifier">
+      <source xml:lang="en">Error: the pattern property refers to an empty identifier.</source>
+      <target>Помилка: властивість шаблону посилається на пустий індентифікатор.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.noValidIdentifier">
+      <source xml:lang="en">Error: the pattern property {0} is not a valid pattern variable name.</source>
+      <target>Помилка: властивість шаблону {0} не є припустимим ім'ям зміної шаблону.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.problemPattern.watchingMatcher">
+      <source xml:lang="en">A problem matcher must define both a begin pattern and an end pattern for watching.</source>
+      <target>У співставнику проблем повинні бути визначені як початковий, так і кінцевий шаблони для відстеження.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherParser.invalidRegexp">
+      <source xml:lang="en">Error: The string {0} is not a valid regular expression.
+</source>
+      <target>Помилка: рядок {0} не є припустимим регулярним виразом.
+</target>
+    </trans-unit>
+    <trans-unit id="WatchingPatternSchema.regexp">
+      <source xml:lang="en">The regular expression to detect the begin or end of a background task.</source>
+      <target>Регулярний вираз для виявлення початку або кінця фонової задачі.</target>
+    </trans-unit>
+    <trans-unit id="WatchingPatternSchema.file">
+      <source xml:lang="en">The match group index of the filename. Can be omitted.</source>
+      <target>Індекс групи співставлення для назви файла. Можливо знехтувати.</target>
+    </trans-unit>
+    <trans-unit id="PatternTypeSchema.name">
+      <source xml:lang="en">The name of a contributed or predefined pattern</source>
+      <target>Назва добавленого або зумовленого шаблону</target>
+    </trans-unit>
+    <trans-unit id="PatternTypeSchema.description">
+      <source xml:lang="en">A problem pattern or the name of a contributed or predefined problem pattern. Can be omitted if base is specified.</source>
+      <target>Шаблон проблем чи ім'я добавленого або зумовленого шаблону проблем. Ним можливо знехтувати, якщо вказано базове значення.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.base">
+      <source xml:lang="en">The name of a base problem matcher to use.</source>
+      <target>Назва використаного базового співставника проблем.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.owner">
+      <source xml:lang="en">The owner of the problem inside Code. Can be omitted if base is specified. Defaults to 'external' if omitted and base is not specified.</source>
+      <target>Власник проблеми в Code. Можливо знехтувати, якщо вказаний елемент base. Якщо власник пропущений, а елемент base не вказаний, значення за замовчуванням — &quot;external&quot;.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.severity">
+      <source xml:lang="en">The default severity for captures problems. Is used if the pattern doesn't define a match group for severity.</source>
+      <target>Важливість за замовчуванням для виявлених проблем. Використовується, якщо в шаблоні не визначена група співставлення для важливості.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.applyTo">
+      <source xml:lang="en">Controls if a problem reported on a text document is applied only to open, closed or all documents.</source>
+      <target>Визначає, чи відноситься проблема, повідомленна для текстового документа, лише до відкритих, лише до закритих або до всіх документів.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.fileLocation">
+      <source xml:lang="en">Defines how file names reported in a problem pattern should be interpreted.</source>
+      <target>Визначає спосіб інтерпретації назв файлів, вказаних у шаблоні проблеми.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.background">
+      <source xml:lang="en">Patterns to track the begin and end of a matcher active on a background task.</source>
+      <target>Шаблони для відстеження початку і закінчення фонової задачі.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.background.activeOnStart">
+      <source xml:lang="en">If set to true the background monitor is in active mode when the task starts. This is equals of issuing a line that matches the beginPattern</source>
+      <target>Якщо задано значення true, моніторинг фонових задач буде находитися в активному режимі при запуску задачі. Це аналогічно видачі рядку, що відповідає шаблону початку.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.background.beginsPattern">
+      <source xml:lang="en">If matched in the output the start of a background task is signaled.</source>
+      <target>При збігові в вихідних даних подається сигнал про запуск фонової задачі.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.background.endsPattern">
+      <source xml:lang="en">If matched in the output the end of a background task is signaled.</source>
+      <target>При збігові в вихідних даних подається сигнал про завершення фонової задачі.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.watching.deprecated">
+      <source xml:lang="en">The watching property is deprecated. Use background instead.</source>
+      <target>Ця властивість для відстеження устаріла. Використовуйте колір фону.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.watching">
+      <source xml:lang="en">Patterns to track the begin and end of a watching matcher.</source>
+      <target>Шаблони для відстеження початку і закінчення шаблону відстеження.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.watching.activeOnStart">
+      <source xml:lang="en">If set to true the watcher is in active mode when the task starts. This is equals of issuing a line that matches the beginPattern</source>
+      <target>Якщо задано значення true, спостерігач находится в активному режимі, коли задача стартує. Це рівнозначно видачі рядку, що відповідає шаблону початку.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.watching.beginsPattern">
+      <source xml:lang="en">If matched in the output the start of a watching task is signaled.</source>
+      <target>При збігові в вихідних даних повідомляє про запуск задачі спостереження.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherSchema.watching.endsPattern">
+      <source xml:lang="en">If matched in the output the end of a watching task is signaled.</source>
+      <target>При збігові в вихідних даних повідомляє про завершення задачі спостереження.</target>
+    </trans-unit>
+    <trans-unit id="LegacyProblemMatcherSchema.watchedBegin.deprecated">
+      <source xml:lang="en">This property is deprecated. Use the watching property instead.</source>
+      <target>Ця властивість устаріла. Використовуйте властивість спостереження.</target>
+    </trans-unit>
+    <trans-unit id="LegacyProblemMatcherSchema.watchedBegin">
+      <source xml:lang="en">A regular expression signaling that a watched tasks begins executing triggered through file watching.</source>
+      <target>Регулярний вираз, повідомляє про те, що відстежувана задача починає виконуватися в результаті активації відстеження файлів.</target>
+    </trans-unit>
+    <trans-unit id="LegacyProblemMatcherSchema.watchedEnd.deprecated">
+      <source xml:lang="en">This property is deprecated. Use the watching property instead.</source>
+      <target>Ця властивість устаріла. Використовуйте властивість спостереження.</target>
+    </trans-unit>
+    <trans-unit id="LegacyProblemMatcherSchema.watchedEnd">
+      <source xml:lang="en">A regular expression signaling that a watched tasks ends executing.</source>
+      <target>Регулярний вираз, повідомляє про те, що відстежувана задача закінчує виконання.</target>
+    </trans-unit>
+    <trans-unit id="NamedProblemMatcherSchema.name">
+      <source xml:lang="en">The name of the problem matcher used to refer to it.</source>
+      <target>Назва співставника проблем, використаного для посилання.</target>
+    </trans-unit>
+    <trans-unit id="NamedProblemMatcherSchema.label">
+      <source xml:lang="en">A human readable label of the problem matcher.</source>
+      <target>Мітка співставника проблем в зручному для читання форматі.</target>
+    </trans-unit>
+    <trans-unit id="ProblemMatcherExtPoint">
+      <source xml:lang="en">Contributes problem matchers</source>
+      <target>Публікує співставники проблем</target>
+    </trans-unit>
+    <trans-unit id="msCompile">
+      <source xml:lang="en">Microsoft compiler problems</source>
+      <target>Проблеми компілятора Microsoft</target>
+    </trans-unit>
+    <trans-unit id="lessCompile">
+      <source xml:lang="en">Less problems</source>
+      <target>Приховати проблеми</target>
+    </trans-unit>
+    <trans-unit id="gulp-tsc">
+      <source xml:lang="en">Gulp TSC Problems</source>
+      <target>Проблеми TSC для Gulp</target>
+    </trans-unit>
+    <trans-unit id="jshint">
+      <source xml:lang="en">JSHint problems</source>
+      <target>Проблеми JSHint</target>
+    </trans-unit>
+    <trans-unit id="jshint-stylish">
+      <source xml:lang="en">JSHint stylish problems</source>
+      <target>Проблеми JSHint, пов'язані зі стилем</target>
+    </trans-unit>
+    <trans-unit id="eslint-compact">
+      <source xml:lang="en">ESLint compact problems</source>
+      <target>Проблеми ESLint, пов'язані з компактністю</target>
+    </trans-unit>
+    <trans-unit id="eslint-stylish">
+      <source xml:lang="en">ESLint stylish problems</source>
+      <target>Проблеми ESLint, пов'язані зі стилем</target>
+    </trans-unit>
+    <trans-unit id="go">
+      <source xml:lang="en">Go problems</source>
+      <target>Перейти до проблем</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/jsonschemas/common/jsonValidationExtensionPoint" source-language="en" target-language="uk"><body>
+    <trans-unit id="contributes.jsonValidation">
+      <source xml:lang="en">Contributes json schema configuration.</source>
+      <target>Додає конфигурацію схеми JSON.</target>
+    </trans-unit>
+    <trans-unit id="contributes.jsonValidation.fileMatch">
+      <source xml:lang="en">The file pattern to match, for example &quot;package.json&quot; or &quot;*.launch&quot;.</source>
+      <target>Шаблон файла для співставлення, наприклад &quot;package.json&quot; або &quot;*.launch&quot;.</target>
+    </trans-unit>
+    <trans-unit id="contributes.jsonValidation.url">
+      <source xml:lang="en">A schema URL ('http:', 'https:') or relative path to the extension folder ('./').</source>
+      <target>URL-адрес схеми (&quot;http:&quot;, &quot;https:&quot;) або відносний шлях до папки додатку (&quot;./&quot;).</target>
+    </trans-unit>
+    <trans-unit id="invalid.jsonValidation">
+      <source xml:lang="en">'configuration.jsonValidation' must be a array</source>
+      <target>configuration.jsonValidation мусить бути масивом</target>
+    </trans-unit>
+    <trans-unit id="invalid.fileMatch">
+      <source xml:lang="en">'configuration.jsonValidation.fileMatch' must be defined</source>
+      <target>Необхідно визначити configuration.jsonValidation.fileMatch</target>
+    </trans-unit>
+    <trans-unit id="invalid.url">
+      <source xml:lang="en">'configuration.jsonValidation.url' must be a URL or relative path</source>
+      <target>Значення configuration.jsonValidation.url мусить бути URL-адресою або відносним шляхом</target>
+    </trans-unit>
+    <trans-unit id="invalid.url.fileschema">
+      <source xml:lang="en">'configuration.jsonValidation.url' is an invalid relative URL: {0}</source>
+      <target>Значення configuration.jsonValidation.url є неприпустимиою відносною URL-адресою: {0}</target>
+    </trans-unit>
+    <trans-unit id="invalid.url.schema">
+      <source xml:lang="en">'configuration.jsonValidation.url' must start with 'http:', 'https:' or './' to reference schemas located in the extension</source>
+      <target>Значення configuration.jsonValidation.url мусить починатися з &quot;http:&quot;, &quot;https:&quot; або &quot;./&quot; для посилання на схеми, що містяться в додаткові</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/theme/common/colorExtensionPoint" source-language="en" target-language="uk"><body>
+    <trans-unit id="contributes.color">
+      <source xml:lang="en">Contributes extension defined themable colors</source>
+      <target>Додає кольори тем, обумовлені додатком </target>
+    </trans-unit>
+    <trans-unit id="contributes.color.id">
+      <source xml:lang="en">The identifier of the themable color</source>
+      <target>Ідентифікатор кольору теми</target>
+    </trans-unit>
+    <trans-unit id="contributes.color.id.format">
+      <source xml:lang="en">Identifiers should be in the form aa[.bb]*</source>
+      <target>Ідентифікатори необхідно вказувати у формі aa[.bb]*</target>
+    </trans-unit>
+    <trans-unit id="contributes.color.description">
+      <source xml:lang="en">The description of the themable color</source>
+      <target>Опис кольору теми</target>
+    </trans-unit>
+    <trans-unit id="contributes.defaults.light">
+      <source xml:lang="en">The default color for light themes. Either a color value in hex (#RRGGBB[AA]) or the identifier of a themable color which provides the default.</source>
+      <target>Колір за замовчуванням для світлих тем. Вкажіть значення кольору в шіснадцятковому форматі (#RRGGBB[AA]) або індентифікатор кольору теми.</target>
+    </trans-unit>
+    <trans-unit id="contributes.defaults.dark">
+      <source xml:lang="en">The default color for dark themes. Either a color value in hex (#RRGGBB[AA]) or the identifier of a themable color which provides the default.</source>
+      <target>Колір за замовчуванням для темних тем. Вкажіть значення кольору в шіснадцятковому форматі (#RRGGBB[AA]) або індентифікатор кольору теми.</target>
+    </trans-unit>
+    <trans-unit id="contributes.defaults.highContrast">
+      <source xml:lang="en">The default color for high contrast themes. Either a color value in hex (#RRGGBB[AA]) or the identifier of a themable color which provides the default.</source>
+      <target>Колір за замовчуванням для тем з високим контрастом. Вкажіть значення кольору в шіснадцятковому форматі (#RRGGBB[AA]) або індентифікатор кольору теми.</target>
+    </trans-unit>
+    <trans-unit id="invalid.colorConfiguration">
+      <source xml:lang="en">'configuration.colors' must be a array</source>
+      <target>'configuration.colors' мусить бути масивом</target>
+    </trans-unit>
+    <trans-unit id="invalid.default.colorType">
+      <source xml:lang="en">{0} must be either a color value in hex (#RRGGBB[AA] or #RGB[A]) or the identifier of a themable color which provides the default.</source>
+      <target>{0} мусить являти собою значення кольору в шіснадцятковому форматі (#RRGGBB[AA] або #RGB[A]) або індентифікатор кольору теми.</target>
+    </trans-unit>
+    <trans-unit id="invalid.id">
+      <source xml:lang="en">'configuration.colors.id' must be defined and can not be empty</source>
+      <target>Параметр 'configuration.colors.id' мусить бути вказаний і не може бути порожнім</target>
+    </trans-unit>
+    <trans-unit id="invalid.id.format">
+      <source xml:lang="en">'configuration.colors.id' must follow the word[.word]*</source>
+      <target>Параметр 'configuration.colors.id' мусить слідувати за word[.word]*</target>
+    </trans-unit>
+    <trans-unit id="invalid.description">
+      <source xml:lang="en">'configuration.colors.description' must be defined and can not be empty</source>
+      <target>Параметр 'configuration.colors.description' мусить бути вказаний і не може бути порожнім</target>
+    </trans-unit>
+    <trans-unit id="invalid.defaults">
+      <source xml:lang="en">'configuration.colors.defaults' must be defined and must contain 'light', 'dark' and 'highContrast'</source>
+      <target>'configuration.colors.defaults' може бути вказаний і може містити значення 'light', 'dark' і 'highContrast'</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensions/node/extensionValidator" source-language="en" target-language="uk"><body>
+    <trans-unit id="versionSyntax">
+      <source xml:lang="en">Could not parse `engines.vscode` value {0}. Please use, for example: ^0.10.0, ^1.2.3, ^0.11.0, ^0.10.x, etc.</source>
+      <target>Не вдалося проаналізувати значення engines.vscode {0}. Використовуйте, наприклад, ^0.10.0, ^1.2.3, ^0.11.0, ^0.10.x і т. д.</target>
+    </trans-unit>
+    <trans-unit id="versionSpecificity1">
+      <source xml:lang="en">Version specified in `engines.vscode` ({0}) is not specific enough. For vscode versions before 1.0.0, please define at a minimum the major and minor desired version. E.g. ^0.10.0, 0.10.x, 0.11.0, etc.</source>
+      <target>Версія, вказана у engines.vscode ({0}), недостатньо конкретна. Для версій vscode до 1.0.0 вкажіть хоча б основний і додатковий номер версії. Наприклад, 0.10.0, 0.10.x, 0.11.0 і т.д.</target>
+    </trans-unit>
+    <trans-unit id="versionSpecificity2">
+      <source xml:lang="en">Version specified in `engines.vscode` ({0}) is not specific enough. For vscode versions after 1.0.0, please define at a minimum the major desired version. E.g. ^1.10.0, 1.10.x, 1.x.x, 2.x.x, etc.</source>
+      <target>Версія, вказана у engines.vscode ({0}), недостатньо конкретна. Для версій vscode після 1.0.0 вкажіть хоча б основний номер версії. Наприклад, 1.10.0, 1.10.x, 1.x.x, 2.x.x і т.д.</target>
+    </trans-unit>
+    <trans-unit id="versionMismatch">
+      <source xml:lang="en">Extension is not compatible with Code {0}. Extension requires: {1}.</source>
+      <target>Додаток несумісний з Code &quot;{0}&quot;. Додаток потребує: {1}.</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.empty">
+      <source xml:lang="en">Got empty extension description</source>
+      <target>Порожній опис додатку</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.publisher">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і повинно мати тип string</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.name">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і повинно мати тип string</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.version">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і повинно мати тип string</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.engines">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `object`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і мусить бути типу object</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.engines.vscode">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; є обов'язковою і повинно мати тип string</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.extensionDependencies">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string[]`</source>
+      <target>властивість &quot;{0}&quot; може бути опущено або мусить бути типу &quot;string []&quot;</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.activationEvents1">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string[]`</source>
+      <target>властивість &quot;{0}&quot; може бути опущено або мусить бути типу &quot;string []&quot;</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.activationEvents2">
+      <source xml:lang="en">properties `{0}` and `{1}` must both be specified or must both be omitted</source>
+      <target>обидві властивості, &quot;{0}&quot; і &quot;{1}&quot;, повинні бути чи вказані, чи опущені</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.main1">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string`</source>
+      <target>властивість &quot;{0}&quot; може бути опущено або повинно мати тип string</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.main2">
+      <source xml:lang="en">Expected `main` ({0}) to be included inside extension's folder ({1}). This might make the extension non-portable.</source>
+      <target>Очікується, що функція main ({0}) буде включена в папку додатку ({1}). Через це додаток не можна буде перенести.</target>
+    </trans-unit>
+    <trans-unit id="extensionDescription.main3">
+      <source xml:lang="en">properties `{0}` and `{1}` must both be specified or must both be omitted</source>
+      <target>обидві властивості, &quot;{0}&quot; і &quot;{1}&quot;, повинні бути чи вказані, чи опущені</target>
+    </trans-unit>
+    <trans-unit id="notSemver">
+      <source xml:lang="en">Extension version is not semver compatible.</source>
+      <target>Версія додатку несумісна з semver.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/keybinding/common/abstractKeybindingService" source-language="en" target-language="uk"><body>
+    <trans-unit id="first.chord">
+      <source xml:lang="en">({0}) was pressed. Waiting for second key of chord...</source>
+      <target>Була натиснута клавіша ({0}). Очікування натиснення другої клавіші комбінації...</target>
+    </trans-unit>
+    <trans-unit id="missing.chord">
+      <source xml:lang="en">The key combination ({0}, {1}) is not a command.</source>
+      <target>Комбінація клавіш ({0}та{1}) не є командою.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/integrity/node/integrityServiceImpl" source-language="en" target-language="uk"><body>
+    <trans-unit id="integrity.ok">
+      <source xml:lang="en">OK</source>
+      <target>ОК</target>
+    </trans-unit>
+    <trans-unit id="integrity.dontShowAgain">
+      <source xml:lang="en">Don't show again</source>
+      <target>Більше не показувати</target>
+    </trans-unit>
+    <trans-unit id="integrity.moreInfo">
+      <source xml:lang="en">More information</source>
+      <target>Більше відомостей</target>
+    </trans-unit>
+    <trans-unit id="integrity.prompt">
+      <source xml:lang="en">Your {0} installation appears to be corrupt. Please reinstall.</source>
+      <target>Схоже, ваша встановлення {0} пошкоджене. Спробуйте знову інсталювати.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/platform/extensionManagement/common/extensionEnablementService" source-language="en" target-language="uk"><body>
+    <trans-unit id="noWorkspace">
+      <source xml:lang="en">No workspace.</source>
+      <target>Немає робочої області.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="out/src/errors" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="eval.not.available">
+      <source xml:lang="en">not available</source><target>не доступний</target>
+    </trans-unit>
+    <trans-unit id="not.connected">
+      <source xml:lang="en">not connected to runtime</source><target>не підключений до виконання</target>
+    </trans-unit>
+    <trans-unit id="restartFrame.cannot">
+      <source xml:lang="en">Can't restart frame</source><target>Не вдається перезапустити кадр</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.exist">
+      <source xml:lang="en">Attribute '{0}' does not exist ('{1}').</source><target>Атрибут '{0}' не існує ('{1}').</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.absolute">
+      <source xml:lang="en">Attribute '{0}' is not absolute ('{1}'); consider adding '{2}' as a prefix to make it absolute.</source><target>Атрибут '{0}' не є абсолютним ('{1}'); спробуйте додати '{2}' префікс, щоб зробити його абсолютним.</target>
+    </trans-unit>
+    <trans-unit id="more.information">
+      <source xml:lang="en">More Information</source><target>Додаткові відомості</target>
+    </trans-unit>
+    <trans-unit id="setVariable.error">
+      <source xml:lang="en">Setting value not supported</source><target>Значення параметра не підтримується</target>
+    </trans-unit>
+    <trans-unit id="source.not.found">
+      <source xml:lang="en">Could not retrieve content.</source><target>Не вдалося витягти вміст.</target>
+    </trans-unit>
+    <trans-unit id="VSND2010">
+      <source xml:lang="en">Cannot connect to runtime process, timeout after {0} ms - (reason: {1}).</source><target>Неможливо підключитися до процесу виконання, час очікування після {0} мс - (причина: {1}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2023">
+      <source xml:lang="en">No call stack available.</source><target>Жодний стек викликів не доступний.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/chrome/chromeDebugAdapter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="exceptions.all">
+      <source xml:lang="en">All Exceptions</source><target>Усі винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.uncaught">
+      <source xml:lang="en">Uncaught Exceptions</source><target>Невичерпні винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.promise_rejects">
+      <source xml:lang="en">Promise Rejects</source><target>Викид проміса</target>
+    </trans-unit>
+    <trans-unit id="setBPTimedOut">
+      <source xml:lang="en">Set breakpoints request timed out</source><target>Встановити точки зупину запиту вичерпано час очікування</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.unbound">
+      <source xml:lang="en">Breakpoints set but not yet bound</source><target>Точки пропущення встановлені, але ще не пов'язані</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.noscript">
+      <source xml:lang="en">Can't find script for breakpoint request</source><target>Не вдалося знайти сценарій для запиту точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="validateBP.sourcemapFail">
+      <source xml:lang="en">Breakpoint ignored because generated code not found (source map problem?).</source><target>Точки зупинки ігноруються, оскільки згенерований код не знайдено (проблема вихідної карти?).</target>
+    </trans-unit>
+    <trans-unit id="validateBP.notFound">
+      <source xml:lang="en">Breakpoint ignored because target path not found</source><target>Точки зупинки ігноруються, тому що кінцевий шлях не знайдений</target>
+    </trans-unit>
+    <trans-unit id="invalidHitCondition">
+      <source xml:lang="en">Invalid hit condition: {0}</source><target>Недійсний стан ударів: {0}</target>
+    </trans-unit>
+    <trans-unit id="skipReason">
+      <source xml:lang="en">(skipped by '{0}')</source><target>(пропущена '{0}')</target>
+    </trans-unit>
+    <trans-unit id="scope.exception">
+      <source xml:lang="en">Exception</source><target>Виняток</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/chrome/chromeTargetDiscoveryStrategy" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="attach.responseButNoTargets">
+      <source xml:lang="en">Got a response from the target app, but no target pages found</source><target>Отримав відповідь від цільової програми, але цільової сторінки не знайдено</target>
+    </trans-unit>
+    <trans-unit id="attach.invalidResponse">
+      <source xml:lang="en">Response from the target seems invalid: {0}</source><target>Відповіді від цілі здається недійсні: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.cannotConnect">
+      <source xml:lang="en">Cannot connect to the target: {0}</source><target>Не вдається підключитися до цілі: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.noMatchingTarget">
+      <source xml:lang="en">Can't find a target that matches: {0}. Available pages: {1}</source><target>Не можу знайти ціль, яка відповідає: {0}. Доступних сторінок: {1}</target>
+    </trans-unit>
+    <trans-unit id="attach.devToolsAttached">
+      <source xml:lang="en">Can't attach to this target that may have Chrome DevTools attached: {0}</source><target>Не вдається долучити до цієї цілі, до якої може бути приєднано Chrome DevTools: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/chrome/stoppedEvent" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="reason.description.step">
+      <source xml:lang="en">Paused on step</source><target>Призупинено на крок</target>
+    </trans-unit>
+    <trans-unit id="reason.description.breakpoint">
+      <source xml:lang="en">Paused on breakpoint</source><target>Призупинено на точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="reason.description.exception">
+      <source xml:lang="en">Paused on exception</source><target>Призупинено на виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.uncaughtException">
+      <source xml:lang="en">Paused on uncaught exception</source><target>Призупинено на невідомий виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.caughtException">
+      <source xml:lang="en">Paused on caught exception</source><target>Призупинено на зловлений виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.user_request">
+      <source xml:lang="en">Paused on user request</source><target>Призупинено за запитом користувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.entry">
+      <source xml:lang="en">Paused on entry</source><target>Призупинено на в'їзді</target>
+    </trans-unit>
+    <trans-unit id="reason.description.debugger_statement">
+      <source xml:lang="en">Paused on debugger statement</source><target>Призупинено на заяву налагоджувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.restart">
+      <source xml:lang="en">Paused on frame entry</source><target>Призупинено запис на кадрі</target>
+    </trans-unit>
+    <trans-unit id="reason.description.promiseRejection">
+      <source xml:lang="en">Paused on promise rejection</source><target>Призупинено на викид проміса</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/transformers/baseSourceMapTransformer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="origin.inlined.source.map">
+      <source xml:lang="en">read-only inlined content from source map</source><target>тільки для читання вмісту з джерел. карт</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="testSupport/node_modules/vscode-chrome-debug-core/out/src/errors" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="eval.not.available">
+      <source xml:lang="en">not available</source><target>не доступний</target>
+    </trans-unit>
+    <trans-unit id="not.connected">
+      <source xml:lang="en">not connected to runtime</source><target>не підключений до виконання</target>
+    </trans-unit>
+    <trans-unit id="restartFrame.cannot">
+      <source xml:lang="en">Can't restart frame</source><target>Не вдається перезапустити кадр</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.exist">
+      <source xml:lang="en">Attribute '{0}' does not exist ('{1}').</source><target>Атрибут '{0}' не існує ('{1}').</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.absolute">
+      <source xml:lang="en">Attribute '{0}' is not absolute ('{1}'); consider adding '{2}' as a prefix to make it absolute.</source><target>Атрибут '{0}' не є абсолютним ('{1}'); спробуйте додати '{2}' префікс, щоб зробити його абсолютним.</target>
+    </trans-unit>
+    <trans-unit id="more.information">
+      <source xml:lang="en">More Information</source><target>Додаткові відомості</target>
+    </trans-unit>
+    <trans-unit id="setVariable.error">
+      <source xml:lang="en">Setting value not supported</source><target>Значення параметра не підтримується</target>
+    </trans-unit>
+    <trans-unit id="source.not.found">
+      <source xml:lang="en">Could not retrieve content.</source><target>Не вдалося витягти вміст.</target>
+    </trans-unit>
+    <trans-unit id="VSND2010">
+      <source xml:lang="en">Cannot connect to runtime process, timeout after {0} ms - (reason: {1}).</source><target>Неможливо підключитися до процесу виконання, час очікування після {0} мс - (причина: {1}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2023">
+      <source xml:lang="en">No call stack available.</source><target>Жодний стек викликів не доступний.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="testSupport/node_modules/vscode-chrome-debug-core/out/src/chrome/chromeDebugAdapter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="exceptions.all">
+      <source xml:lang="en">All Exceptions</source><target>Усі винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.uncaught">
+      <source xml:lang="en">Uncaught Exceptions</source><target>Невичерпні винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.promise_rejects">
+      <source xml:lang="en">Promise Rejects</source><target>Викид проміса</target>
+    </trans-unit>
+    <trans-unit id="setBPTimedOut">
+      <source xml:lang="en">Set breakpoints request timed out</source><target>Встановити точки зупину запиту вичерпано час очікування</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.unbound">
+      <source xml:lang="en">Breakpoints set but not yet bound</source><target>Точки пропущення встановлені, але ще не пов'язані</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.noscript">
+      <source xml:lang="en">Can't find script for breakpoint request</source><target>Не вдалося знайти сценарій для запиту точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="validateBP.sourcemapFail">
+      <source xml:lang="en">Breakpoint ignored because generated code not found (source map problem?).</source><target>Точки зупинки ігноруються, оскільки згенерований код не знайдено (проблема вихідної карти?).</target>
+    </trans-unit>
+    <trans-unit id="validateBP.notFound">
+      <source xml:lang="en">Breakpoint ignored because target path not found</source><target>Точки зупинки ігноруються, тому що кінцевий шлях не знайдений</target>
+    </trans-unit>
+    <trans-unit id="invalidHitCondition">
+      <source xml:lang="en">Invalid hit condition: {0}</source><target>Недійсний стан ударів: {0}</target>
+    </trans-unit>
+    <trans-unit id="skipReason">
+      <source xml:lang="en">(skipped by '{0}')</source><target>(пропущена '{0}')</target>
+    </trans-unit>
+    <trans-unit id="scope.exception">
+      <source xml:lang="en">Exception</source><target>Виняток</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="testSupport/node_modules/vscode-chrome-debug-core/out/src/chrome/chromeTargetDiscoveryStrategy" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="attach.responseButNoTargets">
+      <source xml:lang="en">Got a response from the target app, but no target pages found</source><target>Отримав відповідь від цільової програми, але цільової сторінки не знайдено</target>
+    </trans-unit>
+    <trans-unit id="attach.invalidResponse">
+      <source xml:lang="en">Response from the target seems invalid: {0}</source><target>Відповіді від цілі здається недійсні: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.cannotConnect">
+      <source xml:lang="en">Cannot connect to the target: {0}</source><target>Не вдається підключитися до цілі: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.noMatchingTarget">
+      <source xml:lang="en">Can't find a target that matches: {0}. Available pages: {1}</source><target>Не можу знайти ціль, яка відповідає: {0}. Доступних сторінок: {1}</target>
+    </trans-unit>
+    <trans-unit id="attach.devToolsAttached">
+      <source xml:lang="en">Can't attach to this target that may have Chrome DevTools attached: {0}</source><target>Не вдається долучити до цієї цілі, до якої може бути приєднано Chrome DevTools: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="testSupport/node_modules/vscode-chrome-debug-core/out/src/chrome/stoppedEvent" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="reason.description.step">
+      <source xml:lang="en">Paused on step</source><target>Призупинено на крок</target>
+    </trans-unit>
+    <trans-unit id="reason.description.breakpoint">
+      <source xml:lang="en">Paused on breakpoint</source><target>Призупинено на точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="reason.description.exception">
+      <source xml:lang="en">Paused on exception</source><target>Призупинено на виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.uncaughtException">
+      <source xml:lang="en">Paused on uncaught exception</source><target>Призупинено на невідомий виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.caughtException">
+      <source xml:lang="en">Paused on caught exception</source><target>Призупинено на зловлений виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.user_request">
+      <source xml:lang="en">Paused on user request</source><target>Призупинено за запитом користувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.entry">
+      <source xml:lang="en">Paused on entry</source><target>Призупинено на в'їзді</target>
+    </trans-unit>
+    <trans-unit id="reason.description.debugger_statement">
+      <source xml:lang="en">Paused on debugger statement</source><target>Призупинено на заяву налагоджувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.restart">
+      <source xml:lang="en">Paused on frame entry</source><target>Призупинено запис на кадрі</target>
+    </trans-unit>
+    <trans-unit id="reason.description.promiseRejection">
+      <source xml:lang="en">Paused on promise rejection</source><target>Призупинено на викид проміса</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="testSupport/node_modules/vscode-chrome-debug-core/out/src/transformers/baseSourceMapTransformer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="origin.inlined.source.map">
+      <source xml:lang="en">read-only inlined content from source map</source><target>тільки для читання вмісту з джерел. карт</target>
+    </trans-unit>
+  </body></file>
+</xliff>

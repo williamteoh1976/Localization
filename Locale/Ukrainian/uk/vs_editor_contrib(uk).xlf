@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/editor/contrib/bracketMatching/bracketMatching" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="smartSelect.jumpBracket">
+      <source xml:lang="en">Go to Bracket</source>
+      <target>Перейти до дужки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="caret.moveLeft">
+      <source xml:lang="en">Move Caret Left</source>
+      <target>Перевести курсор ліворуч</target>
+    </trans-unit>
+    <trans-unit id="caret.moveRight">
+      <source xml:lang="en">Move Caret Right</source>
+      <target>Перевести курсор праворуч</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/caretOperations/transpose" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="transposeLetters.label">
+      <source xml:lang="en">Transpose Letters</source>
+      <target>Поміняти літери місцями</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/clipboard/clipboard" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="actions.clipboard.cutLabel">
+      <source xml:lang="en">Cut</source>
+      <target>Вирізати</target>
+    </trans-unit>
+    <trans-unit id="actions.clipboard.copyLabel">
+      <source xml:lang="en">Copy</source>
+      <target>Скопіювати</target>
+    </trans-unit>
+    <trans-unit id="actions.clipboard.pasteLabel">
+      <source xml:lang="en">Paste</source>
+      <target>Вставити</target>
+    </trans-unit>
+    <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
+      <source xml:lang="en">Copy With Syntax Highlighting</source>
+      <target>Скопіювати з підсвічуваннями синтаксу</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/comment/comment" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="comment.line">
+      <source xml:lang="en">Toggle Line Comment</source>
+      <target>Переключити коментування рядка</target>
+    </trans-unit>
+    <trans-unit id="comment.line.add">
+      <source xml:lang="en">Add Line Comment</source>
+      <target>Закоментувати рядок</target>
+    </trans-unit>
+    <trans-unit id="comment.line.remove">
+      <source xml:lang="en">Remove Line Comment</source>
+      <target>Вилучити коментування рядка</target>
+    </trans-unit>
+    <trans-unit id="comment.block">
+      <source xml:lang="en">Toggle Block Comment</source>
+      <target>Переключити коментування блоку тексту</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/contextmenu/contextmenu" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="action.showContextMenu.label">
+      <source xml:lang="en">Show Editor Context Menu</source>
+      <target>Показати контекстне меню редактора</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/find/findController" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="startFindAction">
+      <source xml:lang="en">Find</source>
+      <target>Знайти</target>
+    </trans-unit>
+    <trans-unit id="findNextMatchAction">
+      <source xml:lang="en">Find Next</source>
+      <target>Знайти наступне</target>
+    </trans-unit>
+    <trans-unit id="findPreviousMatchAction">
+      <source xml:lang="en">Find Previous</source>
+      <target>Знайти попереднє</target>
+    </trans-unit>
+    <trans-unit id="nextSelectionMatchFindAction">
+      <source xml:lang="en">Find Next Selection</source>
+      <target>Знайти наступний виділений фрагмент</target>
+    </trans-unit>
+    <trans-unit id="previousSelectionMatchFindAction">
+      <source xml:lang="en">Find Previous Selection</source>
+      <target>Знайти попередній виділений фрагмент</target>
+    </trans-unit>
+    <trans-unit id="startReplace">
+      <source xml:lang="en">Replace</source>
+      <target>Замінити</target>
+    </trans-unit>
+    <trans-unit id="showNextFindTermAction">
+      <source xml:lang="en">Show Next Find Term</source>
+      <target>Показати наступний знайдений фрагмент</target>
+    </trans-unit>
+    <trans-unit id="showPreviousFindTermAction">
+      <source xml:lang="en">Show Previous Find Term</source>
+      <target>Показати попередній знайдений фрагмент</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/folding/folding" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="unfoldAction.label">
+      <source xml:lang="en">Unfold</source>
+      <target>Розгорнути</target>
+    </trans-unit>
+    <trans-unit id="unFoldRecursivelyAction.label">
+      <source xml:lang="en">Unfold Recursively</source>
+      <target>Розгорнути рекурсивно</target>
+    </trans-unit>
+    <trans-unit id="foldAction.label">
+      <source xml:lang="en">Fold</source>
+      <target>Згорнути</target>
+    </trans-unit>
+    <trans-unit id="foldRecursivelyAction.label">
+      <source xml:lang="en">Fold Recursively</source>
+      <target>Згорнути рекурсивно</target>
+    </trans-unit>
+    <trans-unit id="foldAllBlockComments.label">
+      <source xml:lang="en">Fold All Block Comments</source>
+      <target>Згорнути всі закоментовані блоки</target>
+    </trans-unit>
+    <trans-unit id="foldAllMarkerRegions.label">
+      <source xml:lang="en">Fold All Regions</source>
+      <target>Згорнути всі регіони</target>
+    </trans-unit>
+    <trans-unit id="unfoldAllMarkerRegions.label">
+      <source xml:lang="en">Unfold All Regions</source>
+      <target>Розгорнути всі регіони</target>
+    </trans-unit>
+    <trans-unit id="foldAllAction.label">
+      <source xml:lang="en">Fold All</source>
+      <target>Згорнути все</target>
+    </trans-unit>
+    <trans-unit id="unfoldAllAction.label">
+      <source xml:lang="en">Unfold All</source>
+      <target>Розгорнути все</target>
+    </trans-unit>
+    <trans-unit id="foldLevelAction.label">
+      <source xml:lang="en">Fold Level {0}</source>
+      <target>Згорнути рівень {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/format/formatActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="hint11">
+      <source xml:lang="en">Made 1 formatting edit on line {0}</source>
+      <target>Виконано 1 зміну формату у рядку {0}</target>
+    </trans-unit>
+    <trans-unit id="hintn1">
+      <source xml:lang="en">Made {0} formatting edits on line {1}</source>
+      <target>Виконано {0} змін формату у рядку {1}</target>
+    </trans-unit>
+    <trans-unit id="hint1n">
+      <source xml:lang="en">Made 1 formatting edit between lines {0} and {1}</source>
+      <target>Виконано 1 зміну формату між рядками {0} та {1}</target>
+    </trans-unit>
+    <trans-unit id="hintnn">
+      <source xml:lang="en">Made {0} formatting edits between lines {1} and {2}</source>
+      <target>Виконано {0} змін формату між рядками {1} та {2}</target>
+    </trans-unit>
+    <trans-unit id="no.provider">
+      <source xml:lang="en">Sorry, but there is no formatter for '{0}'-files installed.</source>
+      <target>На жаль немає не форматувальника для файлів типу '{0}'.</target>
+    </trans-unit>
+    <trans-unit id="formatDocument.label">
+      <source xml:lang="en">Format Document</source>
+      <target>Форматувати документ</target>
+    </trans-unit>
+    <trans-unit id="formatSelection.label">
+      <source xml:lang="en">Format Selection</source>
+      <target>Форматувати виділений фрагмент</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/goToDeclaration/goToDeclarationCommands" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="noResultWord">
+      <source xml:lang="en">No definition found for '{0}'</source>
+      <target>Не знайдено визначення для "{0}"</target>
+    </trans-unit>
+    <trans-unit id="generic.noResults">
+      <source xml:lang="en">No definition found</source>
+      <target>Не знайдено визначення</target>
+    </trans-unit>
+    <trans-unit id="meta.title">
+      <source xml:lang="en"> – {0} definitions</source>
+      <target>– {0} визначень</target>
+    </trans-unit>
+    <trans-unit id="actions.goToDecl.label">
+      <source xml:lang="en">Go to Definition</source>
+      <target>Перейти до визначення</target>
+    </trans-unit>
+    <trans-unit id="actions.goToDeclToSide.label">
+      <source xml:lang="en">Open Definition to the Side</source>
+      <target>Відкрити визначення збоку</target>
+    </trans-unit>
+    <trans-unit id="actions.previewDecl.label">
+      <source xml:lang="en">Peek Definition</source>
+      <target>Переглянути визначення</target>
+    </trans-unit>
+    <trans-unit id="goToImplementation.noResultWord">
+      <source xml:lang="en">No implementation found for '{0}'</source>
+      <target>Не знайдено реалізації для "{0}"</target>
+    </trans-unit>
+    <trans-unit id="goToImplementation.generic.noResults">
+      <source xml:lang="en">No implementation found</source>
+      <target>Не знайдено реалізації</target>
+    </trans-unit>
+    <trans-unit id="meta.implementations.title">
+      <source xml:lang="en"> – {0} implementations</source>
+      <target> – {0} реалізацій</target>
+    </trans-unit>
+    <trans-unit id="actions.goToImplementation.label">
+      <source xml:lang="en">Go to Implementation</source>
+      <target>Перейти до реалізації</target>
+    </trans-unit>
+    <trans-unit id="actions.peekImplementation.label">
+      <source xml:lang="en">Peek Implementation</source>
+      <target>Переглянути реалізацію</target>
+    </trans-unit>
+    <trans-unit id="goToTypeDefinition.noResultWord">
+      <source xml:lang="en">No type definition found for '{0}'</source>
+      <target>Немає визначення типу для "{0}"</target>
+    </trans-unit>
+    <trans-unit id="goToTypeDefinition.generic.noResults">
+      <source xml:lang="en">No type definition found</source>
+      <target>Тип не визначено</target>
+    </trans-unit>
+    <trans-unit id="meta.typeDefinitions.title">
+      <source xml:lang="en"> – {0} type definitions</source>
+      <target>– {0} визначень типу</target>
+    </trans-unit>
+    <trans-unit id="actions.goToTypeDefinition.label">
+      <source xml:lang="en">Go to Type Definition</source>
+      <target>Перейти до визначення типу</target>
+    </trans-unit>
+    <trans-unit id="actions.peekTypeDefinition.label">
+      <source xml:lang="en">Peek Type Definition</source>
+      <target>Переглянути  визначення типу</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/goToDeclaration/goToDeclarationMouse" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="multipleResults">
+      <source xml:lang="en">Click to show {0} definitions.</source>
+      <target>Натисніть, щоб показати {0} визначень.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/gotoError/gotoError" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="title.wo_source">
+      <source xml:lang="en">({0}/{1})</source>
+      <target>({0}/{1})</target>
+    </trans-unit>
+    <trans-unit id="markerAction.next.label">
+      <source xml:lang="en">Go to Next Error or Warning</source>
+      <target>Перейти до наступної халепи або попередження</target>
+    </trans-unit>
+    <trans-unit id="markerAction.previous.label">
+      <source xml:lang="en">Go to Previous Error or Warning</source>
+      <target>Перейти до попередньої халепи або попередження</target>
+    </trans-unit>
+    <trans-unit id="editorMarkerNavigationError">
+      <source xml:lang="en">Editor marker navigation widget error color.</source><target>Колір халепи навігаційного віджета редактору маркерів.</target>
+    </trans-unit>
+    <trans-unit id="editorMarkerNavigationWarning">
+      <source xml:lang="en">Editor marker navigation widget warning color.</source><target>Колір попередження навігаційного віджета редактору маркерів.</target>
+    </trans-unit>
+    <trans-unit id="editorMarkerNavigationInfo">
+      <source xml:lang="en">Editor marker navigation widget info color.</source><target>Колір інфо навігаційного віджета редактору маркерів.</target>
+    </trans-unit>
+    <trans-unit id="editorMarkerNavigationBackground">
+      <source xml:lang="en">Editor marker navigation widget background.</source><target>Колір фону навігаційного віджета редактору маркерів.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/hover/hover" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="showHover">
+      <source xml:lang="en">Show Hover</source><target>Показати курсор</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/inPlaceReplace/inPlaceReplace" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="InPlaceReplaceAction.previous.label">
+      <source xml:lang="en">Replace with Previous Value</source>
+      <target>Замінити попереднім значенням</target>
+    </trans-unit>
+    <trans-unit id="InPlaceReplaceAction.next.label">
+      <source xml:lang="en">Replace with Next Value</source>
+      <target>Замінити наступним значенням</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/linesOperations/linesOperations" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="lines.copyUp">
+      <source xml:lang="en">Copy Line Up</source>
+      <target>Скопіювати рядок догори</target>
+    </trans-unit>
+    <trans-unit id="lines.copyDown">
+      <source xml:lang="en">Copy Line Down</source>
+      <target>Скопіювати рядок донизу</target>
+    </trans-unit>
+    <trans-unit id="lines.moveUp">
+      <source xml:lang="en">Move Line Up</source>
+      <target>Посунути рядок догори</target>
+    </trans-unit>
+    <trans-unit id="lines.moveDown">
+      <source xml:lang="en">Move Line Down</source>
+      <target>Посунути рядок донизу</target>
+    </trans-unit>
+    <trans-unit id="lines.sortAscending">
+      <source xml:lang="en">Sort Lines Ascending</source>
+      <target>Сортувати рядки за зростанням</target>
+    </trans-unit>
+    <trans-unit id="lines.sortDescending">
+      <source xml:lang="en">Sort Lines Descending</source>
+      <target>Сортувати рядки за спаданням</target>
+    </trans-unit>
+    <trans-unit id="lines.trimTrailingWhitespace">
+      <source xml:lang="en">Trim Trailing Whitespace</source>
+      <target>Обрізати пробіли в кінці рядків</target>
+    </trans-unit>
+    <trans-unit id="lines.delete">
+      <source xml:lang="en">Delete Line</source>
+      <target>Видалити рядок</target>
+    </trans-unit>
+    <trans-unit id="lines.indent">
+      <source xml:lang="en">Indent Line</source>
+      <target>Збільшити відступ рядка</target>
+    </trans-unit>
+    <trans-unit id="lines.outdent">
+      <source xml:lang="en">Outdent Line</source>
+      <target>Зменшити відступ рядка</target>
+    </trans-unit>
+    <trans-unit id="lines.insertBefore">
+      <source xml:lang="en">Insert Line Above</source>
+      <target>Вставити рядок вище</target>
+    </trans-unit>
+    <trans-unit id="lines.insertAfter">
+      <source xml:lang="en">Insert Line Below</source>
+      <target>Вставити рядок нижче</target>
+    </trans-unit>
+    <trans-unit id="lines.deleteAllLeft">
+      <source xml:lang="en">Delete All Left</source>
+      <target>Видалити усе ліворуч</target>
+    </trans-unit>
+    <trans-unit id="lines.deleteAllRight">
+      <source xml:lang="en">Delete All Right</source>
+      <target>Видалити усе праворуч</target>
+    </trans-unit>
+    <trans-unit id="lines.joinLines">
+      <source xml:lang="en">Join Lines</source>
+      <target>Обʼєднати рядки</target>
+    </trans-unit>
+    <trans-unit id="editor.transpose">
+      <source xml:lang="en">Transpose characters around the cursor</source>
+      <target>Поміняти місцями символи навколо курсору</target>
+    </trans-unit>
+    <trans-unit id="editor.transformToUppercase">
+      <source xml:lang="en">Transform to Uppercase</source>
+      <target>Перетворення у верхній регістр</target>
+    </trans-unit>
+    <trans-unit id="editor.transformToLowercase">
+      <source xml:lang="en">Transform to Lowercase</source>
+      <target>Перетворення в нижній регістр</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/links/links" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="links.navigate.mac">
+      <source xml:lang="en">Cmd + click to follow link</source>
+      <target>Cmd + клацніть, щоб перейти за посиланням</target>
+    </trans-unit>
+    <trans-unit id="links.navigate">
+      <source xml:lang="en">Ctrl + click to follow link</source>
+      <target>Ctlr + клацніть, щоб перейти за посиланням</target>
+    </trans-unit>
+    <trans-unit id="links.command.mac">
+      <source xml:lang="en">Cmd + click to execute command</source>
+      <target>Cmd + клацніть, щоб виконати команду</target>
+    </trans-unit>
+    <trans-unit id="links.command">
+      <source xml:lang="en">Ctrl + click to execute command</source>
+      <target>Ctrl + клацніть, щоб виконати команду</target>
+    </trans-unit>
+    <trans-unit id="links.navigate.al">
+      <source xml:lang="en">Alt + click to follow link</source>
+      <target>Alt + клацніть, щоб перейти за посиланням</target>
+    </trans-unit>
+    <trans-unit id="links.command.al">
+      <source xml:lang="en">Alt + click to execute command</source>
+      <target>Alt + клацніть, щоб виконати команду</target>
+    </trans-unit>
+    <trans-unit id="invalid.url">
+      <source xml:lang="en">Sorry, failed to open this link because it is not well-formed: {0}</source><target>На жаль, не вдалося відкрити це посилання, тому що воно не добре сформовано: {0}</target>
+    </trans-unit>
+    <trans-unit id="missing.url">
+      <source xml:lang="en">Sorry, failed to open this link because its target is missing.</source>
+      <target>На жаль, не вдалося відкрити це посилання, оскільки його ціль відсутня.</target>
+    </trans-unit>
+    <trans-unit id="label">
+      <source xml:lang="en">Open Link</source>
+      <target>Відкрити посилання</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/multicursor/multicursor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="mutlicursor.insertAbove">
+      <source xml:lang="en">Add Cursor Above</source>
+      <target>Додати курсор вище</target>
+    </trans-unit>
+    <trans-unit id="mutlicursor.insertBelow">
+      <source xml:lang="en">Add Cursor Below</source>
+      <target>Додати курсор нижче</target>
+    </trans-unit>
+    <trans-unit id="mutlicursor.insertAtEndOfEachLineSelected">
+      <source xml:lang="en">Add Cursors to Line Ends</source>
+      <target>Додати курсори в кінці рядків</target>
+    </trans-unit>
+    <trans-unit id="addSelectionToNextFindMatch">
+      <source xml:lang="en">Add Selection To Next Find Match</source><target>Додати вибір до наступної відповідності</target>
+    </trans-unit>
+    <trans-unit id="addSelectionToPreviousFindMatch">
+      <source xml:lang="en">Add Selection To Previous Find Match</source><target>Додати вибір до попередньої відповідності</target>
+    </trans-unit>
+    <trans-unit id="moveSelectionToNextFindMatch">
+      <source xml:lang="en">Move Last Selection To Next Find Match</source><target>Перемістити останній вибір до наступного пошуку відповідності</target>
+    </trans-unit>
+    <trans-unit id="moveSelectionToPreviousFindMatch">
+      <source xml:lang="en">Move Last Selection To Previous Find Match</source><target>Перемістити останній вибір до попереднього пошуку відповідності</target>
+    </trans-unit>
+    <trans-unit id="selectAllOccurrencesOfFindMatch">
+      <source xml:lang="en">Select All Occurrences of Find Match</source><target>Вибрати усі випадки збігу</target>
+    </trans-unit>
+    <trans-unit id="changeAll.label">
+      <source xml:lang="en">Change All Occurrences</source><target>Змінити Всі Входження</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/parameterHints/parameterHints" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="parameterHints.trigger.label">
+      <source xml:lang="en">Trigger Parameter Hints</source><target>Перемикач параметру підказки</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/quickFix/quickFixCommands" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="quickFixWithKb">
+      <source xml:lang="en">Show Fixes ({0})</source>
+      <target>Показати виправлення ({0})</target>
+    </trans-unit>
+    <trans-unit id="quickFix">
+      <source xml:lang="en">Show Fixes</source>
+      <target>Показати виправлення</target>
+    </trans-unit>
+    <trans-unit id="quickfix.trigger.label">
+      <source xml:lang="en">Quick Fix</source>
+      <target>Швидке виправлення</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/referenceSearch/referenceSearch" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="meta.titleReference">
+      <source xml:lang="en"> – {0} references</source>
+      <target> - посилань {0}</target>
+    </trans-unit>
+    <trans-unit id="references.action.label">
+      <source xml:lang="en">Find All References</source>
+      <target>Знайти всі посилання</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/rename/rename" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="no result">
+      <source xml:lang="en">No result.</source>
+      <target>Нема результату.</target>
+    </trans-unit>
+    <trans-unit id="aria">
+      <source xml:lang="en">Successfully renamed '{0}' to '{1}'. Summary: {2}</source>
+      <target>Успішно перейменовано "{0}" з "{1}". Всього: {2}</target>
+    </trans-unit>
+    <trans-unit id="rename.failed">
+      <source xml:lang="en">Sorry, rename failed to execute.</source>
+      <target>На жаль, перейменувати не вдалося.</target>
+    </trans-unit>
+    <trans-unit id="rename.label">
+      <source xml:lang="en">Rename Symbol</source>
+      <target>Перейменувати символ</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/smartSelect/smartSelect" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="smartSelect.grow">
+      <source xml:lang="en">Expand Select</source>
+      <target>Розгорнути обране</target>
+    </trans-unit>
+    <trans-unit id="smartSelect.shrink">
+      <source xml:lang="en">Shrink Select</source>
+      <target>Згорнути обране</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/suggest/suggestController" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="arai.alert.snippet">
+      <source xml:lang="en">Accepting '{0}' did insert the following text: {1}</source>
+      <target>Приймаючи '{0}' вставити наступний текст: {1}</target>
+    </trans-unit>
+    <trans-unit id="suggest.trigger.label">
+      <source xml:lang="en">Trigger Suggest</source>
+      <target>Перемикач пропозицій</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/toggleTabFocusMode/toggleTabFocusMode" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="toggle.tabMovesFocus">
+      <source xml:lang="en">Toggle Tab Key Moves Focus</source><target>Переміщення фокусу клавішею Tab</target>
+      <note>Turn on/off use of tab key for moving focus around VS Code</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/wordHighlighter/wordHighlighter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="wordHighlight">
+      <source xml:lang="en">Background color of a symbol during read-access, like reading a variable.</source><target>Колір фону символу під час читання, як читання змінної.</target>
+    </trans-unit>
+    <trans-unit id="wordHighlightStrong">
+      <source xml:lang="en">Background color of a symbol during write-access, like writing to a variable.</source><target>Колір фону символу під час запису, як запис в змінну.</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerWordHighlightForeground">
+      <source xml:lang="en">Overview ruler marker color for symbol highlights.</source><target>Колір для виділених проміжків на лінійці огляду</target>
+    </trans-unit>
+    <trans-unit id="overviewRulerWordHighlightStrongForeground">
+      <source xml:lang="en">Overview ruler marker color for write-access symbol highlights.</source><target>Огляд лінійки кольору маркерів для доступ на запис символу підсвічування.</target>
+    </trans-unit>
+    <trans-unit id="wordHighlight.next.label">
+      <source xml:lang="en">Go to Next Symbol Highlight</source><target>Перейти до наступного символу підсвічування</target>
+    </trans-unit>
+    <trans-unit id="wordHighlight.previous.label">
+      <source xml:lang="en">Go to Previous Symbol Highlight</source><target>Перейти до попереднього символу підсвічування</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/find/findWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="label.find">
+      <source xml:lang="en">Find</source>
+      <target>Знайти</target>
+    </trans-unit>
+    <trans-unit id="placeholder.find">
+      <source xml:lang="en">Find</source>
+      <target>Знайти</target>
+    </trans-unit>
+    <trans-unit id="label.previousMatchButton">
+      <source xml:lang="en">Previous match</source>
+      <target>Попереднє співпадання</target>
+    </trans-unit>
+    <trans-unit id="label.nextMatchButton">
+      <source xml:lang="en">Next match</source>
+      <target>Наступне співпадання</target>
+    </trans-unit>
+    <trans-unit id="label.toggleSelectionFind">
+      <source xml:lang="en">Find in selection</source>
+      <target>Знайти у виділеному фрагменті</target>
+    </trans-unit>
+    <trans-unit id="label.closeButton">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+    <trans-unit id="label.replace">
+      <source xml:lang="en">Replace</source>
+      <target>Замінити</target>
+    </trans-unit>
+    <trans-unit id="placeholder.replace">
+      <source xml:lang="en">Replace</source>
+      <target>Замінити</target>
+    </trans-unit>
+    <trans-unit id="label.replaceButton">
+      <source xml:lang="en">Replace</source>
+      <target>Замінити</target>
+    </trans-unit>
+    <trans-unit id="label.replaceAllButton">
+      <source xml:lang="en">Replace All</source>
+      <target>Замінити всі</target>
+    </trans-unit>
+    <trans-unit id="label.toggleReplaceButton">
+      <source xml:lang="en">Toggle Replace mode</source>
+      <target>Переключити режим заміни</target>
+    </trans-unit>
+    <trans-unit id="title.matchesCountLimit">
+      <source xml:lang="en">Only the first {0} results are highlighted, but all find operations work on the entire text.</source><target>Виділяти тільки перший {0} результат, але всі операції пошуку роботи по всьому тексту.</target>
+    </trans-unit>
+    <trans-unit id="label.matchesLocation">
+      <source xml:lang="en">{0} of {1}</source>
+      <target>{0} із {1}</target>
+    </trans-unit>
+    <trans-unit id="label.noResults">
+      <source xml:lang="en">No Results</source>
+      <target>Результатів немає</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/referenceSearch/referencesController" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="labelLoading">
+      <source xml:lang="en">Loading...</source>
+      <target>Завантаження...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/referenceSearch/referencesModel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="aria.oneReference">
+      <source xml:lang="en">symbol in {0} on line {1} at column {2}</source><target>символ {0} У рядку {1} в стовпець {2}</target>
+    </trans-unit>
+    <trans-unit id="aria.fileReferences.1">
+      <source xml:lang="en">1 symbol in {0}, full path {1}</source><target>1 символ {0}, повний шлях {1}</target>
+    </trans-unit>
+    <trans-unit id="aria.fileReferences.N">
+      <source xml:lang="en">{0} symbols in {1}, full path {2}</source><target>{0} символів {1}, повний шлях {2}</target>
+    </trans-unit>
+    <trans-unit id="aria.result.0">
+      <source xml:lang="en">No results found</source>
+      <target>Результатів не знайдено</target>
+    </trans-unit>
+    <trans-unit id="aria.result.1">
+      <source xml:lang="en">Found 1 symbol in {0}</source><target>Знайдено 1 символ {0}</target>
+    </trans-unit>
+    <trans-unit id="aria.result.n1">
+      <source xml:lang="en">Found {0} symbols in {1}</source><target>Знайшли {0} символів {1}</target>
+    </trans-unit>
+    <trans-unit id="aria.result.nm">
+      <source xml:lang="en">Found {0} symbols in {1} files</source><target>Знайшли {0} символів {1} файли</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/referenceSearch/peekViewWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="label.close">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/hover/modesContentHover" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="modesContentHover.loading">
+      <source xml:lang="en">Loading...</source>
+      <target>Завантаження...</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/parameterHints/parameterHintsWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="hint">
+      <source xml:lang="en">{0}, hint</source>
+      <target>{0}, Підказка</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/rename/renameInputField" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="renameAriaLabel">
+      <source xml:lang="en">Rename input. Type new name and press Enter to commit.</source><target>Перейменувати ввід. Введіть нове ім'я та натисніть клавішу Enter для фіксації.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/suggest/suggestWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="editorSuggestWidgetBackground">
+      <source xml:lang="en">Background color of the suggest widget.</source><target>Колір фону віджету пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="editorSuggestWidgetBorder">
+      <source xml:lang="en">Border color of the suggest widget.</source><target>Колір рамки віджету пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="editorSuggestWidgetForeground">
+      <source xml:lang="en">Foreground color of the suggest widget.</source><target>Колір переднього плану віджету пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="editorSuggestWidgetSelectedBackground">
+      <source xml:lang="en">Background color of the selected entry in the suggest widget.</source><target>Колір фону для виділеного елемента у віджеті пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="editorSuggestWidgetHighlightForeground">
+      <source xml:lang="en">Color of the match highlights in the suggest widget.</source><target>Колір збігу підсвічується у віджеті пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="readMore">
+      <source xml:lang="en">Read More...{0}</source>
+      <target>Читати далі... {0}</target>
+    </trans-unit>
+    <trans-unit id="suggestionWithDetailsAriaLabel">
+      <source xml:lang="en">{0}, suggestion, has details</source><target>{0}, пропозиція, має подробиці</target>
+    </trans-unit>
+    <trans-unit id="suggestionAriaLabel">
+      <source xml:lang="en">{0}, suggestion</source><target>{0}, пропозиція</target>
+    </trans-unit>
+    <trans-unit id="readLess">
+      <source xml:lang="en">Read less...{0}</source><target>Менше чити...{0}</target>
+    </trans-unit>
+    <trans-unit id="suggestWidget.loading">
+      <source xml:lang="en">Loading...</source>
+      <target>Завантаження...</target>
+    </trans-unit>
+    <trans-unit id="suggestWidget.noSuggestions">
+      <source xml:lang="en">No suggestions.</source>
+      <target>Немає пропозицій.</target>
+    </trans-unit>
+    <trans-unit id="suggestionAriaAccepted">
+      <source xml:lang="en">{0}, accepted</source>
+      <target>{0}, прийнято</target>
+    </trans-unit>
+    <trans-unit id="ariaCurrentSuggestionWithDetails">
+      <source xml:lang="en">{0}, suggestion, has details</source>
+      <target>{0}, пропозиція, має подробиці</target>
+    </trans-unit>
+    <trans-unit id="ariaCurrentSuggestion">
+      <source xml:lang="en">{0}, suggestion</source>
+      <target>{0}, пропозиція</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/referenceSearch/referencesWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="referencesFailre">
+      <source xml:lang="en">Failed to resolve file.</source><target>Не вдалося вирішити файл.</target>
+    </trans-unit>
+    <trans-unit id="referencesCount">
+      <source xml:lang="en">{0} references</source>
+      <target>{0} посилань</target>
+    </trans-unit>
+    <trans-unit id="referenceCount">
+      <source xml:lang="en">{0} reference</source>
+      <target>{0} посилання</target>
+    </trans-unit>
+    <trans-unit id="missingPreviewMessage">
+      <source xml:lang="en">no preview available</source>
+      <target>попередній перегляд не доступний</target>
+    </trans-unit>
+    <trans-unit id="treeAriaLabel">
+      <source xml:lang="en">References</source>
+      <target>Посилання</target>
+    </trans-unit>
+    <trans-unit id="noResults">
+      <source xml:lang="en">No results</source>
+      <target>Результатів немає</target>
+    </trans-unit>
+    <trans-unit id="peekView.alternateTitle">
+      <source xml:lang="en">References</source>
+      <target>Посилання</target>
+    </trans-unit>
+    <trans-unit id="peekViewTitleBackground">
+      <source xml:lang="en">Background color of the peek view title area.</source><target>Колір фону в режимі перегляду назви області.</target>
+    </trans-unit>
+    <trans-unit id="peekViewTitleForeground">
+      <source xml:lang="en">Color of the peek view title.</source><target>Колір заголовка перегляду виду.</target>
+    </trans-unit>
+    <trans-unit id="peekViewTitleInfoForeground">
+      <source xml:lang="en">Color of the peek view title info.</source><target>Колір заголовка перегляду виду інформації.</target>
+    </trans-unit>
+    <trans-unit id="peekViewBorder">
+      <source xml:lang="en">Color of the peek view borders and arrow.</source><target>Колір peek вигляду межі та стрілки.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsBackground">
+      <source xml:lang="en">Background color of the peek view result list.</source><target>Колір тла списку результатів виду peek.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsMatchForeground">
+      <source xml:lang="en">Foreground color for line nodes in the peek view result list.</source><target>Колір переднього плану для лінії вузлів peek подання списку результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsFileForeground">
+      <source xml:lang="en">Foreground color for file nodes in the peek view result list.</source><target>Колір переднього плану для файлу вузлів peek подання списку результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsSelectionBackground">
+      <source xml:lang="en">Background color of the selected entry in the peek view result list.</source><target>Фоновий колір вибраного елементу peek подання списку результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsSelectionForeground">
+      <source xml:lang="en">Foreground color of the selected entry in the peek view result list.</source><target>Колір переднього плану вибраного елементу peek подання списку результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="peekViewEditorBackground">
+      <source xml:lang="en">Background color of the peek view editor.</source><target>Колір тла peek вигляд редактора.</target>
+    </trans-unit>
+    <trans-unit id="peekViewEditorGutterBackground">
+      <source xml:lang="en">Background color of the gutter in the peek view editor.</source><target>Колір тла жолобу peek вигляд редактора.</target>
+    </trans-unit>
+    <trans-unit id="peekViewResultsMatchHighlight">
+      <source xml:lang="en">Match highlight color in the peek view result list.</source><target>Колір виділення збігу peek подання списку результатів пошуку.</target>
+    </trans-unit>
+    <trans-unit id="peekViewEditorMatchHighlight">
+      <source xml:lang="en">Match highlight color in the peek view editor.</source><target>Колір виділення збігу у peek вигляд редактора.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/find/simpleFindWidget" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="label.find">
+      <source xml:lang="en">Find</source>
+      <target>Знайти</target>
+    </trans-unit>
+    <trans-unit id="placeholder.find">
+      <source xml:lang="en">Find</source>
+      <target>Знайти</target>
+    </trans-unit>
+    <trans-unit id="label.previousMatchButton">
+      <source xml:lang="en">Previous match</source>
+      <target>Попереднє співпадання</target>
+    </trans-unit>
+    <trans-unit id="label.nextMatchButton">
+      <source xml:lang="en">Next match</source>
+      <target>Наступне співпадання</target>
+    </trans-unit>
+    <trans-unit id="label.closeButton">
+      <source xml:lang="en">Close</source>
+      <target>Закрити</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/editor/contrib/indentation/indentation" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="indentationToSpaces">
+      <source xml:lang="en">Convert Indentation to Spaces</source>
+      <target>Перетворити Відступ у Пробіли</target>
+    </trans-unit>
+    <trans-unit id="indentationToTabs">
+      <source xml:lang="en">Convert Indentation to Tabs</source>
+      <target>Перетворити Відступ у Таби</target>
+    </trans-unit>
+    <trans-unit id="configuredTabSize">
+      <source xml:lang="en">Configured Tab Size</source>
+      <target>Задати розмір Табів</target>
+    </trans-unit>
+    <trans-unit id="selectTabWidth">
+      <source xml:lang="en">Select Tab Size for Current File</source>
+      <target>Обрати розмір Табів для поточного файлу</target>
+      <note>Tab corresponds to the tab key</note>
+    </trans-unit>
+    <trans-unit id="indentUsingTabs">
+      <source xml:lang="en">Indent Using Tabs</source>
+      <target>Відступ за допомогою Табів</target>
+    </trans-unit>
+    <trans-unit id="indentUsingSpaces">
+      <source xml:lang="en">Indent Using Spaces</source>
+      <target>Відступ за допомогою пробілу</target>
+    </trans-unit>
+    <trans-unit id="detectIndentation">
+      <source xml:lang="en">Detect Indentation from Content</source>
+      <target>Визначити типи Відступів з Контенту</target>
+    </trans-unit>
+    <trans-unit id="editor.reindentlines">
+      <source xml:lang="en">Reindent Lines</source>
+      <target>Повторно збільшити відступ рядка</target>
+    </trans-unit>
+  </body></file>
+</xliff>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/keybinding/electron-browser/keybindingService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="nonempty">
+      <source xml:lang="en">expected non-empty value.</source><target>очікується, що непорожнє значення.</target>
+    </trans-unit>
+    <trans-unit id="requirestring">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source><target>властивість "{0}" є обов'язковою і має належати до типу "рядок"</target>
+    </trans-unit>
+    <trans-unit id="optstring">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string`</source><target>властивість "{0}" може бути пропущена або має належати до типу "рядок"</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.command">
+      <source xml:lang="en">Identifier of the command to run when keybinding is triggered.</source><target>Ідентифікатор команди, коли прив'язка клавіш спрацьовує.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.key">
+      <source xml:lang="en">Key or key sequence (separate keys with plus-sign and sequences with space, e.g Ctrl+O and Ctrl+L L for a chord).</source><target>Клавішу або послідовність клавіш (окремі клавіші зі знаками "плюс" і послідовності з простором, наприклад сполучення клавіш Ctrl+О Ctrl+L і L для акорду).</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.mac">
+      <source xml:lang="en">Mac specific key or key sequence.</source><target>Певний Mac клавішу або послідовність клавіш.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.linux">
+      <source xml:lang="en">Linux specific key or key sequence.</source><target>Певну клавішу Linux або послідовність клавіш.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.win">
+      <source xml:lang="en">Windows specific key or key sequence.</source><target>Конкретна Windows клавіша або послідовність клавіш.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings.when">
+      <source xml:lang="en">Condition when the key is active.</source><target>Стан, коли клавіша активна.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.keybindings">
+      <source xml:lang="en">Contributes keybindings.</source><target>Сприяє формуванню комбінацій клавіш.</target>
+    </trans-unit>
+    <trans-unit id="invalid.keybindings">
+      <source xml:lang="en">Invalid `contributes.{0}`: {1}</source><target>Невірний  `contributes.{0}`: {1}</target>
+    </trans-unit>
+    <trans-unit id="unboundCommands">
+      <source xml:lang="en">Here are other available commands: </source><target>Ось інші доступні команди: </target>
+    </trans-unit>
+    <trans-unit id="keybindings.json.title">
+      <source xml:lang="en">Keybindings configuration</source><target>Конфігурація гарячих клавіш</target>
+    </trans-unit>
+    <trans-unit id="keybindings.json.key">
+      <source xml:lang="en">Key or key sequence (separated by space)</source><target>Клавішу або послідовність клавіш (розділених пробілом)</target>
+    </trans-unit>
+    <trans-unit id="keybindings.json.command">
+      <source xml:lang="en">Name of the command to execute</source><target>Ім'я команди, яка виконується</target>
+    </trans-unit>
+    <trans-unit id="keybindings.json.when">
+      <source xml:lang="en">Condition when the key is active.</source><target>Стан, коли клавіша активна.</target>
+    </trans-unit>
+    <trans-unit id="keybindings.json.args">
+      <source xml:lang="en">Arguments to pass to the command to execute.</source><target>Аргументи, які потрібно передати, щоб виконати команду.</target>
+    </trans-unit>
+    <trans-unit id="keyboardConfigurationTitle">
+      <source xml:lang="en">Keyboard</source><target>Клавіатура</target>
+    </trans-unit>
+    <trans-unit id="dispatch">
+      <source xml:lang="en">Controls the dispatching logic for key presses to use either `code` (recommended) or `keyCode`.</source><target>Контролює диспетчерської логіку для натискання клавіш для використання у будь-якому 'код' (рекомендовано) або `keyCode`.</target>
+    </trans-unit>
+    <trans-unit id="touchbar.enabled">
+      <source xml:lang="en">Enables the macOS touchbar buttons on the keyboard if available.</source><target>Включає в MacOS сенсорної панелі кнопок на клавіатурі, якщо вони доступні.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/keybinding/common/keybindingEditing" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="errorKeybindingsFileDirty">
+      <source xml:lang="en">Unable to write because the file is dirty. Please save the **Keybindings** file and try again.</source><target>Не вдалося виконати записування, оскільки файл має зміни. Будь ласка, зберігайте у **Keybindings** файл і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="parseErrors">
+      <source xml:lang="en">Unable to write keybindings. Please open **Keybindings file** to correct errors/warnings in the file and try again.</source><target>Не вдалося записати до комбінацій клавіш. Будь ласка, відкрийте  **Keybindings file** щоб виправляти помилки/попередження у файлі та повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="errorInvalidConfiguration">
+      <source xml:lang="en">Unable to write keybindings. **Keybindings file** has an object which is not of type Array. Please open the file to clean up and try again.</source><target>Не вдалося записати до комбінацій клавіш.  **Keybindings file** є об'єкт, який не є типом Array. Будь ласка, відкрийте файл, щоб очистити і знову спробувати.</target>
+    </trans-unit>
+    <trans-unit id="emptyKeybindingsHeader">
+      <source xml:lang="en">Place your key bindings in this file to overwrite the defaults</source><target>Розмістити клавішні прив'язки в цьому файлі перезаписати параметри за замовчуванням</target>
+    </trans-unit>
+  </body></file>
+</xliff>

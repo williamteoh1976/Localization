@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="package" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extension.description">
+      <source xml:lang="en">Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.</source><target>Налагодження JavaScript коду для веб-переглядача Chrome або інші цілі, який підтримує протокол Chrome налагоджувач.</target>
+    </trans-unit>
+    <trans-unit id="chrome.toggleSkipping.title">
+      <source xml:lang="en">Toggle Skipping This File</source><target>Переключити пропускання цього файлу</target>
+    </trans-unit>
+    <trans-unit id="chrome.port.description">
+      <source xml:lang="en">Port to use for Chrome remote debugging.</source><target>Порт для віддаленого Chrome налагодження.</target>
+    </trans-unit>
+    <trans-unit id="chrome.address.description">
+      <source xml:lang="en">TCP/IP address of debug port</source><target>Протокол TCP/IP-адреса, порт налагодження</target>
+    </trans-unit>
+    <trans-unit id="chrome.file.description">
+      <source xml:lang="en">A local html file to open in the browser</source><target>Локальний файл HTML для відкриття в браузері</target>
+    </trans-unit>
+    <trans-unit id="chrome.url.description">
+      <source xml:lang="en">Will search for a tab with this EXACT url and attach to it, if found</source><target>Буде шукати вкладку з цим EXACT url і приєднати до неї, якщо буде знайдено</target>
+    </trans-unit>
+    <trans-unit id="chrome.webRoot.description">
+      <source xml:lang="en">This specifies the workspace absolute path to the webserver root. Used to resolve paths like `/app.js` to files on disk. Shorthand for a pathMapping for "/"</source><target>Це вказує на абсолютний простір шлях до кореня веб-сервера. Використовується для дозволу шляхів, такі як `/app.js` до файлів на диску. Позначення pathMapping для "/"</target>
+    </trans-unit>
+    <trans-unit id="chrome.pathMapping.description">
+      <source xml:lang="en">A mapping of URLs/paths to local folders, to resolve scripts in Chrome to scripts on disk</source><target>Зіставлення URL-адреси/шляху до локальних папок, щоб вирішити скрипти в Chrome для скриптів на диску</target>
+    </trans-unit>
+    <trans-unit id="chrome.runtimeExecutable.description">
+      <source xml:lang="en">Workspace absolute path to the runtime executable to be used. If not specified, Chrome will be used from the default install location.</source><target>Робоче місце абсолютний шлях виконуваний файл, який буде використовуватися. Якщо не вказано, Chrome буде використовуватися за замовчуванням Місце установки.</target>
+    </trans-unit>
+    <trans-unit id="chrome.runtimeArgs.description">
+      <source xml:lang="en">Optional arguments passed to the runtime executable.</source><target>Додаткові аргументи, передані в виконуваний файл.</target>
+    </trans-unit>
+    <trans-unit id="chrome.env.description">
+      <source xml:lang="en">Optional dictionary of environment key/value pairs.</source><target>Додатковий словник з оточення пари ключ/значення.</target>
+    </trans-unit>
+    <trans-unit id="chrome.cwd.description">
+      <source xml:lang="en">Optional working directory for the runtime executable.</source><target>Додатковий робочий каталог для виконуваного файлу.</target>
+    </trans-unit>
+    <trans-unit id="chrome.sourceMaps.description">
+      <source xml:lang="en">Use JavaScript source maps (if they exist).</source><target>Використання JavaScript джерело мапи (якщо вони існують).</target>
+    </trans-unit>
+    <trans-unit id="chrome.diagnosticLogging.description">
+      <source xml:lang="en">When true, the adapter logs its own diagnostic info to the console in a human readable format</source><target>Коли правда, адаптер входить його власна діагностична інформація на консолі в зрозумілому людині форматі</target>
+    </trans-unit>
+    <trans-unit id="chrome.verboseDiagnosticLogging.description">
+      <source xml:lang="en">When true, the adapter logs all traffic with the client and target (as well as the info logged by 'diagnosticLogging')</source><target>Коли правда, адаптер реєструє весь трафік з клієнта і цілі (а також інформація до журналу 'diagnosticLogging')</target>
+    </trans-unit>
+    <trans-unit id="chrome.trace.description">
+      <source xml:lang="en">When 'true', the debugger will log tracing info to a file. When 'verbose', it will also show logs in the console.</source><target>Коли "true" налагоджувач буде реєструвати відомості трасування до файлу. Коли 'verbose' ('Докладно'), також покаже журнали в консолі.</target>
+    </trans-unit>
+    <trans-unit id="chrome.userDataDir.description">
+      <source xml:lang="en">By default, Chrome is launched with a separate user profile in a temp folder. Use this option to override it. Set to false to launch with your default user profile.</source><target>За замовчуванням, хром запускається в окремому профілі користувача в папці Temp. Використовуйте цей параметр, щоб змінити його. Встановіть значення false, щоб запустити зі свого профілю користувача за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="chrome.sourceMapPathOverrides.description">
+      <source xml:lang="en">A set of mappings for rewriting the locations of source files from what the sourcemap says, to their locations on disk. See README for details.</source><target>Набір зв'язок для переписування розташування вихідних файлів від того, що sourcemap каже, їх розташування на диску. Дивіться readme для деталей.</target>
+    </trans-unit>
+    <trans-unit id="chrome.smartStep.description">
+      <source xml:lang="en">Automatically step through generated code that cannot be mapped back to the original source.</source><target>Автоматично крок через код, який не може бути зіставлений назад до першоджерела.</target>
+    </trans-unit>
+    <trans-unit id="chrome.skipFiles.description">
+      <source xml:lang="en">An array of file or folder names, or path globs, to skip when debugging.</source><target>Масив імен файлів або папок, або глоб. шляхів, які потрібно пропустити при налагодженні.</target>
+    </trans-unit>
+    <trans-unit id="chrome.timeout.description">
+      <source xml:lang="en">Retry for this number of milliseconds to connect to Chrome. Default is 10000 ms.</source><target>Повторити цю кількість мілісекунд, щоб підключитися до Chrome. Значенням за замовчанням є 10000 ms.</target>
+    </trans-unit>
+    <trans-unit id="chrome.disableNetworkCache.description">
+      <source xml:lang="en">Controls whether to skip the network cache for each request</source><target>Визначає, чи слід пропустити кеш мережі для кожного запиту</target>
+    </trans-unit>
+    <trans-unit id="chrome.urlFilter.description">
+      <source xml:lang="en">Will search for a page with this url and attach to it, if found. Can have * wildcards.</source><target>Буде шукати сторінку з цим URL і прикласти до нього, якщо знайшли. Може бути * шаблони.</target>
+    </trans-unit>
+    <trans-unit id="chrome.showAsyncStacks.description">
+      <source xml:lang="en">Show the async calls that led to the current call stack</source><target>Показати на асинхронні виклики, які призвели до поточного стеку викликів</target>
+    </trans-unit>
+    <trans-unit id="chrome.breakOnLoad.description">
+      <source xml:lang="en">Experimental feature -  If true, the debug adapter will attempt to set breakpoints in scripts before they are loaded, so it can hit breakpoints at the beginnings of those scripts. Has a perf impact.</source><target>Експериментальна функція - якщо це правда, налагодження адаптер буде намагатися встановити точки зупину в сценарії, перш ніж вони будуть завантажені, так що можу вдарити точки зупинки у початок ці скрипти. Має відбиток впливу.</target>
+    </trans-unit>
+    <trans-unit id="chrome.breakOnLoadStrategy.description">
+      <source xml:lang="en">The strategy to use for breakOnLoad.</source><target>Стратегії для використання на breakOnLoad.</target>
+    </trans-unit>
+    <trans-unit id="chrome.breakOnLoadStrategy.instrument.description">
+      <source xml:lang="en">Tell Chrome to pause as each script is loaded, resolving sourcemaps and setting breakpoints</source><target>Повідомте Chrome, щоб призупинити, як завантажиться кожен скрипт, вирішивши джерела слів і встановивши точки зупинки</target>
+    </trans-unit>
+    <trans-unit id="chrome.breakOnLoadStrategy.regex.description">
+      <source xml:lang="en">Sets breakpoints optimistically in files with the same name as the file in which the breakpoint is set.</source><target>Оптимістично встановлює точки зупинки у файлах з таким самим ім'ям, як і файл, у якому встановлена точка переривання.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/chromeDebugAdapter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="attribute.chrome.missing">
+      <source xml:lang="en">Can't find Chrome - install it or set the "runtimeExecutable" field in the launch config.</source><target>Не вдалося знайти Chrome - встановити його або встановити поле "runtimeExecutable" в запуску конфігурації.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/errors" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="attribute.path.not.exist">
+      <source xml:lang="en">Attribute '{0}' does not exist ('{1}').</source><target>Атрибут '{0}' не існує ('{1}').</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="out/src/extension" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="chrome.launch.name">
+      <source xml:lang="en">Launch Chrome against localhost</source><target>Запуску Chrome від localhost</target>
+    </trans-unit>
+    <trans-unit id="chrome.targets.placeholder">
+      <source xml:lang="en">Select a tab</source><target>Виберіть вкладку</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="node_modules/vscode-chrome-debug-core/out/src/errors" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="eval.not.available">
+      <source xml:lang="en">not available</source><target>не доступний</target>
+    </trans-unit>
+    <trans-unit id="not.connected">
+      <source xml:lang="en">not connected to runtime</source><target>не підключений до виконання</target>
+    </trans-unit>
+    <trans-unit id="restartFrame.cannot">
+      <source xml:lang="en">Can't restart frame</source><target>Не вдається перезапустити кадр</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.exist">
+      <source xml:lang="en">Attribute '{0}' does not exist ('{1}').</source><target>Атрибут '{0}' не існує ('{1}').</target>
+    </trans-unit>
+    <trans-unit id="attribute.path.not.absolute">
+      <source xml:lang="en">Attribute '{0}' is not absolute ('{1}'); consider adding '{2}' as a prefix to make it absolute.</source><target>Атрибут '{0}' не є абсолютним ('{1}'); спробуйте додати '{2}' префікс, щоб зробити його абсолютним.</target>
+    </trans-unit>
+    <trans-unit id="more.information">
+      <source xml:lang="en">More Information</source><target>Додаткові відомості</target>
+    </trans-unit>
+    <trans-unit id="setVariable.error">
+      <source xml:lang="en">Setting value not supported</source><target>Значення параметра не підтримується</target>
+    </trans-unit>
+    <trans-unit id="source.not.found">
+      <source xml:lang="en">Could not retrieve content.</source><target>Не вдалося витягти вміст.</target>
+    </trans-unit>
+    <trans-unit id="VSND2010">
+      <source xml:lang="en">Cannot connect to runtime process, timeout after {0} ms - (reason: {1}).</source><target>Неможливо підключитися до процесу виконання, час очікування після {0} мс - (причина: {1}).</target>
+    </trans-unit>
+    <trans-unit id="VSND2023">
+      <source xml:lang="en">No call stack available.</source><target>Жодний стек викликів не доступний.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="node_modules/vscode-chrome-debug-core/out/src/chrome/chromeDebugAdapter" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="exceptions.all">
+      <source xml:lang="en">All Exceptions</source><target>Усі винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.uncaught">
+      <source xml:lang="en">Uncaught Exceptions</source><target>Невичерпні винятки</target>
+    </trans-unit>
+    <trans-unit id="exceptions.promise_rejects">
+      <source xml:lang="en">Promise Rejects</source><target>Викид проміса</target>
+    </trans-unit>
+    <trans-unit id="setBPTimedOut">
+      <source xml:lang="en">Set breakpoints request timed out</source><target>Встановити точки зупину запиту вичерпано час очікування</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.unbound">
+      <source xml:lang="en">Breakpoints set but not yet bound</source><target>Точки пропущення встановлені, але ще не пов'язані</target>
+    </trans-unit>
+    <trans-unit id="bp.fail.noscript">
+      <source xml:lang="en">Can't find script for breakpoint request</source><target>Не вдалося знайти сценарій для запиту точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="validateBP.sourcemapFail">
+      <source xml:lang="en">Breakpoint ignored because generated code not found (source map problem?).</source><target>Точки зупинки ігноруються, оскільки згенерований код не знайдено (проблема вихідної карти?).</target>
+    </trans-unit>
+    <trans-unit id="validateBP.notFound">
+      <source xml:lang="en">Breakpoint ignored because target path not found</source><target>Точки зупинки ігноруються, тому що кінцевий шлях не знайдений</target>
+    </trans-unit>
+    <trans-unit id="invalidHitCondition">
+      <source xml:lang="en">Invalid hit condition: {0}</source><target>Недійсний стан ударів: {0}</target>
+    </trans-unit>
+    <trans-unit id="skipReason">
+      <source xml:lang="en">(skipped by '{0}')</source><target>(пропущена '{0}')</target>
+    </trans-unit>
+    <trans-unit id="scope.exception">
+      <source xml:lang="en">Exception</source><target>Виняток</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="node_modules/vscode-chrome-debug-core/out/src/chrome/chromeTargetDiscoveryStrategy" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="attach.responseButNoTargets">
+      <source xml:lang="en">Got a response from the target app, but no target pages found</source><target>Отримав відповідь від цільової програми, але цільової сторінки не знайдено</target>
+    </trans-unit>
+    <trans-unit id="attach.invalidResponse">
+      <source xml:lang="en">Response from the target seems invalid: {0}</source><target>Відповіді від цілі здається недійсні: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.cannotConnect">
+      <source xml:lang="en">Cannot connect to the target: {0}</source><target>Не вдається підключитися до цілі: {0}</target>
+    </trans-unit>
+    <trans-unit id="attach.noMatchingTarget">
+      <source xml:lang="en">Can't find a target that matches: {0}. Available pages: {1}</source><target>Не можу знайти ціль, яка відповідає: {0}. Доступних сторінок: {1}</target>
+    </trans-unit>
+    <trans-unit id="attach.devToolsAttached">
+      <source xml:lang="en">Can't attach to this target that may have Chrome DevTools attached: {0}</source><target>Не вдається долучити до цієї цілі, до якої може бути приєднано Chrome DevTools: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="node_modules/vscode-chrome-debug-core/out/src/chrome/stoppedEvent" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="reason.description.step">
+      <source xml:lang="en">Paused on step</source><target>Призупинено на крок</target>
+    </trans-unit>
+    <trans-unit id="reason.description.breakpoint">
+      <source xml:lang="en">Paused on breakpoint</source><target>Призупинено на точка зупинки</target>
+    </trans-unit>
+    <trans-unit id="reason.description.exception">
+      <source xml:lang="en">Paused on exception</source><target>Призупинено на виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.uncaughtException">
+      <source xml:lang="en">Paused on uncaught exception</source><target>Призупинено на невідомий виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.caughtException">
+      <source xml:lang="en">Paused on caught exception</source><target>Призупинено на зловлений виняток</target>
+    </trans-unit>
+    <trans-unit id="reason.description.user_request">
+      <source xml:lang="en">Paused on user request</source><target>Призупинено за запитом користувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.entry">
+      <source xml:lang="en">Paused on entry</source><target>Призупинено на в'їзді</target>
+    </trans-unit>
+    <trans-unit id="reason.description.debugger_statement">
+      <source xml:lang="en">Paused on debugger statement</source><target>Призупинено на заяву налагоджувача</target>
+    </trans-unit>
+    <trans-unit id="reason.description.restart">
+      <source xml:lang="en">Paused on frame entry</source><target>Призупинено запис на кадрі</target>
+    </trans-unit>
+    <trans-unit id="reason.description.promiseRejection">
+      <source xml:lang="en">Paused on promise rejection</source><target>Призупинено на викид проміса</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="node_modules/vscode-chrome-debug-core/out/src/transformers/baseSourceMapTransformer" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="origin.inlined.source.map">
+      <source xml:lang="en">read-only inlined content from source map</source><target>тільки для читання вмісту з джерел. карт</target>
+    </trans-unit>
+  </body></file>
+</xliff>

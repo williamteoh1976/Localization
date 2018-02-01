@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/services/extensions/electron-browser/extensionService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="devTools">
+      <source xml:lang="en">Developer Tools</source><target>Інструменти розробника</target>
+    </trans-unit>
+    <trans-unit id="restart">
+      <source xml:lang="en">Restart Extension Host</source><target>Перезавантажте Розширення Вузла</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProcess.crash">
+      <source xml:lang="en">Extension host terminated unexpectedly.</source><target>Розширення вузла було несподівано перервано.</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProcess.unresponsiveCrash">
+      <source xml:lang="en">Extension host terminated because it was not responsive.</source><target>Розширення вузла припиняється, тому що вона не реагувала.</target>
+    </trans-unit>
+    <trans-unit id="overwritingExtension">
+      <source xml:lang="en">Overwriting extension {0} with {1}.</source><target>Перезапису розширення {0} з {1}.</target>
+    </trans-unit>
+    <trans-unit id="extensionUnderDevelopment">
+      <source xml:lang="en">Loading development extension at {0}</source><target>Завантаження розширення розвитку на {0}</target>
+    </trans-unit>
+    <trans-unit id="extensionCache.invalid">
+      <source xml:lang="en">Extensions have been modified on disk. Please reload the window.</source><target>Розширення було змінено на диску. Будь ласка, перезавантажте вікно.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/extensions/electron-browser/extensionPoints" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="jsonParseFail">
+      <source xml:lang="en">Failed to parse {0}: {1}.</source><target>Не вдалося проаналізувати {0}: {1}.</target>
+    </trans-unit>
+    <trans-unit id="fileReadFail">
+      <source xml:lang="en">Cannot read file {0}: {1}.</source><target>Не вдалося прочитати файл {0}: {1}.</target>
+    </trans-unit>
+    <trans-unit id="jsonsParseFail">
+      <source xml:lang="en">Failed to parse {0} or {1}: {2}.</source><target>Не вдалося проаналізувати {0} або {1}: {2}.</target>
+    </trans-unit>
+    <trans-unit id="missingNLSKey">
+      <source xml:lang="en">Couldn't find message for key {0}.</source><target>Не можу знайти повідомлення для ключа {0}.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/extensions/electron-browser/extensionHost" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="extensionHostProcess.startupFailDebug">
+      <source xml:lang="en">Extension host did not start in 10 seconds, it might be stopped on the first line and needs a debugger to continue.</source><target>Розширення хоста не стартувало за 10 секунд, може бути зупинені на першій лінії і потребує налагоджувача щоб продовжити.</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProcess.startupFail">
+      <source xml:lang="en">Extension host did not start in 10 seconds, that might be a problem.</source><target>Якщо розширення хосту не розпочнеться за 10 секунд, це може стати проблемою.</target>
+    </trans-unit>
+    <trans-unit id="extensionHostProcess.error">
+      <source xml:lang="en">Error from the extension host: {0}</source><target>Помилка з розширенням хосту: {0}</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/services/extensions/electron-browser/extensionHostProfiler" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="message">
+      <source xml:lang="en">$(zap) Profiling Extension Host...</source><target>$(zap)  профілювання розширення вузла...</target>
+    </trans-unit>
+  </body></file>
+</xliff>

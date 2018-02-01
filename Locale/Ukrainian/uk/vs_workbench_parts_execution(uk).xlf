@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/execution/electron-browser/execution.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="terminalConfigurationTitle">
+      <source xml:lang="en">External Terminal</source><target>Зовнішній Термінал</target>
+    </trans-unit>
+    <trans-unit id="explorer.openInTerminalKind">
+      <source xml:lang="en">Customizes what kind of terminal to launch.</source><target>Налаштовує який термінал запустити.</target>
+    </trans-unit>
+    <trans-unit id="terminal.external.windowsExec">
+      <source xml:lang="en">Customizes which terminal to run on Windows.</source><target>Налаштовує термінал для роботи у Windows.</target>
+    </trans-unit>
+    <trans-unit id="terminal.external.osxExec">
+      <source xml:lang="en">Customizes which terminal application to run on OS X.</source><target>Налаштовує, яке додаток терміналу для роботи на ОС Х.</target>
+    </trans-unit>
+    <trans-unit id="terminal.external.linuxExec">
+      <source xml:lang="en">Customizes which terminal to run on Linux.</source><target>Налаштовує термінал для запуску у Linux.</target>
+    </trans-unit>
+    <trans-unit id="globalConsoleActionWin">
+      <source xml:lang="en">Open New Command Prompt</source><target>Відкрити новий командний рядок</target>
+    </trans-unit>
+    <trans-unit id="globalConsoleActionMacLinux">
+      <source xml:lang="en">Open New Terminal</source><target>Відкрити новий термінал</target>
+    </trans-unit>
+    <trans-unit id="scopedConsoleActionWin">
+      <source xml:lang="en">Open in Command Prompt</source><target>Відкрити в командному рядку</target>
+    </trans-unit>
+    <trans-unit id="scopedConsoleActionMacLinux">
+      <source xml:lang="en">Open in Terminal</source><target>Відкрийте в терміналі</target>
+    </trans-unit>
+    <trans-unit id="openFolderInIntegratedTerminal">
+      <source xml:lang="en">Open in Terminal</source><target>Відкрийте в терміналі</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/execution/electron-browser/terminalService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="console.title">
+      <source xml:lang="en">VS Code Console</source><target>VS Code консоль</target>
+    </trans-unit>
+    <trans-unit id="mac.terminal.script.failed">
+      <source xml:lang="en">Script '{0}' failed with exit code {1}</source><target>Сценарій '{0}' завершився з кодом виходу {1}</target>
+    </trans-unit>
+    <trans-unit id="mac.terminal.type.not.supported">
+      <source xml:lang="en">'{0}' not supported</source><target>'{0}' не підтримується</target>
+    </trans-unit>
+    <trans-unit id="press.any.key">
+      <source xml:lang="en">Press any key to continue...</source><target>Натисніть будь-яку клавішу для продовження...</target>
+    </trans-unit>
+    <trans-unit id="linux.term.failed">
+      <source xml:lang="en">'{0}' failed with exit code {1}</source><target>'{0}' завершився з кодом виходу {1}</target>
+    </trans-unit>
+  </body></file>
+</xliff>

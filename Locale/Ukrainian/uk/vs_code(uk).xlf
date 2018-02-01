@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/code/electron-main/main" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="secondInstanceNoResponse">
+      <source xml:lang="en">Another instance of {0} is running but not responding</source><target>Інший екземпляр {0} працює, але не відповідає</target>
+    </trans-unit>
+    <trans-unit id="secondInstanceNoResponseDetail">
+      <source xml:lang="en">Please close all other instances and try again.</source><target>Будь ласка, закрийте всі інші інстанції і знову спробувати.</target>
+    </trans-unit>
+    <trans-unit id="secondInstanceAdmin">
+      <source xml:lang="en">A second instance of {0} is already running as administrator.</source><target>Другий екземпляр {0} уже запущено правами адміністратора.</target>
+    </trans-unit>
+    <trans-unit id="secondInstanceAdminDetail">
+      <source xml:lang="en">Please close the other instance and try again.</source><target>Закрийте інші інстанції і повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">&amp;&amp;Close</source><target>&amp;&amp;Закрити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/code/node/cliProcessMain" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="notFound">
+      <source xml:lang="en">Extension '{0}' not found.</source><target>Додаток "{0}" не знайдено.</target>
+    </trans-unit>
+    <trans-unit id="notInstalled">
+      <source xml:lang="en">Extension '{0}' is not installed.</source><target>Додаток '{0}' не встановлено.</target>
+    </trans-unit>
+    <trans-unit id="useId">
+      <source xml:lang="en">Make sure you use the full extension ID, including the publisher, eg: {0}</source><target>Переконайтеся, що ви використовуєте повний ідентифікатор додатку, включаючи видавця, наприклад: {0}</target>
+    </trans-unit>
+    <trans-unit id="successVsixInstall">
+      <source xml:lang="en">Extension '{0}' was successfully installed!</source><target>Додаток "{0}" успішно встановлено!</target>
+    </trans-unit>
+    <trans-unit id="cancelVsixInstall">
+      <source xml:lang="en">Cancelled installing Extension '{0}'.</source><target>Скасовано установка додатку '{0}'.</target>
+    </trans-unit>
+    <trans-unit id="alreadyInstalled">
+      <source xml:lang="en">Extension '{0}' is already installed.</source><target>Додаток '{0}' уже встановлено.</target>
+    </trans-unit>
+    <trans-unit id="foundExtension">
+      <source xml:lang="en">Found '{0}' in the marketplace.</source><target>Знайдено "{0}" на ринку.</target>
+    </trans-unit>
+    <trans-unit id="installing">
+      <source xml:lang="en">Installing...</source><target>Установка...</target>
+    </trans-unit>
+    <trans-unit id="successInstall">
+      <source xml:lang="en">Extension '{0}' v{1} was successfully installed!</source><target>Додаток '{0}' v {1} успішно встановлено!</target>
+    </trans-unit>
+    <trans-unit id="uninstalling">
+      <source xml:lang="en">Uninstalling {0}...</source><target>Видалення {0}...</target>
+    </trans-unit>
+    <trans-unit id="successUninstall">
+      <source xml:lang="en">Extension '{0}' was successfully uninstalled!</source><target>Додаток "{0}" успішно видалено!</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/code/electron-main/windows" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="ok">
+      <source xml:lang="en">OK</source><target>Гаразд</target>
+    </trans-unit>
+    <trans-unit id="pathNotExistTitle">
+      <source xml:lang="en">Path does not exist</source><target>Шлях не існує</target>
+    </trans-unit>
+    <trans-unit id="pathNotExistDetail">
+      <source xml:lang="en">The path '{0}' does not seem to exist anymore on disk.</source><target>Шлях "{0}", схоже, більше не існує на диску.</target>
+    </trans-unit>
+    <trans-unit id="reopen">
+      <source xml:lang="en">&amp;&amp;Reopen</source><target>&amp;&amp;Відкрити знову</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="wait">
+      <source xml:lang="en">&amp;&amp;Keep Waiting</source><target>&amp;&amp;Продовжувати Чекати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">&amp;&amp;Close</source><target>&amp;&amp;Закрити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="appStalled">
+      <source xml:lang="en">The window is no longer responding</source><target>Вікно більше не відповідає</target>
+    </trans-unit>
+    <trans-unit id="appStalledDetail">
+      <source xml:lang="en">You can reopen or close the window or keep waiting.</source><target>Можна повторно відкрити або закрити вікно або очікувати.</target>
+    </trans-unit>
+    <trans-unit id="reopen">
+      <source xml:lang="en">&amp;&amp;Reopen</source><target>&amp;&amp;Відкрити знову</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="close">
+      <source xml:lang="en">&amp;&amp;Close</source><target>&amp;&amp;Закрити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="appCrashed">
+      <source xml:lang="en">The window has crashed</source><target>Вікно розбилося</target>
+    </trans-unit>
+    <trans-unit id="appCrashedDetail">
+      <source xml:lang="en">We are sorry for the inconvenience! You can reopen the window to continue where you left off.</source><target>Перепрошуємо за незручності! Можна повторно відкрити вікно, щоб продовжити, де ви зупинилися.</target>
+    </trans-unit>
+    <trans-unit id="open">
+      <source xml:lang="en">Open</source><target>Відкрити</target>
+    </trans-unit>
+    <trans-unit id="openFolder">
+      <source xml:lang="en">Open Folder</source><target>Відкрийте Папку</target>
+    </trans-unit>
+    <trans-unit id="openFile">
+      <source xml:lang="en">Open File</source><target>Відкрити Файл</target>
+    </trans-unit>
+    <trans-unit id="workspaceOpenedMessage">
+      <source xml:lang="en">Unable to save workspace '{0}'</source><target>Не вдалося зберегти робочу область "{0}"</target>
+    </trans-unit>
+    <trans-unit id="workspaceOpenedDetail">
+      <source xml:lang="en">The workspace is already opened in another window. Please close that window first and then try again.</source><target>Робочу область уже відкрито в іншому вікні. Будь ласка, закрийте це вікно, спочатку а потім повторіть спробу.</target>
+    </trans-unit>
+    <trans-unit id="openWorkspace">
+      <source xml:lang="en">&amp;&amp;Open</source><target>&amp;&amp;Відкрити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="openWorkspaceTitle">
+      <source xml:lang="en">Open Workspace</source><target>Відкрити Робочу Область</target>
+    </trans-unit>
+    <trans-unit id="save">
+      <source xml:lang="en">&amp;&amp;Save</source><target>&amp;&amp;Зберегти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="doNotSave">
+      <source xml:lang="en">Do&amp;&amp;n't Save</source><target>&amp;&amp;Не зберігати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="cancel">
+      <source xml:lang="en">Cancel</source><target>Скасувати</target>
+    </trans-unit>
+    <trans-unit id="saveWorkspaceMessage">
+      <source xml:lang="en">Do you want to save your workspace configuration as a file?</source><target>Ви хочете зберегти конфігурацію робочого простору в файл?</target>
+    </trans-unit>
+    <trans-unit id="saveWorkspaceDetail">
+      <source xml:lang="en">Save your workspace if you plan to open it again.</source><target>Зберегти своє робоче місце, якщо ви плануєте знову відкрити його.</target>
+    </trans-unit>
+    <trans-unit id="save">
+      <source xml:lang="en">&amp;&amp;Save</source><target>&amp;&amp;Зберегти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="saveWorkspace">
+      <source xml:lang="en">Save Workspace</source><target>Зберегти Робочу Область</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/code/electron-main/menus" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="mFile">
+      <source xml:lang="en">&amp;&amp;File</source><target>&amp;&amp;Файл</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mEdit">
+      <source xml:lang="en">&amp;&amp;Edit</source><target>&amp;&amp;Редагувати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mSelection">
+      <source xml:lang="en">&amp;&amp;Selection</source><target>&amp;&amp;Вибір</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mView">
+      <source xml:lang="en">&amp;&amp;View</source><target>&amp;&amp;Вигляд</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mGoto">
+      <source xml:lang="en">&amp;&amp;Go</source><target>&amp;&amp;Йти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mDebug">
+      <source xml:lang="en">&amp;&amp;Debug</source><target>&amp;&amp;Налагоджувати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mWindow">
+      <source xml:lang="en">Window</source><target>Вікна</target>
+    </trans-unit>
+    <trans-unit id="mHelp">
+      <source xml:lang="en">&amp;&amp;Help</source><target>&amp;&amp;Допомога</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mTask">
+      <source xml:lang="en">&amp;&amp;Tasks</source><target>&amp;&amp;Завдання</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNewWindow">
+      <source xml:lang="en">New &amp;&amp;Window</source><target>Нове &amp;&amp;вікно</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mAbout">
+      <source xml:lang="en">About {0}</source><target>Про {0}</target>
+    </trans-unit>
+    <trans-unit id="mServices">
+      <source xml:lang="en">Services</source><target>Послуги</target>
+    </trans-unit>
+    <trans-unit id="mHide">
+      <source xml:lang="en">Hide {0}</source><target>Приховати {0}</target>
+    </trans-unit>
+    <trans-unit id="mHideOthers">
+      <source xml:lang="en">Hide Others</source><target>Приховати Інші</target>
+    </trans-unit>
+    <trans-unit id="mShowAll">
+      <source xml:lang="en">Show All</source><target>Показати Всі</target>
+    </trans-unit>
+    <trans-unit id="miQuit">
+      <source xml:lang="en">Quit {0}</source><target>Закрити {0}</target>
+    </trans-unit>
+    <trans-unit id="miNewFile">
+      <source xml:lang="en">&amp;&amp;New File</source><target>&amp;&amp;Новий Файл</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNewFile">
+      <source xml:lang="en">&amp;&amp;New File</source><target>&amp;&amp;Новий Файл</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpen">
+      <source xml:lang="en">&amp;&amp;Open...</source><target>&amp;&amp;Відкрити...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpen">
+      <source xml:lang="en">&amp;&amp;Open...</source><target>&amp;&amp;Відкрити...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenWorkspace">
+      <source xml:lang="en">Open Wor&amp;&amp;kspace...</source><target>Відкрити &amp;&amp;роб. область...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenWorkspace">
+      <source xml:lang="en">Open Wor&amp;&amp;kspace...</source><target>Відкрити &amp;&amp;роб. область...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenFolder">
+      <source xml:lang="en">Open &amp;&amp;Folder...</source><target>Відкрити &amp;&amp;Теку...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenFolder">
+      <source xml:lang="en">Open &amp;&amp;Folder...</source><target>Відкрити &amp;&amp;Теку...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenFile">
+      <source xml:lang="en">&amp;&amp;Open File...</source><target>&amp;&amp;Відкрити Файл...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenFile">
+      <source xml:lang="en">&amp;&amp;Open File...</source><target>&amp;&amp;Відкрити Файл...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenRecent">
+      <source xml:lang="en">Open &amp;&amp;Recent</source><target>Відкрити &amp;&amp;Останні</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSaveWorkspaceAs">
+      <source xml:lang="en">Save Workspace As...</source><target>Зберегти Робочу Область Як...</target>
+    </trans-unit>
+    <trans-unit id="miAddFolderToWorkspace">
+      <source xml:lang="en">A&amp;&amp;dd Folder to Workspace...</source><target>&amp;&amp;Додати теку до робочої області...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSave">
+      <source xml:lang="en">&amp;&amp;Save</source><target>&amp;&amp;Зберегти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSaveAs">
+      <source xml:lang="en">Save &amp;&amp;As...</source><target>Зберегти &amp;&amp;як...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSaveAll">
+      <source xml:lang="en">Save A&amp;&amp;ll</source><target>Зберегти &amp;&amp;все</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAutoSave">
+      <source xml:lang="en">Auto Save</source><target>Автозбереження</target>
+    </trans-unit>
+    <trans-unit id="miNewWindow">
+      <source xml:lang="en">New &amp;&amp;Window</source><target>Нове &amp;&amp;вікно</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRevert">
+      <source xml:lang="en">Re&amp;&amp;vert File</source><target>&amp;&amp;Повернути файл</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCloseWindow">
+      <source xml:lang="en">Clos&amp;&amp;e Window</source><target>&amp;&amp;Закрити вікно</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCloseWorkspace">
+      <source xml:lang="en">Close &amp;&amp;Workspace</source><target>Закрити &amp;&amp;Робочий Простір</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCloseFolder">
+      <source xml:lang="en">Close &amp;&amp;Folder</source><target>Закрити &amp;&amp;Теку</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCloseEditor">
+      <source xml:lang="en">&amp;&amp;Close Editor</source><target>&amp;&amp;Закрити Редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miExit">
+      <source xml:lang="en">E&amp;&amp;xit</source><target>&amp;&amp;Вихід</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenSettings">
+      <source xml:lang="en">&amp;&amp;Settings</source><target>&amp;&amp;Параметри</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenKeymap">
+      <source xml:lang="en">&amp;&amp;Keyboard Shortcuts</source><target>&amp;&amp;Комбінації Клавіш</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenKeymapExtensions">
+      <source xml:lang="en">&amp;&amp;Keymap Extensions</source><target>&amp;&amp;Розкладка додатків</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenSnippets">
+      <source xml:lang="en">User &amp;&amp;Snippets</source><target>Користувацькі &amp;&amp;фрагменти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSelectColorTheme">
+      <source xml:lang="en">&amp;&amp;Color Theme</source><target>&amp;&amp;Тема кольорів</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSelectIconTheme">
+      <source xml:lang="en">File &amp;&amp;Icon Theme</source><target>Файл &amp;&amp;теми значків</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPreferences">
+      <source xml:lang="en">&amp;&amp;Preferences</source><target>&amp;&amp;Налаштування</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miReopenClosedEditor">
+      <source xml:lang="en">&amp;&amp;Reopen Closed Editor</source><target>&amp;&amp;Відкрити знову закритий редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMore">
+      <source xml:lang="en">&amp;&amp;More...</source><target>&amp;&amp;Більше...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miClearRecentOpen">
+      <source xml:lang="en">&amp;&amp;Clear Recently Opened</source><target>&amp;&amp;Очистити список нещодавніх</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miUndo">
+      <source xml:lang="en">&amp;&amp;Undo</source><target>&amp;&amp;Відмінити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRedo">
+      <source xml:lang="en">&amp;&amp;Redo</source><target>&amp;&amp;Повторити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCut">
+      <source xml:lang="en">Cu&amp;&amp;t</source><target>&amp;&amp;Вирізати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCopy">
+      <source xml:lang="en">&amp;&amp;Copy</source><target>&amp;&amp;Копіювати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPaste">
+      <source xml:lang="en">&amp;&amp;Paste</source><target>&amp;&amp;Вставити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miUndo">
+      <source xml:lang="en">&amp;&amp;Undo</source><target>&amp;&amp;Відмінити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRedo">
+      <source xml:lang="en">&amp;&amp;Redo</source><target>&amp;&amp;Повторити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCut">
+      <source xml:lang="en">Cu&amp;&amp;t</source><target>&amp;&amp;Вирізати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCopy">
+      <source xml:lang="en">&amp;&amp;Copy</source><target>&amp;&amp;Копіювати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPaste">
+      <source xml:lang="en">&amp;&amp;Paste</source><target>&amp;&amp;Вставити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFind">
+      <source xml:lang="en">&amp;&amp;Find</source><target>&amp;&amp;Знайти</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miReplace">
+      <source xml:lang="en">&amp;&amp;Replace</source><target>&amp;&amp;Замінити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFindInFiles">
+      <source xml:lang="en">Find &amp;&amp;in Files</source><target>Знайти &amp;&amp;в файлах</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miReplaceInFiles">
+      <source xml:lang="en">Replace &amp;&amp;in Files</source><target>Замінити &amp;&amp;у файлах</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miEmmetExpandAbbreviation">
+      <source xml:lang="en">Emmet: E&amp;&amp;xpand Abbreviation</source><target>Emmet: &amp;&amp;розгорнути абревіатуру</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miShowEmmetCommands">
+      <source xml:lang="en">E&amp;&amp;mmet...</source><target>&amp;&amp;Еmmet...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleLineComment">
+      <source xml:lang="en">&amp;&amp;Toggle Line Comment</source><target>&amp;&amp;За/роз- коментувати рядок</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleBlockComment">
+      <source xml:lang="en">Toggle &amp;&amp;Block Comment</source><target>За/роз- коментувати &amp;&amp;Блок</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMultiCursorAlt">
+      <source xml:lang="en">Switch to Alt+Click for Multi-Cursor</source><target>Перемикання Alt+Click для Multi-курсор</target>
+    </trans-unit>
+    <trans-unit id="miMultiCursorCmd">
+      <source xml:lang="en">Switch to Cmd+Click for Multi-Cursor</source><target>Перемикання Cmd+Click для Multi-курсор</target>
+    </trans-unit>
+    <trans-unit id="miMultiCursorCtrl">
+      <source xml:lang="en">Switch to Ctrl+Click for Multi-Cursor</source><target>Перемикання Ctrl+Click для Multi-курсор</target>
+    </trans-unit>
+    <trans-unit id="miInsertCursorAbove">
+      <source xml:lang="en">&amp;&amp;Add Cursor Above</source><target>&amp;&amp;Додати вище Курсору</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miInsertCursorBelow">
+      <source xml:lang="en">A&amp;&amp;dd Cursor Below</source><target>&amp;&amp;Додати нижче Курсору</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miInsertCursorAtEndOfEachLineSelected">
+      <source xml:lang="en">Add C&amp;&amp;ursors to Line Ends</source><target>&amp;&amp;Додати курсори до закінчення рядка</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAddSelectionToNextFindMatch">
+      <source xml:lang="en">Add &amp;&amp;Next Occurrence</source><target>Додати &amp;&amp;Наступний Випадок</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAddSelectionToPreviousFindMatch">
+      <source xml:lang="en">Add P&amp;&amp;revious Occurrence</source><target>Додати &amp;&amp;Попередній Випадок</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSelectHighlights">
+      <source xml:lang="en">Select All &amp;&amp;Occurrences</source><target>Вибрати Всі &amp;&amp;Випадки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCopyLinesUp">
+      <source xml:lang="en">&amp;&amp;Copy Line Up</source><target>&amp;&amp;Скопіювати рядок вгору</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCopyLinesDown">
+      <source xml:lang="en">Co&amp;&amp;py Line Down</source><target>&amp;&amp;Скопіювати рядок вниз</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMoveLinesUp">
+      <source xml:lang="en">Mo&amp;&amp;ve Line Up</source><target>&amp;&amp;Перемістити лінію вгору</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMoveLinesDown">
+      <source xml:lang="en">Move &amp;&amp;Line Down</source><target>Перемістити &amp;&amp; лінію вниз</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSelectAll">
+      <source xml:lang="en">&amp;&amp;Select All</source><target>&amp;&amp;Виберіть Все</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSelectAll">
+      <source xml:lang="en">&amp;&amp;Select All</source><target>&amp;&amp;Виберіть Все</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSmartSelectGrow">
+      <source xml:lang="en">&amp;&amp;Expand Selection</source><target>&amp;&amp;Розкрити виділення</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSmartSelectShrink">
+      <source xml:lang="en">&amp;&amp;Shrink Selection</source><target>&amp;&amp;Скоротити виділення</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miViewExplorer">
+      <source xml:lang="en">&amp;&amp;Explorer</source><target>&amp;&amp;Провідник</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miViewSearch">
+      <source xml:lang="en">&amp;&amp;Search</source><target>&amp;&amp;Пошук</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miViewSCM">
+      <source xml:lang="en">S&amp;&amp;CM</source><target>&amp;&amp;SСМ</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miViewDebug">
+      <source xml:lang="en">&amp;&amp;Debug</source><target>&amp;&amp;Налагоджувати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miViewExtensions">
+      <source xml:lang="en">E&amp;&amp;xtensions</source><target>&amp;&amp;Додатки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleOutput">
+      <source xml:lang="en">&amp;&amp;Output</source><target>&amp;&amp;Вихід</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleDebugConsole">
+      <source xml:lang="en">De&amp;&amp;bug Console</source><target>&amp;&amp;Консоль наладки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleIntegratedTerminal">
+      <source xml:lang="en">&amp;&amp;Integrated Terminal</source><target>&amp;&amp;Інтегрований Термінал</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMarker">
+      <source xml:lang="en">&amp;&amp;Problems</source><target>&amp;&amp;Проблеми</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAdditionalViews">
+      <source xml:lang="en">Additional &amp;&amp;Views</source><target>Додаткові &amp;&amp;Вигляди</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miCommandPalette">
+      <source xml:lang="en">&amp;&amp;Command Palette...</source><target>&amp;&amp;Палітра команд...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleFullScreen">
+      <source xml:lang="en">Toggle &amp;&amp;Full Screen</source><target>Перемикач &amp;&amp;Повний Екран</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleZenMode">
+      <source xml:lang="en">Toggle Zen Mode</source><target>On/off Режим Дзен</target>
+    </trans-unit>
+    <trans-unit id="miToggleMenuBar">
+      <source xml:lang="en">Toggle Menu &amp;&amp;Bar</source><target>On/off меню &amp;&amp;панель</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSplitEditor">
+      <source xml:lang="en">Split &amp;&amp;Editor</source><target>Розділити &amp;&amp;Редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleEditorLayout">
+      <source xml:lang="en">Toggle Editor Group &amp;&amp;Layout</source><target>On/off Редактор Групи &amp;&amp;Макет</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleSidebar">
+      <source xml:lang="en">&amp;&amp;Toggle Side Bar</source><target>&amp;&amp;On/off бічну панель</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMoveSidebarRight">
+      <source xml:lang="en">&amp;&amp;Move Side Bar Right</source><target>&amp;&amp;Перемістити Бічну Панель праворуч</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miMoveSidebarLeft">
+      <source xml:lang="en">&amp;&amp;Move Side Bar Left</source><target>&amp;&amp;Перемістити Бічну Панель вліво</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miTogglePanel">
+      <source xml:lang="en">Toggle &amp;&amp;Panel</source><target>On/off &amp;&amp;Панель</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miHideStatusbar">
+      <source xml:lang="en">&amp;&amp;Hide Status Bar</source><target>&amp;&amp;Сховати рядок стану</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miShowStatusbar">
+      <source xml:lang="en">&amp;&amp;Show Status Bar</source><target>&amp;&amp;Показати рядок стану</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miHideActivityBar">
+      <source xml:lang="en">Hide &amp;&amp;Activity Bar</source><target>Сховати &amp;&amp;панель активності</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miShowActivityBar">
+      <source xml:lang="en">Show &amp;&amp;Activity Bar</source><target>Показати &amp;&amp;панель активності</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleWordWrap">
+      <source xml:lang="en">Toggle &amp;&amp;Word Wrap</source><target>On/off &amp;&amp;Перенесення слів</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleMinimap">
+      <source xml:lang="en">Toggle &amp;&amp;Minimap</source><target>On/off  &amp;&amp;Мінікарту</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleRenderWhitespace">
+      <source xml:lang="en">Toggle &amp;&amp;Render Whitespace</source><target>On/off  &amp;&amp;Відображати пробіли</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleRenderControlCharacters">
+      <source xml:lang="en">Toggle &amp;&amp;Control Characters</source><target>On/off  &amp;&amp;Керуючі символи</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miZoomIn">
+      <source xml:lang="en">&amp;&amp;Zoom In</source><target>&amp;&amp;Збільшити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miZoomOut">
+      <source xml:lang="en">Zoom O&amp;&amp;ut</source><target>&amp;&amp;Зменшити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miZoomReset">
+      <source xml:lang="en">&amp;&amp;Reset Zoom</source><target>&amp;&amp;Скидання масштабу</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miBack">
+      <source xml:lang="en">&amp;&amp;Back</source><target>&amp;&amp;Назад</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miForward">
+      <source xml:lang="en">&amp;&amp;Forward</source><target>&amp;&amp;Уперед</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNextEditor">
+      <source xml:lang="en">&amp;&amp;Next Editor</source><target>&amp;&amp;Наступний редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPreviousEditor">
+      <source xml:lang="en">&amp;&amp;Previous Editor</source><target>&amp;&amp;Попередній редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNextEditorInGroup">
+      <source xml:lang="en">&amp;&amp;Next Used Editor in Group</source><target>&amp;&amp;Наступний використаний редактор в групі</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPreviousEditorInGroup">
+      <source xml:lang="en">&amp;&amp;Previous Used Editor in Group</source><target>&amp;&amp;Попередній використаний редактор в групі</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSwitchEditor">
+      <source xml:lang="en">Switch &amp;&amp;Editor</source><target>Перемикач &amp;&amp;Редактор</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFocusFirstGroup">
+      <source xml:lang="en">&amp;&amp;First Group</source><target>&amp;&amp;Перша Група</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFocusSecondGroup">
+      <source xml:lang="en">&amp;&amp;Second Group</source><target>&amp;&amp;Друга Група</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFocusThirdGroup">
+      <source xml:lang="en">&amp;&amp;Third Group</source><target>&amp;&amp;Третя Група</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNextGroup">
+      <source xml:lang="en">&amp;&amp;Next Group</source><target>&amp;&amp;Наступна Група</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPreviousGroup">
+      <source xml:lang="en">&amp;&amp;Previous Group</source><target>&amp;&amp;Попередня Група</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miSwitchGroup">
+      <source xml:lang="en">Switch &amp;&amp;Group</source><target>Перемикач &amp;&amp;Групи</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoFile">
+      <source xml:lang="en">Go to &amp;&amp;File...</source><target>Перейти до &amp;&amp;файлу...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoSymbolInFile">
+      <source xml:lang="en">Go to &amp;&amp;Symbol in File...</source><target>Перейти до &amp;&amp;символу в файлі...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoSymbolInWorkspace">
+      <source xml:lang="en">Go to Symbol in &amp;&amp;Workspace...</source><target>Перейти на символ у &amp;&amp;робочої області...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoDefinition">
+      <source xml:lang="en">Go to &amp;&amp;Definition</source><target>Перейти до &amp;&amp;визначення</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoTypeDefinition">
+      <source xml:lang="en">Go to &amp;&amp;Type Definition</source><target>Перейти до визначення &amp;&amp;типу</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoImplementation">
+      <source xml:lang="en">Go to &amp;&amp;Implementation</source><target>Перейти до &amp;&amp;реалізація</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miGotoLine">
+      <source xml:lang="en">Go to &amp;&amp;Line...</source><target>Перейти до &amp;&amp;лінії...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStartDebugging">
+      <source xml:lang="en">&amp;&amp;Start Debugging</source><target>&amp;&amp;Почати Налагодження</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStartWithoutDebugging">
+      <source xml:lang="en">Start &amp;&amp;Without Debugging</source><target>Старт &amp;&amp;Без Налагодження</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStopDebugging">
+      <source xml:lang="en">&amp;&amp;Stop Debugging</source><target>&amp;&amp;Зупинити Налагодження</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRestart Debugging">
+      <source xml:lang="en">&amp;&amp;Restart Debugging</source><target>&amp;&amp;Перезапустіть Налагодження</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miOpenConfigurations">
+      <source xml:lang="en">Open &amp;&amp;Configurations</source><target>Відкрити &amp;&amp;конфігурації</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAddConfiguration">
+      <source xml:lang="en">Add Configuration...</source><target>Додати конфігурацію...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStepOver">
+      <source xml:lang="en">Step &amp;&amp;Over</source><target>Крок &amp;&amp;За</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStepInto">
+      <source xml:lang="en">Step &amp;&amp;Into</source><target>Крок &amp;&amp;В</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miStepOut">
+      <source xml:lang="en">Step O&amp;&amp;ut</source><target>&amp;&amp;вихід</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miContinue">
+      <source xml:lang="en">&amp;&amp;Continue</source><target>&amp;&amp;Продовжити</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miToggleBreakpoint">
+      <source xml:lang="en">Toggle &amp;&amp;Breakpoint</source><target>On/off &amp;&amp;точку зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miConditionalBreakpoint">
+      <source xml:lang="en">&amp;&amp;Conditional Breakpoint...</source><target>&amp;&amp;Умовна точка зупинки...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miColumnBreakpoint">
+      <source xml:lang="en">C&amp;&amp;olumn Breakpoint</source><target>&amp;&amp;Стовпець точки зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miFunctionBreakpoint">
+      <source xml:lang="en">&amp;&amp;Function Breakpoint...</source><target>&amp;&amp;Функція точки зупинки...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miNewBreakpoint">
+      <source xml:lang="en">&amp;&amp;New Breakpoint</source><target>&amp;&amp;Нова точка зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miEnableAllBreakpoints">
+      <source xml:lang="en">Enable All Breakpoints</source><target>Увімкнути всі точки зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miDisableAllBreakpoints">
+      <source xml:lang="en">Disable A&amp;&amp;ll Breakpoints</source><target>Вимкнути всі точки зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRemoveAllBreakpoints">
+      <source xml:lang="en">Remove &amp;&amp;All Breakpoints</source><target>Видалити &amp;&amp; всі точки зупинки</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miInstallAdditionalDebuggers">
+      <source xml:lang="en">&amp;&amp;Install Additional Debuggers...</source><target>&amp;&amp; Встановити додаткові наладчики...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mMinimize">
+      <source xml:lang="en">Minimize</source><target>Мінімізувати</target>
+    </trans-unit>
+    <trans-unit id="mZoom">
+      <source xml:lang="en">Zoom</source><target>Масштабування</target>
+    </trans-unit>
+    <trans-unit id="mBringToFront">
+      <source xml:lang="en">Bring All to Front</source><target>Вивести всі передній план</target>
+    </trans-unit>
+    <trans-unit id="miSwitchWindow">
+      <source xml:lang="en">Switch &amp;&amp;Window...</source><target>Перемкнути &amp;&amp;Вікно...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="mShowPreviousTab">
+      <source xml:lang="en">Show Previous Tab</source><target>Показати Попередню Вкладку</target>
+    </trans-unit>
+    <trans-unit id="mShowNextTab">
+      <source xml:lang="en">Show Next Tab</source><target>Показати Наступну Вкладку</target>
+    </trans-unit>
+    <trans-unit id="mMoveTabToNewWindow">
+      <source xml:lang="en">Move Tab to New Window</source><target>Перемістити вкладку в нове вікно</target>
+    </trans-unit>
+    <trans-unit id="mMergeAllWindows">
+      <source xml:lang="en">Merge All Windows</source><target>Злиття Всіх Вікон</target>
+    </trans-unit>
+    <trans-unit id="miToggleDevTools">
+      <source xml:lang="en">&amp;&amp;Toggle Developer Tools</source><target>&amp;&amp;On/off Інструменти розробника</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAccessibilityOptions">
+      <source xml:lang="en">Accessibility &amp;&amp;Options</source><target>Спеціальні можливості &amp;&amp;Параметри</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miReportIssue">
+      <source xml:lang="en">Report &amp;&amp;Issue</source><target>Звіт &amp;&amp;Проблема</target>
+      <note>&amp;&amp; denotes a mnemonic
+Translate this to "Report Issue in English" in all languages please!</note>
+    </trans-unit>
+    <trans-unit id="miWelcome">
+      <source xml:lang="en">&amp;&amp;Welcome</source><target>&amp;&amp;Ласкаво просимо</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miInteractivePlayground">
+      <source xml:lang="en">&amp;&amp;Interactive Playground</source><target>&amp;&amp;Інтерактивний Майданчик</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miDocumentation">
+      <source xml:lang="en">&amp;&amp;Documentation</source><target>&amp;&amp;Документація</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miReleaseNotes">
+      <source xml:lang="en">&amp;&amp;Release Notes</source><target>&amp;&amp;Примітки до випуску</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miKeyboardShortcuts">
+      <source xml:lang="en">&amp;&amp;Keyboard Shortcuts Reference</source><target>&amp;&amp;Сполучення клавіш довідка</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miIntroductoryVideos">
+      <source xml:lang="en">Introductory &amp;&amp;Videos</source><target>Вступне &amp;&amp;Відео</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miTipsAndTricks">
+      <source xml:lang="en">&amp;&amp;Tips and Tricks</source><target>&amp;&amp;Поради та хитрості</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miTwitter">
+      <source xml:lang="en">&amp;&amp;Join us on Twitter</source><target>&amp;&amp;Приєднуйтесь до нас на Twitter</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miUserVoice">
+      <source xml:lang="en">&amp;&amp;Search Feature Requests</source><target>&amp;&amp;Пошук запитів особливостей</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miLicense">
+      <source xml:lang="en">View &amp;&amp;License</source><target>Перегляд &amp;&amp; ліцензії</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miPrivacyStatement">
+      <source xml:lang="en">&amp;&amp;Privacy Statement</source><target>&amp;&amp;Заява Про Конфіденційність</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miAbout">
+      <source xml:lang="en">&amp;&amp;About</source><target>&amp;&amp;Про</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRunTask">
+      <source xml:lang="en">&amp;&amp;Run Task...</source><target>&amp;&amp;Виконати Завдання...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miBuildTask">
+      <source xml:lang="en">Run &amp;&amp;Build Task...</source><target>Запустити &amp;&amp;побудови завдання...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRunningTask">
+      <source xml:lang="en">Show Runnin&amp;&amp;g Tasks...</source><target>Показати &amp;&amp;запущені завдання...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miRestartTask">
+      <source xml:lang="en">R&amp;&amp;estart Running Task...</source><target>&amp;&amp;Перезапуск запущених завдань...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miTerminateTask">
+      <source xml:lang="en">&amp;&amp;Terminate Task...</source><target>&amp;&amp;Припинити завдання...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miConfigureTask">
+      <source xml:lang="en">&amp;&amp;Configure Tasks...</source><target>&amp;&amp;Налаштувати Завдання...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="miConfigureBuildTask">
+      <source xml:lang="en">Configure De&amp;&amp;fault Build Task...</source><target>Налаштувати &amp;&amp;Завдання збірки за замовчуванням ...</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+    <trans-unit id="accessibilityOptionsWindowTitle">
+      <source xml:lang="en">Accessibility Options</source><target>Спеціальні можливості Параметри</target>
+    </trans-unit>
+    <trans-unit id="miRestartToUpdate">
+      <source xml:lang="en">Restart to Update...</source><target>Перезавантаження для оновлення...</target>
+    </trans-unit>
+    <trans-unit id="miCheckingForUpdates">
+      <source xml:lang="en">Checking For Updates...</source><target>Перевірити наявність оновлень...</target>
+    </trans-unit>
+    <trans-unit id="miDownloadUpdate">
+      <source xml:lang="en">Download Available Update</source><target>Завантажити доступні оновлення</target>
+    </trans-unit>
+    <trans-unit id="miDownloadingUpdate">
+      <source xml:lang="en">Downloading Update...</source><target>Завантаження оновлення...</target>
+    </trans-unit>
+    <trans-unit id="miInstallingUpdate">
+      <source xml:lang="en">Installing Update...</source><target>Установка оновлень...</target>
+    </trans-unit>
+    <trans-unit id="miCheckForUpdates">
+      <source xml:lang="en">Check for Updates...</source><target>Перевірити наявність оновлень...</target>
+    </trans-unit>
+    <trans-unit id="aboutDetail">
+      <source xml:lang="en">Version {0}
+Commit {1}
+Date {2}
+Shell {3}
+Renderer {4}
+Node {5}
+Architecture {6}</source><target>Версія {0} 
+Коміт {1} 
+Дата {2} 
+Оболонка {3} 
+Рендеринг {4} 
+Вузол {5} 
+Архітектура {6}</target>
+    </trans-unit>
+    <trans-unit id="okButton">
+      <source xml:lang="en">OK</source><target>Гаразд</target>
+    </trans-unit>
+    <trans-unit id="copy">
+      <source xml:lang="en">&amp;&amp;Copy</source><target>&amp;&amp;Копіювати</target>
+      <note>&amp;&amp; denotes a mnemonic</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/code/electron-main/auth" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="authRequire">
+      <source xml:lang="en">Proxy Authentication Required</source><target>Потребує Автентифікації Проксі</target>
+    </trans-unit>
+    <trans-unit id="proxyauth">
+      <source xml:lang="en">The proxy {0} requires authentication.</source><target>Проксі - {0} вимагає автентифікації.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/code/electron-main/window" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="hiddenMenuBar">
+      <source xml:lang="en">You can still access the menu bar by pressing the **Alt** key.</source><target>Ви все ще можете відкрити меню, натиснувши на клавішу **Alt**.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

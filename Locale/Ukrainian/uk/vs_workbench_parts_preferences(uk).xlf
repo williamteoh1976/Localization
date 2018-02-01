@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/electron-browser/preferences.contribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defaultPreferencesEditor">
+      <source xml:lang="en">Default Preferences Editor</source><target>Редактор налаштувань за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="keybindingsEditor">
+      <source xml:lang="en">Keybindings Editor</source><target>Редактор привязки клавіш</target>
+    </trans-unit>
+    <trans-unit id="preferences">
+      <source xml:lang="en">Preferences</source><target>Налаштування</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/keybindingsEditorContribution" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defineKeybinding.start">
+      <source xml:lang="en">Define Keybinding</source><target>Визначити Сполучення Клавіш</target>
+    </trans-unit>
+    <trans-unit id="defineKeybinding.kbLayoutErrorMessage">
+      <source xml:lang="en">You won't be able to produce this key combination under your current keyboard layout.</source><target>Ви не зможете зробити цю комбінацію клавіш під вашу поточну розкладку клавіатури.</target>
+    </trans-unit>
+    <trans-unit id="defineKeybinding.kbLayoutLocalAndUSMessage">
+      <source xml:lang="en">**{0}** for your current keyboard layout (**{1}** for US standard).</source><target>**{0}** для поточної розкладки клавіатури (**{1}** для США стандартний).</target>
+      <note>Please translate maintaining the stars (*) around the placeholders such that they will be rendered in bold.
+The placeholders will contain a keyboard combination e.g. Ctrl+Shift+/</note>
+    </trans-unit>
+    <trans-unit id="defineKeybinding.kbLayoutLocalMessage">
+      <source xml:lang="en">**{0}** for your current keyboard layout.</source><target>**{0}** для поточної розкладки клавіатури.</target>
+      <note>Please translate maintaining the stars (*) around the placeholder such that it will be rendered in bold.
+The placeholder will contain a keyboard combination e.g. Ctrl+Shift+/</note>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/common/preferences" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="userSettingsTarget">
+      <source xml:lang="en">User Settings</source><target>Налаштування Користувача</target>
+    </trans-unit>
+    <trans-unit id="workspaceSettingsTarget">
+      <source xml:lang="en">Workspace Settings</source><target>Параметри Робочої Області</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/preferencesService" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openFolderFirst">
+      <source xml:lang="en">Open a folder first to create workspace settings</source><target>Відкрийте папку спершу, щоб створити налаштування робочої області</target>
+    </trans-unit>
+    <trans-unit id="emptyKeybindingsHeader">
+      <source xml:lang="en">Place your key bindings in this file to overwrite the defaults</source><target>Розмістити клавішні прив'язки в цьому файлі перезаписати параметри за замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="defaultKeybindings">
+      <source xml:lang="en">Default Keybindings</source><target>Комбінації Клавіш За Замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="folderSettingsName">
+      <source xml:lang="en">{0} (Folder Settings)</source><target>{0} (папка настройки)</target>
+    </trans-unit>
+    <trans-unit id="fail.createSettings">
+      <source xml:lang="en">Unable to create '{0}' ({1}).</source><target>Не вдається створити '{0}' ({1}).</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/preferencesEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="settingsEditorName">
+      <source xml:lang="en">Default Settings</source><target>Налаштування За Замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="SearchSettingsWidget.AriaLabel">
+      <source xml:lang="en">Search settings</source><target>Параметри пошуку</target>
+    </trans-unit>
+    <trans-unit id="SearchSettingsWidget.Placeholder">
+      <source xml:lang="en">Search Settings</source><target>Параметри пошуку</target>
+    </trans-unit>
+    <trans-unit id="noSettingsFound">
+      <source xml:lang="en">No Results</source><target>Результатів немає</target>
+    </trans-unit>
+    <trans-unit id="oneSettingFound">
+      <source xml:lang="en">1 Setting matched</source><target>1 налаштування збіглося</target>
+    </trans-unit>
+    <trans-unit id="settingsFound">
+      <source xml:lang="en">{0} Settings matched</source><target>{0} налаштування збіглися</target>
+    </trans-unit>
+    <trans-unit id="totalSettingsMessage">
+      <source xml:lang="en">Total {0} Settings</source><target>Загально {0} налаштувань</target>
+    </trans-unit>
+    <trans-unit id="defaultSettings">
+      <source xml:lang="en">Default Settings</source><target>Налаштування За Замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="defaultFolderSettings">
+      <source xml:lang="en">Default Folder Settings</source><target>Папка налаштувань За Замовчуванням </target>
+    </trans-unit>
+    <trans-unit id="defaultEditorReadonly">
+      <source xml:lang="en">Edit in the right hand side editor to override defaults.</source><target>Редагувати в правій стороні редактора, щоб змінити значення за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="preferencesAriaLabel">
+      <source xml:lang="en">Default preferences. Readonly text editor.</source><target>Налаштування за замовчуванням. Тільки для читання.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/preferencesActions" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="openRawDefaultSettings">
+      <source xml:lang="en">Open Raw Default Settings</source><target>Відкрити RAW Налаштування </target>
+    </trans-unit>
+    <trans-unit id="openGlobalSettings">
+      <source xml:lang="en">Open User Settings</source><target>Відкрийте Настройки Користувача</target>
+    </trans-unit>
+    <trans-unit id="openGlobalKeybindings">
+      <source xml:lang="en">Open Keyboard Shortcuts</source><target>Відкрити Сполучення Клавіш</target>
+    </trans-unit>
+    <trans-unit id="openGlobalKeybindingsFile">
+      <source xml:lang="en">Open Keyboard Shortcuts File</source><target>Відкрити Файл Сполучення Клавіш</target>
+    </trans-unit>
+    <trans-unit id="openWorkspaceSettings">
+      <source xml:lang="en">Open Workspace Settings</source><target>Відкрийте параметри робочої області</target>
+    </trans-unit>
+    <trans-unit id="openFolderSettings">
+      <source xml:lang="en">Open Folder Settings</source><target>Відкрити настройки папок</target>
+    </trans-unit>
+    <trans-unit id="configureLanguageBasedSettings">
+      <source xml:lang="en">Configure Language Specific Settings...</source><target>Настроїти конкретні параметри мови...</target>
+    </trans-unit>
+    <trans-unit id="languageDescriptionConfigured">
+      <source xml:lang="en">({0})</source><target>({0})</target>
+    </trans-unit>
+    <trans-unit id="pickLanguage">
+      <source xml:lang="en">Select Language</source><target>Виберіть Мову</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/keybindingsEditor" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="keybindingsInputName">
+      <source xml:lang="en">Keyboard Shortcuts</source><target>Сполучення Клавіш</target>
+    </trans-unit>
+    <trans-unit id="SearchKeybindings.AriaLabel">
+      <source xml:lang="en">Search keybindings</source><target>Комбінації клавіш пошуку</target>
+    </trans-unit>
+    <trans-unit id="SearchKeybindings.Placeholder">
+      <source xml:lang="en">Search keybindings</source><target>Комбінації клавіш пошуку</target>
+    </trans-unit>
+    <trans-unit id="sortByPrecedene">
+      <source xml:lang="en">Sort by Precedence</source><target>Сортувати по пріоритетом</target>
+    </trans-unit>
+    <trans-unit id="header-message">
+      <source xml:lang="en">For advanced customizations open and edit</source><target>Для додаткової настройки відкривання і редагування</target>
+    </trans-unit>
+    <trans-unit id="keybindings-file-name">
+      <source xml:lang="en">keybindings.json</source><target>keybindings.JSON</target>
+    </trans-unit>
+    <trans-unit id="keybindingsLabel">
+      <source xml:lang="en">Keybindings</source><target>Комбінації клавіш</target>
+    </trans-unit>
+    <trans-unit id="changeLabel">
+      <source xml:lang="en">Change Keybinding</source><target>Змінити Комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="addLabel">
+      <source xml:lang="en">Add Keybinding</source><target>Додати Комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="removeLabel">
+      <source xml:lang="en">Remove Keybinding</source><target>Видалити Комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="resetLabel">
+      <source xml:lang="en">Reset Keybinding</source><target>Скинути комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="showConflictsLabel">
+      <source xml:lang="en">Show Conflicts</source><target>Показати Конфлікти</target>
+    </trans-unit>
+    <trans-unit id="copyLabel">
+      <source xml:lang="en">Copy</source><target>Скопіювати</target>
+    </trans-unit>
+    <trans-unit id="error">
+      <source xml:lang="en">Error '{0}' while editing keybinding. Please open 'keybindings.json' file and check.</source><target>Помилка '{0}' при редагуванні комбінації клавіш. Будь ласка, відкрийте 'keybindings.json' файл і перевірте.</target>
+    </trans-unit>
+    <trans-unit id="command">
+      <source xml:lang="en">Command</source><target>Command</target>
+    </trans-unit>
+    <trans-unit id="keybinding">
+      <source xml:lang="en">Keybinding</source><target>Комбінація клавіш</target>
+    </trans-unit>
+    <trans-unit id="source">
+      <source xml:lang="en">Source</source><target>Джерело</target>
+    </trans-unit>
+    <trans-unit id="when">
+      <source xml:lang="en">When</source><target>Коли</target>
+    </trans-unit>
+    <trans-unit id="editKeybindingLabelWithKey">
+      <source xml:lang="en">Change Keybinding {0}</source><target>Змінити Сполучення Клавіш {0}</target>
+    </trans-unit>
+    <trans-unit id="editKeybindingLabel">
+      <source xml:lang="en">Change Keybinding</source><target>Змінити Комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="addKeybindingLabelWithKey">
+      <source xml:lang="en">Add Keybinding {0}</source><target>Додати Сполучення Клавіш {0}</target>
+    </trans-unit>
+    <trans-unit id="addKeybindingLabel">
+      <source xml:lang="en">Add Keybinding</source><target>Додати Комбінацію клавіш</target>
+    </trans-unit>
+    <trans-unit id="title">
+      <source xml:lang="en">{0} ({1})</source>
+      <target>{0} ({1})</target>
+    </trans-unit>
+    <trans-unit id="commandAriaLabel">
+      <source xml:lang="en">Command is {0}.</source><target>Команда {0}.</target>
+    </trans-unit>
+    <trans-unit id="keybindingAriaLabel">
+      <source xml:lang="en">Keybinding is {0}.</source><target>Комбінація клавіш {0}.</target>
+    </trans-unit>
+    <trans-unit id="noKeybinding">
+      <source xml:lang="en">No Keybinding assigned.</source><target>Комбінацію клавіш не призначено.</target>
+    </trans-unit>
+    <trans-unit id="sourceAriaLabel">
+      <source xml:lang="en">Source is {0}.</source><target>Джерело {0}.</target>
+    </trans-unit>
+    <trans-unit id="whenAriaLabel">
+      <source xml:lang="en">When is {0}.</source><target>Коли {0}.</target>
+    </trans-unit>
+    <trans-unit id="noWhen">
+      <source xml:lang="en">No when context.</source><target>Коли немає контексту.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/preferencesWidgets" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defaultSettingsFuzzyPrompt">
+      <source xml:lang="en">Try natural language search!</source><target>Спробуйте пошук на природній мові!</target>
+    </trans-unit>
+    <trans-unit id="defaultSettings">
+      <source xml:lang="en">Place your settings in the right hand side editor to override.</source><target>Помістіть ваші параметри у правій стороні редактора, щоб перевизначити.</target>
+    </trans-unit>
+    <trans-unit id="noSettingsFound">
+      <source xml:lang="en">No Settings Found.</source><target>Жодні параметри не знайдено.</target>
+    </trans-unit>
+    <trans-unit id="settingsSwitcherBarAriaLabel">
+      <source xml:lang="en">Settings Switcher</source><target>Параметри Switcher</target>
+    </trans-unit>
+    <trans-unit id="userSettings">
+      <source xml:lang="en">User Settings</source><target>Налаштування Користувача</target>
+    </trans-unit>
+    <trans-unit id="workspaceSettings">
+      <source xml:lang="en">Workspace Settings</source><target>Параметри Робочої Області</target>
+    </trans-unit>
+    <trans-unit id="folderSettings">
+      <source xml:lang="en">Folder Settings</source><target>Параметри Папки</target>
+    </trans-unit>
+    <trans-unit id="enableFuzzySearch">
+      <source xml:lang="en">Enable natural language search</source><target>Увімкнення пошуку за природною мовою</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/keybindingWidgets" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="defineKeybinding.initial">
+      <source xml:lang="en">Press desired key combination and then press ENTER.</source><target>Натисніть необхідну комбінацію клавіш, а потім натисніть клавішу enter.</target>
+    </trans-unit>
+    <trans-unit id="defineKeybinding.chordsTo">
+      <source xml:lang="en">chord to</source><target>акорд на</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/common/preferencesModels" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="commonlyUsed">
+      <source xml:lang="en">Commonly Used</source><target>Зазвичай використовуються</target>
+    </trans-unit>
+    <trans-unit id="mostRelevant">
+      <source xml:lang="en">Most Relevant</source><target>Найбільш Актуальні</target>
+    </trans-unit>
+    <trans-unit id="defaultKeybindingsHeader">
+      <source xml:lang="en">Overwrite key bindings by placing them into your key bindings file.</source><target>Перезаписати комбінації клавіш, розмістивши їх у файлі.</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/common/keybindingsEditorModel" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="default">
+      <source xml:lang="en">Default</source><target>За замовчуванням</target>
+    </trans-unit>
+    <trans-unit id="user">
+      <source xml:lang="en">User</source><target>Користувач</target>
+    </trans-unit>
+    <trans-unit id="meta">
+      <source xml:lang="en">meta</source><target>Мета</target>
+    </trans-unit>
+    <trans-unit id="option">
+      <source xml:lang="en">option</source><target>параметр</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/preferences/browser/preferencesRenderers" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="emptyUserSettingsHeader">
+      <source xml:lang="en">Place your settings here to overwrite the Default Settings.</source><target>Помістіть ваші налаштування тут, щоб замінити настройки за замовчуванням.</target>
+    </trans-unit>
+    <trans-unit id="emptyWorkspaceSettingsHeader">
+      <source xml:lang="en">Place your settings here to overwrite the User Settings.</source><target>Помістіть ваші налаштування тут, щоб перезаписати настройок користувача.</target>
+    </trans-unit>
+    <trans-unit id="emptyFolderSettingsHeader">
+      <source xml:lang="en">Place your folder settings here to overwrite those from the Workspace Settings.</source><target>Помістіть ваші настройки папок тут, щоб перезаписати тих, для параметрів робочої області.</target>
+    </trans-unit>
+    <trans-unit id="editTtile">
+      <source xml:lang="en">Edit</source><target>Редагувати</target>
+    </trans-unit>
+    <trans-unit id="replaceDefaultValue">
+      <source xml:lang="en">Replace in Settings</source><target>Замінити в налаштуваннях</target>
+    </trans-unit>
+    <trans-unit id="copyDefaultValue">
+      <source xml:lang="en">Copy to Settings</source><target>Скопіювати до налаштувань</target>
+    </trans-unit>
+    <trans-unit id="unsupportedPHPExecutablePathSetting">
+      <source xml:lang="en">This setting must be a User Setting. To configure PHP for the workspace, open a PHP file and click on 'PHP Path' in the status bar.</source><target>Цей параметр повинен бути інструкція по налаштуванню. Щоб налаштувати PHP для робочої області, відкрийте PHP файл і натисніть кнопку 'PHP Path' в рядку стану.</target>
+    </trans-unit>
+    <trans-unit id="unsupportedWorkspaceSetting">
+      <source xml:lang="en">This setting must be a User Setting.</source><target>Цей параметр має бути настройкою користувача.</target>
+    </trans-unit>
+    <trans-unit id="unsupportedWorkbenchSetting">
+      <source xml:lang="en">This setting cannot be applied now. It will be applied when you open this folder directly.</source><target>Ця установка не може бути застосована і зараз. Вона буде застосовуватися, коли ви відкриваєте цю папку безпосередньо.</target>
+    </trans-unit>
+    <trans-unit id="unsupportedWorkbenchSettingDevMode">
+      <source xml:lang="en">This setting cannot be applied now. It will be applied if you define it's scope as 'resource' while registering, or when you open this folder directly.</source><target>Ця установка не може бути застосована зараз. Він буде застосовуватися при визначенні обсягу як "ресурс" при реєстрації, або коли ви відкриваєте цю папку безпосередньо.</target>
+    </trans-unit>
+  </body></file>
+</xliff>

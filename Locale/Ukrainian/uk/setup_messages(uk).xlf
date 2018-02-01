@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="build/win32/i18n/messages" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="AddContextMenuFiles">
+      <source xml:lang="en">Add "Open with %1" action to Windows Explorer file context menu</source>
+      <target>Додати дію "Відкрити за допомогою %1" до контекстного меню Провідника Windows</target>
+    </trans-unit>
+    <trans-unit id="AddContextMenuFolders">
+      <source xml:lang="en">Add "Open with %1" action to Windows Explorer directory context menu</source>
+      <target>Додати дію "Відкрити папку за допомогою %1" до контекстного меню Провідника Windows</target>
+    </trans-unit>
+    <trans-unit id="AssociateWithFiles">
+      <source xml:lang="en">Register %1 as an editor for supported file types</source>
+      <target>Використовувати %1 як редактор зареєстрованих типів файлів</target>
+    </trans-unit>
+    <trans-unit id="AddToPath">
+      <source xml:lang="en">Add to PATH (available after restart)</source>
+      <target>Додати до PATH (працюватиме після перезапуску)</target>
+    </trans-unit>
+    <trans-unit id="RunAfter">
+      <source xml:lang="en">Run %1 after installation</source>
+      <target>Запустити %1 після встановлення</target>
+    </trans-unit>
+    <trans-unit id="Other">
+      <source xml:lang="en">Other:</source>
+      <target>Інше:</target>
+    </trans-unit>
+    <trans-unit id="SourceFile">
+      <source xml:lang="en">%1 Source File</source>
+      <target>Вихідний файл %1</target>
+    </trans-unit>
+  </body></file>
+</xliff>

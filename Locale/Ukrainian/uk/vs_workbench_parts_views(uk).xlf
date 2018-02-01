@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="src/vs/workbench/parts/views/browser/viewsExtensionPoint" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="requirearray">
+      <source xml:lang="en">views must be an array</source><target>вид повинен бути масивом</target>
+    </trans-unit>
+    <trans-unit id="requirestring">
+      <source xml:lang="en">property `{0}` is mandatory and must be of type `string`</source><target>властивість "{0}" є обов'язковою і має належати до типу "рядок"</target>
+    </trans-unit>
+    <trans-unit id="optstring">
+      <source xml:lang="en">property `{0}` can be omitted or must be of type `string`</source><target>властивість "{0}" може бути пропущена або має належати до типу "рядок"</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.id">
+      <source xml:lang="en">Identifier of the view. Use this to register a data provider through `vscode.window.registerTreeDataProviderForView` API. Also to trigger activating your extension by registering `onView:${id}` event to `activationEvents`.</source><target>Ідентифікатор подання. Використовуйте це, щоб зареєструвати постачальника даних через `vscode.window.registerTreeDataProviderForView` API-інтерфейс. Також для активації продовження реєстрації  `onView:${id}` до `activationEvents`.</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.name">
+      <source xml:lang="en">The human-readable name of the view. Will be shown</source><target>зручне для читання ім'я виду. Буде показано</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.view.when">
+      <source xml:lang="en">Condition which must be true to show this view</source><target>Умова, яка має бути істинним, щоб показати цей вид</target>
+    </trans-unit>
+    <trans-unit id="vscode.extension.contributes.views">
+      <source xml:lang="en">Contributes views to the editor</source><target>Вносить подання до редакції</target>
+    </trans-unit>
+    <trans-unit id="views.explorer">
+      <source xml:lang="en">Explorer View</source><target>Вид Провідника</target>
+    </trans-unit>
+    <trans-unit id="views.debug">
+      <source xml:lang="en">Debug View</source><target>Вид Налагодження</target>
+    </trans-unit>
+    <trans-unit id="locationId.invalid">
+      <source xml:lang="en">`{0}` is not a valid view location</source><target>`{0}` не є допустимим розташуванням виду</target>
+    </trans-unit>
+  </body></file>
+  <file datatype="plaintext" original="src/vs/workbench/parts/views/browser/views" source-language="en" target-language="uk-UA"><body>
+    <trans-unit id="viewToolbarAriaLabel">
+      <source xml:lang="en">{0} actions</source><target>{0} дії</target>
+    </trans-unit>
+    <trans-unit id="hideView">
+      <source xml:lang="en">Hide from Side Bar</source><target>Приховати від бічної панелі</target>
+    </trans-unit>
+  </body></file>
+</xliff>
