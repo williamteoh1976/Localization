@@ -1,5 +1,5 @@
 # Summary of Learning Paths (es-es)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure)
 #### Ruta de aprendizaje - 1 h 37 min - 2 Módulos
 Administración de contenedores en Azure1 h 37 minRuta de aprendizaje2 MódulosAzure Container Instances es la manera más rápida y sencilla de ejecutar contenedores en Azure. Esta ruta de aprendizaje le enseñará a crear y administrar los contenedores, y cómo se puede usar ACI para proporcionar escala elástica para Kubernetes.

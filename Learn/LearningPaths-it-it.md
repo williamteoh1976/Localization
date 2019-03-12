@@ -1,5 +1,5 @@
 # Summary of Learning Paths (it-it)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Amministrare i contenitori in Azure](https://docs.microsoft.com/it-it/learn/paths/administer-containers-in-azure)
 #### Percorso di apprendimento - 1 h 37 min - 2 moduli
 Amministrare i contenitori in Azure1 h 37 minPercorso di apprendimento2 moduliIstanze di Azure Container è il modo più rapido e semplice per eseguire i contenitori in Azure. Questo percorso di apprendimento ti spiegherà come creare e gestire i contenitori e usare ACI per offrire scalabilità elastica per Kubernetes.
@@ -44,13 +44,13 @@ Creare un'app canvas in PowerApps2 h 16 minPercorso di apprendimento3 moduliQues
 #### Percorso di apprendimento - 1 h 40 min - 2 moduli
 Creare un'applicazione basata su modello in PowerApps1 h 40 minPercorso di apprendimento2 moduliQuesto percorso di apprendimento illustra come creare un'applicazione PowerApps basata su modello che usa Common Data Service per le app.
 
-## [Elaborazione dati su larga scala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/it-it/learn/paths/data-processing-with-azure-adls)
-#### Percorso di apprendimento - 2 h 4 min - 3 moduli
-Elaborazione dati su larga scala con Azure Data Lake Storage Gen22 h 4 minPercorso di apprendimento3 moduliIn questo percorso di apprendimento si vedrà in che modo Azure Data Lake Storage può rendere più efficiente l'elaborazione di soluzioni di analisi dei Big Data. Si vedrà anche quanto sia facile configurare Azure Data Lake Storage. Verrà anche analizzata la modalità di integrazione di Azure Data Lake Storage con architetture comuni e verranno descritti i diversi metodi di caricamento dei dati nell'archivio dati. Si esaminerà infine la miriade di funzionalità di sicurezza che assicurano la protezione dei dati.
-
 ## [Estrarre conoscenze e informazioni dettagliate dai dati con Azure Databricks](https://docs.microsoft.com/it-it/learn/paths/data-science)
 #### Percorso di apprendimento - 4 h 38 min - 5 moduli
 Estrarre conoscenze e informazioni dettagliate dai dati con Azure Databricks4 h 38 minPercorso di apprendimento5 moduliInformazioni su come usare Azure Databricks per applicare tecniche di data science predittive e analitiche, ad esempio analisi dati sperimentali, training dei modelli, analisi del testo e Deep Learning.
+
+## [Elaborazione dati su larga scala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/it-it/learn/paths/data-processing-with-azure-adls)
+#### Percorso di apprendimento - 2 h 5 min - 3 moduli
+Elaborazione dati su larga scala con Azure Data Lake Storage Gen22 h 5 minPercorso di apprendimento3 moduliIn questo percorso di apprendimento si vedrà in che modo Azure Data Lake Storage può rendere più efficiente l'elaborazione di soluzioni di analisi dei Big Data. Si vedrà anche quanto sia facile configurare Azure Data Lake Storage. Verrà anche analizzata la modalità di integrazione di Azure Data Lake Storage con architetture comuni e verranno descritti i diversi metodi di caricamento dei dati nell'archivio dati. Si esaminerà infine la miriade di funzionalità di sicurezza che assicurano la protezione dei dati.
 
 ## [Implementare un data warehouse con Azure SQL Data Warehouse](https://docs.microsoft.com/it-it/learn/paths/implement-sql-data-warehouse)
 #### Percorso di apprendimento - 3 h 21 min - 4 moduli

@@ -1,5 +1,5 @@
 # Summary of Learning Paths (en-us)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Work with accounts payable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/work-with-accounts-payable-in-dynamics-365-for-finance-and-ops)
 #### Learning Path - 4 hr 28 min - 3 Modules
 Work with accounts payable in Dynamics 365 for Finance and Operations4 hr 28 minLearning Path3 ModulesAccounts payable is a liability due to a creditor when you order goods or services without paying in cash up front, which means that you buy goods on credit. Learn how to configure accounts payable in Dynamics 365 for Finance and Operations, record vendor invoices, and distribute expenses, tax and charges across accounts.

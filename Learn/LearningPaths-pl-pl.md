@@ -1,5 +1,5 @@
 # Summary of Learning Paths (pl-pl)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Administrowanie kontenerami na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-containers-in-azure)
 #### Ścieżka szkoleniowa - 1 godz. 37 min - Moduły: 2
 Administrowanie kontenerami na platformie Azure1 godz. 37 minŚcieżka szkoleniowaModuły: 2Usługa Azure Container Instances to najszybszy i najłatwiejszy sposób uruchamiania kontenerów na platformie Azure. W ramach tej ścieżki szkoleniowej nauczysz się, jak tworzyć kontenery i nimi zrządzać oraz jak korzystać z usługi ACI w celu zapewnienia elastycznego skalowania usługi Kubernetes.
@@ -52,13 +52,17 @@ Platforma Azure dla inżyniera danych1 godz. 51 minŚcieżka szkoleniowaModuły:
 #### Ścieżka szkoleniowa - 4 godz. 38 min - Moduły: 5
 Uzyskiwanie wiedzy i szczegółowych informacji na podstawie danych za pomocą usługi Azure Databricks4 godz. 38 minŚcieżka szkoleniowaModuły: 5Dowiedz się, jak za pomocą usługi Azure Databricks stosować predykcyjne i analityczne techniki z zakresu nauki o danych, takie jak eksploracyjna analiza danych, trenowanie modeli, analiza tekstu i uczenie głębokie.
 
+## [Wartość biznesowa platformy Microsoft Azure](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-azure)
+#### Ścieżka szkoleniowa - 3 godz. 47 min - Moduły: 7
+Wartość biznesowa platformy Microsoft Azure3 godz. 47 minŚcieżka szkoleniowaModuły: 7Czy chcesz w łatwy do zrozumienia sposób poznać informacje o chmurze? A może nie wiesz, jak zacząć korzystać z technologii chmury? W tym środowisku szkoleniowym odbędziesz podróż, której początkiem będzie poznanie sposobu, w jaki cyfrowa transformacja oraz zalety chmury mogą przekształcić Twoją firmę.
+
 ## [Implementowanie magazynu danych za pomocą usługi Azure SQL Data Warehouse](https://docs.microsoft.com/pl-pl/learn/paths/implement-sql-data-warehouse)
 #### Ścieżka szkoleniowa - 3 godz. 21 min - Moduły: 4
 Implementowanie magazynu danych za pomocą usługi Azure SQL Data Warehouse3 godz. 21 minŚcieżka szkoleniowaModuły: 4Usługa Azure SQL Data Warehouse zapewnia relacyjny magazyn danych big data, który można skalować na petabajtów danych. W tej ścieżce szkoleniowej dowiesz się, w jaki sposób usługa Azure SQL Data Warehouse może osiągnąć taką skalę dzięki swojej architekturze masowego przetwarzania równoległego (MPP, Massively Parallel Processing). Utwórz magazyn danych w kilka minut i twórz raporty przy użyciu znanego języka zapytań. Ładuj duże ilości danych w kilka minut, mając pewność, że magazyn danych jest bezpieczny.
 
 ## [Przetwarzanie dużych ilości danych przy użyciu usługi Azure Data Lake Storage Gen2](https://docs.microsoft.com/pl-pl/learn/paths/data-processing-with-azure-adls)
-#### Ścieżka szkoleniowa - 2 godz. 4 min - Moduły: 3
-Przetwarzanie dużych ilości danych przy użyciu usługi Azure Data Lake Storage Gen22 godz. 4 minŚcieżka szkoleniowaModuły: 3W tej ścieżce szkoleniowej zobaczysz, jak usługa Azure Data Lake Storage może zwiększyć wydajność przetwarzania rozwiązań analitycznych danych big data i jak łatwa można to skonfigurować. Dowiesz się także, jak wpisuje się ona w typowe architektury, oraz poznasz różne metody przekazywania danych do magazynu danych. Na koniec zapoznasz się z wieloma funkcjami zabezpieczeń, przy użyciu których możesz zabezpieczyć swoje dane.
+#### Ścieżka szkoleniowa - 2 godz. 5 min - Moduły: 3
+Przetwarzanie dużych ilości danych przy użyciu usługi Azure Data Lake Storage Gen22 godz. 5 minŚcieżka szkoleniowaModuły: 3W tej ścieżce szkoleniowej zobaczysz, jak usługa Azure Data Lake Storage może zwiększyć wydajność przetwarzania rozwiązań analitycznych danych big data i jak łatwa można to skonfigurować. Dowiesz się także, jak wpisuje się ona w typowe architektury, oraz poznasz różne metody przekazywania danych do magazynu danych. Na koniec zapoznasz się z wieloma funkcjami zabezpieczeń, przy użyciu których możesz zabezpieczyć swoje dane.
 
 ## [Implementowanie rozwiązania strumieniowego przesyłania danych przy użyciu usługi Azure Stream Analytics](https://docs.microsoft.com/pl-pl/learn/paths/implement-data-streaming-with-asa)
 #### Ścieżka szkoleniowa - 1 godz. 14 min - Moduły: 2
@@ -167,10 +171,6 @@ Working with Connected Field Service for Dynamics 365 and Azure IoT5 godz. 56 mi
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### Ścieżka szkoleniowa - 4 godz. 38 min - Moduły: 14
 Learn the business value of Microsoft Dynamics 365 and the Power Platform4 godz. 38 minŚcieżka szkoleniowaModuły: 14Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
-
-## [Learn the business value of Microsoft Azure](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-azure)
-#### Ścieżka szkoleniowa - 3 godz. 47 min - Moduły: 7
-Learn the business value of Microsoft Azure3 godz. 47 minŚcieżka szkoleniowaModuły: 7Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of the cloud can transform your business.
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/pl-pl/learn/paths/working-with-dynamics-365-sales)
 #### Ścieżka szkoleniowa - 6 godz. 42 min - Moduły: 7

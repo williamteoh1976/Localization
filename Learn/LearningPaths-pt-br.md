@@ -1,5 +1,5 @@
 # Summary of Learning Paths (pt-br)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Administrar contêineres no Azure](https://docs.microsoft.com/pt-br/learn/paths/administer-containers-in-azure)
 #### Roteiro de aprendizagem - 1 h 37 min - 2 módulos
 Administrar contêineres no Azure1 h 37 minRoteiro de aprendizagem2 módulosAs Instâncias de Contêiner do Azure são a maneira mais rápida e fácil de executar contêineres no Azure. Este roteiro de aprendizagem ensinará você a criar e gerenciar seus contêineres e mostrará como o ACI pode ser usado para fornecer escala elástica para o Kubernetes.

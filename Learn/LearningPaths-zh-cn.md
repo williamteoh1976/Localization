@@ -1,5 +1,5 @@
 # Summary of Learning Paths (zh-cn)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [在 Azure 中管理容器](https://docs.microsoft.com/zh-cn/learn/paths/administer-containers-in-azure)
 #### 学习路径 - 1 小时 37 分钟 - 2 个模块
 在 Azure 中管理容器1 小时 37 分钟学习路径2 个模块要在 Azure 中运行容器，最迅速、最简单的方式是使用 Azure 容器实例。 本学习路径介绍了如何创建和管理容器，还介绍了如何使用 ACI 为 Kubernetes 提供弹性缩放功能。
@@ -49,8 +49,8 @@ last updated: 2019-03-11
 使用 Azure 流分析实现数据流解决方案1 小时 14 分钟学习路径2 个模块学习事件处理和流数据的概念以及它如何适用于 Azure 流分析。 然后设置用于流式处理数据的流分析作业，以及学习如何管理和监视正在运行的作业。
 
 ## [使用 Azure Data Lake Storage Gen2 进行大规模数据处理](https://docs.microsoft.com/zh-cn/learn/paths/data-processing-with-azure-adls)
-#### 学习路径 - 2 小时 4 分钟 - 3 个模块
-使用 Azure Data Lake Storage Gen2 进行大规模数据处理2 小时 4 分钟学习路径3 个模块在此学习路径下，你将了解 Azure Data Lake Storage 如何提高大数据分析解决方案的处理效率以及设置是多么简单。 你还将了解它如何契合常用体系结构，以及将数据上传到数据存储区的不同方法。 最后查看可确保数据安全的多种安全功能。
+#### 学习路径 - 2 小时 5 分钟 - 3 个模块
+使用 Azure Data Lake Storage Gen2 进行大规模数据处理2 小时 5 分钟学习路径3 个模块在此学习路径下，你将了解 Azure Data Lake Storage 如何提高大数据分析解决方案的处理效率以及设置是多么简单。 你还将了解它如何契合常用体系结构，以及将数据上传到数据存储区的不同方法。 最后查看可确保数据安全的多种安全功能。
 
 ## [面向数据工程师的 Azure](https://docs.microsoft.com/zh-cn/learn/paths/azure-for-the-data-engineer)
 #### 学习路径 - 1 小时 51 分钟 - 3 个模块

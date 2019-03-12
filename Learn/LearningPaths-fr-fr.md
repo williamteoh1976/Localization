@@ -1,5 +1,5 @@
 # Summary of Learning Paths (fr-fr)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Administrer des conteneurs dans Azure](https://docs.microsoft.com/fr-fr/learn/paths/administer-containers-in-azure)
 #### Parcours d’apprentissage - 1 heure(s) 37 minute(s) - 2 modules
 Administrer des conteneurs dans Azure1 heure(s) 37 minute(s)Parcours d’apprentissage2 modulesLa solution Azure Container Instances est le moyen le plus simple et le plus rapide d’exécuter des conteneurs dans Azure. Ce parcours d’apprentissage vous montre comment créer et gérer vos conteneurs, et comment utiliser la solution Azure Container Instances pour fournir une mise à l’échelle élastique pour Kubernetes.

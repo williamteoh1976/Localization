@@ -1,5 +1,5 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
 #### 학습 경로 - 1시간 37분 - 모듈 2개
 Azure의 컨테이너 관리1시간 37분학습 경로모듈 2개Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
@@ -57,8 +57,8 @@ Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출4
 Azure SQL Data Warehouse로 데이터 웨어하우스 구현3시간 21분학습 경로모듈 4개Azure SQL Data Warehouse는 페타바이트 단위의 데이터로 확장할 수 있는 관계형 빅 데이터 저장소를 제공합니다. 이 학습 경로에서는 Azure SQL Data Warehouse가 MPP(Massively Parallel Processing) 아키텍처를 통해 이러한 규모를 구현하는 방법을 알아봅니다. 몇 분 안에 데이터 웨어하우스를 만들고 친숙한 쿼리 언어를 사용하여 보고서를 작성하세요. 몇 분 안에 엄청난 양의 데이터를 로드하고 데이터 웨어하우스의 안전을 보장하세요.
 
 ## [Azure Data Lake Storage Gen2를 사용한 대규모 데이터 처리](https://docs.microsoft.com/ko-kr/learn/paths/data-processing-with-azure-adls)
-#### 학습 경로 - 2시간 4분 - 모듈 3개
-Azure Data Lake Storage Gen2를 사용한 대규모 데이터 처리2시간 4분학습 경로모듈 3개이 학습 경로에서는 Azure Data Lake Storage가 어떻게 빅 데이터 분석 솔루션 처리 효율을 높여주며, 손쉽게 설정되는지 알 수 있습니다. 또한 데이터 저장소에 데이터를 업로드하는 여러 방법뿐만 아니라 일반적인 아키텍처에 맞추는 방법을 살펴봅니다. 마지막으로 데이터의 안전을 보장하는 수많은 보안 기능을 살펴봅니다.
+#### 학습 경로 - 2시간 5분 - 모듈 3개
+Azure Data Lake Storage Gen2를 사용한 대규모 데이터 처리2시간 5분학습 경로모듈 3개이 학습 경로에서는 Azure Data Lake Storage가 어떻게 빅 데이터 분석 솔루션 처리 효율을 높여주며, 손쉽게 설정되는지 알 수 있습니다. 또한 데이터 저장소에 데이터를 업로드하는 여러 방법뿐만 아니라 일반적인 아키텍처에 맞추는 방법을 살펴봅니다. 마지막으로 데이터의 안전을 보장하는 수많은 보안 기능을 살펴봅니다.
 
 ## [데이터 엔지니어용 Azure](https://docs.microsoft.com/ko-kr/learn/paths/azure-for-the-data-engineer)
 #### 학습 경로 - 1시간 51분 - 모듈 3개

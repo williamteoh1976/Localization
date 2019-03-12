@@ -1,5 +1,5 @@
 # Summary of Learning Paths (ja-jp)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Azure でコンテナーを管理する](https://docs.microsoft.com/ja-jp/learn/paths/administer-containers-in-azure)
 #### ラーニング パス - 1 時間 37 分 - モジュール数 2
 Azure でコンテナーを管理する1 時間 37 分ラーニング パスモジュール数 2Azure Container Instances は、Azure でコンテナーを実行する方法として最も簡単で迅速な方法です。 このラーニング パスでは、コンテナーを作成して管理する方法、ACI を利用して Kubernetes に柔軟なスケールを与える方法を紹介します。
@@ -45,8 +45,8 @@ PowerApps でキャンバス アプリを作成する2 時間 16 分ラーニン
 PowerApps のモデル駆動型アプリケーションを作成する1 時間 40 分ラーニング パスモジュール数 2このラーニング パスでは、Common Data Service for Apps を使用するモデル駆動型 PowerApp の作成について説明します。
 
 ## [Azure Data Lake Storage Gen2 を使用した大規模なデータ処理](https://docs.microsoft.com/ja-jp/learn/paths/data-processing-with-azure-adls)
-#### ラーニング パス - 2 時間 4 分 - モジュール数 3
-Azure Data Lake Storage Gen2 を使用した大規模なデータ処理2 時間 4 分ラーニング パスモジュール数 3このラーニング パスでは、Azure Data Lake Storage を使用するとビッグ データ分析ソリューションの処理が効率的になり、セットアップも簡単であることを学習します。 また、Azure Data Lake Storage を一般的なアーキテクチャに組み込む方法と、データ ストアにデータをアップロードするさまざまな方法を見ていきます。 最後に、データを確実にセキュリティで保護するさまざまなセキュリティ機能について学習します。
+#### ラーニング パス - 2 時間 5 分 - モジュール数 3
+Azure Data Lake Storage Gen2 を使用した大規模なデータ処理2 時間 5 分ラーニング パスモジュール数 3このラーニング パスでは、Azure Data Lake Storage を使用するとビッグ データ分析ソリューションの処理が効率的になり、セットアップも簡単であることを学習します。 また、Azure Data Lake Storage を一般的なアーキテクチャに組み込む方法と、データ ストアにデータをアップロードするさまざまな方法を見ていきます。 最後に、データを確実にセキュリティで保護するさまざまなセキュリティ機能について学習します。
 
 ## [Azure SQL Data Warehouse を使用してデータ ウェアハウスを実装する](https://docs.microsoft.com/ja-jp/learn/paths/implement-sql-data-warehouse)
 #### ラーニング パス - 3 時間 21 分 - モジュール数 4
@@ -59,6 +59,10 @@ Azure Databricks を使用してデータからナレッジと分析情報を抽
 ## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
 #### ラーニング パス - 1 時間 51 分 - モジュール数 3
 データ エンジニア向け Azure1 時間 51 分ラーニング パスモジュール数 3データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
+
+## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
+#### ラーニング パス - 3 時間 47 分 - モジュール数 7
+Microsoft Azure のビジネス価値について学習する3 時間 47 分ラーニング パスモジュール数 7クラウドについて理解しやすい方法で学習することに関心がありますか?  あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
 
 ## [Azure Stream Analytics を使用してデータ ストリーミング ソリューションを実装する](https://docs.microsoft.com/ja-jp/learn/paths/implement-data-streaming-with-asa)
 #### ラーニング パス - 1 時間 14 分 - モジュール数 2
@@ -167,10 +171,6 @@ Apply goal management to Microsoft Dynamics 365 for Customer Engagement1 時間 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ja-jp/learn/paths/universal-resource-scheduling)
 #### ラーニング パス - 5 時間 9 分 - モジュール数 5
 Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service5 時間 9 分ラーニング パスモジュール数 5Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
-
-## [Learn the business value of Microsoft Azure](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
-#### ラーニング パス - 3 時間 47 分 - モジュール数 7
-Learn the business value of Microsoft Azure3 時間 47 分ラーニング パスモジュール数 7Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of the cloud can transform your business.
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### ラーニング パス - 4 時間 38 分 - モジュール数 14

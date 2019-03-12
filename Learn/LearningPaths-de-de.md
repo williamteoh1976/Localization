@@ -1,5 +1,5 @@
 # Summary of Learning Paths (de-de)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [Verwalten von Containern in Azure](https://docs.microsoft.com/de-de/learn/paths/administer-containers-in-azure)
 #### Lernpfad - 1 Std. 37 Min. - 2 Module
 Verwalten von Containern in Azure1 Std. 37 Min.Lernpfad2 ModuleAzure-Containerinstanzen sind die schnellste und einfachste Möglichkeit zum Ausführen von Containern in Azure. Dieser Lernpfad vermittelt Ihnen das Erstellen und Verwalten Ihrer Container, und wie ACI (Azure Container Instances, Azure-Containerinstanzen) verwendet werden kann, um elastische Skalierung für Kubernetes bereitzustellen.

@@ -1,5 +1,5 @@
 # Summary of Learning Paths (zh-tw)
-last updated: 2019-03-11
+last updated: 2019-03-12
 ## [管理 Azure 中的容器](https://docs.microsoft.com/zh-tw/learn/paths/administer-containers-in-azure)
 #### 學習途徑 - 1 小時 37 分鐘 - 2 個單元
 管理 Azure 中的容器1 小時 37 分鐘學習途徑2 個單元Azure Container Instances 是在 Azure 中執行容器之最快速且簡單的方式。 此學習路徑將指導您如何建立及管理容器，以及如何使用 ACI 為 Kubernetes 提供彈性的規模。
@@ -57,8 +57,8 @@ last updated: 2019-03-11
 Azure 資料工程師1 小時 51 分鐘學習途徑3 個單元探索資料世界的演變，以及雲端技術的問世如何為企業探索提供全新的商機。 您將了解各種可用的資料平台技術，以及資料工程師如何利用此技術為組織獲取利益。
 
 ## [使用 Azure Data Lake Storage Gen2 的大規模資料處理](https://docs.microsoft.com/zh-tw/learn/paths/data-processing-with-azure-adls)
-#### 學習途徑 - 2 小時 4 分鐘 - 3 個單元
-使用 Azure Data Lake Storage Gen2 的大規模資料處理2 小時 4 分鐘學習途徑3 個單元在此學習路徑中，您會了解 Azure Data Lake Storage 能更有效地處理巨量資料分析解決方案，及其易於安裝的特性。 您也可以探索其融入一般架構的方法，以及將資料上傳到資料存放區的各種方法。 最後，您可以檢查各式各樣的安全性功能，以確保資料的安全。
+#### 學習途徑 - 2 小時 5 分鐘 - 3 個單元
+使用 Azure Data Lake Storage Gen2 的大規模資料處理2 小時 5 分鐘學習途徑3 個單元在此學習路徑中，您會了解 Azure Data Lake Storage 能更有效地處理巨量資料分析解決方案，及其易於安裝的特性。 您也可以探索其融入一般架構的方法，以及將資料上傳到資料存放區的各種方法。 最後，您可以檢查各式各樣的安全性功能，以確保資料的安全。
 
 ## [使用 Azure Databricks 從您的資料擷取知識與見解](https://docs.microsoft.com/zh-tw/learn/paths/data-science)
 #### 學習途徑 - 4 小時 38 分鐘 - 5 個單元
