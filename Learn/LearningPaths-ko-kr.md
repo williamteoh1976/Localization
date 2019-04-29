@@ -1,15 +1,19 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-04-08
+last updated: 2019-04-29
+## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
+#### 학습 경로 - 2시간 23분 - 모듈 수: 3
+Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
+
 ## [기본 수식을 사용하여 PowerApps 캔버스 앱 개선하기](https://docs.microsoft.com/ko-kr/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 학습 경로 - 2시간 16분 - 모듈 수: 3
 수식을 사용하여 PowerApps 캔버스 앱에서 기능을 개선하고 동작을 변경하시겠습니까? 이 학습 경로를 통해 목표를 달성할 수 있습니다.
 
 ## [Azure Machine Learning Service를 사용하여 AI 솔루션 빌드](https://docs.microsoft.com/ko-kr/learn/paths/build-ai-solutions-with-azure-ml-service)
-#### 학습 경로 - 2시간 50분 - 모듈 수: 4
+#### 학습 경로 - 3시간 17분 - 모듈 수: 4
 Azure는 기계 학습 모델을 설계하고 배포하는 데 사용되는 다양한 서비스를 포함하고 있습니다. 이러한 서비스를 데이터 분석에 활용하는 방법 알아보기
 
 ## [Azure Data Science Virtual Machine을 사용하여 Machine Learning 시작하기](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-azure-dsvm)
-#### 학습 경로 - 1시간 20분 - 모듈 수: 3
+#### 학습 경로 - 1시간 43분 - 모듈 수: 3
 Azure에는 데이터 과학 작업을 수행하기 위해 미리 구성된 가상 머신 서비스가 포함됩니다. Azure Data Science Virtual Machine을 사용하여 일반적인 데이터 분석 및 기계 학습 작업을 수행하는 방법을 알아봅니다.
 
 ## [PowerApps 캔버스 앱에서 데이터로 작업](https://docs.microsoft.com/ko-kr/learn/paths/work-with-data-in-a-canvas-app)
@@ -23,10 +27,6 @@ Azure에는 데이터 과학 작업을 수행하기 위해 미리 구성된 가�
 ## [Python 및 Azure Notebooks를 사용한 기계 학습 소개](https://docs.microsoft.com/ko-kr/learn/paths/intro-to-ml-with-python)
 #### 학습 경로 - 2시간 11분 - 모듈 수: 3
 Python은 기계 학습을 사용하여 데이터 분석을 수행하기 위한 주요 언어가 되었습니다. Azure Notebooks에서 실행되는 Jupyter Notebook의 Python 및 관련 라이브러리를 활용하여 패턴을 예측하고 추세를 파악하는 방법을 알아봅니다.
-
-## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
-#### 학습 경로 - 1시간 37분 - 모듈 수: 2
-Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
 
 ## [Azure Bot Service로 지능형 봇 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-bots-with-the-azure-bot-service)
 #### 학습 경로 - 2시간 38분 - 모듈 수: 2
@@ -48,9 +48,9 @@ Microsoft Cognitive Services는 애플리케이션에서 컴퓨터 비전 기능
 #### 학습 경로 - 1시간 6분 - 모듈 수: 2
 Azure Machine Learning Studio에서 계정을 만들고, 샘플 실험을 만든 다음, 웹 서비스로서의 사용을 위한 실험을 게시하고 배포하는 방법을 알아봅니다.
 
-## [Azure Databricks로 데이터 엔지니어링 수행](https://docs.microsoft.com/ko-kr/learn/paths/modern-data-warehouse)
+## [Azure Databricks로 데이터 엔지니어링 수행](https://docs.microsoft.com/ko-kr/learn/paths/data-engineering-with-databricks)
 #### 학습 경로 - 10시간 23분 - 모듈 수: 9
-Azure Databricks에서 지원하는 최신 데이터 웨어하우징 도구와 기술에 대해 알아보세요.
+Azure Databricks에서 지원하는 데이터 엔지니어링 도구와 기술에 대해 알아봅니다.
 
 ## [Microsoft Flow를 사용하여 비즈니스 프로세스 자동화](https://docs.microsoft.com/ko-kr/learn/paths/automate-process-using-flow)
 #### 학습 경로 - 3시간 11분 - 모듈 수: 3
@@ -65,7 +65,7 @@ Azure Databricks에서 지원하는 최신 데이터 웨어하우징 도구와 �
 이 학습 경로에서는 Power BI를 소개하고, 비즈니스 인텔리전스 보고서를 사용하고 빌드하는 방법을 교육합니다.
 
 ## [PowerApps에서 캔버스 앱 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-powerapps)
-#### 학습 경로 - 2시간 16분 - 모듈 수: 3
+#### 학습 경로 - 2시간 2분 - 모듈 수: 3
 이 학습 경로는 PowerApps를 소개하고, 앱을 만들고 사용자 지정한 다음, 관리하고 배포하는 데 도움을 줍니다.
 
 ## [Microsoft Azure의 비즈니스 가치 알아보기](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-azure)
@@ -77,7 +77,7 @@ Azure Databricks에서 지원하는 최신 데이터 웨어하우징 도구와 �
 이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
 
 ## [Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
-#### 학습 경로 - 4시간 38분 - 모듈 수: 5
+#### 학습 경로 - 5시간 31분 - 모듈 수: 6
 Azure Databricks를 사용하여 탐색 데이터 분석, 모델 학습, 텍스트 분석 및 딥 러닝과 같은 예측 및 분석 데이터 과학 기술을 수행하는 방법에 대해 알아보세요.
 
 ## [Azure SQL Data Warehouse로 데이터 웨어하우스 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-sql-data-warehouse)
@@ -109,64 +109,140 @@ Azure SQL Data Warehouse는 페타바이트 단위의 데이터로 확장할 수
 Azure Functions를 사용하면 다양한 외부 이벤트에서 트리거될 수 있는 이벤트 기반 주문형 계산 시스템을 만들 수 있습니다. 함수를 활용하여 서버 쪽 논리를 실행하고 서버리스 아키텍처를 빌드하는 방법을 알아봅니다.
 
 ## [Azure에서 리소스 관리](https://docs.microsoft.com/ko-kr/learn/paths/manage-resources-in-azure)
-#### 학습 경로 - 3시간 29분 - 모듈 수: 4
+#### 학습 경로 - 4시간 15분 - 모듈 수: 5
 Azure 명령줄 및 웹 포털을 사용하여 클라우드 기반 리소스를 생성, 관리 및 제어하는 방법을 알아봅니다.
 
 ## [Azure Cosmos DB의 NoSQL 데이터 작업](https://docs.microsoft.com/ko-kr/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### 학습 경로 - 2시간 27분 - 모듈 수: 4
+#### 학습 경로 - 3시간 43분 - 모듈 수: 5
 NoSQL 데이터는 관계형 SQL 데이터베이스의 요구 사항에 매핑되지 않는 정보를 저장하는 효율적인 방법입니다. Azure Portal, Visual Studio Code용 Azure Cosmos DB 확장 및 Azure Cosmos DB .NET Core SDK를 사용하여 원하는 위치에서 NoSQL 데이터로 작업하고, 전세계에 어디서든 사용자에게 고가용성을 제공하는 방법을 알아봅니다.
 
 ## [Azure에서 관계형 데이터 작업](https://docs.microsoft.com/ko-kr/learn/paths/work-with-relational-data-in-azure)
-#### 학습 경로 - 1시간 34분 - 모듈 수: 2
+#### 학습 경로 - 2시간 41분 - 모듈 수: 3
 Azure는 SQL Server, PostgreSQL 및 MySQL을 포함한 여러 가지 인기 있는 SQL 기반 데이터베이스 솔루션을 지원합니다. Azure에서 이러한 엔터프라이즈 데이터 솔루션을 사용하여 클라우드에 앱 데이터를 저장하고 검색하는 방법을 알아봅니다.
 
 ## [Azure에서 인프라 리소스 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-infrastructure-resources-in-azure)
-#### 학습 경로 - 9시간 29분 - 모듈 수: 10
+#### 학습 경로 - 9시간 34분 - 모듈 수: 10
 가상 머신 리소스를 만들고, 관리하고, 보호하고, 크기를 조정하는 방법을 알아봅니다.
 
 ## [클라우드 데이터 보호](https://docs.microsoft.com/ko-kr/learn/paths/secure-your-cloud-data)
-#### 학습 경로 - 2시간 49분 - 모듈 수: 4
+#### 학습 경로 - 6시간 45분 - 모듈 수: 8
 Azure는 보안 및 규정 준수를 위해 설계되었습니다. 기본 제공 서비스를 활용하여 승인된 서비스와 클라이언트만 액세스할 수 있도록 앱 데이터를 안전하게 저장하는 방법을 알아봅니다.
 
 ## [Azure App Service로 Azure에 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-app-service)
-#### 학습 경로 - 3 시간 - 모듈 수: 3
+#### 학습 경로 - 4시간 30분 - 모듈 수: 5
 Azure의 웹앱을 사용하면 기본 서버, 스토리지 또는 네트워크 자산을 사용할 필요 없이 웹 사이트를 쉽게 게시하고 관리할 수 있습니다. 대신에 웹 사이트 기능에 집중하고, 강력한 Azure 플랫폼을 사용하여 사이트에 대한 보안 액세스 권한을 제공할 수 있습니다.
 
 ## [Azure에서 멋진 솔루션 설계](https://docs.microsoft.com/ko-kr/learn/paths/architect-great-solutions-in-azure)
 #### 학습 경로 - 4시간 17분 - 모듈 수: 5
 모든 좋은 아키텍처에 있는 핵심 원칙을 검토하여 Azure에서 안전하고 확장성 있고 성능이 좋은 솔루션을 디자인하고 빌드하는 방법을 알아봅니다.
 
-## [서비스를 함께 연결](https://docs.microsoft.com/ko-kr/learn/paths/connect-your-services-together)
-#### 학습 경로 - 3시간 33분 - 모듈 수: 4
-Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔드 서비스 및 주문형 계산 서비스를 수행하는 트리거 함수)로 구성된 애플리케이션을 만들 수 있습니다. 또한 Azure에는 다양한 구성 요소가 서로 데이터를 전달할 수 있는 다양한 통신 전략이 포함되어 있습니다. 이러한 통신 서비스를 활용하여 테스트 가능한 구성 요소에서 확장성 있는 효율적인 솔루션을 만드는 방법을 알아봅니다.
-
 ## [Azure Virtual Machines를 통해 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### 학습 경로 - 4시간 13분 - 모듈 수: 4
+#### 학습 경로 - 4시간 18분 - 모듈 수: 4
 Azure 웹앱 플랫폼에서 웹 호스팅 요구 사항을 직접 지원하지 않는 경우 가상 머신을 활용하여 웹 서버의 모든 측면을 사용자 지정하고 제어할 수 있습니다. 웹앱을 호스트하는 Linux 및 Windows에서 가상 머신을 만들고 구성하고 관리하는 방법을 알아봅니다.
+
+## [서비스를 함께 연결](https://docs.microsoft.com/ko-kr/learn/paths/connect-your-services-together)
+#### 학습 경로 - 3시간 31분 - 모듈 수: 4
+Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔드 서비스 및 주문형 계산 서비스를 수행하는 트리거 함수)로 구성된 애플리케이션을 만들 수 있습니다. 또한 Azure에는 다양한 구성 요소가 서로 데이터를 전달할 수 있는 다양한 통신 전략이 포함되어 있습니다. 이러한 통신 서비스를 활용하여 테스트 가능한 구성 요소에서 확장성 있는 효율적인 솔루션을 만드는 방법을 알아봅니다.
 
 ## [Azure에 데이터 저장](https://docs.microsoft.com/ko-kr/learn/paths/store-data-in-azure)
 #### 학습 경로 - 3시간 50분 - 모듈 수: 5
 Azure는 구조화되지 않은 데이터, 보관 데이터, 관계형 데이터 등의 데이터를 저장하는 다양한 방법을 제공합니다. Azure에서 스토리지 관리의 기본 사항, 스토리지 계정을 만드는 방법 및 클라우드에 저장할 데이터에 적합한 모델을 선택하는 방법을 알아봅니다.
 
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### 학습 경로 - 5시간 25분 - 모듈 수: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### 학습 경로 - 3시간 9분 - 모듈 수: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### 학습 경로 - 5시간 26분 - 모듈 수: 4
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+## [AI business school for financial services](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-financial-services)
+#### 학습 경로 - 7시간 27분 - 모듈 수: 10
+Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
+
+## [AI business school for retail](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-retail)
+#### 학습 경로 - 7시간 22분 - 모듈 수: 10
+Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
+
+## [Define an AI strategy to create business value](https://docs.microsoft.com/ko-kr/learn/paths/ai-strategy-for-business-value)
+#### 학습 경로 - 3시간 52분 - 모듈 수: 5
+In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
+
+## [AI business school for manufacturing](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-manufacturing)
+#### 학습 경로 - 7시간 23분 - 모듈 수: 10
+In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+
+## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/ko-kr/learn/paths/responsible-ai-business-principles)
+#### 학습 경로 - 1 시간 - 모듈 1개
+It is imperative to reflect on the implications of AI in business. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your organization, as well as resources, best practices, and tools.
+
+## [Introduction to AI technology for business leaders](https://docs.microsoft.com/ko-kr/learn/paths/ai-technology-for-business-leaders)
+#### 학습 경로 - 1시간 14분 - 모듈 수: 2
+In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
+
+## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/ko-kr/learn/paths/foster-ai-ready-culture)
+#### 학습 경로 - 3시간 22분 - 모듈 수: 5
+In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
+
+## [AI business school for healthcare](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-healthcare)
+#### 학습 경로 - 7시간 22분 - 모듈 수: 10
+Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-work-warehouse-management-d365-finance-ops)
+#### 학습 경로 - 4시간 57분 - 모듈 수: 2
+Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### 학습 경로 - 5시간 57분 - 모듈 수: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+#### 학습 경로 - 5시간 49분 - 모듈 수: 4
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 6시간 6분 - 모듈 수: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 5시간 36분 - 모듈 수: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-marketing)
+#### 학습 경로 - 1시간 20분 - 모듈 수: 2
+Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
+
+## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-use-budgeting-d365-finance-ops)
+#### 학습 경로 - 2시간 28분 - 모듈 수: 2
+Every organization, whether it is private or public, sets financial and operational goals by creating budgets. With the collaborative and process-driven nature of budget planning, you can make your budget process more efficient.
+
+## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-fixed-assets-d365-finance-ops)
+#### 학습 경로 - 3시간 51분 - 모듈 수: 2
+You can set up and enter acquisition information for fixed assets, and then manage them by depreciating them and setting a capitalization threshold. The way in which fixed assets are handled must correspond with both international accounting standards and the accounting legislation in each country or region.
+
+## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/ko-kr/learn/paths/understand-advanced-topics)
+#### 학습 경로 - 2시간 30분 - 모듈 수: 4
+Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+
+## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/ko-kr/learn/paths/advanced-data-options-and-connectors)
+#### 학습 경로 - 2시간 21분 - 모듈 수: 4
+Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
+
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ko-kr/learn/paths/get-started-dynamics-365-portals)
+#### 학습 경로 - 2시간 32분 - 모듈 수: 3
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/ko-kr/learn/paths/modernize-workplace-with-m365-and-surface)
 #### 학습 경로 - 2시간 50분 - 모듈 수: 9
 Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
-## [](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-####  -  - 
-
-
-## [](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-####  -  - 
-
-
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### 학습 경로 - 4시간 29분 - 모듈 수: 5
-Are you interested in learning about business applications? Start with this learning path to see how Dynamics apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics applications.
-
-## [](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-####  -  - 
-
+#### 학습 경로 - 5시간 31분 - 모듈 수: 6
+Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 ## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/ko-kr/learn/paths/ui-controls-canvas-app-powerapps)
 #### 학습 경로 - 1시간 58분 - 모듈 수: 3
@@ -190,7 +266,7 @@ Accounts payable is a liability due to a creditor when you order goods or servic
 
 ## [Extend Dynamics 365 portals](https://docs.microsoft.com/ko-kr/learn/paths/extend-dynamics-365-portals)
 #### 학습 경로 - 2시간 42분 - 모듈 수: 3
-The ability to easily surface and interact with Common Data Service data on an externally facing web site is the core benefit for implementing a Dynamics 365 portal. This learning path describes how to transform a content portal into a full web app interacting with CDS. We will explain how to secure data access based on the authenticated user role and relationship to the data. We will also cover the options available to customizers and developers to extend the portal functionality and integrate with Office 365 and Power platform components.
+The ability to easily surface and interact with Common Data Service data on an externally facing web site is the core benefit for implementing a Dynamics 365 portal. This learning path describes how to transform a content portal into a full web app interacting withCommon Data Service. We will explain how to secure data access based on the authenticated user role and relationship to the data. We will also cover the options available to customizers and developers to extend the portal functionality and integrate with Office 365 and Power platform components.
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/ko-kr/learn/paths/working-with-dynamics-sales-professional)
 #### 학습 경로 - 2시간 35분 - 모듈 수: 3
@@ -208,10 +284,6 @@ Lifecycle Services (LCS) is a collaborative workspace that customers and their p
 #### 학습 경로 - 5시간 5분 - 모듈 수: 4
 Create, design, and administer Microsoft Dynamics 365 Customer Engagement tenants and instances including planning for multi-instance deployments, managing authentication methods, managing updates, backup and restore instances, install and manage Microsoft Dynamics 365 clients for end-users, and authorizing access to different features for all users in the organization.
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ko-kr/learn/paths/get-started-dynamics-365-portals)
-#### 학습 경로 - 2시간 32분 - 모듈 수: 3
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
-
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/ko-kr/learn/paths/apply-goal-management-dynamics-365)
 #### 학습 경로 - 1시간 20분 - 모듈 수: 2
 Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
@@ -227,10 +299,6 @@ This learning path focuses on Case Management capabilities of Dynamics 365 for C
 ## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ko-kr/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
 #### 학습 경로 - 2 시간 - 모듈 수: 2
 This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
-
-## [Voice of the Customer for Dynamics 365](https://docs.microsoft.com/ko-kr/learn/paths/dyn365-voice-of-customer)
-#### 학습 경로 - 2시간 54분 - 모듈 수: 3
-This learning path introduces you to the basics of Voice of the Customer for Dynamics 365.
 
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ko-kr/learn/paths/working-with-connected-field-service-iot)
 #### 학습 경로 - 5시간 56분 - 모듈 수: 5
@@ -252,11 +320,11 @@ Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses 
 #### 학습 경로 - 4시간 14분 - 모듈 수: 4
 Field service companies often realize they need help as they discover that workflow inefficiencies are preventing growth and limiting revenue. Taking the right steps to configure Dynamics 365 for Field Service will save you time during your implementation.
 
-## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-marketing)
-#### 학습 경로 - 1시간 20분 - 모듈 수: 2
-Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
-
 ## [Working with Dynamics 365 for Marketing](https://docs.microsoft.com/ko-kr/learn/paths/working-with-dynamics-365-for-marketing)
 #### 학습 경로 - 3시간 35분 - 모듈 수: 5
 Gain insights from visitor behavior and grow your sales fast. Automate and mange campaigns, publish content, analyze results and leverage data with insights.
+
+## [Voice of the Customer for Dynamics 365](https://docs.microsoft.com/ko-kr/learn/paths/dyn365-voice-of-customer)
+#### 학습 경로 - 2시간 54분 - 모듈 수: 3
+This learning path introduces you to the basics of Voice of the Customer for Dynamics 365.
 
