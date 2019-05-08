@@ -1,5 +1,5 @@
 # Summary of Learning Paths (pt-br)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Administrar contêineres no Azure](https://docs.microsoft.com/pt-br/learn/paths/administer-containers-in-azure)
 #### Roteiro de aprendizagem - 2 h 23 min - Número de módulos: 3
 As Instâncias de Contêiner do Azure são a maneira mais rápida e fácil de executar contêineres no Azure. Este roteiro de aprendizagem ensinará você a criar e gerenciar seus contêineres e mostrará como o ACI pode ser usado para fornecer escala elástica para o Kubernetes.
@@ -36,13 +36,13 @@ Os Serviços Cognitivos da Microsoft oferecem funcionalidade pré-criada para ha
 #### Roteiro de aprendizagem - 1 h 34 min - Número de módulos: 2
 Saiba como converter fala em texto e reconhecer alto-falantes específicos em seus aplicativos, integrando os Serviços de Fala Cognitiva.
 
-## [Crie bots inteligentes com o Serviço de Bot do Azure](https://docs.microsoft.com/pt-br/learn/paths/create-bots-with-the-azure-bot-service)
-#### Roteiro de aprendizagem - 2 h 38 min - Número de módulos: 2
-Saiba como criar um chatbot e adicionar inteligência ao Bot integrando o QnA Maker e o LUIS.
-
 ## [Avaliar texto com os Serviços de Linguagem Cognitiva do Azure](https://docs.microsoft.com/pt-br/learn/paths/evaluate-text-with-language-services)
 #### Roteiro de aprendizagem - 2 h 13 min - Número de módulos: 3
 Saiba como usar os Serviços de Linguagem Cognitiva para analisar texto, determinar intenção, detectar temas adultos e processar entrada de linguagem natural.
+
+## [Crie bots inteligentes com o Serviço de Bot do Azure](https://docs.microsoft.com/pt-br/learn/paths/create-bots-with-the-azure-bot-service)
+#### Roteiro de aprendizagem - 2 h 38 min - Número de módulos: 2
+Saiba como criar um chatbot e adicionar inteligência ao Bot integrando o QnA Maker e o LUIS.
 
 ## [Publicar um experimento de aprendizado de máquina com o Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/pt-br/learn/paths/publish-experiment-with-ml-studio)
 #### Roteiro de aprendizagem - 1 h 6 min - Número de módulos: 2
@@ -77,7 +77,7 @@ Este roteiro de aprendizagem apresenta a criação de um PowerApp controlado por
 Esse roteiro de aprendizagem se concentra nos recursos de Gerenciamento de Ocorrências do Dynamics 365 for Customer Service, incluindo opções para criar ocorrências, gerenciar o processo de resolução de ocorrências, trabalhar com hierarquias de ocorrências e mesclar ocorrências semelhantes. As filas podem ser aproveitadas para manter e gerenciar cargas de trabalho de Ocorrências para agentes do SAC para incluir a definição de filas para diferentes tipos de ocorrências, gerenciar itens de filas, selecionar e liberar itens de fila e projetar regras de roteamento de filas.
 
 ## [Criar um aplicativo de tela no PowerApps](https://docs.microsoft.com/pt-br/learn/paths/create-powerapps)
-#### Roteiro de aprendizagem - 2 h 2 min - Número de módulos: 3
+#### Roteiro de aprendizagem - 2 h 16 min - Número de módulos: 3
 Este roteiro de aprendizagem apresenta o PowerApps, que ajuda você a criar e personalizar um aplicativo e, em seguida, a gerenciá-lo e distribuí-lo.
 
 ## [Criar e usar relatórios de análise com o Power BI](https://docs.microsoft.com/pt-br/learn/paths/create-use-analytics-reports-power-bi)
@@ -157,12 +157,16 @@ O Azure Functions permite a criação de sistemas de computação sob demanda co
 O Azure permite que você crie aplicativos compostos por vários componentes: front-ends de site, serviços back-end e funções disparadas que executam serviços de computação sob demanda. O Azure também inclui várias estratégias de comunicação para permitir que esses diversos componentes passem dados entre si. Saiba como aproveitar esses serviços de comunicação para criar soluções escalonáveis e eficientes com base em componentes testáveis.
 
 ## [Trabalhar com os dados relacionais no Azure](https://docs.microsoft.com/pt-br/learn/paths/work-with-relational-data-in-azure)
-#### Roteiro de aprendizagem - 2 h 41 min - Número de módulos: 3
+#### Roteiro de aprendizagem - 3 h 20 min - Número de módulos: 4
 O Azure dá suporte a várias soluções populares de banco de dados baseadas em SQL, incluindo SQL Server, PostgreSQL e MySQL. Saiba como usar essas soluções de dados empresariais no Azure para armazenar e recuperar dados de seu aplicativo na nuvem.
 
 ## [Armazenar dados no Azure](https://docs.microsoft.com/pt-br/learn/paths/store-data-in-azure)
 #### Roteiro de aprendizagem - 3 h 50 min - Número de módulos: 5
 O Azure fornece uma variedade de maneiras para armazenar dados: não estruturados, de arquivamento, relacionais e muito mais. Conheça os conceitos básicos do gerenciamento de armazenamento no Azure, como criar uma Conta de Armazenamento e como escolher o modelo certo para os dados que você deseja armazenar na nuvem.
+
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Roteiro de aprendizagem - 5 h 43 min - Número de módulos: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### Roteiro de aprendizagem - 5 h 25 min - Número de módulos: 5
@@ -176,6 +180,18 @@ You need to configure the Accounts receivable module in Dynamics 365 for Finance
 #### Roteiro de aprendizagem - 3 h 9 min - Número de módulos: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Roteiro de aprendizagem - 9 h 3 min - Número de módulos: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/pt-br/learn/paths/customize-your-xamarin-forms-apps)
+#### Roteiro de aprendizagem - 7 h 25 min - Número de módulos: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/pt-br/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Roteiro de aprendizagem - 9 h 34 min - Número de módulos: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
 ## [Define an AI strategy to create business value](https://docs.microsoft.com/pt-br/learn/paths/ai-strategy-for-business-value)
 #### Roteiro de aprendizagem - 3 h 52 min - Número de módulos: 5
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
@@ -183,6 +199,10 @@ In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chair
 ## [AI business school for healthcare](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-healthcare)
 #### Roteiro de aprendizagem - 7 h 22 min - Número de módulos: 10
 Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+
+## [Consume data with Power BI](https://docs.microsoft.com/pt-br/learn/paths/consume-data-with-power-bi)
+#### Roteiro de aprendizagem - 2 h 35 min - Número de módulos: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/pt-br/learn/paths/responsible-ai-business-principles)
 #### Roteiro de aprendizagem - 1 h - 1 módulo
@@ -209,7 +229,7 @@ Retail industry decision-makers have considerations that are particular to their
 In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Roteiro de aprendizagem - 6 h 6 min - Número de módulos: 6
+#### Roteiro de aprendizagem - 6 h 23 min - Número de módulos: 6
 Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-work-warehouse-management-d365-finance-ops)
@@ -217,16 +237,16 @@ Lean manufacturing is a journey of continuous improvement. The goal is to produc
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Roteiro de aprendizagem - 5 h 49 min - Número de módulos: 4
+#### Roteiro de aprendizagem - 5 h 56 min - Número de módulos: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Roteiro de aprendizagem - 5 h 36 min - Número de módulos: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Roteiro de aprendizagem - 5 h 57 min - Número de módulos: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Roteiro de aprendizagem - 5 h 53 min - Número de módulos: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/pt-br/learn/paths/get-started-with-marketing)
 #### Roteiro de aprendizagem - 1 h 20 min - Número de módulos: 2

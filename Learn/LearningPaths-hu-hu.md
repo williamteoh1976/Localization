@@ -1,5 +1,37 @@
 # Summary of Learning Paths (hu-hu)
-last updated: 2019-04-29
+last updated: 2019-05-08
+## [A felelős mesterséges intelligencia üzleti alapelveinek azonosítása](https://docs.microsoft.com/hu-hu/learn/paths/responsible-ai-business-principles)
+#### Képzési terv - 1 ó - 1 modul
+A mesterséges intelligencia üzleti hatásainak elemzése rendkívül fontos. Ebben a képzési tervben megismerkedhet az alapelvek és egy cégirányítási modell szervezeti lefektetésének irányelveivel, valamint az ehhez kapcsolódó erőforrásokkal, ajánlott eljárásokkal és eszközökkel.
+
+## [Bevezetés a mesterséges intelligencia technológiájába üzleti vezetőknek](https://docs.microsoft.com/hu-hu/learn/paths/ai-technology-for-business-leaders)
+#### Képzési terv - 1 óra 14 perc - Modulok száma: 2
+Eben a képzési tervben magas szintű áttekintést kaphat a mesterséges intelligencia alapvető fogalmairól. Megismerheti a mesterséges intelligencia lényegét és a mögöttes technológiákat. Megoszthatja, hogyan készít a Microsoft a mesterséges intelligencia legújabb innovációiból cégek által használható eszközöket, termékeket és szolgáltatásokat.
+
+## [Mesterséges intelligencia üzleti iskolája egészségügyhöz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-healthcare)
+#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
+Az egészségügyi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erején. Ez a képzési terv az egészségügyi iparág döntéshozóinak szól, és a mesterséges intelligencia vállalati alkalmazásának átalakító hatását mutatja be.
+
+## [Az AI-kompatibilis üzleti kultúra kiépítésének módjai](https://docs.microsoft.com/hu-hu/learn/paths/foster-ai-ready-culture)
+#### Képzési terv - 3 óra 22 perc - Modulok száma: 5
+Ebben a képzési tervben a Microsoft vezető igazgatói mesélnek az AI-kompatibilis céghez szükséges kulcsfontosságú változásokat lehetővé tevő keretrendszerről. A képzési tervvel azonosíthatja a mesterséges intelligencia sikeres példáit, és megfogalmazhatja a kapcsolódó forgatókönyveket. Értekezhet üzletág-specifikus és kapcsolódó pénzügyi, marketinges, értékesítési és ügyfélszolgálati használati esetekről. Végül azonosíthatja a saját cégében – a technológiai fejlettség alapján – bevezethető AI-megoldásokat.
+
+## [Mesterséges intelligencia üzleti iskolája kiskereskedelemhez](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-retail)
+#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
+A kiskereskedelmi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erejét.
+
+## [AI-stratégia definiálása üzleti érték létrehozásához](https://docs.microsoft.com/hu-hu/learn/paths/ai-strategy-for-business-value)
+#### Képzési terv - 3 óra 52 perc - Modulok száma: 5
+Ebben a képzési tervben Peter Zemsky, az INSEAD Eli Lilly stratégiai és innovációs elnöki professzora beszél arról, hogy a mesterséges intelligencia hogyan segíti elő az üzleti érték lefektetését számos iparágban és cégben, valamint a Microsoft ügyfelei és partnerei között. Értekezhet arról, hogy hogyan alkalmazzák a technikai csoportok a mesterséges intelligenciát üzleti alkalmazásokban, és hogyan építik be saját cégeikbe az AI-t a különböző iparágak üzleti vezetői.
+
+## [Mesterséges intelligencia üzleti iskolája pénzügyi szolgáltatásokhoz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-financial-services)
+#### Képzési terv - 7 óra 27 perc - Modulok száma: 10
+Az pénzügyi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erején. Kritikus fontosságú, hogy megértsék azokat a stratégiai összetevőket, amelyekkel a pénzügyi szektor üzleti értéket hozhat létre a mesterséges intelligencia segítségével.
+
+## [Mesterséges intelligencia üzleti iskolája gyártáshoz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-manufacturing)
+#### Képzési terv - 7 óra 23 perc - Modulok száma: 10
+A gyártási folyamat döntéshozóinak iparágspecifikus szempontokat kell figyelembe venniük, mielőtt kihasználhatnák a mesterséges intelligencia hatékony átalakító erejét a vállalatban. Ez a képzési terv a gyártási iparág döntéshozóinak szól, és a mesterséges intelligencia vállalati alkalmazásának átalakító hatását mutatja be.
+
 ## [Azure-beli tárolók felügyelete](https://docs.microsoft.com/hu-hu/learn/paths/administer-containers-in-azure)
 #### Képzési terv - 2 óra 23 perc - Modulok száma: 3
 A tárolók Azure-ban való futtatásának leggyorsabb és legegyszerűbb módja az Azure Container Instances használata. Ez a képzési terv azt ismerteti, hogyan hozhat létre és kezelhet tárolókat, és hogyan használható az Azure Container Instances (ACI) a rugalmas méretezéshez a Kubernetesben.
@@ -57,7 +89,7 @@ Megismerheti az Azure Databricks által támogatott adatfeldolgozási eszközök
 Ez a képzési terv a Microsoft Flow-t, valamint a munkafolyamatok létrehozását és kezelését mutatja be.
 
 ## [Vászonalapú alkalmazás létrehozása a PowerAppsben](https://docs.microsoft.com/hu-hu/learn/paths/create-powerapps)
-#### Képzési terv - 2 óra 2 perc - Modulok száma: 3
+#### Képzési terv - 2 óra 16 perc - Modulok száma: 3
 Ez a képzési terv bemutatja Önnek a PowerAppst; segítséget nyújt az alkalmazások létrehozásában és testre szabásában, valamint kezelésükben és közzétételükben.
 
 ## [Modellalapú alkalmazás létrehozása a PowerAppsben](https://docs.microsoft.com/hu-hu/learn/paths/create-app-models-business-processes)
@@ -72,8 +104,8 @@ Ez a képzési terv bemutatja Önnek a Power BI-t, és megtanítja az üzletiint
 #### Képzési terv - 1 óra 14 perc - Modulok száma: 2
 Megismerheti az eseményfeldolgozás és az adatstreamelés fogalmait, és azok alkalmazását az Azure Stream Analyticsben. Ezután beállíthat egy Stream Analytics-feladatot adatstreameléshez, és elsajátíthatja a futó feladatok kezelését és figyelését.
 
-## [Ismeretek és elemzések kinyerése az adatokból az Azure Databricks szolgáltatással](https://docs.microsoft.com/hu-hu/learn/paths/data-science)
-#### Képzési terv - 5 óra 31 perc - Modulok száma: 6
+## [Adatelemzés](https://docs.microsoft.com/hu-hu/learn/paths/data-science)
+#### Képzési terv - 4 óra 38 perc - Modulok száma: 5
 Ismerje meg, hogyan használhatja az Azure Databricks platformot prediktív és analitikai adatkezelési technikák, például feltáró jellegű adatelemzések, modellbetanítás, szövegelemzés és mély tanulás végrehajtására.
 
 ## [Adattárház implementálása az Azure SQL Data Warehouse szolgáltatással](https://docs.microsoft.com/hu-hu/learn/paths/implement-sql-data-warehouse)
@@ -108,13 +140,13 @@ Ha az Azure webalkalmazás-platformja közvetlenül nem támogatja a webes üzem
 #### Képzési terv - 3 óra 9 perc - Modulok száma: 3
 Az Azure Functions lehetővé teszi olyan eseményvezérelt, számítási igény szerinti rendszerek létrehozását, amelyeket különböző külső események aktiválhatnak. Elsajátíthatja a Functions kiaknázását kiszolgálóoldali logika végrehajtásához és kiszolgáló nélküli architektúrák kiépítéséhez.
 
-## [Relációs adatok használata az Azure-ban](https://docs.microsoft.com/hu-hu/learn/paths/work-with-relational-data-in-azure)
-#### Képzési terv - 2 óra 41 perc - Modulok száma: 3
-Az Azure számos népszerű SQL-alapú adatbázis-megoldást támogat, így az SQL Servert, a PostgreSQL-t és a MySQL-t is. Megtudhatja, hogyan használhatja ezeket a vállalati adatmegoldásokat az Azure-ban az alkalmazás adatainak a felhőben való tárolására és lekérésére.
-
 ## [Azure-beli infrastruktúra-erőforrások felügyelete](https://docs.microsoft.com/hu-hu/learn/paths/administer-infrastructure-resources-in-azure)
 #### Képzési terv - 9 óra 34 perc - Modulok száma: 10
 A virtuálisgép-erőforrások létrehozásának, kezelésének, védelmének és skálázásának ismertetése
+
+## [Relációs adatok használata az Azure-ban](https://docs.microsoft.com/hu-hu/learn/paths/work-with-relational-data-in-azure)
+#### Képzési terv - 3 óra 20 perc - Modulok száma: 4
+Az Azure számos népszerű SQL-alapú adatbázis-megoldást támogat, így az SQL Servert, a PostgreSQL-t és a MySQL-t is. Megtudhatja, hogyan használhatja ezeket a vállalati adatmegoldásokat az Azure-ban az alkalmazás adatainak a felhőben való tárolására és lekérésére.
 
 ## [NoSQL-adatokkal végzett munka az Azure Cosmos DB-ben](https://docs.microsoft.com/hu-hu/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
 #### Képzési terv - 3 óra 43 perc - Modulok száma: 5
@@ -140,6 +172,10 @@ Az Azure használatával különféle összetevőket tartalmazó alkalmazások h
 #### Képzési terv - 3 óra 50 perc - Modulok száma: 5
 Az Azure különféle lehetőségeket kínál az adatok tárolására: strukturálatlanul, archiválással, relációs adatbázisban és egyéb formátumokban is tárolhatja őket. Itt megismerkedhet az Azure-beli tárolás kezelésének alapjaival, a tárfiók létrehozásával, illetve a felhőben tárolni kívánt adatoknak megfelelő modell kiválasztásával.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Képzési terv - 5 óra 43 perc - Modulok száma: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Képzési terv - 5 óra 26 perc - Modulok száma: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -152,52 +188,36 @@ As a functional consultant, you must understand how to prepare your customer's d
 #### Képzési terv - 5 óra 25 perc - Modulok száma: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
 
-## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/hu-hu/learn/paths/responsible-ai-business-principles)
-#### Képzési terv - 1 ó - 1 modul
-It is imperative to reflect on the implications of AI in business. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your organization, as well as resources, best practices, and tools.
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Képzési terv - 9 óra 3 perc - Modulok száma: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
-## [Introduction to AI technology for business leaders](https://docs.microsoft.com/hu-hu/learn/paths/ai-technology-for-business-leaders)
-#### Képzési terv - 1 óra 14 perc - Modulok száma: 2
-In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/hu-hu/learn/paths/customize-your-xamarin-forms-apps)
+#### Képzési terv - 7 óra 25 perc - Modulok száma: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
-## [AI business school for healthcare](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-healthcare)
-#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
-Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/hu-hu/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Képzési terv - 9 óra 34 perc - Modulok száma: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
 
-## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/hu-hu/learn/paths/foster-ai-ready-culture)
-#### Képzési terv - 3 óra 22 perc - Modulok száma: 5
-In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
-
-## [AI business school for retail](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-retail)
-#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
-Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
-
-## [Define an AI strategy to create business value](https://docs.microsoft.com/hu-hu/learn/paths/ai-strategy-for-business-value)
-#### Képzési terv - 3 óra 52 perc - Modulok száma: 5
-In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
-
-## [AI business school for financial services](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-financial-services)
-#### Képzési terv - 7 óra 27 perc - Modulok száma: 10
-Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
-
-## [AI business school for manufacturing](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-manufacturing)
-#### Képzési terv - 7 óra 23 perc - Modulok száma: 10
-In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Képzési terv - 6 óra 6 perc - Modulok száma: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Képzési terv - 5 óra 36 perc - Modulok száma: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+## [Consume data with Power BI](https://docs.microsoft.com/hu-hu/learn/paths/consume-data-with-power-bi)
+#### Képzési terv - 2 óra 35 perc - Modulok száma: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Képzési terv - 5 óra 57 perc - Modulok száma: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Képzési terv - 5 óra 53 perc - Modulok száma: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Képzési terv - 6 óra 23 perc - Modulok száma: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Képzési terv - 5 óra 49 perc - Modulok száma: 4
+#### Képzési terv - 5 óra 56 perc - Modulok száma: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-work-warehouse-management-d365-finance-ops)

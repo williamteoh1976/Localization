@@ -1,8 +1,12 @@
 # Summary of Learning Paths (zh-tw)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [管理 Azure 中的容器](https://docs.microsoft.com/zh-tw/learn/paths/administer-containers-in-azure)
 #### 學習途徑 - 2 小時 23 分鐘 - 單元數：3
 Azure Container Instances 是在 Azure 中執行容器之最快速且簡單的方式。 此學習路徑將指導您如何建立及管理容器，以及如何使用 ACI 為 Kubernetes 提供彈性的規模。
+
+## [現代化工作場所與 Microsoft 365 商務介面](https://docs.microsoft.com/zh-tw/learn/paths/modernize-workplace-with-m365-and-surface)
+#### 學習途徑 - 2 小時 50 分鐘 - 單元數：9
+您會有興趣了解在簡單易懂的方式現代化工作場所增進嗎？ 您要了解 Microsoft 如何協助您建立現代化工作場所增進嗎？這個學習路徑向您介紹現代化工作場所增進表示使用者和 IT，以及 Microsoft 365 如何協助您建立它。
 
 ## [使用基本公式來製作更出色的 PowerApps 畫布應用程式](https://docs.microsoft.com/zh-tw/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 學習途徑 - 2 小時 16 分鐘 - 單元數：3
@@ -32,7 +36,7 @@ Azure 加入了預先定義的虛擬機器服務，適用於執行資料科學�
 #### 學習途徑 - 2 小時 13 分鐘 - 單元數：3
 了解如何使用 Cognitive Language Services 分析文字、判斷含義、偵測成人題材及處理自然語言輸入。
 
-## [使用 Azure Cognitive Speech Services 處理及翻譯語音](https://docs.microsoft.com/zh-tw/learn/paths/translate-speech-with-speech-services)
+## [使用 Azure Cognitive Speech Services 處理及轉譯語音](https://docs.microsoft.com/zh-tw/learn/paths/translate-speech-with-speech-services)
 #### 學習途徑 - 1 小時 34 分鐘 - 單元數：2
 了解如何藉由整合 Cognitive Speech Services，將語音轉換成文字，以及辨識您應用程式中特定的主講人。
 
@@ -40,11 +44,11 @@ Azure 加入了預先定義的虛擬機器服務，適用於執行資料科學�
 #### 學習途徑 - 2 小時 38 分鐘 - 單元數：2
 了解如何整合 QnA Maker 與 LUIS 來建置聊天機器人，以及如何為機器人增加智慧。
 
-## [使用 Microsoft Azure Machine Learning Studio 發佈機器學習實驗](https://docs.microsoft.com/zh-tw/learn/paths/publish-experiment-with-ml-studio)
+## [發佈 Microsoft Azure Machine Learning Studio 的 Machine Learning Experiment](https://docs.microsoft.com/zh-tw/learn/paths/publish-experiment-with-ml-studio)
 #### 學習途徑 - 1 小時 6 分鐘 - 單元數：2
 了解如何在 Azure Machine Learning Studio 中建立帳戶、建立範例實驗，以及如何將實驗發佈及部署為 Web 服務以供取用。
 
-## [使用 Azure Cognitive Vision Services 處理影像並加以分類](https://docs.microsoft.com/zh-tw/learn/paths/classify-images-with-vision-services)
+## [使用 Azure Cognitive Vision Services 處理及分類映像](https://docs.microsoft.com/zh-tw/learn/paths/classify-images-with-vision-services)
 #### 學習途徑 - 2 小時 5 分鐘 - 單元數：3
 Microsoft 認知服務提供預先建置的功能，讓您的應用程式具備執行電腦視覺功能的能力。  了解如何使用 Cognitive Vision Services 偵測臉部、標記和分類影像及辨識物件。
 
@@ -57,7 +61,7 @@ Microsoft 認知服務提供預先建置的功能，讓您的應用程式具備�
 本學習路徑會為您介紹 Microsoft Flow，並教導您如何建立工作流程及管理流程。
 
 ## [在 PowerApps 中建立應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-powerapps)
-#### 學習途徑 - 2 小時 2 分鐘 - 單元數：3
+#### 學習途徑 - 2 小時 16 分鐘 - 單元數：3
 本學習路徑會為您介紹 PowerApps，協助您建立和自訂應用程式，然後加以管理及散發。
 
 ## [在 PowerApps 中建立模型驅動應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-app-models-business-processes)
@@ -89,12 +93,12 @@ Azure SQL 資料倉儲提供可以擴充到 PB 資料的相關巨量資料存放
 探索資料世界的演變，以及雲端技術的問世如何為企業探索提供全新的商機。 您將了解各種可用的資料平台技術，以及資料工程師如何利用此技術為組織獲取利益。
 
 ## [使用 Azure Data Lake Storage Gen2 的大規模資料處理](https://docs.microsoft.com/zh-tw/learn/paths/data-processing-with-azure-adls)
-#### 學習途徑 - 2 小時 5 分鐘 - 單元數：3
+#### 學習途徑 - 2 小時 4 分鐘 - 單元數：3
 在此學習路徑中，您會了解 Azure Data Lake Storage 能更有效地處理巨量資料分析解決方案，及其易於安裝的特性。 您也可以探索其融入一般架構的方法，以及將資料上傳到資料存放區的各種方法。 最後，您可以檢查各式各樣的安全性功能，以確保資料的安全。
 
-## [使用 Azure Databricks 從您的資料擷取知識與見解](https://docs.microsoft.com/zh-tw/learn/paths/data-science)
-#### 學習途徑 - 5 小時 31 分鐘 - 單元數：6
-了解如何使用 Azure Databricks，執行預測與分析的資料科學技術，例如探勘資料分析、模型定型、文字分析與深度學習。
+## [資料科學](https://docs.microsoft.com/zh-tw/learn/paths/data-science)
+#### 學習途徑 - 4 小時 38 分鐘 - 單元數：5
+了解如何使用 Azure Databricks，執行預測與分析的資料科學技術，例如探勘資料分析、模型訓練、文字分析與深度學習。
 
 ## [Azure 基本概念](https://docs.microsoft.com/zh-tw/learn/paths/azure-fundamentals)
 #### 學習途徑 - 9 小時 35 分鐘 - 單元數：12
@@ -113,7 +117,7 @@ NoSQL 資料是有效儲存資訊的方式，這些資訊不符合關聯式 SQL 
 了解如何建立、管理、保護及調整虛擬機器資源。
 
 ## [在 Azure 中使用相關資料](https://docs.microsoft.com/zh-tw/learn/paths/work-with-relational-data-in-azure)
-#### 學習途徑 - 2 小時 41 分鐘 - 單元數：3
+#### 學習途徑 - 3 小時 20 分鐘 - 單元數：4
 Azure 支援數種熱門的 SQL 資料庫解決方案，包括 SQL Server、PostgreSQL 和 MySQL。 了解如何在 Azure 中使用這些企業資料解決方案，在雲端儲存和擷取您應用程式的資料。
 
 ## [使用 Azure App Service 將網站部署至 Azure](https://docs.microsoft.com/zh-tw/learn/paths/deploy-a-website-with-azure-app-service)
@@ -148,6 +152,10 @@ Azure 專為安全性與合規性而設計。 了解如何運用內建服務安�
 #### 學習途徑 - 3 小時 50 分鐘 - 單元數：5
 Azure 提供各種儲存資料的方式：非結構化、封存、關聯式等等。 了解 Azure 儲存體管理的基本概念、如何建立儲存體帳戶，以及如何為您想要在雲端中儲存的資料選擇正確的模型。
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### 學習途徑 - 5 小時 43 分鐘 - 單元數：3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### 學習途徑 - 5 小時 26 分鐘 - 單元數：4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -159,6 +167,18 @@ As a functional consultant, you must understand how to prepare your customer's d
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### 學習途徑 - 5 小時 25 分鐘 - 單元數：5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### 學習途徑 - 9 小時 3 分鐘 - 單元數：6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/zh-tw/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### 學習途徑 - 9 小時 34 分鐘 - 單元數：10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/zh-tw/learn/paths/customize-your-xamarin-forms-apps)
+#### 學習途徑 - 7 小時 25 分鐘 - 單元數：8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
 ## [Introduction to AI technology for business leaders](https://docs.microsoft.com/zh-tw/learn/paths/ai-technology-for-business-leaders)
 #### 學習途徑 - 1 小時 14 分鐘 - 單元數：2
@@ -184,6 +204,10 @@ In this learning path, you will hear from top Microsoft executives about a frame
 #### 學習途徑 - 7 小時 22 分鐘 - 單元數：10
 Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
 
+## [Consume data with Power BI](https://docs.microsoft.com/zh-tw/learn/paths/consume-data-with-power-bi)
+#### 學習途徑 - 2 小時 35 分鐘 - 單元數：2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
+
 ## [AI business school for financial services](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-financial-services)
 #### 學習途徑 - 7 小時 27 分鐘 - 單元數：10
 Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
@@ -193,20 +217,20 @@ Decision-makers in financial services have considerations that are particular to
 It is imperative to reflect on the implications of AI in business. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your organization, as well as resources, best practices, and tools.
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### 學習途徑 - 6 小時 6 分鐘 - 單元數：6
+#### 學習途徑 - 6 小時 23 分鐘 - 單元數：6
 Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### 學習途徑 - 5 小時 36 分鐘 - 單元數：3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### 學習途徑 - 5 小時 57 分鐘 - 單元數：4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### 學習途徑 - 5 小時 49 分鐘 - 單元數：4
+#### 學習途徑 - 5 小時 56 分鐘 - 單元數：4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### 學習途徑 - 5 小時 53 分鐘 - 單元數：3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### 學習途徑 - 4 小時 57 分鐘 - 單元數：2
@@ -235,10 +259,6 @@ Do you want to improve the user's experience in your canvas app? Do you want to 
 ## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/zh-tw/learn/paths/get-started-dynamics-365-portals)
 #### 學習途徑 - 2 小時 32 分鐘 - 單元數：3
 Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
-
-## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/zh-tw/learn/paths/modernize-workplace-with-m365-and-surface)
-#### 學習途徑 - 2 小時 50 分鐘 - 單元數：9
-Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/zh-tw/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### 學習途徑 - 5 小時 31 分鐘 - 單元數：6

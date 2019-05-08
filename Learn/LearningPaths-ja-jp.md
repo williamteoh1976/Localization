@@ -1,5 +1,37 @@
 # Summary of Learning Paths (ja-jp)
-last updated: 2019-04-29
+last updated: 2019-05-08
+## [金融サービスのための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-financial-services)
+#### ラーニング パス - 7 時間 27 分 - モジュール数: 10
+金融サービスの意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を企業で現実化するために役立ちます。 戦略の各構成要素は、金融サービス部門が AI を使ってビジネスの価値を生み出すために役立つため、これを理解することが重要です。
+
+## [小売業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-retail)
+#### ラーニング パス - 7 時間 22 分 - モジュール数: 10
+小売業の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。
+
+## [製造業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-manufacturing)
+#### ラーニング パス - 7 時間 23 分 - モジュール数: 10
+製造業において、意思決定者が AI の真の変革の力を企業で現実化するには、業種独自の考慮事項を考える必要があります。 このラーニング パスは、AI の真の変革の影響を説明する、製造業の企業の意思決定者向けに設計されています。
+
+## [AI 戦略を定義してビジネスの価値を生み出す](https://docs.microsoft.com/ja-jp/learn/paths/ai-strategy-for-business-value)
+#### ラーニング パス - 3 時間 52 分 - モジュール数: 5
+このラーニング パスでは INSEAD で Eli Lilly の戦略とイノベーションの主任教授を務める Peter Zemsky 氏に、AI が Microsoft の顧客やパートナーだけでなく、さまざまな業種や企業でどのようにしてビジネスの価値を生み出すかを伺います。 技術チームがどのようにして AI をビジネス アプリケーションに取り入れるのか、そしてさまざまな業種のビジネス リーダーが自社向けの AI についてどのように考えているのかを説明できるようになります。
+
+## [ビジネス リーダー向けの AI テクノロジの概要](https://docs.microsoft.com/ja-jp/learn/paths/ai-technology-for-business-leaders)
+#### ラーニング パス - 1 時間 14 分 - モジュール数: 2
+このラーニング パスでは、AI の主要な概念の概要が提供されます。 AI が今後どうなるか、また AI を支えるテクノロジが何かを説明できるようになります。 組織で活用できるツール、製品、サービスに、Microsoft が AI の最新の機能強化をどのように取り入れているかを説明できるようになります。
+
+## [ビジネスを担う AI に関する基本原則を特定する](https://docs.microsoft.com/ja-jp/learn/paths/responsible-ai-business-principles)
+#### ラーニング パス - 1 時間 - モジュール数 1
+ビジネスで AI の影響を熟考することは重要です。 このラーニング パスでは、リソース、ベスト プラクティス、ツールだけでなく、組織の原則とガバナンス モデルの設定に役立つガイドラインが提供されます。
+
+## [ヘルスケア業界のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-healthcare)
+#### ラーニング パス - 7 時間 22 分 - モジュール数: 10
+ヘルスケア業界の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。 このラーニング パスは、AI の真の変革の影響を説明する、ヘルスケア業界の企業の意思決定者向けに設計されています。
+
+## [ビジネスで AI に対応するカルチャを促進するための方法を考える](https://docs.microsoft.com/ja-jp/learn/paths/foster-ai-ready-culture)
+#### ラーニング パス - 3 時間 22 分 - モジュール数: 5
+このラーニング パスでは、AI に対応する組織となるために必要な、大きな変更を促進するためのフレームワークについて Microsoft の経営陣トップの話を聞きます。 AI の適切な実装を見極め、関連するシナリオについて説明できるようになります。 金融、マーケティング、販売、顧客サービスの基幹業務に固有で関連するユース ケースについて説明できるようになります。 最後に、組織の成熟度に基づいて、実装する AI ソリューションを識別できるようになります。
+
 ## [Azure でコンテナーを管理する](https://docs.microsoft.com/ja-jp/learn/paths/administer-containers-in-azure)
 #### ラーニング パス - 2 時間 23 分 - モジュール数: 3
 Azure Container Instances は、Azure でコンテナーを実行する方法として最も簡単で迅速な方法です。 このラーニング パスでは、コンテナーを作成して管理する方法、ACI を利用して Kubernetes に柔軟なスケールを与える方法を紹介します。
@@ -36,7 +68,7 @@ Azure には、機械学習モデルの設計とデプロイのためのさま�
 #### ラーニング パス - 2 時間 11 分 - モジュール数: 3
 Python は、機械学習によるデータ分析を行うための主要な言語になっています。 パターンを予測し、傾向を特定するため、Python と Azure Notebooks 上で実行する Jupyter Notebooks で関連付けられているライブラリを活用する方法について説明します。
 
-## [Azure Cognitive Language Services を使用してテキストを評価する](https://docs.microsoft.com/ja-jp/learn/paths/evaluate-text-with-language-services)
+## [Azure Cognitive Language Services を使用してテキストに評価する](https://docs.microsoft.com/ja-jp/learn/paths/evaluate-text-with-language-services)
 #### ラーニング パス - 2 時間 13 分 - モジュール数: 3
 Cognitive Language Services を使用して、テキストの分析、意図の判断、成人向けテーマの検出、自然言語の入力の処理を行う方法について説明します。
 
@@ -77,16 +109,16 @@ Data Engineering のツールと Azure Databricks でサポートされる手法
 このラーニング パスでは、サポート案件の作成、サポート案件解決プロセスの管理、サポート案件階層の使用、類似サポート案件の統合を行うオプションなど、Dynamics 365 for Customer Service のサポート案件管理機能に焦点を当てます。 キューを利用すると、さまざまな種類のサポート案件のキューの定義、キュー アイテムの管理、キュー アイテムの選択と解放、キュー ルーティング規則の設計など、顧客サービス エージェントのサポート案件ワークロードを維持および管理することができます。
 
 ## [PowerApps でキャンバス アプリを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-powerapps)
-#### ラーニング パス - 2 時間 2 分 - モジュール数: 3
+#### ラーニング パス - 2 時間 16 分 - モジュール数: 3
 このラーニング パスでは、PowerApps の概要と、アプリの作成とカスタマイズ、その管理および配布方法について説明します。
 
 ## [Microsoft Dynamics 365 for Customer Service で権利とサービス レベル アグリーメントを使用する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### ラーニング パス - 2 時間 8 分 - モジュール数: 2
 このラーニング パスでは、Microsoft Dynamics 365 for Customer Service での権利とサービス レベル アグリーメントの使用に焦点を当てます。
 
-## [PowerApps のモデル駆動型アプリケーションを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-app-models-business-processes)
+## [PowerApps でモデル駆動型アプリケーションを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-app-models-business-processes)
 #### ラーニング パス - 1 時間 40 分 - モジュール数: 2
-このラーニング パスでは、Common Data Service for Apps を使用するモデル駆動型 PowerApp の作成について説明します。
+このラーニング パスでは、Common Data Service を使用するモデル駆動型 PowerApp の作成について説明します。
 
 ## [Connected Field Service for Dynamics 365 と Azure IoT に関する作業](https://docs.microsoft.com/ja-jp/learn/paths/working-with-connected-field-service-iot)
 #### ラーニング パス - 5 時間 56 分 - モジュール数: 5
@@ -100,8 +132,8 @@ Data Engineering のツールと Azure Databricks でサポートされる手法
 #### ラーニング パス - 3 時間 21 分 - モジュール数: 4
 Azure SQL Data Warehouse では、ペタバイト規模のデータに拡張できるリレーショナル ビッグ データ ストアを提供します。 このラーニング パスでは、Azure SQL Data Warehouse がその超並列処理 (MPP) アーキテクチャによってこのスケールを実現する方法を学習します。 データ ウェアハウスを数分で作成し、使い慣れたのクエリ言語を使用してレポートを作成します。 膨大な量のデータを数分で読み込み、データ ウェアハウスのセキュリティによる保護を確保します。
 
-## [Azure Databricks を使用してデータからナレッジと分析情報を抽出する](https://docs.microsoft.com/ja-jp/learn/paths/data-science)
-#### ラーニング パス - 5 時間 31 分 - モジュール数: 6
+## [データ サイエンス](https://docs.microsoft.com/ja-jp/learn/paths/data-science)
+#### ラーニング パス - 4 時間 38 分 - モジュール数: 5
 Azure Databricks を使用して、探索的データ分析、モデルのトレーニング、テキスト分析、ディープ ラーニングなどの予測と分析データ サイエンス手法を実行する方法について説明します。
 
 ## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
@@ -153,7 +185,7 @@ Azure 内の Web アプリでは、基になるサーバー、ストレージ、
 Web ホスティングの要件が Azure Web アプリ プラットフォームによって直接サポートされない場合は、仮想マシンを活用して、Web サーバーのすべての側面をカスタマイズおよび制御することができます。 Web アプリをホストする Linux および Windows 上の仮想マシンを作成、構成、および管理する方法について説明します。
 
 ## [Azure でリレーショナル データを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-relational-data-in-azure)
-#### ラーニング パス - 2 時間 41 分 - モジュール数: 3
+#### ラーニング パス - 3 時間 20 分 - モジュール数: 4
 Azure では、SQL Server、PostgreSQL、MySQL など、いくつかの一般的な SQL ベースのデータベース ソリューションがサポートされています。 Azure でこれらのエンタープライズ データ ソリューションを使用して、クラウドでアプリのデータを格納および取得する方法について説明します。
 
 ## [サーバーレス アプリケーションの作成](https://docs.microsoft.com/ja-jp/learn/paths/create-serverless-applications)
@@ -176,6 +208,10 @@ Azure では、さまざまなコンポーネント (Web サイトのフロン�
 #### ラーニング パス - 3 時間 50 分 - モジュール数: 5
 Azure には、非構造化、アーカイブ、リレーショナルなど、データを格納するさまざまな方法があります。 Azure でのストレージ管理の基本、ストレージ アカウントの作成方法、およびクラウドに保存するデータに適したモデルの選択方法について説明します。
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### ラーニング パス - 5 時間 43 分 - モジュール数: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### ラーニング パス - 5 時間 25 分 - モジュール数: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -188,56 +224,40 @@ You need to configure the Accounts receivable module in Dynamics 365 for Finance
 #### ラーニング パス - 3 時間 9 分 - モジュール数: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
-## [AI business school for financial services](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-financial-services)
-#### ラーニング パス - 7 時間 27 分 - モジュール数: 10
-Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 9 時間 3 分 - モジュール数: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
-## [AI business school for retail](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-retail)
-#### ラーニング パス - 7 時間 22 分 - モジュール数: 10
-Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/ja-jp/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### ラーニング パス - 9 時間 34 分 - モジュール数: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
 
-## [AI business school for manufacturing](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-manufacturing)
-#### ラーニング パス - 7 時間 23 分 - モジュール数: 10
-In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/ja-jp/learn/paths/customize-your-xamarin-forms-apps)
+#### ラーニング パス - 7 時間 25 分 - モジュール数: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
-## [Define an AI strategy to create business value](https://docs.microsoft.com/ja-jp/learn/paths/ai-strategy-for-business-value)
-#### ラーニング パス - 3 時間 52 分 - モジュール数: 5
-In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
-
-## [Introduction to AI technology for business leaders](https://docs.microsoft.com/ja-jp/learn/paths/ai-technology-for-business-leaders)
-#### ラーニング パス - 1 時間 14 分 - モジュール数: 2
-In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
-
-## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/ja-jp/learn/paths/responsible-ai-business-principles)
-#### ラーニング パス - 1 時間 - モジュール数 1
-It is imperative to reflect on the implications of AI in business. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your organization, as well as resources, best practices, and tools.
-
-## [AI business school for healthcare](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-healthcare)
-#### ラーニング パス - 7 時間 22 分 - モジュール数: 10
-Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
-
-## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/ja-jp/learn/paths/foster-ai-ready-culture)
-#### ラーニング パス - 3 時間 22 分 - モジュール数: 5
-In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 6 時間 6 分 - モジュール数: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 5 時間 36 分 - モジュール数: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+## [Consume data with Power BI](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
+#### ラーニング パス - 2 時間 35 分 - モジュール数: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### ラーニング パス - 5 時間 57 分 - モジュール数: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 5 時間 53 分 - モジュール数: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### ラーニング パス - 4 時間 57 分 - モジュール数: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### ラーニング パス - 5 時間 49 分 - モジュール数: 4
+#### ラーニング パス - 5 時間 56 分 - モジュール数: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-marketing)

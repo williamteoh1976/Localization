@@ -1,5 +1,9 @@
 # Summary of Learning Paths (ru-ru)
-last updated: 2019-04-29
+last updated: 2019-05-08
+## [Узнайте, как стимулировать использование искусственного интеллекта в вашем бизнесе](https://docs.microsoft.com/ru-ru/learn/paths/foster-ai-ready-culture)
+#### Схема обучения - 3 ч 22 мин - Число модулей: 5
+В этой схеме обучения вы узнаете от топ-менеджеров Майкрософт о ключевых изменениях, необходимых для подготовки организации к использованию искусственного интеллекта. Вы сможете идентифицировать успешные реализации решений искусственного интеллекта и формулировать соответствующие сценарии. Вы сможете обсуждать подходящие для конкретной отрасли сценарии использования ИИ в области финансов, маркетинга, продаж и обслуживания клиентов. И наконец, вы сможете определять, какие решения искусственного интеллекта можно реализовать в вашей организации в зависимости от степени ее готовности к использованию ИИ.
+
 ## [Администрирование контейнеров в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-containers-in-azure)
 #### Схема обучения - 2 ч 23 мин - Число модулей: 3
 Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
@@ -60,13 +64,13 @@ Microsoft Cognitive Services предлагает встроенные функ�
 #### Схема обучения - 1 ч 42 мин - Число модулей: 2
 Эта схема обучения познакомит вас с Power BI и научит использовать и создавать отчеты бизнес-аналитики.
 
-## [Создание приложения на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-powerapps)
-#### Схема обучения - 2 ч 2 мин - Число модулей: 3
-В рамках этой схемы обучения вы познакомитесь с PowerApps и научитесь создавать, настраивать, администрировать и распространять приложения.
-
 ## [Создание приложения на основе модели в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-app-models-business-processes)
 #### Схема обучения - 1 ч 40 мин - Число модулей: 2
 Эта схема обучения познакомит вас с созданием приложения PowerApps, управляемого моделью, которое использует Common Data Service.
+
+## [Создание приложения на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-powerapps)
+#### Схема обучения - 2 ч 16 мин - Число модулей: 3
+В рамках этой схемы обучения вы познакомитесь с PowerApps и научитесь создавать, настраивать, администрировать и распространять приложения.
 
 ## [Реализация хранилища данных с Хранилищем данных SQL Azure](https://docs.microsoft.com/ru-ru/learn/paths/implement-sql-data-warehouse)
 #### Схема обучения - 3 ч 21 мин - Число модулей: 4
@@ -121,7 +125,7 @@ Microsoft Cognitive Services предлагает встроенные функ�
 Функции Azure позволяют создавать системы вычислений по запросу, которые управляются событиями и запускаются при наступлении различных внешних событий. Узнайте, как использовать функции для выполнения логики на стороне сервера и создания бессерверных архитектур.
 
 ## [Работа с реляционными данными в Azure](https://docs.microsoft.com/ru-ru/learn/paths/work-with-relational-data-in-azure)
-#### Схема обучения - 2 ч 41 мин - Число модулей: 3
+#### Схема обучения - 3 ч 20 мин - Число модулей: 4
 Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
 
 ## [Защита данных в облаке](https://docs.microsoft.com/ru-ru/learn/paths/secure-your-cloud-data)
@@ -144,6 +148,10 @@ Azure позволяет создавать приложения, состоящ
 #### Схема обучения - 3 ч 50 мин - Число модулей: 5
 Azure предоставляет множество способов для хранения данных: использование хранилища неструктурированных данных, хранилища архивов, реляционного хранилища и другое. Получите основные сведения о том, как управлять хранилищем в Azure, создать учетную запись хранения и выбрать подходящую модель для данных, которые нужно хранить в облаке.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Схема обучения - 5 ч 43 мин - Число модулей: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Схема обучения - 5 ч 26 мин - Число модулей: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -156,13 +164,21 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 #### Схема обучения - 3 ч 9 мин - Число модулей: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Схема обучения - 9 ч 3 мин - Число модулей: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/ru-ru/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Схема обучения - 9 ч 34 мин - Число модулей: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/ru-ru/learn/paths/customize-your-xamarin-forms-apps)
+#### Схема обучения - 7 ч 25 мин - Число модулей: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
 ## [AI business school for financial services](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-financial-services)
 #### Схема обучения - 7 ч 27 мин - Число модулей: 10
 Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
-
-## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/ru-ru/learn/paths/foster-ai-ready-culture)
-#### Схема обучения - 3 ч 22 мин - Число модулей: 5
-In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
 
 ## [AI business school for manufacturing](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-manufacturing)
 #### Схема обучения - 7 ч 23 мин - Число модулей: 10
@@ -176,6 +192,10 @@ Retail industry decision-makers have considerations that are particular to their
 #### Схема обучения - 3 ч 52 мин - Число модулей: 5
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
 
+## [Consume data with Power BI](https://docs.microsoft.com/ru-ru/learn/paths/consume-data-with-power-bi)
+#### Схема обучения - 2 ч 35 мин - Число модулей: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
+
 ## [Introduction to AI technology for business leaders](https://docs.microsoft.com/ru-ru/learn/paths/ai-technology-for-business-leaders)
 #### Схема обучения - 1 ч 14 мин - Число модулей: 2
 In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
@@ -188,14 +208,6 @@ It is imperative to reflect on the implications of AI in business. In this learn
 #### Схема обучения - 7 ч 22 мин - Число модулей: 10
 Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Схема обучения - 6 ч 6 мин - Число модулей: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Схема обучения - 5 ч 36 мин - Число модулей: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Схема обучения - 5 ч 57 мин - Число модулей: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
@@ -204,8 +216,16 @@ The process of finding and working with vendors, purchasing products, and ensuri
 #### Схема обучения - 4 ч 57 мин - Число модулей: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Схема обучения - 5 ч 53 мин - Число модулей: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Схема обучения - 6 ч 23 мин - Число модулей: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Схема обучения - 5 ч 49 мин - Число модулей: 4
+#### Схема обучения - 5 ч 56 мин - Число модулей: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-marketing)

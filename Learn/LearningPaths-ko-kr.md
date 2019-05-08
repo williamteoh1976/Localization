@@ -1,8 +1,12 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
 #### 학습 경로 - 2시간 23분 - 모듈 수: 3
 Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
+
+## [비즈니스를 위해 Microsoft 365 및 Surface를 사용 하 여 회사 Modernize](https://docs.microsoft.com/ko-kr/learn/paths/modernize-workplace-with-m365-and-surface)
+#### 학습 경로 - 2시간 50분 - 모듈 수: 9
+이해 하기 쉬운 방법으로 최신 작업 환경에 대해 자세히 알아보시겠습니까? Microsoft가 현대 회사를 만드는 데 도움을 주는 방법을 확인 하 시겠습니까?이 학습 경로는 사용자 및 it에 게 유용한 정보를 제공 하 고 Microsoft 365에서이를 만드는 데 도움을 주는 방법을 소개 합니다.
 
 ## [기본 수식을 사용하여 PowerApps 캔버스 앱 개선하기](https://docs.microsoft.com/ko-kr/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 학습 경로 - 2시간 16분 - 모듈 수: 3
@@ -65,7 +69,7 @@ Azure Databricks에서 지원하는 데이터 엔지니어링 도구와 기술�
 이 학습 경로에서는 Power BI를 소개하고, 비즈니스 인텔리전스 보고서를 사용하고 빌드하는 방법을 교육합니다.
 
 ## [PowerApps에서 캔버스 앱 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-powerapps)
-#### 학습 경로 - 2시간 2분 - 모듈 수: 3
+#### 학습 경로 - 2시간 16분 - 모듈 수: 3
 이 학습 경로는 PowerApps를 소개하고, 앱을 만들고 사용자 지정한 다음, 관리하고 배포하는 데 도움을 줍니다.
 
 ## [Microsoft Azure의 비즈니스 가치 알아보기](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-azure)
@@ -76,8 +80,8 @@ Azure Databricks에서 지원하는 데이터 엔지니어링 도구와 기술�
 #### 학습 경로 - 1시간 14분 - 모듈 수: 2
 이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
 
-## [Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
-#### 학습 경로 - 5시간 31분 - 모듈 수: 6
+## [데이터 과학](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
+#### 학습 경로 - 4시간 38분 - 모듈 수: 5
 Azure Databricks를 사용하여 탐색 데이터 분석, 모델 학습, 텍스트 분석 및 딥 러닝과 같은 예측 및 분석 데이터 과학 기술을 수행하는 방법에 대해 알아보세요.
 
 ## [Azure SQL Data Warehouse로 데이터 웨어하우스 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-sql-data-warehouse)
@@ -117,7 +121,7 @@ Azure 명령줄 및 웹 포털을 사용하여 클라우드 기반 리소스를 
 NoSQL 데이터는 관계형 SQL 데이터베이스의 요구 사항에 매핑되지 않는 정보를 저장하는 효율적인 방법입니다. Azure Portal, Visual Studio Code용 Azure Cosmos DB 확장 및 Azure Cosmos DB .NET Core SDK를 사용하여 원하는 위치에서 NoSQL 데이터로 작업하고, 전세계에 어디서든 사용자에게 고가용성을 제공하는 방법을 알아봅니다.
 
 ## [Azure에서 관계형 데이터 작업](https://docs.microsoft.com/ko-kr/learn/paths/work-with-relational-data-in-azure)
-#### 학습 경로 - 2시간 41분 - 모듈 수: 3
+#### 학습 경로 - 3시간 20분 - 모듈 수: 4
 Azure는 SQL Server, PostgreSQL 및 MySQL을 포함한 여러 가지 인기 있는 SQL 기반 데이터베이스 솔루션을 지원합니다. Azure에서 이러한 엔터프라이즈 데이터 솔루션을 사용하여 클라우드에 앱 데이터를 저장하고 검색하는 방법을 알아봅니다.
 
 ## [Azure에서 인프라 리소스 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-infrastructure-resources-in-azure)
@@ -148,6 +152,10 @@ Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔�
 #### 학습 경로 - 3시간 50분 - 모듈 수: 5
 Azure는 구조화되지 않은 데이터, 보관 데이터, 관계형 데이터 등의 데이터를 저장하는 다양한 방법을 제공합니다. Azure에서 스토리지 관리의 기본 사항, 스토리지 계정을 만드는 방법 및 클라우드에 저장할 데이터에 적합한 모델을 선택하는 방법을 알아봅니다.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### 학습 경로 - 5시간 43분 - 모듈 수: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### 학습 경로 - 5시간 25분 - 모듈 수: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -160,9 +168,25 @@ As a functional consultant, you must understand how to prepare your customer's d
 #### 학습 경로 - 5시간 26분 - 모듈 수: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 9시간 3분 - 모듈 수: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/ko-kr/learn/paths/customize-your-xamarin-forms-apps)
+#### 학습 경로 - 7시간 25분 - 모듈 수: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/ko-kr/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### 학습 경로 - 9시간 34분 - 모듈 수: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
 ## [AI business school for financial services](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-financial-services)
 #### 학습 경로 - 7시간 27분 - 모듈 수: 10
 Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
+
+## [Consume data with Power BI](https://docs.microsoft.com/ko-kr/learn/paths/consume-data-with-power-bi)
+#### 학습 경로 - 2시간 35분 - 모듈 수: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [AI business school for retail](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-retail)
 #### 학습 경로 - 7시간 22분 - 모듈 수: 10
@@ -201,16 +225,16 @@ Warehouse management in Dynamics 365 for Finance and Operations helps optimize a
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### 학습 경로 - 5시간 49분 - 모듈 수: 4
+#### 학습 경로 - 5시간 56분 - 모듈 수: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### 학습 경로 - 6시간 6분 - 모듈 수: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### 학습 경로 - 5시간 36분 - 모듈 수: 3
+#### 학습 경로 - 5시간 53분 - 모듈 수: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 6시간 23분 - 모듈 수: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-marketing)
 #### 학습 경로 - 1시간 20분 - 모듈 수: 2
@@ -235,10 +259,6 @@ Do you want to improve the user's experience in your canvas app? Do you want to 
 ## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ko-kr/learn/paths/get-started-dynamics-365-portals)
 #### 학습 경로 - 2시간 32분 - 모듈 수: 3
 Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
-
-## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/ko-kr/learn/paths/modernize-workplace-with-m365-and-surface)
-#### 학습 경로 - 2시간 50분 - 모듈 수: 9
-Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### 학습 경로 - 5시간 31분 - 모듈 수: 6

@@ -1,8 +1,12 @@
 # Summary of Learning Paths (zh-cn)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [在 Azure 中管理容器](https://docs.microsoft.com/zh-cn/learn/paths/administer-containers-in-azure)
 #### 学习路径 - 2 小时 23 分钟 - 模块数：3 个
 要在 Azure 中运行容器，最迅速、最简单的方式是使用 Azure 容器实例。 本学习路径介绍了如何创建和管理容器，还介绍了如何使用 ACI 为 Kubernetes 提供弹性缩放功能。
+
+## [使用 Microsoft 365 和 Surface for Business 现代化你的工作场所](https://docs.microsoft.com/zh-cn/learn/paths/modernize-workplace-with-m365-and-surface)
+#### 学习路径 - 2 小时 50 分钟 - 模块数：9 个
+您是否有兴趣以易于理解的方式了解新式工作区？ 您是否希望了解 Microsoft 如何帮助您创建新式工作区？本学习途径向您介绍新式工作区对用户和 IT 的意义, 以及 Microsoft 365 如何帮助您创建它。
 
 ## [使用基本公式生成 PowerApps 画布应用](https://docs.microsoft.com/zh-cn/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 学习路径 - 2 小时 16 分钟 - 模块数：3 个
@@ -61,7 +65,7 @@ Microsoft 认知服务提供预建的功能，以支持应用程序中的计算�
 此学习路径介绍了 Power BI，并教授如何使用和生成商业智能报表。
 
 ## [在 PowerApps 中创建画布应用](https://docs.microsoft.com/zh-cn/learn/paths/create-powerapps)
-#### 学习路径 - 2 小时 2 分钟 - 模块数：3 个
+#### 学习路径 - 2 小时 16 分钟 - 模块数：3 个
 本学习路径介绍了 PowerApps，有助于你创建和自定义应用，以及随后管理和分发应用。
 
 ## [在 PowerApps 中创建模型驱动应用程序](https://docs.microsoft.com/zh-cn/learn/paths/create-app-models-business-processes)
@@ -124,10 +128,6 @@ Azure SQL 数据仓库提供关系型大数据存储，可扩展到上 PB 数据
 #### 学习路径 - 4 小时 15 分钟 - 模块数：5 个
 了解如何使用 Azure 命令行和 Web 门户创建、管理和控制基于云的资源。
 
-## [在 Azure 中使用关系数据](https://docs.microsoft.com/zh-cn/learn/paths/work-with-relational-data-in-azure)
-#### 学习路径 - 2 小时 41 分钟 - 模块数：3 个
-Azure 支持很多基于 SQL 的常用数据库解决方案，例如 SQL Server、PostgreSQL 和 MySQL 等等。 了解如何在 Azure 中使用这些企业级数据解决方案在云端存储和检索你的应用的数据。
-
 ## [将服务连接在一起](https://docs.microsoft.com/zh-cn/learn/paths/connect-your-services-together)
 #### 学习路径 - 3 小时 31 分钟 - 模块数：4 个
 利用 Azure，可创建由各种组件组成的应用程序：网站前端、后端服务和执行按需计算服务的触发器函数。 Azure 还包括各种通信策略，实现了各组件之间的数据传递。 了解如何利用这些通信服务，从可测试组件中创建可缩放的高效解决方案。
@@ -135,6 +135,10 @@ Azure 支持很多基于 SQL 的常用数据库解决方案，例如 SQL Server�
 ## [使用 Azure 虚拟机部署网站](https://docs.microsoft.com/zh-cn/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### 学习路径 - 4 小时 18 分钟 - 模块数：4 个
 如果 Azure Web 应用平台不直接支持你的 Web 托管需求，你可使用虚拟机来自定义和控制 Web 服务器的各个方面。 了解如何在托管 Web 应用的 Linux 和 Windows 上创建、配置和管理虚拟机。
+
+## [在 Azure 中使用关系数据](https://docs.microsoft.com/zh-cn/learn/paths/work-with-relational-data-in-azure)
+#### 学习路径 - 3 小时 20 分钟 - 模块数：4 个
+Azure 支持很多基于 SQL 的常用数据库解决方案，例如 SQL Server、PostgreSQL 和 MySQL 等等。 了解如何在 Azure 中使用这些企业级数据解决方案在云端存储和检索你的应用的数据。
 
 ## [创建无服务器应用程序](https://docs.microsoft.com/zh-cn/learn/paths/create-serverless-applications)
 #### 学习路径 - 3 小时 9 分钟 - 模块数：3 个
@@ -148,6 +152,10 @@ Azure 专为实现安全性和符合性而设计。 了解如何利用内置服�
 #### 学习路径 - 3 小时 50 分钟 - 模块数：5 个
 Azure 提供了多种存储数据的方法，包括：非结构化存储、存档存储、关系存储等。 了解 Azure 中的存储管理基础知识，了解如何创建存储帐户以及如何为要存储在云中的数据选择正确的模型。
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### 学习路径 - 5 小时 43 分钟 - 模块数：3 个
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### 学习路径 - 5 小时 25 分钟 - 模块数：5 个
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -160,6 +168,18 @@ You need to configure the Accounts receivable module in Dynamics 365 for Finance
 #### 学习路径 - 3 小时 9 分钟 - 模块数：4 个
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 9 小时 3 分钟 - 模块数：6 个
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/zh-cn/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### 学习路径 - 9 小时 34 分钟 - 模块数：10 个
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/zh-cn/learn/paths/customize-your-xamarin-forms-apps)
+#### 学习路径 - 7 小时 25 分钟 - 模块数：8 个
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
 ## [Define an AI strategy to create business value](https://docs.microsoft.com/zh-cn/learn/paths/ai-strategy-for-business-value)
 #### 学习路径 - 3 小时 52 分钟 - 模块数：5 个
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
@@ -171,6 +191,10 @@ In this learning path, you will hear from top Microsoft executives about a frame
 ## [AI business school for manufacturing](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-manufacturing)
 #### 学习路径 - 7 小时 23 分钟 - 模块数：10 个
 In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+
+## [Consume data with Power BI](https://docs.microsoft.com/zh-cn/learn/paths/consume-data-with-power-bi)
+#### 学习路径 - 2 小时 35 分钟 - 模块数：2 个
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Introduction to AI technology for business leaders](https://docs.microsoft.com/zh-cn/learn/paths/ai-technology-for-business-leaders)
 #### 学习路径 - 1 小时 14 分钟 - 模块数：2 个
@@ -196,20 +220,20 @@ Decision-makers in financial services have considerations that are particular to
 #### 学习路径 - 4 小时 57 分钟 - 模块数：2 个
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### 学习路径 - 6 小时 6 分钟 - 模块数：6 个
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### 学习路径 - 5 小时 36 分钟 - 模块数：3 个
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### 学习路径 - 5 小时 57 分钟 - 模块数：4 个
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 5 小时 53 分钟 - 模块数：3 个
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 6 小时 23 分钟 - 模块数：6 个
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### 学习路径 - 5 小时 49 分钟 - 模块数：4 个
+#### 学习路径 - 5 小时 56 分钟 - 模块数：4 个
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/zh-cn/learn/paths/get-started-with-marketing)
@@ -235,10 +259,6 @@ Do you want to improve the user's experience in your canvas app? Do you want to 
 ## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/zh-cn/learn/paths/get-started-dynamics-365-portals)
 #### 学习路径 - 2 小时 32 分钟 - 模块数：3 个
 Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
-
-## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/zh-cn/learn/paths/modernize-workplace-with-m365-and-surface)
-#### 学习路径 - 2 小时 50 分钟 - 模块数：9 个
-Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/zh-cn/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### 学习路径 - 5 小时 31 分钟 - 模块数：6 个

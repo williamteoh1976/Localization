@@ -1,5 +1,5 @@
 # Summary of Learning Paths (sv-se)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
 #### Inlärningsväg - 2 h 23 min - 3 moduler
 Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
@@ -68,13 +68,13 @@ Den här utbildningsvägen fokuserar på arbete kunskapshanteringslösningar i M
 #### Inlärningsväg - 2 h 57 min - 3 moduler
 Denna utbildningsväg fokuserar på ärendehanteringsfunktioner hos Dynamics 365 for Customer Service inklusive alternativ för att skapa ärenden, hantera ärendelösningsprocessen, arbeta med ärendehierarkier och slå samman liknande ärenden. Köer kan utnyttjas för att upprätthålla och hantera den totala mängden ärenden för kundtjänstagenter för att inkludera definierande köer för olika typer av ärenden, hantera köartiklar, plocka och släppa köobjekt och utforma ködirigeringsregler.
 
-## [Skapa en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-powerapps)
-#### Inlärningsväg - 2 h 2 min - 3 moduler
-Den här utbildningsvägen ger en introduktion till PowerApps och beskriver hur du skapar och anpassar en app och hur du sedan hanterar och distribuerar den.
-
 ## [Skapa och använda analysrapporter med Power BI](https://docs.microsoft.com/sv-se/learn/paths/create-use-analytics-reports-power-bi)
 #### Inlärningsväg - 1 h 42 min - 2 moduler
 Den här utbildningsvägen ger en introduktion till Power BI och du lär dig att använda och skapa Business Intelligence-rapporter.
+
+## [Skapa en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-powerapps)
+#### Inlärningsväg - 2 h 16 min - 3 moduler
+Den här utbildningsvägen ger en introduktion till PowerApps och beskriver hur du skapar och anpassar en app och hur du sedan hanterar och distribuerar den.
 
 ## [Arbeta med berättiganden och serviceavtal i Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### Inlärningsväg - 2 h 8 min - 2 moduler
@@ -92,13 +92,13 @@ Lär dig mer om begrepp och strömmande data och hur detta kan användas för Az
 #### Inlärningsväg - 2 h 5 min - 3 moduler
 I den här utbildningsvägen upptäcker du hur Azure Data Lake Storage kan effektivisera bearbetningen av analytiska lösningar för stordata och hur enkelt det är att konfigurera. Du kommer även att utforska hur det passar in i vanliga arkitekturer och de olika metoderna för att ladda upp data till datalagret. Slutligen kommer du att utforska en mängd säkerhetsfunktioner som ser till att dina data är säkra.
 
-## [Implementera ett informationslager med Azure SQL Data Warehouse](https://docs.microsoft.com/sv-se/learn/paths/implement-sql-data-warehouse)
-#### Inlärningsväg - 3 h 21 min - 4 moduler
-Azure SQL Data Warehouse ger ett stort relationsdatalager för stordata, som kan skalas upp till petabyte-storlek. I den här utbildningsvägen lär du dig hur Azure SQL Data Warehouse kan skalas upp till den här storleken tack vare arkitekturen med massiv parallellbearbetning (MPP). Skapa ett informationslager på bara några minuter och skapa rapporter med frågespråk du redan kan. Läs in enorma mängder data på bara några minuter och se till att ditt informationslager är säkert.
-
 ## [Azure för datatekniker](https://docs.microsoft.com/sv-se/learn/paths/azure-for-the-data-engineer)
 #### Inlärningsväg - 1 h 51 min - 3 moduler
 Utforska hur datavärlden har utvecklats och hur de nya molnteknikerna erbjuder nya möjligheter som företag kan utforska. Du får lära dig de olika plattformsteknikerna för data som finns tillgängliga och hur en datatekniker kan dra nytta av den här tekniken för en organisation.
+
+## [Implementera ett informationslager med Azure SQL Data Warehouse](https://docs.microsoft.com/sv-se/learn/paths/implement-sql-data-warehouse)
+#### Inlärningsväg - 3 h 21 min - 4 moduler
+Azure SQL Data Warehouse ger ett stort relationsdatalager för stordata, som kan skalas upp till petabyte-storlek. I den här utbildningsvägen lär du dig hur Azure SQL Data Warehouse kan skalas upp till den här storleken tack vare arkitekturen med massiv parallellbearbetning (MPP). Skapa ett informationslager på bara några minuter och skapa rapporter med frågespråk du redan kan. Läs in enorma mängder data på bara några minuter och se till att ditt informationslager är säkert.
 
 ## [Extrahera kunskap och insikter från dina data med Azure Databricks](https://docs.microsoft.com/sv-se/learn/paths/data-science)
 #### Inlärningsväg - 5 h 31 min - 6 moduler
@@ -116,13 +116,13 @@ Lär dig hur du använder Azure Databricks för att utnyttja förutsägande och 
 #### Inlärningsväg - 2 h 52 min - 3 moduler
 Den här utbildningsvägen presenterar grunderna i Kundröst (VoC) för Dynamics 365.
 
-## [Arbeta med relationsdata i Azure](https://docs.microsoft.com/sv-se/learn/paths/work-with-relational-data-in-azure)
-#### Inlärningsväg - 2 h 41 min - 3 moduler
-Azure har stöd för flera populära SQL-baserade databaslösningar, inklusive SQL Server, PostgreSQL och MySQL. Lär dig att använda dessa lösningar för företagsdata i Azure till att lagra och hämta appens data i molnet.
-
 ## [Distribuera en webbplats med virtuella Azure-datorer](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### Inlärningsväg - 4 h 18 min - 4 moduler
 Om dina värdbaserade krav inte stöds fullt ut av plattformen för Azures webbappar kan du använda virtuella datorer till att anpassa och styra alla delar av webbservern. Läs mer om att skapa, konfigurera och hantera virtuella datorer i Linux och Windows som är värdar för webbappar.
+
+## [Arbeta med relationsdata i Azure](https://docs.microsoft.com/sv-se/learn/paths/work-with-relational-data-in-azure)
+#### Inlärningsväg - 3 h 20 min - 4 moduler
+Azure har stöd för flera populära SQL-baserade databaslösningar, inklusive SQL Server, PostgreSQL och MySQL. Lär dig att använda dessa lösningar för företagsdata i Azure till att lagra och hämta appens data i molnet.
 
 ## [Skydda dina molndata](https://docs.microsoft.com/sv-se/learn/paths/secure-your-cloud-data)
 #### Inlärningsväg - 6 h 45 min - 8 moduler
@@ -160,6 +160,10 @@ Med webbappar i Azure kan du publicera och hantera din webbplats på ett enkelt 
 #### Inlärningsväg - 3 h 50 min - 5 moduler
 Azure erbjuder en mängd olika sätt att lagra data: ostrukturerat, arkivering, relationellt och mer. Lär dig grunderna för lagringshantering i Azure, hur du skapar ett lagringskonto och hur du väljer rätt modell för de data du vill lagra i molnet.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Inlärningsväg - 5 h 43 min - 3 moduler
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Inlärningsväg - 5 h 26 min - 4 moduler
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -171,6 +175,18 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 ## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
 #### Inlärningsväg - 3 h 9 min - 4 moduler
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Inlärningsväg - 9 h 3 min - 6 moduler
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/sv-se/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Inlärningsväg - 9 h 34 min - 10 moduler
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/sv-se/learn/paths/customize-your-xamarin-forms-apps)
+#### Inlärningsväg - 7 h 25 min - 8 moduler
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
 ## [AI business school for healthcare](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-healthcare)
 #### Inlärningsväg - 7 h 22 min - 10 moduler
@@ -200,6 +216,10 @@ Retail industry decision-makers have considerations that are particular to their
 #### Inlärningsväg - 3 h 22 min - 5 moduler
 In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
 
+## [Consume data with Power BI](https://docs.microsoft.com/sv-se/learn/paths/consume-data-with-power-bi)
+#### Inlärningsväg - 2 h 35 min - 2 moduler
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
+
 ## [Define an AI strategy to create business value](https://docs.microsoft.com/sv-se/learn/paths/ai-strategy-for-business-value)
 #### Inlärningsväg - 3 h 52 min - 5 moduler
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
@@ -212,17 +232,17 @@ The process of finding and working with vendors, purchasing products, and ensuri
 #### Inlärningsväg - 4 h 57 min - 2 moduler
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Inlärningsväg - 6 h 6 min - 6 moduler
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+#### Inlärningsväg - 5 h 56 min - 4 moduler
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Inlärningsväg - 5 h 36 min - 3 moduler
+#### Inlärningsväg - 5 h 53 min - 3 moduler
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Inlärningsväg - 5 h 49 min - 4 moduler
-Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Inlärningsväg - 6 h 23 min - 6 moduler
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/sv-se/learn/paths/get-started-with-marketing)
 #### Inlärningsväg - 1 h 20 min - 2 moduler

@@ -1,5 +1,5 @@
 # Summary of Learning Paths (tr-tr)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
 #### Öğrenme Yolu - 2 sa 23 dk - Modül sayısı: 3
 Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
@@ -57,12 +57,12 @@ Azure Databricks’in desteklediği veri mühendisliği araçlarını ve teknikl
 Bu öğrenme yolunda Microsoft Flow tanıtılır, iş akışlarını oluşturma ve yönetme konusunda bilgi verilir.
 
 ## [PowerApps'te tuval uygulaması oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-powerapps)
-#### Öğrenme Yolu - 2 sa 2 dk - Modül sayısı: 3
+#### Öğrenme Yolu - 2 sa 16 dk - Modül sayısı: 3
 Bu öğrenme yolu PowerApps'i tanıtır, uygulama oluşturmanıza, özelleştirmenize, yönetmenize ve dağıtmanıza yardımcı olur.
 
 ## [PowerApps’te model tabanlı uygulama oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-app-models-business-processes)
 #### Öğrenme Yolu - 1 sa 40 dk - Modül sayısı: 2
-Bu öğrenme yolunda, Uygulamalar için Common Data Service kullanan model tabanlı bir PowerApp oluşturma işlemi tanıtılır.
+Bu öğrenme yolunda, Common Data Service kullanan model tabanlı bir PowerApp oluşturma işlemi tanıtılır.
 
 ## [Power BI ile analiz raporlarını oluşturma ve kullanma](https://docs.microsoft.com/tr-tr/learn/paths/create-use-analytics-reports-power-bi)
 #### Öğrenme Yolu - 1 sa 42 dk - Modül sayısı: 2
@@ -84,13 +84,13 @@ Bu öğrenme yolunda, Azure Data Lake Storage'ın Büyük Veri analiz çözümle
 #### Öğrenme Yolu - 5 sa 31 dk - Modül sayısı: 6
 Keşif verileri analizi, model eğitimi, metin analizi ve derin öğrenme gibi tahmine dayalı ve analitik Veri Bilimi tekniklerini uygulamak için Azure Databricks’i nasıl kullanabileceğinizi öğrenin.
 
-## [Veri Mühendisi için Azure](https://docs.microsoft.com/tr-tr/learn/paths/azure-for-the-data-engineer)
-#### Öğrenme Yolu - 1 sa 51 dk - Modül sayısı: 3
-Veri dünyasının nasıl bir evrim geçirdiğini ve bulut teknolojilerinin ortaya çıkmasıyla işletmelere nasıl keşfedilecek yeni fırsatlar sağlandığını inceleyin. Sağlanan çeşitli veri platformu teknolojilerini ve bir Veri Mühendisinin bu teknolojilerden yararlanarak kuruluşa nasıl avantaj sağlayabileceğini öğreneceksiniz.
-
 ## [Microsoft Azure'ın iş değerini gösterme](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-azure)
 #### Öğrenme Yolu - 3 sa 47 dk - Modül sayısı: 7
 Kolay anlaşılır bir yolla bulut hakkında bilgi edinmek ilginizi çeker mi? Yoksa bulut teknolojisini öğrenmeye nereden başlayacağınızdan emin değil misiniz? Bu öğrenme deneyiminde başlangıç olarak dijital dönüşümle ve bulutun gücüyle işlerinizde nasıl dönüşüm yaratabileceğinizin gösterildiği bir yolculuğa çıkacaksınız.
+
+## [Veri Mühendisi için Azure](https://docs.microsoft.com/tr-tr/learn/paths/azure-for-the-data-engineer)
+#### Öğrenme Yolu - 1 sa 51 dk - Modül sayısı: 3
+Veri dünyasının nasıl bir evrim geçirdiğini ve bulut teknolojilerinin ortaya çıkmasıyla işletmelere nasıl keşfedilecek yeni fırsatlar sağlandığını inceleyin. Sağlanan çeşitli veri platformu teknolojilerini ve bir Veri Mühendisinin bu teknolojilerden yararlanarak kuruluşa nasıl avantaj sağlayabileceğini öğreneceksiniz.
 
 ## [Azure ile ilgili temel bilgiler](https://docs.microsoft.com/tr-tr/learn/paths/azure-fundamentals)
 #### Öğrenme Yolu - 9 sa 35 dk - Modül sayısı: 12
@@ -108,13 +108,13 @@ Her iyi mimaride bulunan temel ilkeleri inceleyerek Azure’da güvenli, ölçek
 #### Öğrenme Yolu - 3 sa 9 dk - Modül sayısı: 3
 Azure İşlevleri çeşitli dış olaylar tarafından tetiklenebilen olay temelli, isteğe bağlı hesaplama sunan sistemlerin oluşturulmasına olanak sağlar. Sunucu tarafı mantığını yürütmek ve sunucusuz mimari oluşturmak için işlevleri kullanmayı öğrenin.
 
-## [Azure'da ilişkisel verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-relational-data-in-azure)
-#### Öğrenme Yolu - 2 sa 41 dk - Modül sayısı: 3
-Azure SQL Server, PostgreSQL ve MySQL dahil çeşitli popüler SQL tabanlı veritabanı çözümlerini destekler. Uygulamanızın verilerini bulutta depolamak ve buluttan almak için Azure’da bu kurumsal veri çözümlerini kullanmayı öğrenin.
-
 ## [Azure’da altyapı kaynaklarını yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-infrastructure-resources-in-azure)
 #### Öğrenme Yolu - 9 sa 34 dk - Modül sayısı: 10
 Sanal makine kaynaklarını oluşturmayı, yönetmeyi, güvenli hale getirmeyi ve ölçeklendirmeyi öğrenin.
+
+## [Azure'da ilişkisel verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-relational-data-in-azure)
+#### Öğrenme Yolu - 3 sa 20 dk - Modül sayısı: 4
+Azure SQL Server, PostgreSQL ve MySQL dahil çeşitli popüler SQL tabanlı veritabanı çözümlerini destekler. Uygulamanızın verilerini bulutta depolamak ve buluttan almak için Azure’da bu kurumsal veri çözümlerini kullanmayı öğrenin.
 
 ## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
 #### Öğrenme Yolu - 4 sa 30 dk - Modül sayısı: 5
@@ -140,6 +140,10 @@ NoSQL verileri, ilişkisel SQL veritabanının gereksinimlerine uymayan bilgiler
 #### Öğrenme Yolu - 3 sa 50 dk - Modül sayısı: 5
 Azure, verileri depolamak için yapılandırılmamış, arşivleme, ilişkisel ve daha fazlasını içeren çeşitli yollar sağlar. Azure’da depolama yönetimi, Depolaa Hesabı oluşturma ve bulutta depolamak istediğiniz veriler için doğru modeli seçme hakkındaki temel bilgileri öğrenin.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Öğrenme Yolu - 5 sa 43 dk - Modül sayısı: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
 #### Öğrenme Yolu - 3 sa 9 dk - Modül sayısı: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
@@ -151,6 +155,18 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Öğrenme Yolu - 5 sa 26 dk - Modül sayısı: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Öğrenme Yolu - 9 sa 3 dk - Modül sayısı: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/tr-tr/learn/paths/customize-your-xamarin-forms-apps)
+#### Öğrenme Yolu - 7 sa 25 dk - Modül sayısı: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/tr-tr/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Öğrenme Yolu - 9 sa 34 dk - Modül sayısı: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
 
 ## [AI business school for manufacturing](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-manufacturing)
 #### Öğrenme Yolu - 7 sa 23 dk - Modül sayısı: 10
@@ -184,20 +200,24 @@ In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chair
 #### Öğrenme Yolu - 1 sa 14 dk - Modül sayısı: 2
 In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
 
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Öğrenme Yolu - 5 sa 36 dk - Modül sayısı: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+## [Consume data with Power BI](https://docs.microsoft.com/tr-tr/learn/paths/consume-data-with-power-bi)
+#### Öğrenme Yolu - 2 sa 35 dk - Modül sayısı: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Öğrenme Yolu - 5 sa 57 dk - Modül sayısı: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Öğrenme Yolu - 5 sa 53 dk - Modül sayısı: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Öğrenme Yolu - 6 sa 6 dk - Modül sayısı: 6
+#### Öğrenme Yolu - 6 sa 23 dk - Modül sayısı: 6
 Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Öğrenme Yolu - 5 sa 49 dk - Modül sayısı: 4
+#### Öğrenme Yolu - 5 sa 56 dk - Modül sayısı: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-work-warehouse-management-d365-finance-ops)

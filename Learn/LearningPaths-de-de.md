@@ -1,5 +1,5 @@
 # Summary of Learning Paths (de-de)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Verwalten von Containern in Azure](https://docs.microsoft.com/de-de/learn/paths/administer-containers-in-azure)
 #### Lernpfad - 2 Std. 23 Min. - Anzahl der Module: 3
 Azure-Containerinstanzen sind die schnellste und einfachste Möglichkeit zum Ausführen von Containern in Azure. Dieser Lernpfad vermittelt Ihnen das Erstellen und Verwalten Ihrer Container, und wie ACI (Azure Container Instances, Azure-Containerinstanzen) verwendet werden kann, um elastische Skalierung für Kubernetes bereitzustellen.
@@ -68,13 +68,13 @@ Dieser Lernpfad behandelt die Anfrageverwaltungsfunktionen von Dynamics 365 for 
 #### Lernpfad - 2 Std. 8 Min. - Anzahl der Module: 2
 Dieser Lernpfad behandelt das Arbeiten mit Berechtigungen und Vereinbarungen zum Servicelevel in Microsoft Dynamics 365 for Customer Service.
 
-## [Erstellen einer Canvas-App in PowerApps](https://docs.microsoft.com/de-de/learn/paths/create-powerapps)
-#### Lernpfad - 2 Std. 2 Min. - Anzahl der Module: 3
-In diesem Lernpfad lernen Sie die Grundlagen von PowerApps kennen, und Sie erfahren, wie Sie Apps erstellen, anpassen, verwalten und verteilen können.
-
 ## [Erstellen einer modellgesteuerten Anwendung in PowerApps](https://docs.microsoft.com/de-de/learn/paths/create-app-models-business-processes)
 #### Lernpfad - 1 Std. 40 Min. - Anzahl der Module: 2
 In diesem Lernpfad werden Sie in das Erstellen einer modellgesteuerten PowerApp eingeführt, die Common Data Service verwendet.
+
+## [Erstellen einer Canvas-App in PowerApps](https://docs.microsoft.com/de-de/learn/paths/create-powerapps)
+#### Lernpfad - 2 Std. 16 Min. - Anzahl der Module: 3
+In diesem Lernpfad lernen Sie die Grundlagen von PowerApps kennen, und Sie erfahren, wie Sie Apps erstellen, anpassen, verwalten und verteilen können.
 
 ## [Erstellen und Verwenden von Analytics-Berichten mit Power BI](https://docs.microsoft.com/de-de/learn/paths/create-use-analytics-reports-power-bi)
 #### Lernpfad - 1 Std. 42 Min. - Anzahl der Module: 2
@@ -149,7 +149,7 @@ Mit Web-Apps in Azure können Sie Ihre Website einfach veröffentlichen und verw
 Azure ermöglicht das Erstellen von Anwendungen, die sich aus verschiedenen Komponenten zusammensetzen: Website-Front-Ends, Back-End-Dienste und ausgelöste Funktionen, die Dienste je nach Bedarf ausführen. Azure umfasst auch verschiedene Kommunikationsstrategien zum gegenseitigen Übergeben von Daten dieser verschiedenen Komponenten. Erfahren Sie, wie Sie diese Kommunikationsdienste zum Erstellen skalierbarer und effizienter Lösungen aus testbaren Komponenten nutzen können.
 
 ## [Arbeiten mit relationalen Daten in Azure](https://docs.microsoft.com/de-de/learn/paths/work-with-relational-data-in-azure)
-#### Lernpfad - 2 Std. 41 Min. - Anzahl der Module: 3
+#### Lernpfad - 3 Std. 20 Min. - Anzahl der Module: 4
 Azure unterstützt mehrere beliebte SQL-basierte Datenbanklösungen, darunter SQL Server, PostgreSQL und MySQL. Erfahren Sie, wie Sie diese Unternehmensdatenlösungen in Azure verwenden, um die Daten Ihrer Anwendung in der Cloud zu speichern und abzurufen.
 
 ## [Sichern der Clouddaten](https://docs.microsoft.com/de-de/learn/paths/secure-your-cloud-data)
@@ -164,6 +164,10 @@ NoSQL-Daten sind eine effiziente Speicheroption für Informationen, die nicht de
 #### Lernpfad - 3 Std. 50 Min. - Anzahl der Module: 5
 Azure bietet eine Vielzahl von Möglichkeiten zum Speichern von Daten: unstrukturierte Daten, Archivdaten, relationale Daten usw. Lernen Sie die Grundlagen der Speicherverwaltung in Azure, wie Speicherkonten erstellt werden und wie das richtige Modell für die Daten ausgewählt wird, die Sie in der Cloud speichern möchten.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Lernpfad - 5 Std. 43 Min. - Anzahl der Module: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Lernpfad - 5 Std. 26 Min. - Anzahl der Module: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -176,6 +180,18 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 #### Lernpfad - 3 Std. 9 Min. - Anzahl der Module: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Lernpfad - 9 Std. 3 Min. - Anzahl der Module: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/de-de/learn/paths/customize-your-xamarin-forms-apps)
+#### Lernpfad - 7 Std. 25 Min. - Anzahl der Module: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/de-de/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Lernpfad - 9 Std. 34 Min. - Anzahl der Module: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
 ## [AI business school for financial services](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-financial-services)
 #### Lernpfad - 7 Std. 27 Min. - Anzahl der Module: 10
 Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
@@ -187,6 +203,10 @@ Decision-makers in healthcare have considerations that are particular to their i
 ## [AI business school for retail](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-retail)
 #### Lernpfad - 7 Std. 22 Min. - Anzahl der Module: 10
 Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
+
+## [Consume data with Power BI](https://docs.microsoft.com/de-de/learn/paths/consume-data-with-power-bi)
+#### Lernpfad - 2 Std. 35 Min. - Anzahl der Module: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/de-de/learn/paths/foster-ai-ready-culture)
 #### Lernpfad - 3 Std. 22 Min. - Anzahl der Module: 5
@@ -212,16 +232,16 @@ In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chair
 #### Lernpfad - 4 Std. 57 Min. - Anzahl der Module: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Lernpfad - 6 Std. 6 Min. - Anzahl der Module: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Lernpfad - 5 Std. 36 Min. - Anzahl der Module: 3
+#### Lernpfad - 5 Std. 53 Min. - Anzahl der Module: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Lernpfad - 6 Std. 23 Min. - Anzahl der Module: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Lernpfad - 5 Std. 49 Min. - Anzahl der Module: 4
+#### Lernpfad - 5 Std. 56 Min. - Anzahl der Module: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)

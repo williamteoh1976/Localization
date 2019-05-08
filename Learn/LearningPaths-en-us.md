@@ -1,5 +1,9 @@
 # Summary of Learning Paths (en-us)
-last updated: 2019-04-29
+last updated: 2019-05-08
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Learning Path - 5 hr 43 min - 3 Modules
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Learning Path - 5 hr 26 min - 4 Modules
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
@@ -11,6 +15,18 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 ## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
 #### Learning Path - 3 hr 9 min - 4 Modules
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Learning Path - 9 hr 3 min - 6 Modules
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/en-us/learn/paths/customize-your-xamarin-forms-apps)
+#### Learning Path - 7 hr 25 min - 8 Modules
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/en-us/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Learning Path - 9 hr 34 min - 10 Modules
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
 
 ## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles)
 #### Learning Path - 1 hr - 1 Module
@@ -27,6 +43,10 @@ In manufacturing, decision-makers must take into account specific industry consi
 ## [Define an AI strategy to create business value](https://docs.microsoft.com/en-us/learn/paths/ai-strategy-for-business-value)
 #### Learning Path - 3 hr 52 min - 5 Modules
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
+
+## [Consume data with Power BI](https://docs.microsoft.com/en-us/learn/paths/consume-data-with-power-bi)
+#### Learning Path - 2 hr 35 min - 2 Modules
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [AI business school for financial services](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-financial-services)
 #### Learning Path - 7 hr 27 min - 10 Modules
@@ -45,24 +65,24 @@ Retail industry decision-makers have considerations that are particular to their
 Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Learning Path - 5 hr 49 min - 4 Modules
+#### Learning Path - 5 hr 56 min - 4 Modules
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### Learning Path - 4 hr 57 min - 2 Modules
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Learning Path - 6 hr 6 min - 6 Modules
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Learning Path - 5 hr 36 min - 3 Modules
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Learning Path - 5 hr 57 min - 4 Modules
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Learning Path - 5 hr 53 min - 3 Modules
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Learning Path - 6 hr 23 min - 6 Modules
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/en-us/learn/paths/get-started-with-marketing)
 #### Learning Path - 1 hr 20 min - 2 Modules
@@ -216,13 +236,13 @@ This learning path introduces you to PowerApps, helps you create and customize a
 #### Learning Path - 1 hr 42 min - 2 Modules
 This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.
 
-## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/en-us/learn/paths/universal-resource-scheduling)
-#### Learning Path - 5 hr 9 min - 5 Modules
-Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
-
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/paths/working-with-connected-field-service-iot)
 #### Learning Path - 5 hr 56 min - 5 Modules
 This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
+## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/en-us/learn/paths/universal-resource-scheduling)
+#### Learning Path - 5 hr 9 min - 5 Modules
+Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
 
 ## [Create a model-driven application in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes)
 #### Learning Path - 1 hr 40 min - 2 Modules
@@ -292,13 +312,13 @@ Azure was designed for security and compliance. Learn how to leverage the built-
 #### Learning Path - 3 hr 9 min - 3 Modules
 Azure Functions enable the creation of event driven, compute-on-demand systems that can be triggered by various external events. Learn how to leverage functions to execute server-side logic and build serverless architectures.
 
-## [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure)
-#### Learning Path - 2 hr 41 min - 3 Modules
-Azure supports several popular SQL-based database solutions including SQL Server, PostgreSQL, and MySQL. Learn how to use these enterprise data solutions in Azure to store and retrieve your app's data in the cloud.
-
 ## [Administer infrastructure resources in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure)
 #### Learning Path - 9 hr 34 min - 10 Modules
 Learn how to create, manage, secure and scale virtual machine resources.
+
+## [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure)
+#### Learning Path - 3 hr 20 min - 4 Modules
+Azure supports several popular SQL-based database solutions including SQL Server, PostgreSQL, and MySQL. Learn how to use these enterprise data solutions in Azure to store and retrieve your app's data in the cloud.
 
 ## [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### Learning Path - 4 hr 18 min - 4 Modules

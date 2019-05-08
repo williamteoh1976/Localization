@@ -1,5 +1,5 @@
 # Summary of Learning Paths (nl-nl)
-last updated: 2019-04-29
+last updated: 2019-05-08
 ## [Containers beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/administer-containers-in-azure)
 #### Leertraject - 2 uur 23 min. - Aantal modules: 3
 Azure Container Instances is de snelste en eenvoudigste manier om containers uit te voeren in Azure. In dit leertraject leert u hoe u containers maakt en beheert en hoe u ACI gebruikt om een flexibele schaling te bieden voor Kubernetes.
@@ -57,7 +57,7 @@ Meer informatie over de hulpprogramma's en technieken voor data engineering die 
 In dit leertraject maakt u kennis met Microsoft Flow en leert u werkstromen bouwen en stromen beheren.
 
 ## [Een canvas-app maken in PowerApps](https://docs.microsoft.com/nl-nl/learn/paths/create-powerapps)
-#### Leertraject - 2 uur 2 min. - Aantal modules: 3
+#### Leertraject - 2 uur 16 min. - Aantal modules: 3
 Via dit leertraject maakt u kennis met PowerApps en leert u apps maken en aanpassen om deze vervolgens te beheren en distribueren.
 
 ## [Analytics-rapporten maken en gebruiken met Power BI](https://docs.microsoft.com/nl-nl/learn/paths/create-use-analytics-reports-power-bi)
@@ -120,13 +120,13 @@ In dit leerpad maak je kennis met de beginselen van Stem van de klant voor Dynam
 #### Leertraject - 6 uur 45 min. - Aantal modules: 8
 Azure is ontwikkeld voor beveiliging en naleving. Leer hoe u gebruik kunt maken van de ingebouwde services voor het veilig opslaan van uw app-gegevens, zodat alleen geautoriseerde services en klanten er toegang toe hebben.
 
-## [Werken met relationele gegevens in Azure](https://docs.microsoft.com/nl-nl/learn/paths/work-with-relational-data-in-azure)
-#### Leertraject - 2 uur 41 min. - Aantal modules: 3
-Azure ondersteunt verschillende populaire, op SQL gebaseerde database-oplossingen, inclusief SQL Server, PostgreSQL en MySQL. Ontdek hoe u deze gegevensoplossingen voor ondernemingen in Azure gebruikt voor het opslaan en ophalen van gegevens van uw app in de cloud.
-
 ## [Uw services met elkaar verbinden](https://docs.microsoft.com/nl-nl/learn/paths/connect-your-services-together)
 #### Leertraject - 3 uur 31 min. - Aantal modules: 4
 Met Azure kunt u toepassingen maken die bestaan uit verschillende onderdelen: website-front-ends, back-end-services en geactiveerde functies die compute-on-demand services uitvoeren. Azure bevat ook verschillende communicatiestrategieën zodat deze verschillende onderdelen gegevens aan elkaar doorgeven. Leer hoe u deze communicatieservices gebruikt voor het maken van schaalbare, efficiënte oplossingen buiten testbare onderdelen.
+
+## [Werken met relationele gegevens in Azure](https://docs.microsoft.com/nl-nl/learn/paths/work-with-relational-data-in-azure)
+#### Leertraject - 3 uur 20 min. - Aantal modules: 4
+Azure ondersteunt verschillende populaire, op SQL gebaseerde database-oplossingen, inclusief SQL Server, PostgreSQL en MySQL. Ontdek hoe u deze gegevensoplossingen voor ondernemingen in Azure gebruikt voor het opslaan en ophalen van gegevens van uw app in de cloud.
 
 ## [Resources beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/manage-resources-in-azure)
 #### Leertraject - 4 uur 15 min. - Aantal modules: 5
@@ -160,6 +160,10 @@ Met Azure Functions kunt u op gebeurtenissen gebaseerde, compute-on-demand-syste
 #### Leertraject - 3 uur 50 min. - Aantal modules: 5
 Azure biedt verschillende manieren voor het opslaan van gegevens: niet-gestructureerd, in een archief, relationeel, en nog veel meer. Leer de basisprincipes van opslagbeheer in Azure, hoe u een opslagaccount maakt en hoe u het juiste model kiest voor de gegevens die u wilt opslaan in de cloud.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Leertraject - 5 uur 43 min. - Aantal modules: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
 #### Leertraject - 3 uur 9 min. - Aantal modules: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
@@ -171,6 +175,18 @@ You can use the Cash and bank management module in Dynamics 365 for Finance and 
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Leertraject - 5 uur 26 min. - Aantal modules: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Leertraject - 9 uur 3 min. - Aantal modules: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/nl-nl/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Leertraject - 9 uur 34 min. - Aantal modules: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
+
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/nl-nl/learn/paths/customize-your-xamarin-forms-apps)
+#### Leertraject - 7 uur 25 min. - Aantal modules: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
 ## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/nl-nl/learn/paths/responsible-ai-business-principles)
 #### Leertraject - 1 uur - 1 module
@@ -187,6 +203,10 @@ In this learning path, you will hear from top Microsoft executives about a frame
 ## [AI business school for healthcare](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-healthcare)
 #### Leertraject - 7 uur 22 min. - Aantal modules: 10
 Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
+
+## [Consume data with Power BI](https://docs.microsoft.com/nl-nl/learn/paths/consume-data-with-power-bi)
+#### Leertraject - 2 uur 35 min. - Aantal modules: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [AI business school for retail](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-retail)
 #### Leertraject - 7 uur 22 min. - Aantal modules: 10
@@ -205,20 +225,20 @@ Decision-makers in financial services have considerations that are particular to
 In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Leertraject - 5 uur 49 min. - Aantal modules: 4
+#### Leertraject - 5 uur 56 min. - Aantal modules: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Leertraject - 6 uur 6 min. - Aantal modules: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Leertraject - 5 uur 36 min. - Aantal modules: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Leertraject - 5 uur 57 min. - Aantal modules: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Leertraject - 5 uur 53 min. - Aantal modules: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Leertraject - 6 uur 23 min. - Aantal modules: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### Leertraject - 4 uur 57 min. - Aantal modules: 2

@@ -1,5 +1,37 @@
 # Summary of Learning Paths (pl-pl)
-last updated: 2019-04-29
+last updated: 2019-05-08
+## [Szkoła biznesowa dotycząca sztucznej inteligencji dla usług finansowych](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-financial-services)
+#### Ścieżka szkoleniowa - 7 godz. 27 min - Liczba modułów: 10
+Osoby podejmujące decyzje w usługach finansowych mają uwagi dotyczące ich branży, które pomogą im uwzględnić rzeczywisty wpływ sztucznej inteligencji na przekształcenia w przedsiębiorstwie. Niezwykle ważne jest poznanie składników strategii, które pomogą utworzyć wartość biznesową w sektorze usług finansowych dzięki sztucznej inteligencji.
+
+## [Szkoła biznesowa dotycząca sztucznej inteligencji dla handlu detalicznego](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-retail)
+#### Ścieżka szkoleniowa - 7 godz. 22 min - Liczba modułów: 10
+Osoby podejmujące decyzje w branży handlu detalicznego mają uwagi dotyczące ich branży, które pomogą im uwzględnić rzeczywisty wpływ sztucznej inteligencji na przekształcenia w przedsiębiorstwie.
+
+## [Definiowanie strategii sztucznej inteligencji w celu utworzenia wartości biznesowej](https://docs.microsoft.com/pl-pl/learn/paths/ai-strategy-for-business-value)
+#### Ścieżka szkoleniowa - 3 godz. 52 min - Liczba modułów: 5
+W tej ścieżce szkoleniowej Peter Zemsky, przewodniczący profesor ds. strategii i innowacji INSEAD w firmie Eli Lilly, powie, jak sztuczna inteligencja zwiększa wartość biznesową w różnych branżach i firmach oraz u klientów i partnerów firmy Microsoft. Będzie można omówić to, jak zespoły techniczne wdrażają sztuczną inteligencję w aplikacjach biznesowych i co liderzy biznesowi w różnych branżach sądzą o sztucznej inteligencji w ich firmach.
+
+## [Wprowadzenie do technologii sztucznej inteligencji dla liderów biznesowych](https://docs.microsoft.com/pl-pl/learn/paths/ai-technology-for-business-leaders)
+#### Ścieżka szkoleniowa - 1 godz. 14 min - Liczba modułów: 2
+W tej ścieżce szkoleniowej znajdziesz ogólne omówienie podstawowych pojęć związanych ze sztuczną inteligencją. Opiszesz sztuczną inteligencję i technologie, które stanowią jej podstawę. Dowiesz się, jak firma Microsoft zamienia najnowsze osiągnięcia w zakresie sztucznej inteligencji na narzędzia, produkty i usługi, które mogą być używane przez organizacje.
+
+## [Szkoła biznesowa dotycząca sztucznej inteligencji dla producentów](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-manufacturing)
+#### Ścieżka szkoleniowa - 7 godz. 23 min - Liczba modułów: 10
+W dziedzinie produkcji osoby podejmujące decyzje muszą wziąć pod uwagę kwestie branżowe, zanim skorzystają z możliwości transformacyjnych sztucznej inteligencji w przedsiębiorstwie. Ta ścieżka szkoleniowa jest przeznaczona dla osób podejmujących decyzje w branży produkcyjnej i przedstawia rzeczywisty wpływ transformacyjny sztucznej inteligencji w przedsiębiorstwie.
+
+## [Identyfikowanie wytycznych dla odpowiedzialnego użycia sztucznej inteligencji w firmie](https://docs.microsoft.com/pl-pl/learn/paths/responsible-ai-business-principles)
+#### Ścieżka szkoleniowa - 1 godz. - 1 moduł
+Konieczne jest uwzględnienie konsekwencji stosowania sztucznej inteligencji w firmie. W tej ścieżce learning znajdziesz wytyczne, które pomogą w konfigurowaniu reguł, i model ładu w organizacji, a także zasoby, najlepsze rozwiązania i narzędzia.
+
+## [Szkoła biznesowa dotycząca sztucznej inteligencji dla opieki zdrowotnej](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-healthcare)
+#### Ścieżka szkoleniowa - 7 godz. 22 min - Liczba modułów: 10
+Osoby podejmujące decyzje w opiece zdrowotnej mają uwagi dotyczące ich branży, które pomogą im uwzględnić rzeczywisty wpływ sztucznej inteligencji na przekształcenia w przedsiębiorstwie. Ta ścieżka szkoleniowa jest przeznaczona dla osób podejmujących decyzje w opiece zdrowotnej i przedstawia rzeczywisty wpływ transformacyjny sztucznej inteligencji w przedsiębiorstwie.
+
+## [Poznaj sposoby wdrożenia kultury gotowej do użycia sztucznej inteligencji w swojej firmie](https://docs.microsoft.com/pl-pl/learn/paths/foster-ai-ready-culture)
+#### Ścieżka szkoleniowa - 3 godz. 22 min - Liczba modułów: 5
+W tej ścieżce szkoleniowej najlepsi kierownicy z firmy Microsoft opowiedzą o platformie umożliwiającej wprowadzenie kluczowych zmian niezbędnych do przygotowania organizacji do wprowadzenia sztucznej inteligencji. Dowiesz się, jak pomyślnie zaimplementować sztuczną inteligencję i opracować odpowiednie scenariusze. Omówisz biznesowe przypadki użycia związane z finansami, marketingiem, sprzedażą i obsługą klienta. Ponadto dowiesz się, jak znaleźć rozwiązania sztucznej inteligencji do zaimplementowania w Twojej organizacji, w zależności od jej dojrzałości.
+
 ## [Administrowanie kontenerami na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-containers-in-azure)
 #### Ścieżka szkoleniowa - 2 godz. 23 min - Liczba modułów: 3
 Usługa Azure Container Instances to najszybszy i najłatwiejszy sposób uruchamiania kontenerów na platformie Azure. W ramach tej ścieżki szkoleniowej nauczysz się, jak tworzyć kontenery i nimi zrządzać oraz jak korzystać z usługi ACI w celu zapewnienia elastycznego skalowania usługi Kubernetes.
@@ -57,12 +89,12 @@ Poznaj narzędzia i techniki inżynierii danych obsługiwane przez usługę Azur
 Ta ścieżka szkoleniowa stanowi wprowadzenie do usługi Microsoft Flow i uczy, jak tworzyć przepływy pracy oraz administrować przepływami.
 
 ## [Tworzenie aplikacji kanwy w usłudze PowerApps](https://docs.microsoft.com/pl-pl/learn/paths/create-powerapps)
-#### Ścieżka szkoleniowa - 2 godz. 2 min - Liczba modułów: 3
+#### Ścieżka szkoleniowa - 2 godz. 16 min - Liczba modułów: 3
 Ta ścieżka szkoleniowa stanowi wprowadzenie do usługi PowerApps oraz pomaga utworzyć i dostosować aplikację, a następnie zarządzać nią i ją rozpowszechniać.
 
 ## [Tworzenie aplikacji opartej na modelu w usłudze PowerApps](https://docs.microsoft.com/pl-pl/learn/paths/create-app-models-business-processes)
 #### Ścieżka szkoleniowa - 1 godz. 40 min - Liczba modułów: 2
-Ta ścieżka szkoleniowa stanowi wprowadzenie do tworzenia opartej na modelu aplikacji PowerApps, która korzysta z usługi Common Data Service for Apps.
+Ta ścieżka szkoleniowa stanowi wprowadzenie do tworzenia opartej na modelu aplikacji PowerApps, która korzysta z usługi Common Data Service.
 
 ## [Tworzenie i używanie raportów analizy w usłudze Power BI](https://docs.microsoft.com/pl-pl/learn/paths/create-use-analytics-reports-power-bi)
 #### Ścieżka szkoleniowa - 1 godz. 42 min - Liczba modułów: 2
@@ -76,8 +108,8 @@ Dowiedz się, jak ewoluował świat danych i jak nadejście technologii chmurowy
 #### Ścieżka szkoleniowa - 3 godz. 47 min - Liczba modułów: 7
 Czy chcesz w łatwy do zrozumienia sposób poznać informacje o chmurze? A może nie wiesz, jak zacząć korzystać z technologii chmury? W tym środowisku szkoleniowym odbędziesz podróż, której początkiem będzie poznanie sposobu, w jaki cyfrowa transformacja oraz zalety chmury mogą przekształcić Twoją firmę.
 
-## [Uzyskiwanie wiedzy i szczegółowych informacji na podstawie danych za pomocą usługi Azure Databricks](https://docs.microsoft.com/pl-pl/learn/paths/data-science)
-#### Ścieżka szkoleniowa - 5 godz. 31 min - Liczba modułów: 6
+## [Nauka o danych](https://docs.microsoft.com/pl-pl/learn/paths/data-science)
+#### Ścieżka szkoleniowa - 4 godz. 38 min - Liczba modułów: 5
 Dowiedz się, jak za pomocą usługi Azure Databricks stosować predykcyjne i analityczne techniki z zakresu nauki o danych, takie jak eksploracyjna analiza danych, trenowanie modeli, analiza tekstu i uczenie głębokie.
 
 ## [Implementowanie magazynu danych za pomocą usługi Azure SQL Data Warehouse](https://docs.microsoft.com/pl-pl/learn/paths/implement-sql-data-warehouse)
@@ -112,10 +144,6 @@ Jeśli platforma aplikacji internetowych Azure nie obsługuje rozwiązań dokła
 #### Ścieżka szkoleniowa - 3 godz. 43 min - Liczba modułów: 5
 Dane NoSQL to wydajny sposób na przechowywanie informacji, które nie są zgodne z wymaganiami relacyjnej bazy danych SQL. Dowiedz się, jak za pomocą witryny Azure Portal, rozszerzenia usługi Azure Cosmos DB dla programu Visual Studio Code oraz zestawu .NET Core SDK usługi Azure Cosmos DB pracować z danymi NoSQL w wybranym przez siebie miejscu i zapewniać użytkownikom wysoką dostępność niezależnie od tego, gdzie na świecie przebywają.
 
-## [Praca z danymi relacyjnymi na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/work-with-relational-data-in-azure)
-#### Ścieżka szkoleniowa - 2 godz. 41 min - Liczba modułów: 3
-Platforma Azure obsługuje kilka popularnych rozwiązań baz danych opartych na platformie SQL, między innymi programy SQL Server, PostgreSQL i MySQL. Dowiedz się, jak za pomocą tych rozwiązań dotyczących danych przedsiębiorstwa na platformie Azure przechowywać i pobierać dane aplikacji w chmurze.
-
 ## [Wdrażanie witryny internetowej na platformie Azure za pomocą usługi Azure App Service](https://docs.microsoft.com/pl-pl/learn/paths/deploy-a-website-with-azure-app-service)
 #### Ścieżka szkoleniowa - 4 godz. 30 min - Liczba modułów: 5
 Aplikacje internetowe na platformie Azure umożliwiają łatwe publikowanie witryny internetowej i zarządzanie nią bez potrzeby pracy z bazowymi serwerami, magazynem czy zasobami sieciowymi. Zamiast tego możesz skupić się na funkcjach witryny, polegając na niezawodnej platformie Azure, która zapewnia bezpieczny dostęp do witryny.
@@ -123,6 +151,10 @@ Aplikacje internetowe na platformie Azure umożliwiają łatwe publikowanie witr
 ## [Administrowanie zasobami infrastruktury na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-infrastructure-resources-in-azure)
 #### Ścieżka szkoleniowa - 9 godz. 34 min - Liczba modułów: 10
 Dowiedz się, jak tworzyć, zabezpieczać i skalować zasoby maszyny wirtualnej oraz zarządzać nimi.
+
+## [Praca z danymi relacyjnymi na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/work-with-relational-data-in-azure)
+#### Ścieżka szkoleniowa - 3 godz. 20 min - Liczba modułów: 4
+Platforma Azure obsługuje kilka popularnych rozwiązań baz danych opartych na platformie SQL, między innymi programy SQL Server, PostgreSQL i MySQL. Dowiedz się, jak za pomocą tych rozwiązań dotyczących danych przedsiębiorstwa na platformie Azure przechowywać i pobierać dane aplikacji w chmurze.
 
 ## [Zabezpieczanie danych w chmurze](https://docs.microsoft.com/pl-pl/learn/paths/secure-your-cloud-data)
 #### Ścieżka szkoleniowa - 6 godz. 45 min - Liczba modułów: 8
@@ -140,6 +172,10 @@ Platforma Azure pozwala tworzyć aplikacje składające się z różnych składn
 #### Ścieżka szkoleniowa - 3 godz. 50 min - Liczba modułów: 5
 Platforma Azure oferuje wiele sposobów przechowywania danych: bez struktury, archiwalnych, relacyjnych i nie tylko. Poznaj podstawy zarządzania magazynem na platformie Azure i dowiedz się, jak utworzyć konto magazynu oraz jak wybrać odpowiedni model dla danych, które chcesz przechowywać w chmurze.
 
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Ścieżka szkoleniowa - 5 godz. 43 min - Liczba modułów: 3
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### Ścieżka szkoleniowa - 5 godz. 25 min - Liczba modułów: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -152,57 +188,41 @@ You need to configure the Accounts receivable module in Dynamics 365 for Finance
 #### Ścieżka szkoleniowa - 3 godz. 9 min - Liczba modułów: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
-## [AI business school for financial services](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-financial-services)
-#### Ścieżka szkoleniowa - 7 godz. 27 min - Liczba modułów: 10
-Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Ścieżka szkoleniowa - 9 godz. 3 min - Liczba modułów: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
-## [AI business school for retail](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-retail)
-#### Ścieżka szkoleniowa - 7 godz. 22 min - Liczba modułów: 10
-Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
+## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/pl-pl/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Ścieżka szkoleniowa - 9 godz. 34 min - Liczba modułów: 10
+Use C# and Visual Studio to create apps that run on iOS and Android devices.
 
-## [Define an AI strategy to create business value](https://docs.microsoft.com/pl-pl/learn/paths/ai-strategy-for-business-value)
-#### Ścieżka szkoleniowa - 3 godz. 52 min - Liczba modułów: 5
-In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/pl-pl/learn/paths/customize-your-xamarin-forms-apps)
+#### Ścieżka szkoleniowa - 7 godz. 25 min - Liczba modułów: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
-## [Introduction to AI technology for business leaders](https://docs.microsoft.com/pl-pl/learn/paths/ai-technology-for-business-leaders)
-#### Ścieżka szkoleniowa - 1 godz. 14 min - Liczba modułów: 2
-In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
-
-## [Identify guiding principles for responsible AI in your business](https://docs.microsoft.com/pl-pl/learn/paths/responsible-ai-business-principles)
-#### Ścieżka szkoleniowa - 1 godz. - 1 moduł
-It is imperative to reflect on the implications of AI in business. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your organization, as well as resources, best practices, and tools.
-
-## [AI business school for manufacturing](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-manufacturing)
-#### Ścieżka szkoleniowa - 7 godz. 23 min - Liczba modułów: 10
-In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
-
-## [AI business school for healthcare](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-healthcare)
-#### Ścieżka szkoleniowa - 7 godz. 22 min - Liczba modułów: 10
-Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
-
-## [Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/pl-pl/learn/paths/foster-ai-ready-culture)
-#### Ścieżka szkoleniowa - 3 godz. 22 min - Liczba modułów: 5
-In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.
+## [Consume data with Power BI](https://docs.microsoft.com/pl-pl/learn/paths/consume-data-with-power-bi)
+#### Ścieżka szkoleniowa - 2 godz. 35 min - Liczba modułów: 2
+Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### Ścieżka szkoleniowa - 4 godz. 57 min - Liczba modułów: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Ścieżka szkoleniowa - 5 godz. 49 min - Liczba modułów: 4
+#### Ścieżka szkoleniowa - 5 godz. 56 min - Liczba modułów: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Ścieżka szkoleniowa - 6 godz. 6 min - Liczba modułów: 6
+#### Ścieżka szkoleniowa - 6 godz. 23 min - Liczba modułów: 6
 Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Ścieżka szkoleniowa - 5 godz. 36 min - Liczba modułów: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Ścieżka szkoleniowa - 5 godz. 57 min - Liczba modułów: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Ścieżka szkoleniowa - 5 godz. 53 min - Liczba modułów: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/pl-pl/learn/paths/get-started-with-marketing)
 #### Ścieżka szkoleniowa - 1 godz. 20 min - Liczba modułów: 2
