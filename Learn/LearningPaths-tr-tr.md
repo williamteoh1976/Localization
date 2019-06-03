@@ -1,7 +1,49 @@
 # Summary of Learning Paths (tr-tr)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [Kamu için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-government)
+#### Öğrenme Yolu - 7 sa 44 dk - Modül sayısı: 10
+Kamuda, karar alıcıların kuruluşta yapay zekanın gerçek dönüştürme gücünü hayata geçirmek için önce kamu sektörüyle ilgili dikkat edilmesi gereken belirli noktaları hesaba katmaları gerekir. Kamu sektörünün yapay zekayla değer oluşturmasına yardımcı olacak strateji bileşenlerini anlamak kritik önem taşır. Bu öğrenme yolu kamuda yapay zekanın kamu sektörü üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
+#### Öğrenme Yolu - 3 sa 20 dk - Modül sayısı: 4
+Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
+
+Modules:
+- Docker ile kapsayıcılı web uygulaması oluşturma
+- Azure Container Registry ile kapsayıcı görüntüleri oluşturup depolama
+- Azure Container Instances ile Docker kapsayıcılarını çalıştırma
+- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
+
+## [PowerApps’te tuval uygulaması oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-powerapps)
+#### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
+İşletmenizi daha verimli hale getirmenize yardımcı olacak uygulamalar oluşturmak mı istiyorsunuz? O halde bu yol tam size göre. Bu yol PowerApps’i tanıtır, uygulama oluşturmanıza, özelleştirmenize, yönetmenize ve dağıtmanıza yardımcı olur.
+
+Modules:
+- PowerApps'i kullanmaya başlama
+- PowerApps’te tuval uygulamasını özelleştirme
+- PowerApps’te uygulama yönetme
+
+## [İşletmenizde sorumlu yapay zekaya yol gösteren ilkeleri tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/responsible-ai-business-principles)
+#### Öğrenme Yolu - 1 sa - 1 Modül
+İşletmelerde yapay zekanın etkilerinin yansıtılması bir zorunluluktur. Bu öğrenme yolunda kuruluşunuzda ilkeleri ve yönetim modelini ayarlamaya yardımcı olacak yönergeler, ayrıca kaynaklar, en iyi yöntemler ve araçlar sağlanacak.
+
+Modules:
+- Identify guiding principles for responsible AI in your business
+
 ## [Üretim için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-manufacturing)
-#### Öğrenme Yolu - 7 sa 23 dk - Modül sayısı: 10
+#### Öğrenme Yolu - 7 sa 38 dk - Modül sayısı: 10
 Üretim sektöründe, karar alıcıların kuruluşta yapay zekanın gerçek dönüştürme gücünü hayata geçirmek için önce sektörle ilgili dikkat edilmesi gereken belirli noktaları hesaba katmaları gerekir. Bu öğrenme yolu üretim sektöründe yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
 
 Modules:
@@ -16,13 +58,6 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [İşletmenizde sorumlu yapay zekaya yol gösteren ilkeleri tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/responsible-ai-business-principles)
-#### Öğrenme Yolu - 1 sa - 1 Modül
-İşletmelerde yapay zekanın etkilerinin yansıtılması bir zorunluluktur. Bu öğrenme yolunda kuruluşunuzda ilkeleri ve yönetim modelini ayarlamaya yardımcı olacak yönergeler, ayrıca kaynaklar, en iyi yöntemler ve araçlar sağlanacak.
-
-Modules:
-- Identify guiding principles for responsible AI in your business
-
 ## [İşletmenizde yapay zeka kullanımına hazır bir kültürü geliştirmenin yollarını keşfedin](https://docs.microsoft.com/tr-tr/learn/paths/foster-ai-ready-culture)
 #### Öğrenme Yolu - 3 sa 22 dk - Modül sayısı: 5
 Bu öğrenme yolunda, üst düzey Microsoft yöneticilerinin yapay zeka kullanımına hazır bir kuruluşa dönüşmek için gereken önemli değişiklikleri ortaya koymayı amaçlayan çerçeve hakkındaki sözlerini dinleyeceksiniz. Yapay zekanın başarılı uygulamalarını belirleyebilecek ve uygun senaryoları ortaya koyabileceksiniz. Finans, pazarlama, satış ve müşteri hizmetleri alanlarında iş kollarına özel ve uygun kullanım örneklerini tartışabileceksiniz. Son olarak da, olgunluk düzeyine bağlı olarak kuruluşunuzda uygulayabileceğiniz yapay zeka çözümlerini belirleyebileceksiniz.
@@ -35,7 +70,7 @@ Modules:
 - Discover how to foster an AI-ready culture in customer service
 
 ## [Sağlık sektörü için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-healthcare)
-#### Öğrenme Yolu - 7 sa 22 dk - Modül sayısı: 10
+#### Öğrenme Yolu - 7 sa 37 dk - Modül sayısı: 10
 Sağlık sektöründeki karar alıcıların, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır. Bu öğrenme yolu sağlık sektöründe yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
 
 Modules:
@@ -51,7 +86,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Perakende sektörü için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-retail)
-#### Öğrenme Yolu - 7 sa 22 dk - Modül sayısı: 10
+#### Öğrenme Yolu - 7 sa 37 dk - Modül sayısı: 10
 Perakende sektörünün karar alıcılarının, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır.
 
 Modules:
@@ -67,7 +102,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Finansal hizmetler için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-financial-services)
-#### Öğrenme Yolu - 7 sa 27 dk - Modül sayısı: 10
+#### Öğrenme Yolu - 7 sa 42 dk - Modül sayısı: 10
 Finansal hizmetlerdeki karar alıcıların, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır. Finansal hizmetler sektörünün yapay zekayla iş değeri oluşturmasına yardımcı olacak strateji bileşenlerini anlamak kritik önem taşır.
 
 Modules:
@@ -82,33 +117,25 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [İş değeri oluşturmak için yapay zeka stratejisini tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/ai-strategy-for-business-value)
-#### Öğrenme Yolu - 3 sa 52 dk - Modül sayısı: 5
-Bu öğrenme yolunda INSEAD'de Eli Lilly Kürsüsünde Strateji ve İnovasyon Profesörü Peter Zemsky'den yapay zekanın endüstrilerde ve şirketlerde iş değerini nasıl artırdığını öğrenecek, ayrıca Microsoft müşterilerini ve iş ortaklarını dinleyeceksiniz. Teknik takımların iş uygulamalarına nasıl yapay zeka getirdiğini tartışabilecek ve farklı sektörlerden işletme liderlerinin kendi işletmeleri için yapay zeka konusundaki görüşlerini öğreneceksiniz.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
-
 ## [İşletme liderleri için yapay zeka teknolojisine giriş](https://docs.microsoft.com/tr-tr/learn/paths/ai-technology-for-business-leaders)
-#### Öğrenme Yolu - 1 sa 14 dk - Modül sayısı: 2
+#### Öğrenme Yolu - 1 sa 25 dk - Modül sayısı: 2
 Bu öğrenme yolunda yapay zekanın başlıca kavramlarına üst düzey bir genel bakış sağlanacak. Yapay zekanın ne olduğunu ve buna dayanak oluşturan teknolojileri açıklayabileceksiniz. Microsoft'un yapay zeka alanındaki en son ilerlemeleri nasıl kuruluşların yararlanabileceği araçlara, ürünlere ve hizmetlere dönüştürdüğünü paylaşabileceksiniz.
 
 Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
-#### Öğrenme Yolu - 2 sa 23 dk - Modül sayısı: 3
-Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
+## [İş değeri oluşturmak için yapay zeka stratejisini tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/ai-strategy-for-business-value)
+#### Öğrenme Yolu - 4 sa 43 dk - Modül sayısı: 6
+Bu öğrenme yolunda INSEAD'de Eli Lilly Kürsüsünde Strateji ve İnovasyon Profesörü Peter Zemsky'den yapay zekanın endüstrilerde ve şirketlerde iş değerini nasıl artırdığını öğrenecek, ayrıca Microsoft müşterilerini ve iş ortaklarını dinleyeceksiniz. Teknik takımların iş uygulamalarına nasıl yapay zeka getirdiğini tartışabilecek ve farklı sektörlerden işletme liderlerinin kendi işletmeleri için yapay zeka konusundaki görüşlerini öğreneceksiniz.
 
 Modules:
-- Azure Container Registry ile kapsayıcı görüntüleri oluşturup depolama
-- Azure Container Instances ile Docker kapsayıcılarını çalıştırma
-- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
+- Transform business processes in retail with AI
+- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in healthcare
 
 ## [Daha iyi PowerApps tuval uygulamaları oluşturmak için temel formüller kullanma](https://docs.microsoft.com/tr-tr/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Öğrenme Yolu - 2 sa 16 dk - Modül sayısı: 3
@@ -207,7 +234,7 @@ Modules:
 - Microsoft Özel Görüntü İşleme Hizmeti ile görüntüleri sınıflandırma
 
 ## [Azure Databricks ile veri mühendisliği yapın](https://docs.microsoft.com/tr-tr/learn/paths/data-engineering-with-databricks)
-#### Öğrenme Yolu - 10 sa 23 dk - Modül sayısı: 9
+#### Öğrenme Yolu - 7 sa 49 dk - Modül sayısı: 9
 Azure Databricks’in desteklediği veri mühendisliği araçlarını ve teknikleri öğrenin.
 
 Modules:
@@ -229,15 +256,6 @@ Modules:
 - Microsoft Flow ile çalışmaya başlama
 - Microsoft Flow ile daha karmaşık akışlar oluşturma
 - Microsoft Flow'da ortamları ve veri ilkelerini yönetmek için Yönetim merkezini kullanma
-
-## [PowerApps'te tuval uygulaması oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-powerapps)
-#### Öğrenme Yolu - 2 sa 16 dk - Modül sayısı: 3
-Bu öğrenme yolu PowerApps'i tanıtır, uygulama oluşturmanıza, özelleştirmenize, yönetmenize ve dağıtmanıza yardımcı olur.
-
-Modules:
-- Get started with PowerApps
-- PowerApps'te uygulamayı özelleştirme
-- PowerApps’te uygulama yönetme
 
 ## [PowerApps’te model tabanlı uygulama oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-app-models-business-processes)
 #### Öğrenme Yolu - 1 sa 40 dk - Modül sayısı: 2
@@ -283,7 +301,7 @@ Modules:
 - Azure Depolama hesabınızı güvenli hale getirme
 
 ## [Azure Databricks ile verilerinizden bilgileri ve içgörüleri ayıklama](https://docs.microsoft.com/tr-tr/learn/paths/data-science)
-#### Öğrenme Yolu - 5 sa 31 dk - Modül sayısı: 6
+#### Öğrenme Yolu - 4 sa 21 dk - Modül sayısı: 6
 Keşif verileri analizi, model eğitimi, metin analizi ve derin öğrenme gibi tahmine dayalı ve analitik Veri Bilimi tekniklerini uygulamak için Azure Databricks’i nasıl kullanabileceğinizi öğrenin.
 
 Modules:
@@ -359,15 +377,6 @@ Modules:
 - Azure’da verimlilik ve işlem için tasarlama
 - Azure’da kullanılabilirlik ve kurtarılabilirlik için tasarlama
 
-## [Sunucusuz uygulamalar oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-serverless-applications)
-#### Öğrenme Yolu - 3 sa 9 dk - Modül sayısı: 3
-Azure İşlevleri çeşitli dış olaylar tarafından tetiklenebilen olay temelli, isteğe bağlı hesaplama sunan sistemlerin oluşturulmasına olanak sağlar. Sunucu tarafı mantığını yürütmek ve sunucusuz mimari oluşturmak için işlevleri kullanmayı öğrenin.
-
-Modules:
-- Azure İşlevleri ile sunucusuz mantık oluşturma
-- Tetikleyicilerle bir Azure işlevi yürütme
-- Giriş ve çıkış bağlamalarını kullanarak Azure işlev zinciri oluşturma
-
 ## [Azure’da altyapı kaynaklarını yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-infrastructure-resources-in-azure)
 #### Öğrenme Yolu - 9 sa 34 dk - Modül sayısı: 10
 Sanal makine kaynaklarını oluşturmayı, yönetmeyi, güvenli hale getirmeyi ve ölçeklendirmeyi öğrenin.
@@ -393,6 +402,19 @@ Modules:
 - PostgreSQL için Azure Veritabanı sunucusu oluşturma
 - SQL elastik havuzlarıyla birden çok Azure SQL Veritabanını ölçeklendirme
 - Azure SQL Veritabanınızın güvenliğini sağlama
+
+## [Sunucusuz uygulamalar oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-serverless-applications)
+#### Öğrenme Yolu - 6 sa 15 dk - Modül sayısı: 7
+Azure İşlevleri çeşitli dış olaylar tarafından tetiklenebilen olay temelli, isteğe bağlı hesaplama sunan sistemlerin oluşturulmasına olanak sağlar. Sunucu tarafı mantığını yürütmek ve sunucusuz mimari oluşturmak için işlevleri kullanmayı öğrenin.
+
+Modules:
+- İş süreçlerini tümleştirmek ve otomatikleştirmek için uygun Azure hizmetini seçme
+- Azure İşlevleri ile sunucusuz mantık oluşturma
+- Tetikleyicilerle bir Azure işlevi yürütme
+- Giriş ve çıkış bağlamalarını kullanarak Azure işlev zinciri oluşturma
+- Dayanıklı İşlevler ile uzun süre çalışan sunucusuz iş akışı oluşturma
+- Visual Studio ile Azure İşlevi geliştirme, test etme ve dağıtma
+- Web kancasıyla tetiklenen bir Azure İşleviyle GitHub olaylarını izleme
 
 ## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
 #### Öğrenme Yolu - 4 sa 30 dk - Modül sayısı: 5
@@ -437,12 +459,15 @@ Modules:
 - Azure Linux sanal makinesinde MEAN yığınıyla web uygulaması derleme ve çalıştırma
 
 ## [Azure Cosmos DB’de NoSQL verileriyle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Öğrenme Yolu - 3 sa 43 dk - Modül sayısı: 5
+#### Öğrenme Yolu - 5 sa 55 dk - Modül sayısı: 8
 NoSQL verileri, ilişkisel SQL veritabanının gereksinimlerine uymayan bilgileri depolamanın etkili bir yoludur. NoSQL verilerinizle istediğiniz yerde çalışmak ve kullanıcılarınıza nerede olurlarsa olsunlar yüksek kullanılabilirlik sunmak için Azure portalı, Visual Studio Code için Azure Cosmos DB uzantısını ve Azure Cosmos DB .NET Core SDK'sini nasıl kullanacağınızı öğrenin.
 
 Modules:
 - Ölçeklendirilebilecek şekilde tasarlanmış bir Azure Cosmos DB veritabanı oluşturma
+- Azure Cosmos DB depolama alanı için uygun API'yi seçme
 - Azure Cosmos DB veritabanınıza veri ekleme ve verileri sorgulama
+- Graph API ile Azure Cosmos DB'de graf verisi depolama ve var olan verilere erişme
+- Azure Cosmos DB ve Tablo API'si ile NoSQL Verilerini Depolama ve Bunlara Erişme
 - Visual Studio Code’da Azure Cosmos DB için bir .NET Core uygulaması oluşturma
 - Bölümleme ve dizin oluşturma stratejilerini kullanarak Azure Cosmos DB'nin performansını iyileştirme
 - Azure Cosmos DB ile verilerinizi küresel ölçekte dağıtma
@@ -474,7 +499,7 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
@@ -499,7 +524,7 @@ Modules:
 - Process credit and collections in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Öğrenme Yolu - 9 sa 3 dk - Modül sayısı: 6
+#### Öğrenme Yolu - 9 sa 8 dk - Modül sayısı: 6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -517,8 +542,8 @@ Add professional touches and development techniques for more beautiful and maint
 Modules:
 - Explore cross-platform design patterns for Xamarin apps
 - Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
 - Design an MVVM viewmodel for Xamarin.Forms
 - Display relationships in Xamarin.Forms with master-detail navigation
 - Create custom controls with Xamarin.Forms renderers
@@ -534,8 +559,8 @@ Modules:
 - Introduction to Xamarin.iOS
 - Create a UI in Xamarin.Forms apps by using XAML
 - Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
+- Design consistent Xamarin.Forms XAML pages by using shared resources and styles
+- Prepare to publish your Xamarin app
 - Consume REST web services in Xamarin apps
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
@@ -548,16 +573,6 @@ Modules:
 - Explore what Power BI can do for you
 - Analyze data with Power BI
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Öğrenme Yolu - 5 sa 57 dk - Modül sayısı: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### Öğrenme Yolu - 5 sa 53 dk - Modül sayısı: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
@@ -566,6 +581,16 @@ Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Öğrenme Yolu - 6 sa 10 dk - Modül sayısı: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
 #### Öğrenme Yolu - 6 sa 23 dk - Modül sayısı: 6
@@ -666,7 +691,7 @@ Modules:
 - Get started with Microsoft 365 using FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/tr-tr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Öğrenme Yolu - 5 sa 31 dk - Modül sayısı: 6
+#### Öğrenme Yolu - 5 sa 36 dk - Modül sayısı: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -748,10 +773,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/tr-tr/learn/paths/working-with-dynamics-sales-professional)
-#### Öğrenme Yolu - 2 sa 35 dk - Modül sayısı: 3
+#### Öğrenme Yolu - 4 sa 35 dk - Modül sayısı: 5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

@@ -1,7 +1,72 @@
 # Summary of Learning Paths (es-es)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [Escuela de negocios de inteligencia artificial para el sector gubernamental](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-government)
+#### Ruta de aprendizaje - 7 h 44 min - Número de módulos: 10
+En el sector gubernamental, los encargados de tomar decisiones deben tener en cuenta consideraciones específicas del sector público para poder obtener el verdadero potencial de transformación de la inteligencia artificial. Es esencial que comprendan los componentes de una estrategia que permita al sector público crear valor gracias a la inteligencia artificial. Esta ruta de aprendizaje está diseñada para los empleados públicos encargados de tomar de decisiones y tiene el objetivo de ilustrar el auténtico impacto transformador de la IA en el sector público.
+
+Modules:
+- Definición de una estrategia de IA para crear valor empresarial
+- Definición de una estrategia de inteligencia artificial para crear valor en el sector gubernamental
+- Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
+- Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
+- Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
+- Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
+- Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
+- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
+- Introducción a la tecnología de IA
+- Examen del enfoque de Microsoft a la inteligencia artificial
+
+## [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure)
+#### Ruta de aprendizaje - 3 h 20 min - Número de módulos: 4
+Azure Container Instances es la manera más rápida y sencilla de ejecutar contenedores en Azure. Esta ruta de aprendizaje le enseñará a crear y administrar los contenedores, y cómo se puede usar ACI para proporcionar escala elástica para Kubernetes.
+
+Modules:
+- Compilación de una aplicación web en contenedores con Docker
+- Compilación y almacenamiento de imágenes de contenedor con Azure Container Registry
+- Ejecutar contenedores de Docker con Azure Container Instances
+- Implementación y ejecución de una aplicación web en contenedor con Azure App Service
+
+## [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps)
+#### Ruta de aprendizaje - 2 h 11 min - Número de módulos: 3
+¿Quiere crear aplicaciones para mejorar la eficiencia de su empresa? Entonces esta ruta le será muy útil. Se trata de una introducción a PowerApps que le ayudará a crear y personalizar una aplicación y, después, a administrarla y distribuirla.
+
+Modules:
+- Introducción a PowerApps
+- Personalización de una aplicación de lienzo en PowerApps
+- Administrar aplicaciones en PowerApps
+
+## [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Ruta de aprendizaje - 9 h 34 min - Número de módulos: 10
+Use C# y Visual Studio para crear aplicaciones para dispositivos iOS y Android.
+
+Modules:
+- Creación de una aplicación móvil con Xamarin.Forms
+- Introducción a Xamarin.Android
+- Introducción a Xamarin.iOS
+- Creación de una interfaz de usuario en aplicaciones de Xamarin.Forms con XAML
+- Diseños personalizados en páginas XAML de Xamarin.Forms
+- Diseñar páginas XAML de Xamarin.Forms coherentes mediante estilos y recursos compartidos
+- Preparación para publicar la aplicación de Xamarin
+- Consumo de servicios web REST en aplicaciones de Xamarin
+- Almacenamiento de datos locales con SQLite en una aplicación de Xamarin.Forms
+- Creación de aplicaciones de Xamarin.Forms de varias páginas con navegación de pila y pestaña
+
+## [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps)
+#### Ruta de aprendizaje - 7 h 25 min - Número de módulos: 8
+Aplique toques y técnicas de desarrollo profesionales para conseguir aplicaciones más bonitas y fáciles de mantener.
+
+Modules:
+- Exploración de patrones de diseño multiplataforma para aplicaciones Xamarin
+- Separación de la interfaz de usuario y el código con enlaces de datos de Xamarin.Forms
+- Representación de colecciones en aplicaciones de Xamarin.Forms con ListView
+- Personalización de una ListView de Xamarin.Forms
+- Diseño de un modelo de vista MVVM para Xamarin.Forms
+- Mostrar relaciones en Xamarin.Forms con navegación de maestro y detalles
+- Creación de controles personalizados con los representadores de Xamarin.Forms
+- Usar efectos en Xamarin.Forms
+
 ## [Escuela de negocios de inteligencia artificial para servicios financieros](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-financial-services)
-#### Ruta de aprendizaje - 7 h 27 min - Número de módulos: 10
+#### Ruta de aprendizaje - 7 h 42 min - Número de módulos: 10
 Los encargados de tomar decisiones en la esfera de servicios financieros deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Es esencial que comprendan los componentes de una estrategia que ayude al sector de servicios financieros a crear valor empresarial con inteligencia artificial.
 
 Modules:
@@ -17,7 +82,7 @@ Modules:
 - Examen del enfoque de Microsoft a la inteligencia artificial
 
 ## [Escuela de negocios de inteligencia artificial para el sector minorista](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-retail)
-#### Ruta de aprendizaje - 7 h 22 min - Número de módulos: 10
+#### Ruta de aprendizaje - 7 h 37 min - Número de módulos: 10
 Los encargados de tomar decisiones en la esfera del comercio minorista deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa.
 
 Modules:
@@ -33,18 +98,19 @@ Modules:
 - Examen del enfoque de Microsoft a la inteligencia artificial
 
 ## [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value)
-#### Ruta de aprendizaje - 3 h 52 min - Número de módulos: 5
+#### Ruta de aprendizaje - 4 h 43 min - Número de módulos: 6
 En esta ruta de aprendizaje, escuchará a Peter Zemsky, que preside la cátedra Eli Lilly de Estrategia e innovación del INSEAD, hablar acerca de cómo la inteligencia artificial está impulsando el valor empresarial entre las industrias y empresas, así como entre los clientes y asociados de Microsoft. Se analizará cómo los equipos técnicos están llevando la inteligencia artificial a las aplicaciones de negocios y qué piensan los líderes empresariales de diferentes sectores sobre la inteligencia artificial para sus propias actividades de negocios.
 
 Modules:
 - Definición de una estrategia de IA para crear valor empresarial
 - Definición de una estrategia de inteligencia artificial para crear valor empresarial en los servicios financieros
+- Definición de una estrategia de inteligencia artificial para crear valor en el sector gubernamental
 - Definición de una estrategia de inteligencia artificial para crear valor empresarial en el sector minorista
 - Definición de una estrategia de IA para crear valor empresarial en el sector de fabricación
 - Definición de una estrategia de IA para crear valor empresarial en el sector sanitario
 
 ## [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing)
-#### Ruta de aprendizaje - 7 h 23 min - Número de módulos: 10
+#### Ruta de aprendizaje - 7 h 38 min - Número de módulos: 10
 En el sector de fabricación, los encargados de tomar decisiones deben tener en cuenta aspectos específicos que les ayuden a darse cuenta del verdadero poder transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
 
 Modules:
@@ -60,7 +126,7 @@ Modules:
 - Examen del enfoque de Microsoft a la inteligencia artificial
 
 ## [Introducción a la tecnología de inteligencia artificial para los líderes empresariales](https://docs.microsoft.com/es-es/learn/paths/ai-technology-for-business-leaders)
-#### Ruta de aprendizaje - 1 h 14 min - Número de módulos: 2
+#### Ruta de aprendizaje - 1 h 25 min - Número de módulos: 2
 En esta ruta de aprendizaje, se proporcionará una descripción general de los conceptos principales de la inteligencia artificial. Podrá describir qué es la inteligencia artificial y las tecnologías que subyacen a ella. Podrá compartir cómo Microsoft está transformando los últimos avances en inteligencia artificial en herramientas, productos y servicios que pueden aprovechar las organizaciones.
 
 Modules:
@@ -75,7 +141,7 @@ Modules:
 - Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
 
 ## [Escuela de negocios de inteligencia artificial para el sector sanitario](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-healthcare)
-#### Ruta de aprendizaje - 7 h 22 min - Número de módulos: 10
+#### Ruta de aprendizaje - 7 h 37 min - Número de módulos: 10
 Los encargados de tomar decisiones en el sector sanitario deben de tener en cuenta ciertos aspectos relativos a su industria que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
 
 Modules:
@@ -100,15 +166,6 @@ Modules:
 - Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
 - Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
 - Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
-
-## [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure)
-#### Ruta de aprendizaje - 2 h 23 min - Número de módulos: 3
-Azure Container Instances es la manera más rápida y sencilla de ejecutar contenedores en Azure. Esta ruta de aprendizaje le enseñará a crear y administrar los contenedores, y cómo se puede usar ACI para proporcionar escala elástica para Kubernetes.
-
-Modules:
-- Compilación y almacenamiento de imágenes de contenedor con Azure Container Registry
-- Ejecutar contenedores de Docker con Azure Container Instances
-- Implementación y ejecución de una aplicación web en contenedor con Azure App Service
 
 ## [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Ruta de aprendizaje - 2 h 16 min - Número de módulos: 3
@@ -207,7 +264,7 @@ Modules:
 - Creación de un experimento en Azure Machine Learning Studio
 
 ## [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineering-with-databricks)
-#### Ruta de aprendizaje - 10 h 23 min - Número de módulos: 9
+#### Ruta de aprendizaje - 7 h 49 min - Número de módulos: 9
 Obtenga información sobre las herramientas y técnicas de ingeniería de datos compatibles con Azure Databricks.
 
 Modules:
@@ -232,7 +289,7 @@ Modules:
 
 ## [Trabajo con derechos y contratos de nivel de servicio en Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### Ruta de aprendizaje - 2 h 8 min - Número de módulos: 2
-Esta ruta de aprendizaje se centra en el trabajo con derechos y contratos de nivel de servicio en Microsoft Dynamics 365 for Customer Service.
+¡Anuncio! La versión localizada de este curso se retirará el 8 de junio. La versión más actualizada del curso está disponible en inglés.
 
 Modules:
 - Creación y administración de derechos en Microsoft Dynamics 365 for Customer Service
@@ -240,7 +297,7 @@ Modules:
 
 ## [Trabajo con casos en Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Ruta de aprendizaje - 2 h 57 min - Número de módulos: 3
-Esta ruta de aprendizaje se centra en las capacidades de administración de casos de Dynamics 365 for Customer Service, incluidas opciones para crear casos, administrar el proceso de resolución de casos, trabajar con jerarquías de casos y combinar casos similares. Las colas se pueden aprovechar para mantener y administrar cargas de trabajo de casos a fin de que los agentes de servicio al cliente incluyan la definición de colas para diferentes tipos de casos, la administración de elementos de colas, la selección y publicación de elementos de colas, y el diseño de reglas de enrutamiento de colas.
+¡Anuncio! La versión localizada de este curso se retirará el 8 de junio. La versión más actualizada del curso está disponible en inglés.
 
 Modules:
 - Introducción a Dynamics 365 for Customer Service
@@ -249,7 +306,7 @@ Modules:
 
 ## [Trabajo con soluciones de administración del conocimiento en Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
 #### Ruta de aprendizaje - 2 h - Número de módulos: 2
-Esta ruta de aprendizaje se centra en el trabajo con soluciones de administración del conocimiento en Microsoft Dynamics 365 for Customer Service.
+¡Anuncio! La versión localizada de este curso se retirará el 8 de junio. La versión más actualizada del curso está disponible en inglés.
 
 Modules:
 - Creación y diseño de soluciones de administración del conocimiento en Dynamics 365 for Customer Service
@@ -263,26 +320,6 @@ Modules:
 - Introducción a la compilación con Power BI
 - Creación y uso compartido de su primer informe de Power BI
 
-## [Creación de una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-powerapps)
-#### Ruta de aprendizaje - 2 h 16 min - Número de módulos: 3
-Esta ruta de aprendizaje es una introducción a PowerApps, que le ayudará a crear y personalizar una aplicación y, después, a administrarla y distribuirla.
-
-Modules:
-- Get started with PowerApps
-- Personalización de una aplicación en PowerApps
-- Administrar aplicaciones en PowerApps
-
-## [Trabajar con Connected Field Service for Dynamics 365 y Azure IoT](https://docs.microsoft.com/es-es/learn/paths/working-with-connected-field-service-iot)
-#### Ruta de aprendizaje - 5 h 56 min - Número de módulos: 5
-Esta ruta de aprendizaje le sirve de introducción a Connected Field Service y Azure IoT. En ella se estudian la identificación de excepciones, el registro y la administración de dispositivos, la supervisión y la reparación remotas de equipamiento y el uso de IoT Central con Connected Field Service.
-
-Modules:
-- Introducción a Connected Field Service for Dynamics 365 y Azure IoT
-- Supervisar y reparar de forma remota el equipamiento de los clientes con Connected Field Service for Dynamics 365 y Azure IoT
-- Registrar y administrar dispositivos del cliente con Connected Field Service for Dynamics 365 y Azure IoT
-- Uso de IoT Central con Connected Field Service for Dynamics 365
-- Identificar excepciones con Connected Field Service for Dynamics 365 y Azure IoT
-
 ## [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes)
 #### Ruta de aprendizaje - 1 h 40 min - Número de módulos: 2
 Esta ruta de aprendizaje es una introducción a la creación de una aplicación de PowerApps basada en modelos que usa Common Data Service.
@@ -290,6 +327,17 @@ Esta ruta de aprendizaje es una introducción a la creación de una aplicación 
 Modules:
 - Introducción a las aplicaciones controladas por modelos en PowerApps
 - Introducción a Common Data Service
+
+## [Trabajar con Connected Field Service for Dynamics 365 y Azure IoT](https://docs.microsoft.com/es-es/learn/paths/working-with-connected-field-service-iot)
+#### Ruta de aprendizaje - 5 h 56 min - Número de módulos: 5
+¡Anuncio! La versión localizada de este curso se retirará el 8 de junio. La versión más actualizada del curso está disponible en inglés.
+
+Modules:
+- Introducción a Connected Field Service for Dynamics 365 y Azure IoT
+- Supervisar y reparar de forma remota el equipamiento de los clientes con Connected Field Service for Dynamics 365 y Azure IoT
+- Registrar y administrar dispositivos del cliente con Connected Field Service for Dynamics 365 y Azure IoT
+- Uso de IoT Central con Connected Field Service for Dynamics 365
+- Identificar excepciones con Connected Field Service for Dynamics 365 y Azure IoT
 
 ## [Valor de Microsoft Azure para las empresas](https://docs.microsoft.com/es-es/learn/paths/learn-business-value-of-azure)
 #### Ruta de aprendizaje - 3 h 47 min - Número de módulos: 7
@@ -314,7 +362,7 @@ Modules:
 - Identificación de las tareas de un ingeniero de datos en una arquitectura hospedada en la nube
 
 ## [Información y conclusiones de los datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-science)
-#### Ruta de aprendizaje - 5 h 31 min - Número de módulos: 6
+#### Ruta de aprendizaje - 4 h 21 min - Número de módulos: 6
 Aprenda a usar Azure Databricks para poner en práctica técnicas de ciencia de datos analíticas y predictivas, como el análisis exploratorio de datos, el entrenamiento del modelo, el análisis de texto y el aprendizaje profundo.
 
 Modules:
@@ -372,7 +420,7 @@ Modules:
 
 ## [Voz del cliente para Dynamics 365](https://docs.microsoft.com/es-es/learn/paths/dyn365-voice-of-customer)
 #### Ruta de aprendizaje - 2 h 52 min - Número de módulos: 3
-Esta ruta de aprendizaje le introduce a los conceptos básicos de Voz del cliente para Dynamics 365.
+¡Anuncio! La versión localizada de este curso se retirará el 8 de junio. La versión más actualizada del curso está disponible en inglés.
 
 Modules:
 - Diseño de la solución Voz del cliente para encuestas de Dynamics 365
@@ -401,12 +449,15 @@ Modules:
 - Implementación y ejecución de una aplicación web en contenedor con Azure App Service
 
 ## [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Ruta de aprendizaje - 3 h 43 min - Número de módulos: 5
+#### Ruta de aprendizaje - 5 h 55 min - Número de módulos: 8
 Los datos NoSQL son una manera eficaz de almacenar información que no se asigna a los requisitos de una base de datos SQL relacional. Obtenga información sobre cómo usar Azure Portal, la extensión de Azure Cosmos DB para Visual Studio Code y el SDK de .NET Core de Azure Cosmos DB para trabajar con los datos NoSQL allí donde quiera, y proporcionar a los usuarios alta disponibilidad, sin importar en qué parte del mundo se encuentren.
 
 Modules:
 - Creación de una base de datos de Azure Cosmos DB para escalar
+- Elección de la API apropiada para el almacenamiento de Azure Cosmos DB
 - Adición y consulta de datos en una base de datos de Azure Cosmos DB
+- Almacenamiento de los datos de grafo y acceso a ellos en Azure Cosmos DB con Graph API
+- Almacenamiento de datos NoSQL y acceso con Azure Cosmos DB y Table API
 - Compilación de una aplicación de .NET Core para Azure Cosmos DB en Visual Studio Code
 - Optimización del rendimiento de Azure Cosmos DB mediante el uso de estrategias de creación de particiones e indexación
 - Distribución global de los datos con Azure Cosmos DB
@@ -494,13 +545,17 @@ Modules:
 - Protección de Azure SQL Database
 
 ## [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications)
-#### Ruta de aprendizaje - 3 h 9 min - Número de módulos: 3
+#### Ruta de aprendizaje - 6 h 15 min - Número de módulos: 7
 Azure Functions permite crear sistemas de procesos a petición orientados a eventos que se pueden desencadenar por varios eventos externos. Obtenga información sobre cómo aprovechar Functions para ejecutar la lógica del lado servidor y crear arquitecturas sin servidor.
 
 Modules:
+- Selección del servicio de Azure adecuado para integrar y automatizar procesos empresariales
 - Creación de lógica sin servidor con Azure Functions
 - Ejecución de una función de Azure con desencadenadores
 - Encadenamiento de funciones de Azure mediante enlaces de entrada y salida
+- Creación de un flujo de trabajo sin servidor de larga duración con Durable Functions
+- Desarrollo, prueba e implementación de una función de Azure con Visual Studio
+- Supervisión de eventos de GitHub con una función de Azure Functions desencadenada por un webhook
 
 ## [Almacenamiento de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/store-data-in-azure)
 #### Ruta de aprendizaje - 3 h 50 min - Número de módulos: 5
@@ -550,11 +605,11 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Ruta de aprendizaje - 9 h 3 min - Número de módulos: 6
+#### Ruta de aprendizaje - 9 h 8 min - Número de módulos: 6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -564,36 +619,6 @@ Modules:
 - Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms)
-#### Ruta de aprendizaje - 9 h 34 min - Número de módulos: 10
-Use C# and Visual Studio to create apps that run on iOS and Android devices.
-
-Modules:
-- Create a mobile app with Xamarin.Forms
-- Introduction to Xamarin.Android
-- Introduction to Xamarin.iOS
-- Create a UI in Xamarin.Forms apps by using XAML
-- Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
-- Consume REST web services in Xamarin apps
-- Store local data with SQLite in a Xamarin.Forms app
-- Create multi-page Xamarin.Forms apps with stack and tab navigation
-
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps)
-#### Ruta de aprendizaje - 7 h 25 min - Número de módulos: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
 
 ## [Consume data with Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi)
 #### Ruta de aprendizaje - 2 h 35 min - Número de módulos: 2
@@ -621,16 +646,6 @@ Modules:
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Ruta de aprendizaje - 5 h 57 min - Número de módulos: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### Ruta de aprendizaje - 5 h 53 min - Número de módulos: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
@@ -651,6 +666,16 @@ Modules:
 - Create and process event Kanban rules in Dynamics 365 for Finance and Operations
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Ruta de aprendizaje - 6 h 10 min - Número de módulos: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/es-es/learn/paths/get-started-with-marketing)
 #### Ruta de aprendizaje - 1 h 20 min - Número de módulos: 2
@@ -721,7 +746,7 @@ Modules:
 - Get started with Microsoft 365 using FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/es-es/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Ruta de aprendizaje - 5 h 31 min - Número de módulos: 6
+#### Ruta de aprendizaje - 5 h 36 min - Número de módulos: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -803,10 +828,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/es-es/learn/paths/working-with-dynamics-sales-professional)
-#### Ruta de aprendizaje - 2 h 35 min - Número de módulos: 3
+#### Ruta de aprendizaje - 4 h 35 min - Número de módulos: 5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

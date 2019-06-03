@@ -1,7 +1,42 @@
 # Summary of Learning Paths (sv-se)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [AI Business School för myndigheter](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-government)
+#### Inlärningsväg - 7 h 44 min - 10 moduler
+Beslutsfattare på myndigheter måste ta hänsyn till vissa specifika överväganden inom den offentliga sektorn för att kunna se den stora effekt som AI kan ha. Det är viktigt att förstå komponenterna i en strategi som kan vara till hjälp inom den offentliga sektorn för att skapa värde med hjälp av AI-teknik. Den här utbildningsvägen är utformad för beslutsfattare på myndigheter för att visa den omvälvande påverkan som AI kan ha i den offentliga sektorn.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
+#### Inlärningsväg - 3 h 20 min - 4 moduler
+Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
+
+Modules:
+- Skapa ett containerbaserat webbprogram med Docker
+- Skapa och lagra containeravbildningar med Azure Container Registry
+- Köra Docker-containers med Azure Container Instances
+- Distribuera och kör en containerbaserad webbapp med Azure App Service
+
+## [Skapa en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-powerapps)
+#### Inlärningsväg - 2 h 11 min - 3 moduler
+Vill du skapa appar som bidrar till att effektivisera verksamheten? Då är den här utbildningsvägen något för dig. Den ger en introduktion till PowerApps och beskriver hur du skapar och anpassar en app och hur du sedan hanterar och distribuerar den.
+
+Modules:
+- Kom igång med PowerApps
+- Anpassa en arbetsyteapp i PowerApps
+- Hantera appar i PowerApps
+
 ## [AI Business School för sjukvården](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-healthcare)
-#### Inlärningsväg - 7 h 22 min - 10 moduler
+#### Inlärningsväg - 7 h 37 min - 10 moduler
 Beslutsfattare inom sjukvården behöver fatta branschspecifika beslut för att kunna få förståelse för den omvälvande påverkan som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom sjukvården för att visa den omvälvande påverkan som AI kan ha på verksamheten.
 
 Modules:
@@ -17,7 +52,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Introduktion till AI-teknik för företagsledare](https://docs.microsoft.com/sv-se/learn/paths/ai-technology-for-business-leaders)
-#### Inlärningsväg - 1 h 14 min - 2 moduler
+#### Inlärningsväg - 1 h 25 min - 2 moduler
 I den här utbildningsvägen får du en översikt över de viktigaste begreppen inom AI. Du får lära dig vad AI är och vilka tekniker som ligger till grund för AI. Du får också information om hur Microsoft använder de senaste framstegen inom AI i sina verktyg, produkter och tjänster som kan användas av organisationer.
 
 Modules:
@@ -32,7 +67,7 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 
 ## [AI Business School för tillverkningsindustrin](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-manufacturing)
-#### Inlärningsväg - 7 h 23 min - 10 moduler
+#### Inlärningsväg - 7 h 38 min - 10 moduler
 Beslutsfattare inom tillverkningsindustrin måste ta hänsyn till vissa branschspecifika överväganden för att kunna se den stora effekt som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom tillverkningsindustrin för att visa den omvälvande påverkan som AI kan ha på verksamheten.
 
 Modules:
@@ -48,7 +83,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [AI Business School för finanssektorn](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-financial-services)
-#### Inlärningsväg - 7 h 27 min - 10 moduler
+#### Inlärningsväg - 7 h 42 min - 10 moduler
 Beslutsfattare inom finanssektorn behöver fatta branschspecifika beslut för att kunna få förståelse för den omvälvande påverkan som AI kan ha på verksamheten. Det är viktigt att förstå komponenterna i en strategi som kan hjälpa finanssektorn att skapa affärsvärde med hjälp av AI-teknik.
 
 Modules:
@@ -64,7 +99,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [AI Business School för detaljhandeln](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-retail)
-#### Inlärningsväg - 7 h 22 min - 10 moduler
+#### Inlärningsväg - 7 h 37 min - 10 moduler
 Beslutsfattare inom detaljhandeln behöver fatta branschspecifika beslut för att kunna få förståelse för den omvälvande påverkan som AI kan ha på verksamheten.
 
 Modules:
@@ -91,24 +126,16 @@ Modules:
 - Discover how to foster an AI-ready culture in customer service
 
 ## [Definiera en AI-strategi för att skapa affärsvärde](https://docs.microsoft.com/sv-se/learn/paths/ai-strategy-for-business-value)
-#### Inlärningsväg - 3 h 52 min - 5 moduler
+#### Inlärningsväg - 4 h 43 min - 6 moduler
 I den här utbildningsvägen berättar Peter Zemsky, INSEAD:s Eli Lilly Chaired Professor of Strategy and Innovation, om hur AI skapar affärsvärde i olika branscher och företag samt för Microsofts kunder och partner. Du får information om hur tekniska team använder AI i affärsprogram och hur företagsledare från olika branscher ser på AI-teknik i sina egna verksamheter.
 
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
 - Transform business processes in retail with AI
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
-
-## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
-#### Inlärningsväg - 2 h 23 min - 3 moduler
-Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
-
-Modules:
-- Skapa och lagra containeravbildningar med Azure Container Registry
-- Köra Docker-containers med Azure Container Instances
-- Distribuera och kör en containerbaserad webbapp med Azure App Service
 
 ## [Använda grundläggande formler för att göra bättre PowerApps-arbetsyteappar](https://docs.microsoft.com/sv-se/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Inlärningsväg - 2 h 16 min - 3 moduler
@@ -207,7 +234,7 @@ Modules:
 - Identifiera attityd i text med API:et för textanalys
 
 ## [Utföra datateknikuppgifter med Azure Databricks](https://docs.microsoft.com/sv-se/learn/paths/data-engineering-with-databricks)
-#### Inlärningsväg - 10 h 23 min - 9 moduler
+#### Inlärningsväg - 7 h 49 min - 9 moduler
 Lär dig mer om de verktyg och tekniker för datateknikuppgifter som stöds av Azure Databricks.
 
 Modules:
@@ -232,7 +259,7 @@ Modules:
 
 ## [Arbeta med Connected Field Service for Dynamics 365 och Azure IoT](https://docs.microsoft.com/sv-se/learn/paths/working-with-connected-field-service-iot)
 #### Inlärningsväg - 5 h 56 min - 5 moduler
-I den här utbildningsvägen får du en introduktion till Connected Field Service och Azure IoT. Här får du lära dig att identifiera undantag, registrera och hantera enheter, fjärrövervaka och utföra service på utrustning samt använda IoT Central med Connected Field Service.
+Meddelande! Den lokaliserade versionen av den här kursen dras tillbaka den 8 juni. Den senaste versionen av kursen finns på engelska.
 
 Modules:
 - Kom igång med Connected Field Service for Dynamics 365 och Azure IoT
@@ -243,7 +270,7 @@ Modules:
 
 ## [Arbeta med kunskapshanteringslösningar i Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
 #### Inlärningsväg - 2 tim - 2 moduler
-Den här utbildningsvägen fokuserar på arbete kunskapshanteringslösningar i Microsoft Dynamics 365 for Customer Service.
+Meddelande! Den lokaliserade versionen av den här kursen dras tillbaka den 8 juni. Den senaste versionen av kursen finns på engelska.
 
 Modules:
 - Skapa och utforma kunskapshanteringslösningar i Dynamics 365 for Customer Service
@@ -251,7 +278,7 @@ Modules:
 
 ## [Arbeta med ärenden i Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Inlärningsväg - 2 h 57 min - 3 moduler
-Denna utbildningsväg fokuserar på ärendehanteringsfunktioner hos Dynamics 365 for Customer Service inklusive alternativ för att skapa ärenden, hantera ärendelösningsprocessen, arbeta med ärendehierarkier och slå samman liknande ärenden. Köer kan utnyttjas för att upprätthålla och hantera den totala mängden ärenden för kundtjänstagenter för att inkludera definierande köer för olika typer av ärenden, hantera köartiklar, plocka och släppa köobjekt och utforma ködirigeringsregler.
+Meddelande! Den lokaliserade versionen av den här kursen dras tillbaka den 8 juni. Den senaste versionen av kursen finns på engelska.
 
 Modules:
 - Kom igång med Dynamics 365 for Customer Service
@@ -266,23 +293,6 @@ Modules:
 - Komma igång att bygga med Power BI
 - Skapa och dela din första Power BI-rapport
 
-## [Skapa en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-powerapps)
-#### Inlärningsväg - 2 h 16 min - 3 moduler
-Den här utbildningsvägen ger en introduktion till PowerApps och beskriver hur du skapar och anpassar en app och hur du sedan hanterar och distribuerar den.
-
-Modules:
-- Get started with PowerApps
-- Anpassa en app i PowerApps
-- Hantera appar i PowerApps
-
-## [Arbeta med berättiganden och serviceavtal i Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Inlärningsväg - 2 h 8 min - 2 moduler
-Den här utbildningsvägen fokuserar på arbete med berättiganden och serviceavtal i Microsoft Dynamics 365 for Customer Service.
-
-Modules:
-- Skapa och hantera berättiganden i Microsoft Dynamics 365 for Customer Service
-- Dynamics 365 for Customer Service Serviceavtal
-
 ## [Skapa en modelldriven app i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-app-models-business-processes)
 #### Inlärningsväg - 1 h 40 min - 2 moduler
 Den här utbildningsvägen ger en introduktion till att skapa en modelldriven PowerApp-app som använder Common Data Service.
@@ -290,6 +300,14 @@ Den här utbildningsvägen ger en introduktion till att skapa en modelldriven Po
 Modules:
 - Kom igång med modelldrivna appar i PowerApps
 - Kom igång med Common Data Service
+
+## [Arbeta med berättiganden och serviceavtal i Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Inlärningsväg - 2 h 8 min - 2 moduler
+Meddelande! Den lokaliserade versionen av den här kursen dras tillbaka den 8 juni. Den senaste versionen av kursen finns på engelska.
+
+Modules:
+- Skapa och hantera berättiganden i Microsoft Dynamics 365 for Customer Service
+- Dynamics 365 for Customer Service Serviceavtal
 
 ## [Implementera en dataströmningslösning med Azure Streaming Analytics](https://docs.microsoft.com/sv-se/learn/paths/implement-data-streaming-with-asa)
 #### Inlärningsväg - 1 h 14 min - 2 moduler
@@ -308,6 +326,15 @@ Modules:
 - Ladda upp data till Azure Data Lake Storage
 - Skydda ditt Azure Storage-konto
 
+## [Azure för datatekniker](https://docs.microsoft.com/sv-se/learn/paths/azure-for-the-data-engineer)
+#### Inlärningsväg - 1 h 51 min - 3 moduler
+Utforska hur datavärlden har utvecklats och hur de nya molnteknikerna erbjuder nya möjligheter som företag kan utforska. Du får lära dig de olika plattformsteknikerna för data som finns tillgängliga och hur en datatekniker kan dra nytta av den här tekniken för en organisation.
+
+Modules:
+- Förstå den växande världen av data
+- Överblicka tjänsterna på Azure-dataplattformen
+- Identifiera de uppgifter som en datatekniker utför i en molnbaserad arkitektur
+
 ## [Implementera ett informationslager med Azure SQL Data Warehouse](https://docs.microsoft.com/sv-se/learn/paths/implement-sql-data-warehouse)
 #### Inlärningsväg - 3 h 21 min - 4 moduler
 Azure SQL Data Warehouse ger ett stort relationsdatalager för stordata, som kan skalas upp till petabyte-storlek. I den här utbildningsvägen lär du dig hur Azure SQL Data Warehouse kan skalas upp till den här storleken tack vare arkitekturen med massiv parallellbearbetning (MPP). Skapa ett informationslager på bara några minuter och skapa rapporter med frågespråk du redan kan. Läs in enorma mängder data på bara några minuter och se till att ditt informationslager är säkert.
@@ -318,17 +345,8 @@ Modules:
 - Importera data till Azure SQL Data Warehouse med hjälp av PolyBase
 - Säkerhet för informationslager
 
-## [Azure för datatekniker](https://docs.microsoft.com/sv-se/learn/paths/azure-for-the-data-engineer)
-#### Inlärningsväg - 1 h 51 min - 3 moduler
-Utforska hur datavärlden har utvecklats och hur de nya molnteknikerna erbjuder nya möjligheter som företag kan utforska. Du får lära dig de olika plattformsteknikerna för data som finns tillgängliga och hur en datatekniker kan dra nytta av den här tekniken för en organisation.
-
-Modules:
-- Förstå den växande världen av data
-- Överblicka tjänsterna på Azure-dataplattformen
-- Identifiera de uppgifter som en datatekniker utför i en molnbaserad arkitektur
-
 ## [Extrahera kunskap och insikter från dina data med Azure Databricks](https://docs.microsoft.com/sv-se/learn/paths/data-science)
-#### Inlärningsväg - 5 h 31 min - 6 moduler
+#### Inlärningsväg - 4 h 21 min - 6 moduler
 Lär dig hur du använder Azure Databricks för att utnyttja förutsägande och analytiska Data Science-tekniker, till exempel undersökande dataanalys, modellträning, textanalys och djupinlärning.
 
 Modules:
@@ -372,7 +390,7 @@ Modules:
 
 ## [Kundröst (VoC) för Dynamics 365](https://docs.microsoft.com/sv-se/learn/paths/dyn365-voice-of-customer)
 #### Inlärningsväg - 2 h 52 min - 3 moduler
-Den här utbildningsvägen presenterar grunderna i Kundröst (VoC) för Dynamics 365.
+Meddelande! Den lokaliserade versionen av den här kursen dras tillbaka den 8 juni. Den senaste versionen av kursen finns på engelska.
 
 Modules:
 - Designa Dynamics 365-undersökningar i Kundröst (VoC)
@@ -413,15 +431,6 @@ Modules:
 - Skydda dina Azure-resurser med rollbaserad åtkomstkontroll (RBAC)
 - Skydda din Azure SQL-databas
 
-## [Skapa serverlösa program](https://docs.microsoft.com/sv-se/learn/paths/create-serverless-applications)
-#### Inlärningsväg - 3 h 9 min - 3 moduler
-Med Azure Functions kan du skapa händelsestyrda system med beräkning på begäran som utlöses av olika externa händelser. Lär dig att använda funktioner för att köra logik på serversidan och skapa serverlösa arkitekturer.
-
-Modules:
-- Skapa serverlös logik med Azure Functions
-- Kör en Azure-funktion med utlösare
-- Koppla samman Azure-funktioner med hjälp av in- och utdatabindningar
-
 ## [Skapa bra lösningar i Azure](https://docs.microsoft.com/sv-se/learn/paths/architect-great-solutions-in-azure)
 #### Inlärningsväg - 4 h 17 min - 5 moduler
 Läs om hur du utformar och skapar säkra, skalbara, högpresterande lösningar i Azure genom att undersöka de huvudprinciper som finns i alla bra arkitekturer.
@@ -432,6 +441,19 @@ Modules:
 - Utforma för prestanda och skalbarhet i Azure
 - Designa för effektivitet och drift i Azure
 - Designa för tillgänglighet och återställning i Azure
+
+## [Skapa serverlösa program](https://docs.microsoft.com/sv-se/learn/paths/create-serverless-applications)
+#### Inlärningsväg - 6 h 15 min - 7 moduler
+Med Azure Functions kan du skapa händelsestyrda system med beräkning på begäran som utlöses av olika externa händelser. Lär dig att använda funktioner för att köra logik på serversidan och skapa serverlösa arkitekturer.
+
+Modules:
+- Välj lämplig Azure-tjänst för att integrera och automatisera affärsprocesser
+- Skapa serverlös logik med Azure Functions
+- Kör en Azure-funktion med utlösare
+- Koppla samman Azure-funktioner med hjälp av in- och utdatabindningar
+- Skapa ett långvarigt serverlöst arbetsflöde med Durable Functions (varaktiga funktioner)
+- Utveckla, testa och distribuera en Azure-funktion med Visual Studio
+- Övervaka GitHub-händelser med en Azure-funktion som utlöses av en webhook
 
 ## [Koppla samman dina tjänster](https://docs.microsoft.com/sv-se/learn/paths/connect-your-services-together)
 #### Inlärningsväg - 3 h 31 min - 4 moduler
@@ -454,17 +476,6 @@ Modules:
 - Förutse kostnader och optimera utgifter för Azure
 - Ha kontroll över och ordna Azure-resurser med Azure Resource Manager
 
-## [Arbeta med NoSQL-data i Azure Cosmos DB](https://docs.microsoft.com/sv-se/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Inlärningsväg - 3 h 43 min - 5 moduler
-NoSQL-data är ett effektivt sätt att lagra information som inte mappas till kraven i en SQL-relationsdatabas. Lär dig hur du använder Azure Portal, Azure Cosmos DB-tillägget för Visual Studio Code och Azure Cosmos DB .NET Core SDK för att arbeta med dina NoSQL-data var du vill och ge användarna hög tillgänglighet, oavsett var de befinner sig i världen.
-
-Modules:
-- Skapa en Azure Cosmos DB-databas som kan skalas
-- Infoga och fråga efter data i din Azure Cosmos DB-databas
-- Skapa en .NET Core-app för Azure Cosmos DB i Visual Studio Code
-- Optimera prestandan för Azure Cosmos DB med hjälp av partitionerings- och indexeringsstrategier
-- Distribuera dina data globalt med Azure Cosmos DB
-
 ## [Administrera infrastrukturresurser i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-infrastructure-resources-in-azure)
 #### Inlärningsväg - 9 h 34 min - 10 moduler
 Lär dig hur du skapar, hanterar, skyddar och skalar virtuella datorresurser.
@@ -480,6 +491,20 @@ Modules:
 - Lägga till och ändra storlek på diskar i Azure Virtual Machines
 - Cachelagring och prestanda i Azure Storage-diskar
 - Skydda dina virtuella Azure-datordiskar
+
+## [Arbeta med NoSQL-data i Azure Cosmos DB](https://docs.microsoft.com/sv-se/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
+#### Inlärningsväg - 5 h 55 min - 8 moduler
+NoSQL-data är ett effektivt sätt att lagra information som inte mappas till kraven i en SQL-relationsdatabas. Lär dig hur du använder Azure Portal, Azure Cosmos DB-tillägget för Visual Studio Code och Azure Cosmos DB .NET Core SDK för att arbeta med dina NoSQL-data var du vill och ge användarna hög tillgänglighet, oavsett var de befinner sig i världen.
+
+Modules:
+- Skapa en Azure Cosmos DB-databas som kan skalas
+- Välj rätt API för Azure Cosmos DB-lagring
+- Infoga och fråga efter data i din Azure Cosmos DB-databas
+- Lagra och få åtkomst till diagramdata i Azure Cosmos DB med Graph API
+- Lagra och komma åt NoSQL-data med Azure Cosmos DB och Tabell-API
+- Skapa en .NET Core-app för Azure Cosmos DB i Visual Studio Code
+- Optimera prestandan för Azure Cosmos DB med hjälp av partitionerings- och indexeringsstrategier
+- Distribuera dina data globalt med Azure Cosmos DB
 
 ## [Distribuera en webbplats till Azure med Azure App Service](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-app-service)
 #### Inlärningsväg - 4 h 30 min - 5 moduler
@@ -540,11 +565,11 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Inlärningsväg - 9 h 3 min - 6 moduler
+#### Inlärningsväg - 9 h 8 min - 6 moduler
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -565,8 +590,8 @@ Modules:
 - Introduction to Xamarin.iOS
 - Create a UI in Xamarin.Forms apps by using XAML
 - Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
+- Design consistent Xamarin.Forms XAML pages by using shared resources and styles
+- Prepare to publish your Xamarin app
 - Consume REST web services in Xamarin apps
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
@@ -578,8 +603,8 @@ Add professional touches and development techniques for more beautiful and maint
 Modules:
 - Explore cross-platform design patterns for Xamarin apps
 - Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
 - Design an MVVM viewmodel for Xamarin.Forms
 - Display relationships in Xamarin.Forms with master-detail navigation
 - Create custom controls with Xamarin.Forms renderers
@@ -594,11 +619,11 @@ Modules:
 - Analyze data with Power BI
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Inlärningsväg - 5 h 57 min - 4 moduler
+#### Inlärningsväg - 6 h 10 min - 4 moduler
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
 - Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
 - Process purchase orders in Dynamics 365 for Finance and Operations
 - Configure and work with quality control in Dynamics 365 for Finance and Operations
@@ -720,7 +745,7 @@ Modules:
 - Use and understand Controls in a canvas app in PowerApps
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/sv-se/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Inlärningsväg - 5 h 31 min - 6 moduler
+#### Inlärningsväg - 5 h 36 min - 6 moduler
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -793,10 +818,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/sv-se/learn/paths/working-with-dynamics-sales-professional)
-#### Inlärningsväg - 2 h 35 min - 3 moduler
+#### Inlärningsväg - 4 h 35 min - 5 moduler
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

@@ -1,7 +1,72 @@
 # Summary of Learning Paths (de-de)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [KI-Tutorial für Behörden](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-government)
+#### Lernpfad - 7 Std. 44 Min. - Anzahl der Module: 10
+Entscheidungsträger in Behörden müssen sich speziell für den öffentlichen Bereich Gedanken machen, um die positiven Auswirkungen von KI umsetzen zu können. Es ist wichtig, die verschiedenen Komponenten einer Strategie zu verstehen, die im öffentlichen Bereich dazu beitragen, den Nutzen mit KI zu erhöhen. Dieser Lernpfad wurde für Entscheidungsträger in Behörden entwickelt, um diesen zu zeigen, welche positiven Auswirkungen KI für den öffentlichen Bereich haben kann.
+
+Modules:
+- Definieren einer KI-Strategie zur Schaffung von Geschäftswert
+- Definieren einer KI-Strategie mit dem Ziel, einen Nutzen für Behörden zu schaffen
+- Verstehen der Bedeutung des Aufbaus einer auf KI vorbereiteten Kultur
+- Fördern einer auf KI vorbereiteten Kultur im Finanzwesen
+- Fördern einer auf KI vorbereiteten Kultur im Marketing
+- Fördern einer auf KI vorbereiteten Kultur im Vertrieb
+- Fördern einer auf KI vorbereiteten Kultur im Kundenservice
+- Bestimmen von Leitprinzipien für verantwortungsbewusste künstliche Intelligenz in Ihrem Unternehmen
+- Einführung in die KI-Technologie
+- Untersuchen des Ansatzes von Microsoft für künstliche Intelligenz
+
+## [Verwalten von Containern in Azure](https://docs.microsoft.com/de-de/learn/paths/administer-containers-in-azure)
+#### Lernpfad - 3 Std. 20 Min. - Anzahl der Module: 4
+Azure-Containerinstanzen sind die schnellste und einfachste Möglichkeit zum Ausführen von Containern in Azure. Dieser Lernpfad vermittelt Ihnen das Erstellen und Verwalten Ihrer Container, und wie ACI (Azure Container Instances, Azure-Containerinstanzen) verwendet werden kann, um elastische Skalierung für Kubernetes bereitzustellen.
+
+Modules:
+- Erstellen einer containerisierten Webanwendung mit Docker
+- Erstellen und Speichern von Containerimages mit Azure Container Registry
+- Ausführen von Docker-Containern mit Azure Container Instances
+- Bereitstellen und Ausführen einer containerbasierten Web-App mit Azure App Service
+
+## [Erstellen einer Canvas-App in PowerApps](https://docs.microsoft.com/de-de/learn/paths/create-powerapps)
+#### Lernpfad - 2 Std. 10 Min. - Anzahl der Module: 3
+Möchten Sie Apps erstellen, damit Ihr Unternehmen effizienter wird? Dann hilft Ihnen dieser Pfad weiter. In ihm lernen Sie die Grundlagen von PowerApps kennen, und Sie erfahren, wie Sie Apps erstellen, anpassen, verwalten und verteilen können.
+
+Modules:
+- Get started with PowerApps
+- Anpassen einer App in PowerApps
+- Verwalten von Apps in PowerApps
+
+## [Anpassen und Hinzufügen von erweiterten Features zu Xamarin.Forms-Apps](https://docs.microsoft.com/de-de/learn/paths/customize-your-xamarin-forms-apps)
+#### Lernpfad - 7 Std. 25 Min. - Anzahl der Module: 8
+Fügen Sie professionelle Akzente und Entwicklungstechniken für schönere und einfacher zu wartende Apps hinzu.
+
+Modules:
+- Erkunden plattformübergreifender Entwurfsmuster für Xamarin-Apps
+- Trennen der Benutzeroberfläche und des Codes mit Xamarin.Forms-Datenbindungen
+- Anzeigen von Sammlungen in Xamarin.Forms-Apps mit ListView
+- Anpassen des Xamarin.Forms-Steuerelements ListView
+- Entwurf eines MVVM-ViewModels für Xamarin.Forms
+- Anzeigen von Beziehungen in Xamarin.Forms mit Master/Detail-Navigation
+- Erstellen von benutzerdefinierten Steuerelementen mit Xamarin.Forms-Renderern
+- Verwenden von Effekten in Xamarin.Forms
+
+## [Erstellen von mobilen Apps mit Xamarin.Forms](https://docs.microsoft.com/de-de/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Lernpfad - 9 Std. 34 Min. - Anzahl der Module: 10
+Verwenden Sie C# und Visual Studio, um Apps zu erstellen, die auf iOS- und Android-Geräten ausgeführt werden.
+
+Modules:
+- Erstellen einer mobilen App mit Xamarin.Forms
+- Einführung in Xamarin.Android
+- Einführung in Xamarin.iOS
+- Erstellen einer Benutzeroberfläche in Xamarin.Forms-Apps mit XAML
+- Anpassen des Layouts von Xamarin.Forms-XAML-Seiten
+- Entwerfen konsistenter Xamarin.Forms-XAML-Seiten mit gemeinsam genutzten Ressourcen und Stilen
+- Vorbereiten der Veröffentlichung Ihrer Xamarin-App
+- Nutzen von REST-Webdiensten in Xamarin-Apps
+- Speichern von lokalen Daten mit SQLite in einer Xamarin.Forms-App
+- Erstellen von mehrseitigen Xamarin.Forms-Apps mit Stapel- und Registerkartennavigation
+
 ## [KI-Tutorial für Unternehmen in der Finanzdienstleistungsbranche](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-financial-services)
-#### Lernpfad - 7 Std. 27 Min. - Anzahl der Module: 10
+#### Lernpfad - 7 Std. 42 Min. - Anzahl der Module: 10
 Entscheidungsträger in der Finanzdienstleistungsbranche müssen sich speziell für ihre Branche Gedanken machen, um die positiven Auswirkungen von KI für ihr Unternehmen umsetzen zu können. Es ist wichtig, die verschiedenen Komponenten einer Strategie zu verstehen, die in der Finanzdienstleistungsbranche dazu beitragen, den Geschäftswert mit KI zu erhöhen.
 
 Modules:
@@ -17,7 +82,7 @@ Modules:
 - Untersuchen des Ansatzes von Microsoft für künstliche Intelligenz
 
 ## [KI-Tutorial für Unternehmen im Gesundheitswesen](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-healthcare)
-#### Lernpfad - 7 Std. 22 Min. - Anzahl der Module: 10
+#### Lernpfad - 7 Std. 37 Min. - Anzahl der Module: 10
 Entscheidungsträger im Gesundheitswesen müssen sich Gedanken speziell für ihre Branche machen, um die positiven Auswirkungen von KI für ein Unternehmen umsetzen zu können. Dieser Lernpfad wurde für Entscheidungsträger im Gesundheitswesen entwickelt, um diesen zu zeigen, welche positiven Auswirkungen KI für ein Unternehmen haben kann.
 
 Modules:
@@ -33,7 +98,7 @@ Modules:
 - Untersuchen des Ansatzes von Microsoft für künstliche Intelligenz
 
 ## [KI-Tutorial für Unternehmen im Einzelhandel](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-retail)
-#### Lernpfad - 7 Std. 22 Min. - Anzahl der Module: 10
+#### Lernpfad - 7 Std. 37 Min. - Anzahl der Module: 10
 Entscheidungsträger in der Einzelhandelsbranche müssen sich speziell für ihre Branche Gedanken machen, um die positiven Auswirkungen von KI für ihr Unternehmen umsetzen zu können.
 
 Modules:
@@ -60,7 +125,7 @@ Modules:
 - Fördern einer auf KI vorbereiteten Kultur im Kundenservice
 
 ## [Einführung in die KI-Technologie für Führungskräfte](https://docs.microsoft.com/de-de/learn/paths/ai-technology-for-business-leaders)
-#### Lernpfad - 1 Std. 14 Min. - Anzahl der Module: 2
+#### Lernpfad - 1 Std. 25 Min. - Anzahl der Module: 2
 In diesem Lernpfad erhalten Sie eine allgemeine Übersicht über die grundlegenden Konzepten der KI. Sie können dann beschreiben, um was es sich bei KI handelt und welche Technologien die Grundlage bilden. Sie können erläutern, wie Microsoft die neuesten Fortschritte in der KI in Tools, Produkten und Diensten umsetzt, die von Unternehmen genutzt werden können.
 
 Modules:
@@ -75,7 +140,7 @@ Modules:
 - Bestimmen von Leitprinzipien für verantwortungsbewusste künstliche Intelligenz in Ihrem Unternehmen
 
 ## [KI-Tutorial für Unternehmen in der Fertigungsindustrie](https://docs.microsoft.com/de-de/learn/paths/ai-business-school-manufacturing)
-#### Lernpfad - 7 Std. 23 Min. - Anzahl der Module: 10
+#### Lernpfad - 7 Std. 38 Min. - Anzahl der Module: 10
 Entscheidungsträger in der Fertigungsindustrie müssen sich speziell für ihre Branche Gedanken machen, um die positiven Auswirkungen von KI für ihr Unternehmen umsetzen zu können. Dieser Lernpfad wurde für Entscheidungsträger in der Fertigungsindustrie entwickelt, um diesen zu zeigen, welche positiven Auswirkungen KI für ein Unternehmen haben kann.
 
 Modules:
@@ -91,24 +156,16 @@ Modules:
 - Untersuchen des Ansatzes von Microsoft für künstliche Intelligenz
 
 ## [Definieren einer KI-Strategie, um den Geschäftswert zu erhöhen](https://docs.microsoft.com/de-de/learn/paths/ai-strategy-for-business-value)
-#### Lernpfad - 3 Std. 52 Min. - Anzahl der Module: 5
+#### Lernpfad - 4 Std. 43 Min. - Anzahl der Module: 6
 In diesem Lernpfad geht Peter Zemsky, Eli Lilly Chaired Professor of Strategy and Innovation an der Wirtschaftshochschule INSEAD, darauf ein, wie KI den Geschäftswert erhöhen kann: sowohl branchen- und unternehmensübergreifend als auch für Microsoft-Kunden und -Partner. Sie können darüber sprechen, wie technische Teams KI in Unternehmensanwendungen einsetzen und wie Geschäftsführer in unterschiedlichen Branchen KI für ihr eigenes Unternehmen in Erwägung ziehen.
 
 Modules:
 - Definieren einer KI-Strategie zur Schaffung von Geschäftswert
 - Definieren einer KI-Strategie mit dem Ziel, einen Mehrwert bei Finanzdienstleistungen zu schaffen
+- Definieren einer KI-Strategie mit dem Ziel, einen Nutzen für Behörden zu schaffen
 - Definieren einer KI-Strategie mit dem Ziel, einen geschäftlichen Mehrwert im Einzelhandel zu schaffen
 - Definieren einer KI-Strategie mit dem Ziel, einen Mehrwert für das Unternehmen in der Produktion zu schaffen
 - Definieren einer KI-Strategie mit dem Ziel, einen geschäftlichen Mehrwert im Gesundheitswesen zu schaffen
-
-## [Verwalten von Containern in Azure](https://docs.microsoft.com/de-de/learn/paths/administer-containers-in-azure)
-#### Lernpfad - 2 Std. 23 Min. - Anzahl der Module: 3
-Azure-Containerinstanzen sind die schnellste und einfachste Möglichkeit zum Ausführen von Containern in Azure. Dieser Lernpfad vermittelt Ihnen das Erstellen und Verwalten Ihrer Container, und wie ACI (Azure Container Instances, Azure-Containerinstanzen) verwendet werden kann, um elastische Skalierung für Kubernetes bereitzustellen.
-
-Modules:
-- Erstellen und Speichern von Containerimages mit Azure Container Registry
-- Ausführen von Docker-Containern mit Azure Container Instances
-- Bereitstellen und Ausführen einer containerbasierten Web-App mit Azure App Service
 
 ## [Verwenden grundlegender Formeln für die Optimierung von PowerApps-Canvas-Apps](https://docs.microsoft.com/de-de/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Lernpfad - 2 Std. 16 Min. - Anzahl der Module: 3
@@ -118,6 +175,21 @@ Modules:
 - Erstellen einer einfachen Formel zum Ändern von Eigenschaften in einer PowerApps-Canvas-App
 - Erstellen einer einfachen Formel zum Ändern des Verhaltens in einer PowerApps-Canvas-App
 - Erstellen einer einfachen Formel, die Tabellen und Datensätzen in einer PowerApps-Canvas-App verwendet
+
+## [Grundlagen zu Microsoft 365](https://docs.microsoft.com/de-de/learn/paths/m365-fundamentals)
+#### Lernpfad - 3 Std. 10 Min. - Anzahl der Module: 9
+Microsoft 365 ist eine intelligente Lösung, einschließlich Office 365, Windows 10 und Enterprise Mobility + Security, mit der Mitarbeiter kreativ und sicher zusammenarbeiten können. Erfahren Sie, wie es Ihre Organisation bei der digitalen Transformation unterstützt.
+
+Modules:
+- Was ist Microsoft 365?
+- Einführung in wichtige Microsoft 365-Dienste und -Features
+- Einführung in die Zusammenarbeit in Microsoft 365
+- Wechseln Sie zu einem modernen Desktop-PC mit Microsoft 365
+- Einführung in die einheitliche Endpunktverwaltung in Microsoft 365
+- Einführung in die Sicherheit in Microsoft 365
+- Einführung in die Compliance-Tools in Microsoft 365
+- Verwalten Ihres Microsoft 365-Abonnements
+- Auswählen eines Cloudbereitstellungsmodells
 
 ## [Erstellen von KI-Lösungen mit Azure Machine Learning Service](https://docs.microsoft.com/de-de/learn/paths/build-ai-solutions-with-azure-ml-service)
 #### Lernpfad - 3 Std. 17 Min. - Anzahl der Module: 4
@@ -164,6 +236,14 @@ Modules:
 - Azure Data Science Virtual Machine-Varianten im Überblick
 - Bereitstellen und Verwenden von Azure Data Science Virtual Machine
 
+## [Erstellen von intelligenten Bots mit Azure Bot Service](https://docs.microsoft.com/de-de/learn/paths/create-bots-with-the-azure-bot-service)
+#### Lernpfad - 2 Std. 38 Min. - Anzahl der Module: 2
+Erfahren Sie, wie Sie einen intelligenten Chatbot mithilfe von QnA Maker und LUIS entwickeln können.
+
+Modules:
+- Erstellen eines FAQ-Chatbots mit QnA Maker und dem Azure Bot Service
+- Erstellen eines Chatbots mit dem Azure Bot Service
+
 ## [Verarbeiten und Klassifizieren von Bildern mit der Bildanalyse von Azure Cognitive Services](https://docs.microsoft.com/de-de/learn/paths/classify-images-with-vision-services)
 #### Lernpfad - 2 Std. 5 Min. - Anzahl der Module: 3
 Microsoft Cognitive Services bietet vorgefertigte Funktionen zur Aktivierung der Funktionalität des maschinellen Sehens in Ihrer Anwendung.  Erfahren Sie, wie Sie die Bildanalyse von Cognitive Services verwenden, um Gesichter zu erkennen, Bilder mit Tags zu versehen und zu klassifizieren und Objekte zu identifizieren.
@@ -172,14 +252,6 @@ Modules:
 - Identifizieren von Gesichtern und Gesichtsausdrücken mit der Maschinelles Sehen-API in Azure Cognitive Services
 - Verarbeiten von Bildern mit dem Maschinelles Sehen-Dienst
 - Klassifizieren von Bildern mit dem Microsoft Custom Vision Service
-
-## [Erstellen von intelligenten Bots mit Azure Bot Service](https://docs.microsoft.com/de-de/learn/paths/create-bots-with-the-azure-bot-service)
-#### Lernpfad - 2 Std. 38 Min. - Anzahl der Module: 2
-Erfahren Sie, wie Sie einen intelligenten Chatbot mithilfe von QnA Maker und LUIS entwickeln können.
-
-Modules:
-- Erstellen eines FAQ-Chatbots mit QnA Maker und dem Azure Bot Service
-- Erstellen eines Chatbots mit dem Azure Bot Service
 
 ## [Auswerten von Text mit dem Sprachdienst von Azure Cognitive Services](https://docs.microsoft.com/de-de/learn/paths/evaluate-text-with-language-services)
 #### Lernpfad - 2 Std. 13 Min. - Anzahl der Module: 3
@@ -207,7 +279,7 @@ Modules:
 - Erkennen bestimmter Stimmen mit den Sprechererkennungs-APIs in Azure Cognitive Services
 
 ## [Durchführen von Datentechnikvorgängen mit Azure Databricks](https://docs.microsoft.com/de-de/learn/paths/data-engineering-with-databricks)
-#### Lernpfad - 10 Std. 23 Min. - Anzahl der Module: 9
+#### Lernpfad - 7 Std. 49 Min. - Anzahl der Module: 9
 Lernen Sie die Datentechniktools und -verfahren kennen, die von Azure Databricks unterstützt werden.
 
 Modules:
@@ -232,7 +304,7 @@ Modules:
 
 ## [Arbeiten mit Wissensmanagementlösungen in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/de-de/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
 #### Lernpfad - 2 Std. - Anzahl der Module: 2
-Dieser Lernpfad behandelt das Arbeiten mit Wissensmanagementlösungen in Microsoft Dynamics 365 for Customer Service.
+Ankündigung! Die lokalisierte Version dieses Kurses wird am 8. Juni eingestellt. Die aktuellste Version des Kurses ist auf Englisch verfügbar.
 
 Modules:
 - Erstellen und Entwerfen von Wissensmanagementlösungen in Dynamics 365 for Customer Service
@@ -240,7 +312,7 @@ Modules:
 
 ## [Arbeiten mit Anfragen in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/de-de/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Lernpfad - 2 Std. 57 Min. - Anzahl der Module: 3
-Dieser Lernpfad behandelt die Anfrageverwaltungsfunktionen von Dynamics 365 for Customer Service, einschließlich Optionen für das Erstellen von Anfragen, das Verwalten des Anfrageabschlussprozesses, das Arbeiten mit Anfragehierarchien und das Zusammenführen ähnlicher Anfragen. Warteschlangen können zur Pflege und Verwaltung der Anfrageworkloads für Kundenserviceagents genutzt werden, einschließlich der Definition von Warteschlangen für verschiedene Typen von Anfragen, der Verwaltung von Warteschlangenelementen, der Auswahl und Freigabe von Warteschlangenelementen und des Entwerfens von Warteschlangenweiterleitungsregeln.
+Ankündigung! Die lokalisierte Version dieses Kurses wird am 8. Juni eingestellt. Die aktuellste Version des Kurses ist auf Englisch verfügbar.
 
 Modules:
 - Erste Schritte mit Dynamics 365 for Customer Service
@@ -249,7 +321,7 @@ Modules:
 
 ## [Arbeiten mit Berechtigungen und Vereinbarungen zum Servicelevel in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/de-de/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### Lernpfad - 2 Std. 8 Min. - Anzahl der Module: 2
-Dieser Lernpfad behandelt das Arbeiten mit Berechtigungen und Vereinbarungen zum Servicelevel in Microsoft Dynamics 365 for Customer Service.
+Ankündigung! Die lokalisierte Version dieses Kurses wird am 8. Juni eingestellt. Die aktuellste Version des Kurses ist auf Englisch verfügbar.
 
 Modules:
 - Erstellen und Verwalten von Berechtigungen in Microsoft Dynamics 365 for Customer Service
@@ -261,16 +333,7 @@ In diesem Lernpfad werden Sie in das Erstellen einer modellgesteuerten PowerApp 
 
 Modules:
 - Erste Schritte mit modellgesteuerten Apps in PowerApps
-- Erste Schritte mit Common Data Service für Apps
-
-## [Erstellen einer Canvas-App in PowerApps](https://docs.microsoft.com/de-de/learn/paths/create-powerapps)
-#### Lernpfad - 2 Std. 16 Min. - Anzahl der Module: 3
-In diesem Lernpfad lernen Sie die Grundlagen von PowerApps kennen, und Sie erfahren, wie Sie Apps erstellen, anpassen, verwalten und verteilen können.
-
-Modules:
-- Get started with PowerApps
-- Anpassen einer App in PowerApps
-- Verwalten von Apps in PowerApps
+- Erste Schritte mit dem Common Data Service
 
 ## [Erstellen und Verwenden von Analytics-Berichten mit Power BI](https://docs.microsoft.com/de-de/learn/paths/create-use-analytics-reports-power-bi)
 #### Lernpfad - 1 Std. 42 Min. - Anzahl der Module: 2
@@ -282,7 +345,7 @@ Modules:
 
 ## [Arbeiten mit Connected Field Service for Dynamics 365 und Azure IoT](https://docs.microsoft.com/de-de/learn/paths/working-with-connected-field-service-iot)
 #### Lernpfad - 5 Std. 56 Min. - Anzahl der Module: 5
-Dieser Lernpfad stellt Ihnen Connected Field Service und Azure IoT vor. In diesem Lernpfad werden Ausnahmen identifiziert, Geräte registriert und verwaltet, Arbeitsgeräte für den Service remote überwacht und IoT Central mit Connected Field Service verwendet.
+Ankündigung! Die lokalisierte Version dieses Kurses wird am 8. Juni eingestellt. Die aktuellste Version des Kurses ist auf Englisch verfügbar.
 
 Modules:
 - Jetzt bei Connected Field Service for Dynamics 365 und Azure IoT einsteigen
@@ -328,7 +391,7 @@ Modules:
 - Sichern Ihres Azure-Speicherkontos
 
 ## [Extrahieren von Wissen und Erkenntnissen aus Ihren Daten mit Azure Databricks](https://docs.microsoft.com/de-de/learn/paths/data-science)
-#### Lernpfad - 5 Std. 31 Min. - Anzahl der Module: 6
+#### Lernpfad - 4 Std. 21 Min. - Anzahl der Module: 6
 Erfahren Sie, wie Sie Azure Databricks verwenden, um Data Science-Verfahren zur Vorhersage und Analyse durchzuführen, z.B. die explorative Datenanalyse, das Modelltraining, die Textanalyse und Deep Learning.
 
 Modules:
@@ -372,7 +435,7 @@ Modules:
 
 ## [Stimme des Kunden für Dynamics 365](https://docs.microsoft.com/de-de/learn/paths/dyn365-voice-of-customer)
 #### Lernpfad - 2 Std. 52 Min. - Anzahl der Module: 3
-Dieser Lernpfad stellt Ihnen die Grundlagen von Stimme des Kunden für Dynamics 365 vor.
+Ankündigung! Die lokalisierte Version dieses Kurses wird am 8. Juni eingestellt. Die aktuellste Version des Kurses ist auf Englisch verfügbar. 
 
 Modules:
 - Gestaltung von Stimme des Kunden für Dynamics 365-Umfragen
@@ -410,15 +473,6 @@ Modules:
 - Entwurf für Effizienz und Vorgänge in Azure
 - Entwurf im Hinblick auf Verfügbarkeit und Wiederherstellbarkeit in Azure
 
-## [Erstellen von serverlosen Anwendungen](https://docs.microsoft.com/de-de/learn/paths/create-serverless-applications)
-#### Lernpfad - 3 Std. 9 Min. - Anzahl der Module: 3
-Mit Azure Functions können Sie ereignisgesteuerte Systeme erstellen, die Computeleistung nach Bedarf bieten und durch verschiedene externe Ereignisse ausgelöst werden können. Erfahren Sie, wie Sie mit Funktionen serverseitige Logik ausführen und serverlose Architekturen erstellen.
-
-Modules:
-- Erstellen von serverloser Logik mit Azure Functions
-- Ausführen einer Azure-Funktion mit Triggern
-- Verketten von Azure-Funktionen mithilfe von Eingabe- und Ausgabebindungen
-
 ## [Verwalten von Ressourcen in Azure](https://docs.microsoft.com/de-de/learn/paths/manage-resources-in-azure)
 #### Lernpfad - 4 Std. 15 Min. - Anzahl der Module: 5
 Erfahren Sie mehr zum Arbeiten mit Azure-Befehlszeilen und dem Webportal zum Erstellen, Verwalten und Steuern von cloudbasierten Ressourcen.
@@ -445,6 +499,19 @@ Modules:
 - Hinzufügen und Ändern der Größe von Datenträgern auf virtuellen Azure-Computern
 - Zwischenspeicherung und Leistung bei Azure-Speicherdatenträgern
 - Schützen Ihrer Azure-VM-Datenträger
+
+## [Erstellen von serverlosen Anwendungen](https://docs.microsoft.com/de-de/learn/paths/create-serverless-applications)
+#### Lernpfad - 6 Std. 15 Min. - Anzahl der Module: 7
+Mit Azure Functions können Sie ereignisgesteuerte Systeme erstellen, die Computeleistung nach Bedarf bieten und durch verschiedene externe Ereignisse ausgelöst werden können. Erfahren Sie, wie Sie mit Funktionen serverseitige Logik ausführen und serverlose Architekturen erstellen.
+
+Modules:
+- Auswählen des geeigneten Azure-Diensts für die Integration und Automatisierung von Geschäftsprozessen
+- Erstellen von serverloser Logik mit Azure Functions
+- Ausführen einer Azure-Funktion mit Triggern
+- Verketten von Azure-Funktionen mithilfe von Eingabe- und Ausgabebindungen
+- Erstellen eines zeitintensiven serverlosen Workflows mit Durable Functions
+- Entwickeln, Testen und Bereitstellen einer Azure-Funktion mit Visual Studio
+- Überwachen von GitHub-Ereignissen mit einer Azure-Funktion, die von einem Webhook ausgelöst wird
 
 ## [Bereitstellen einer Website in Azure mit Azure App Service](https://docs.microsoft.com/de-de/learn/paths/deploy-a-website-with-azure-app-service)
 #### Lernpfad - 4 Std. 30 Min. - Anzahl der Module: 5
@@ -474,6 +541,7 @@ Azure unterstützt mehrere beliebte SQL-basierte Datenbanklösungen, darunter SQ
 Modules:
 - Bereitstellen einer Azure SQL-Datenbank zum Speichern von Anwendungsdaten
 - Erstellen eines Azure Database for PostgreSQL-Servers
+- Skalieren mehrerer Azure SQL-Datenbanken mit Pools für elastische SQL-Datenbanken
 - Schützen von Azure SQL-Datenbank
 
 ## [Sichern der Clouddaten](https://docs.microsoft.com/de-de/learn/paths/secure-your-cloud-data)
@@ -491,12 +559,15 @@ Modules:
 - Schützen von Azure SQL-Datenbank
 
 ## [Verwenden von NoSQL-Daten in Azure Cosmos DB](https://docs.microsoft.com/de-de/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Lernpfad - 3 Std. 43 Min. - Anzahl der Module: 5
+#### Lernpfad - 5 Std. 32 Min. - Anzahl der Module: 8
 NoSQL-Daten sind eine effiziente Speicheroption für Informationen, die nicht den Anforderungen einer relationalen SQL-Datenbank entsprechen. Erfahren Sie, wie Sie über das Azure-Portal, die Azure Cosmos DB-Erweiterung für Visual Studio Code und das Azure Cosmos DB .NET Core SDK ortsunabhängig mit Ihren NoSQL-Daten arbeiten und Benutzern an jedem Ort der Welt Hochverfügbarkeit bieten können.
 
 Modules:
 - Erstellen einer skalierbaren Azure Cosmos DB-Datenbank
+- Auswählen einer geeigneten API für die Speicherung in Cosmos DB
 - Einfügen und Abfragen von Daten in Ihrer Azure Cosmos DB-Datenbank
+- Speichern von und Zugreifen auf Diagrammdaten in Cosmos DB mit der Graph-API
+- Speichern von und Zugreifen auf Access NoSQL-Daten mit Azure Cosmos DB und der Tabellen-API
 - Erstellen einer .NET Core-App für Azure Cosmos DB in Visual Studio Code
 - Optimieren der Leistung von Azure Cosmos DB durch Partitionierungs- und Indizierungsstrategien
 - Globales Verteilen Ihrer Daten mit Azure Cosmos DB
@@ -549,11 +620,11 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Lernpfad - 9 Std. 3 Min. - Anzahl der Module: 6
+#### Lernpfad - 9 Std. 8 Min. - Anzahl der Module: 6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -563,36 +634,6 @@ Modules:
 - Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/de-de/learn/paths/customize-your-xamarin-forms-apps)
-#### Lernpfad - 7 Std. 25 Min. - Anzahl der Module: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
-
-## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/de-de/learn/paths/build-mobile-apps-with-xamarin-forms)
-#### Lernpfad - 9 Std. 34 Min. - Anzahl der Module: 10
-Use C# and Visual Studio to create apps that run on iOS and Android devices.
-
-Modules:
-- Create a mobile app with Xamarin.Forms
-- Introduction to Xamarin.Android
-- Introduction to Xamarin.iOS
-- Create a UI in Xamarin.Forms apps by using XAML
-- Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
-- Consume REST web services in Xamarin apps
-- Store local data with SQLite in a Xamarin.Forms app
-- Create multi-page Xamarin.Forms apps with stack and tab navigation
 
 ## [Consume data with Power BI](https://docs.microsoft.com/de-de/learn/paths/consume-data-with-power-bi)
 #### Lernpfad - 2 Std. 35 Min. - Anzahl der Module: 2
@@ -642,11 +683,11 @@ Modules:
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Lernpfad - 5 Std. 57 Min. - Anzahl der Module: 4
+#### Lernpfad - 6 Std. 10 Min. - Anzahl der Module: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
 - Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
 - Process purchase orders in Dynamics 365 for Finance and Operations
 - Configure and work with quality control in Dynamics 365 for Finance and Operations
@@ -720,7 +761,7 @@ Modules:
 - Get started with Microsoft 365 using FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/de-de/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Lernpfad - 5 Std. 31 Min. - Anzahl der Module: 6
+#### Lernpfad - 5 Std. 36 Min. - Anzahl der Module: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -753,21 +794,6 @@ Modules:
 - Perform general ledger daily procedures in Dynamics 365 for Finance and Operations
 - Intercompany accounting in Dynamics 365 for Finance and Operations
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
-
-## [Microsoft 365 Fundamentals](https://docs.microsoft.com/de-de/learn/paths/m365-fundamentals)
-#### Lernpfad - 3 Std. 10 Min. - Anzahl der Module: 9
-Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
-
-Modules:
-- What is Microsoft 365?
-- Introduction to Microsoft 365 core services and features
-- Introduction to teamwork in Microsoft 365
-- Move to a modern desktop with Microsoft 365
-- Introduction to Microsoft 365 unified endpoint management
-- Introduction to security in Microsoft 365
-- Introduction to compliance tools in Microsoft 365
-- Manage your Microsoft 365 subscription
-- Select a cloud deployment model
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/de-de/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Lernpfad - 8 Std. 52 Min. - Anzahl der Module: 8
@@ -802,10 +828,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/de-de/learn/paths/working-with-dynamics-sales-professional)
-#### Lernpfad - 2 Std. 35 Min. - Anzahl der Module: 3
+#### Lernpfad - 4 Std. 35 Min. - Anzahl der Module: 5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

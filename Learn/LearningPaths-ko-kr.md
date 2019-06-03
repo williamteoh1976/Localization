@@ -1,7 +1,72 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [정부용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-government)
+#### 학습 경로 - 7시간 44분 - 모듈 수: 10
+정부의 의사 결정자는 AI의 진정한 변환 능력을 깨닫기 전에 특정 공공 분야의 고려 사항을 수행해야 합니다. 공공 부문이 AI를 통해 가치를 창출하는 데 도움이 되는 전략의 구성 요소를 파악하는 것이 중요합니다. 이 학습 경로는 정부 의사 결정자가 공공 분야에서 AI의 진정한 변환 영향을 설명하기 위해 설계되었습니다.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
+#### 학습 경로 - 3시간 20분 - 모듈 수: 4
+Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
+
+Modules:
+- Docker를 사용하여 컨테이너화된 웹 애플리케이션 빌드
+- Azure Container Registry를 사용하여 컨테이너 이미지 빌드 및 저장
+- Azure Container Instances에서 Docker 컨테이너 실행
+- App Service를 사용하여 컨테이너화된 웹앱 배포 및 실행
+
+## [PowerApps에서 캔버스 앱 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-powerapps)
+#### 학습 경로 - 2시간 11분 - 모듈 수: 3
+비즈니스를 보다 효율적으로 만들 수 있는 앱을 만들고 싶습니까? 그러면 이 경로를 따르세요. 이 경로는 PowerApps를 소개하고, 앱을 만들고 사용자 지정한 다음, 관리하고 배포하는 데 도움을 줍니다.
+
+Modules:
+- PowerApps 시작
+- PowerApps에서 캔버스 앱 사용자 지정
+- PowerApps에서 앱 관리
+
+## [Xamarin.Forms 앱에 고급 기능 사용자 지정 및 추가](https://docs.microsoft.com/ko-kr/learn/paths/customize-your-xamarin-forms-apps)
+#### 학습 경로 - 7시간 25분 - 모듈 수: 8
+더 훌륭하고 유지 관리할 수 있는 앱을 위한 전문적인 터치 및 개발 기술을 추가합니다.
+
+Modules:
+- Xamarin 앱의 플랫폼 간 디자인 패턴 살펴보기
+- Xamarin.Forms 데이터 바인딩을 사용하여 UI와 코드 분리
+- ListView를 사용하여 Xamarin.Forms 앱에서 컬렉션 표시
+- Xamarin.Forms ListView 사용자 지정
+- Xamarin.Forms에 대한 MVVM viewmodel 디자인
+- 마스터-세부 탐색이 있는 Xamarin.Forms에서 관계 표시
+- Xamarin.Forms 렌더러를 사용하여 사용자 지정 컨트롤 만들기
+- Xamarin.Forms에서 효과 사용
+
+## [Xamarin.Forms를 사용하여 모바일 앱 빌드](https://docs.microsoft.com/ko-kr/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### 학습 경로 - 9시간 34분 - 모듈 수: 10
+C# 및 Visual Studio를 사용하여 iOS 및 Android 디바이스에서 실행되는 앱을 만듭니다.
+
+Modules:
+- Xamarin.Forms를 사용하여 모바일 앱 만들기
+- Xamarin.Android 소개
+- Xamarin.iOS 소개
+- XAML을 사용하여 Xamarin.Forms 앱에서 UI 만들기
+- Xamarin.Forms XAML 페이지의 레이아웃 사용자 지정
+- 공유 리소스 및 스타일을 사용하여 일관된 Xamarin.Forms XAML 페이지 디자인
+- Xamarin 앱 게시 준비
+- Xamarin 앱에서 REST 앱 서비스 사용
+- Xamarin.Forms 앱에서 SQLite를 사용하여 로컬 데이터 저장
+- 스택 및 탭 탐색을 사용하여 다중 페이지 Xamarin.Forms 앱 만들기
+
 ## [금융 서비스용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-financial-services)
-#### 학습 경로 - 7시간 27분 - 모듈 수: 10
+#### 학습 경로 - 7시간 42분 - 모듈 수: 10
 금융 서비스의 의사 결정자는 AI가 기업에 미치는 진정한 변환 영향을 실현하는 데 도움이 되는 해당 업계 고유의 고려 사항을 가지고 있습니다. 금융 서비스 부문이 AI를 통해 비즈니스 가치를 창출하는 데 도움이 되는 전략의 구성 요소를 파악하는 것이 중요합니다.
 
 Modules:
@@ -17,7 +82,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [소매용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-retail)
-#### 학습 경로 - 7시간 22분 - 모듈 수: 10
+#### 학습 경로 - 7시간 37분 - 모듈 수: 10
 소매업계 의사 결정자는 AI가 기업에 미치는 진정한 변환 영향을 실현하는 데 도움이 되는 해당 업계 고유의 고려 사항을 가지고 있습니다.
 
 Modules:
@@ -33,18 +98,19 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [비즈니스 가치를 창출하기 위한 AI 전략 정의](https://docs.microsoft.com/ko-kr/learn/paths/ai-strategy-for-business-value)
-#### 학습 경로 - 3시간 52분 - 모듈 수: 5
+#### 학습 경로 - 4시간 43분 - 모듈 수: 6
 이 학습 경로에서 INSEAD의 Eli Lilly 전략과 혁신의 학과장인 Peter Zemsky로부터 AI가 업계 및 기업뿐만 아니라 Microsoft 고객 및 파트너에게 비즈니스 가치를 어떻게 이끌어 내는지에 대해 듣게 될 것입니다. 기술팀이 AI를 비즈니스 애플리케이션에 접목시키는 방법과 다양한 산업의 비즈니스 리더가 자신의 비즈니스를 위해 AI에 대해 어떻게 생각하는지 논의할 수 있습니다.
 
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
 - Transform business processes in retail with AI
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
 ## [제조업용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-manufacturing)
-#### 학습 경로 - 7시간 23분 - 모듈 수: 10
+#### 학습 경로 - 7시간 38분 - 모듈 수: 10
 제조업계의 의사 결정자는 엔터프라이즈에서 AI의 진정한 변환 능력을 깨닫기 전에 특정 산업의 고려 사항을 수행해야 합니다. 이 학습 경로는 제조업계 의사 결정자가 기업에서 AI의 진정한 변환 영향을 설명하기 위해 설계되었습니다.
 
 Modules:
@@ -66,14 +132,6 @@ Modules:
 Modules:
 - Identify guiding principles for responsible AI in your business
 
-## [비즈니스 리더를 위한 AI 기술 소개](https://docs.microsoft.com/ko-kr/learn/paths/ai-technology-for-business-leaders)
-#### 학습 경로 - 1시간 14분 - 모듈 수: 2
-이 학습 경로에서는 AI의 기본 개념에 대한 개략적인 개요를 제공합니다. AI가 무엇인지 그리고 그것을 뒷받침하는 기술을 설명할 수 있습니다. Microsoft가 AI의 최신 기능을 조직에서 활용할 수 있는 도구, 제품 및 서비스로 전환하는 방법을 공유할 수 있습니다.
-
-Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
 ## [비즈니스에서 AI 지원 문화권을 촉진하는 방법 검색](https://docs.microsoft.com/ko-kr/learn/paths/foster-ai-ready-culture)
 #### 학습 경로 - 3시간 22분 - 모듈 수: 5
 이 학습 경로에서 AI가 가능한 조직이 되기 위해 필요한 주요 변경 사항을 적용하는 프레임워크에 대해 Microsoft 최고 경영진으로부터 듣게 될 것입니다. AI의 성공적인 구현을 식별하고 관련 시나리오를 설명할 수 있을 것입니다. 재무, 마케팅, 영업 및 고객 서비스의 사업 부문에 특정되고 관련된 사용 사례에 대해 논의할 수 있습니다. 마지막으로 해당 성숙도에 따라 조직에서 구현할 수 있는 AI 솔루션을 식별할 수 있습니다.
@@ -85,8 +143,16 @@ Modules:
 - Discover how to foster an AI-ready culture in sales
 - Discover how to foster an AI-ready culture in customer service
 
+## [비즈니스 리더를 위한 AI 기술 소개](https://docs.microsoft.com/ko-kr/learn/paths/ai-technology-for-business-leaders)
+#### 학습 경로 - 1시간 25분 - 모듈 수: 2
+이 학습 경로에서는 AI의 기본 개념에 대한 개략적인 개요를 제공합니다. AI가 무엇인지 그리고 그것을 뒷받침하는 기술을 설명할 수 있습니다. Microsoft가 AI의 최신 기능을 조직에서 활용할 수 있는 도구, 제품 및 서비스로 전환하는 방법을 공유할 수 있습니다.
+
+Modules:
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
 ## [의료 분야용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-healthcare)
-#### 학습 경로 - 7시간 22분 - 모듈 수: 10
+#### 학습 경로 - 7시간 37분 - 모듈 수: 10
 의료 분야의 의사 결정자는 AI가 기업에 미치는 진정한 변환 영향을 실현하는 데 도움이 되는 해당 업계 고유의 고려 사항을 가지고 있습니다. 이 학습 경로는 의료 산업 의사 결정자가 기업에서 AI의 진정한 변환 영향을 설명하기 위해 설계되었습니다.
 
 Modules:
@@ -101,18 +167,9 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
-#### 학습 경로 - 2시간 23분 - 모듈 수: 3
-Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
-
-Modules:
-- Azure Container Registry를 사용하여 컨테이너 이미지 빌드 및 저장
-- Azure Container Instances에서 Docker 컨테이너 실행
-- App Service를 사용하여 컨테이너화된 웹앱 배포 및 실행
-
-## [비즈니스를 위해 Microsoft 365 및 Surface를 사용 하 여 회사 Modernize](https://docs.microsoft.com/ko-kr/learn/paths/modernize-workplace-with-m365-and-surface)
+## [비즈니스용 Microsoft 365 및 Surface를 사용하여 최신 작업 공간 만들기](https://docs.microsoft.com/ko-kr/learn/paths/modernize-workplace-with-m365-and-surface)
 #### 학습 경로 - 2시간 50분 - 모듈 수: 9
-이해 하기 쉬운 방법으로 최신 작업 환경에 대해 자세히 알아보시겠습니까? Microsoft가 현대 회사를 만드는 데 도움을 주는 방법을 확인 하 시겠습니까?이 학습 경로는 사용자 및 it에 게 유용한 정보를 제공 하 고 Microsoft 365에서이를 만드는 데 도움을 주는 방법을 소개 합니다.
+이해하기 쉬운 방식으로 최신 작업 공간에 대해 알아보고 싶으세요? Microsoft에서 최신 작업 공간을 만드는 데 어떤 도움을 줄 수 있는지 알고 싶으세요?  이 학습 경로를 통해 최신 작업 공간이 사용자와 IT에게 어떤 의미인지와 Microsoft 365를 사용하여 최신 작업 공간을 만들 수 있는 방법을 소개합니다.
 
 Modules:
 - Microsoft 365를 시작합니다.
@@ -222,7 +279,7 @@ Modules:
 - Azure Machine Learning Studio에서 실험 만들기
 
 ## [Azure Databricks로 데이터 엔지니어링 수행](https://docs.microsoft.com/ko-kr/learn/paths/data-engineering-with-databricks)
-#### 학습 경로 - 10시간 23분 - 모듈 수: 9
+#### 학습 경로 - 7시간 49분 - 모듈 수: 9
 Azure Databricks에서 지원하는 데이터 엔지니어링 도구와 기술에 대해 알아봅니다.
 
 Modules:
@@ -261,14 +318,13 @@ Modules:
 - Power BI로 빌드 시작
 - 첫 번째 Power BI 보고서 만들기 및 공유
 
-## [PowerApps에서 캔버스 앱 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-powerapps)
-#### 학습 경로 - 2시간 16분 - 모듈 수: 3
-이 학습 경로는 PowerApps를 소개하고, 앱을 만들고 사용자 지정한 다음, 관리하고 배포하는 데 도움을 줍니다.
+## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
+#### 학습 경로 - 1시간 14분 - 모듈 수: 2
+이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
 
 Modules:
-- Get started with PowerApps
-- PowerApps에서 앱 사용자 지정
-- PowerApps에서 앱 관리
+- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
+- Azure Stream Analytics를 사용하여 데이터 변환
 
 ## [Microsoft Azure의 비즈니스 가치 알아보기](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-azure)
 #### 학습 경로 - 3시간 47분 - 모듈 수: 7
@@ -283,16 +339,8 @@ Modules:
 - Microsoft Azure IoT 전략 및 솔루션
 - Microsoft 클라우드 운영 모델 개요
 
-## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
-#### 학습 경로 - 1시간 14분 - 모듈 수: 2
-이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
-
-Modules:
-- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
-- Azure Stream Analytics를 사용하여 데이터 변환
-
 ## [Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
-#### 학습 경로 - 5시간 31분 - 모듈 수: 6
+#### 학습 경로 - 4시간 21분 - 모듈 수: 6
 Azure Databricks를 사용하여 탐색 데이터 분석, 모델 학습, 텍스트 분석 및 딥 러닝과 같은 예측 및 분석 데이터 과학 기술을 수행하는 방법에 대해 알아보세요.
 
 Modules:
@@ -323,7 +371,7 @@ Modules:
 - Azure Storage 계정 보안
 
 ## [Microsoft Dynamics 365 및 Power Platform의 비즈니스 가치를 알아봅니다.](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### 학습 경로 - 4시간 46분 - 모듈 수: 15
+#### 학습 경로 - 5시간 2분 - 모듈 수: 15
 비즈니스 응용 프로그램에 대해 알아보는 데 관심이 있으십니까? 또는 Microsoft Dynamics 365 및 Power Platform 응용 프로그램을 어디서부터 시작해야 할지 모르시겠습니까? 이 학습 경험은 디지털 트랜스포메이션과 비즈니스 응용 프로그램의 힘이 비즈니스를 혁신하는 방법을 보여 줌으로써 시작할 여정을 안내합니다. Dynamics 365 및 Power Platform이 조직의 요구 사항과 목표를 기반으로 정보에 입각한 의사결정을 내릴 수 있도록 지원하는 방법을 알아봅니다.
 
 Modules:
@@ -380,15 +428,6 @@ Modules:
 - 첫 번째 Windows 10 애플리케이션 작성
 - 인터넷에 연결된 Windows 앱 작성
 
-## [서버리스 애플리케이션 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-serverless-applications)
-#### 학습 경로 - 3시간 9분 - 모듈 수: 3
-Azure Functions를 사용하면 다양한 외부 이벤트에서 트리거될 수 있는 이벤트 기반 주문형 계산 시스템을 만들 수 있습니다. 함수를 활용하여 서버 쪽 논리를 실행하고 서버리스 아키텍처를 빌드하는 방법을 알아봅니다.
-
-Modules:
-- Azure Functions를 사용하여 서버리스 논리 만들기
-- 트리거를 사용하여 Azure Function 실행
-- 입력 및 출력 바인딩을 사용하여 함께 Azure Functions 연결
-
 ## [Azure에서 리소스 관리](https://docs.microsoft.com/ko-kr/learn/paths/manage-resources-in-azure)
 #### 학습 경로 - 4시간 15분 - 모듈 수: 5
 Azure 명령줄 및 웹 포털을 사용하여 클라우드 기반 리소스를 생성, 관리 및 제어하는 방법을 알아봅니다.
@@ -400,13 +439,29 @@ Modules:
 - Azure에 대한 비용 예상 및 지출 최적화
 - Azure Resource Manager를 사용하여 Azure 리소스 제어 및 구성
 
+## [서버리스 애플리케이션 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-serverless-applications)
+#### 학습 경로 - 6시간 15분 - 모듈 수: 7
+Azure Functions를 사용하면 다양한 외부 이벤트에서 트리거될 수 있는 이벤트 기반 주문형 계산 시스템을 만들 수 있습니다. 함수를 활용하여 서버 쪽 논리를 실행하고 서버리스 아키텍처를 빌드하는 방법을 알아봅니다.
+
+Modules:
+- 비즈니스 프로세스를 통합 및 자동화하기 위해 적절한 Azure 서비스 선택
+- Azure Functions를 사용하여 서버리스 논리 만들기
+- 트리거를 사용하여 Azure Function 실행
+- 입력 및 출력 바인딩을 사용하여 함께 Azure Functions 연결
+- Durable Functions를 사용하여 장기 실행 서버리스 워크플로 만들기
+- Visual Studio를 사용하여 Azure Function 개발, 테스트 및 배포
+- 웹후크에서 트리거되는 Azure Function을 사용하여 GitHub 이벤트 모니터링
+
 ## [Azure Cosmos DB의 NoSQL 데이터 작업](https://docs.microsoft.com/ko-kr/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### 학습 경로 - 3시간 43분 - 모듈 수: 5
+#### 학습 경로 - 5시간 55분 - 모듈 수: 8
 NoSQL 데이터는 관계형 SQL 데이터베이스의 요구 사항에 매핑되지 않는 정보를 저장하는 효율적인 방법입니다. Azure Portal, Visual Studio Code용 Azure Cosmos DB 확장 및 Azure Cosmos DB .NET Core SDK를 사용하여 원하는 위치에서 NoSQL 데이터로 작업하고, 전세계에 어디서든 사용자에게 고가용성을 제공하는 방법을 알아봅니다.
 
 Modules:
 - 크기를 조정하도록 빌드된 Azure Cosmos DB 데이터베이스 만들기
+- Azure Cosmos DB 스토리지에 적합한 API 선택
 - Azure Cosmos DB 데이터베이스에서 데이터 삽입 및 쿼리하기
+- Graph API를 사용하여 Azure Cosmos DB에 그래프 데이터 저장 및 액세스
+- Azure Cosmos DB 및 Table API를 사용하여 NoSQL 데이터 저장 및 액세스
 - Visual Studio Code를 사용하여 Azure Cosmos DB용 .NET Core 앱 빌드
 - 분할 및 인덱싱 전략을 사용하여 Azure Cosmos DB 성능 최적화
 - Azure Cosmos DB를 사용하여 전세계에 데이터 배포
@@ -480,7 +535,7 @@ Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔�
 Modules:
 - Azure에서 메시징 모델을 선택하여 서비스를 느슨하게 연결
 - Azure Service Bus를 통한 메시지 기반 통신 워크플로 구현
-- Azure Queue 스토리지를 사용하여 애플리케이션 간에 통신
+- Azure Queue Storage를 사용하여 애플리케이션 간에 통신
 - Azure Event Hubs를 사용하여 빅 데이터 애플리케이션에 대해 신뢰할 수 있는 메시징 사용
 
 ## [Azure Virtual Machines를 통해 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-virtual-machines)
@@ -531,7 +586,7 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/work-accounts-receivable-d365-finance-ops)
@@ -545,7 +600,7 @@ Modules:
 - Process credit and collections in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### 학습 경로 - 9시간 3분 - 모듈 수: 6
+#### 학습 경로 - 9시간 8분 - 모듈 수: 6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -555,36 +610,6 @@ Modules:
 - Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/ko-kr/learn/paths/customize-your-xamarin-forms-apps)
-#### 학습 경로 - 7시간 25분 - 모듈 수: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
-
-## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/ko-kr/learn/paths/build-mobile-apps-with-xamarin-forms)
-#### 학습 경로 - 9시간 34분 - 모듈 수: 10
-Use C# and Visual Studio to create apps that run on iOS and Android devices.
-
-Modules:
-- Create a mobile app with Xamarin.Forms
-- Introduction to Xamarin.Android
-- Introduction to Xamarin.iOS
-- Create a UI in Xamarin.Forms apps by using XAML
-- Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
-- Consume REST web services in Xamarin apps
-- Store local data with SQLite in a Xamarin.Forms app
-- Create multi-page Xamarin.Forms apps with stack and tab navigation
 
 ## [Consume data with Power BI](https://docs.microsoft.com/ko-kr/learn/paths/consume-data-with-power-bi)
 #### 학습 경로 - 2시간 35분 - 모듈 수: 2
@@ -602,16 +627,6 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### 학습 경로 - 5시간 57분 - 모듈 수: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### 학습 경로 - 5시간 56분 - 모듈 수: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
@@ -621,6 +636,16 @@ Modules:
 - Use inventory reports in Finance and Operations
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### 학습 경로 - 6시간 10분 - 모듈 수: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### 학습 경로 - 5시간 53분 - 모듈 수: 3
@@ -697,7 +722,7 @@ Modules:
 - Provision and administer Dynamics 365 portals
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### 학습 경로 - 5시간 31분 - 모듈 수: 6
+#### 학습 경로 - 5시간 36분 - 모듈 수: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -779,10 +804,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/ko-kr/learn/paths/working-with-dynamics-sales-professional)
-#### 학습 경로 - 2시간 35분 - 모듈 수: 3
+#### 학습 경로 - 4시간 35분 - 모듈 수: 5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

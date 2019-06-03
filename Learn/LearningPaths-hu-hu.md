@@ -1,5 +1,40 @@
 # Summary of Learning Paths (hu-hu)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [Mesterséges intelligencia üzleti iskolája kormányzati szerveknek](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-government)
+#### Képzési terv - 7 óra 44 perc - Modulok száma: 10
+A közigazgatás döntéshozóinak a közszféra szempontjait kell figyelembe venniük, mielőtt kihasználhatnák a mesterséges intelligencia hatékony átalakító erejét az intézményben. Kritikus fontosságú, hogy megértsék azokat a stratégiai összetevőket, amelyekkel a közszféra értéket hozhat létre a mesterséges intelligencia segítségével. Ez a képzési terv kormányzati döntéshozóknak szól, és a mesterséges intelligencia közszférában történő alkalmazásának átalakító hatását mutatja be.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Azure-beli tárolók felügyelete](https://docs.microsoft.com/hu-hu/learn/paths/administer-containers-in-azure)
+#### Képzési terv - 3 óra 20 perc - Modulok száma: 4
+A tárolók Azure-ban való futtatásának leggyorsabb és legegyszerűbb módja az Azure Container Instances használata. Ez a képzési terv azt ismerteti, hogyan hozhat létre és kezelhet tárolókat, és hogyan használható az Azure Container Instances (ACI) a rugalmas méretezéshez a Kubernetesben.
+
+Modules:
+- Tárolóalapú webalkalmazás létrehozása a Dockerrel
+- Tárolórendszerképek összeállítása és tárolása az Azure Container Registry használatával
+- Docker-tárolók futtatása az Azure Container Instances szolgáltatással
+- Tárolóalapú webalkalmazás üzembe helyezése és futtatása az Azure App Service-szel
+
+## [Vászonalapú alkalmazás létrehozása a PowerAppsben](https://docs.microsoft.com/hu-hu/learn/paths/create-powerapps)
+#### Képzési terv - 2 óra 11 perc - Modulok száma: 3
+Szeretne olyan alkalmazásokat létrehozni, melyekkel növelheti az üzleti hatékonyságot? Ez a képzési terv segít majd elvégezni mindezt. Bemutatja Önnek a PowerAppst; segítséget nyújt az alkalmazások létrehozásában és testre szabásában, valamint kezelésükben és közzétételükben.
+
+Modules:
+- Bevezetés a PowerApps használatába
+- Vászonalapú alkalmazás testre szabása a PowerAppsben
+- Alkalmazások kezelése a PowerAppsben
+
 ## [A felelős mesterséges intelligencia üzleti alapelveinek azonosítása](https://docs.microsoft.com/hu-hu/learn/paths/responsible-ai-business-principles)
 #### Képzési terv - 1 ó - 1 modul
 A mesterséges intelligencia üzleti hatásainak elemzése rendkívül fontos. Ebben a képzési tervben megismerkedhet az alapelvek és egy cégirányítási modell szervezeti lefektetésének irányelveivel, valamint az ehhez kapcsolódó erőforrásokkal, ajánlott eljárásokkal és eszközökkel.
@@ -8,7 +43,7 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 
 ## [Bevezetés a mesterséges intelligencia technológiájába üzleti vezetőknek](https://docs.microsoft.com/hu-hu/learn/paths/ai-technology-for-business-leaders)
-#### Képzési terv - 1 óra 14 perc - Modulok száma: 2
+#### Képzési terv - 1 óra 25 perc - Modulok száma: 2
 Eben a képzési tervben magas szintű áttekintést kaphat a mesterséges intelligencia alapvető fogalmairól. Megismerheti a mesterséges intelligencia lényegét és a mögöttes technológiákat. Megoszthatja, hogyan készít a Microsoft a mesterséges intelligencia legújabb innovációiból cégek által használható eszközöket, termékeket és szolgáltatásokat.
 
 Modules:
@@ -16,7 +51,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Mesterséges intelligencia üzleti iskolája egészségügyhöz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-healthcare)
-#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
+#### Képzési terv - 7 óra 37 perc - Modulok száma: 10
 Az egészségügyi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erején. Ez a képzési terv az egészségügyi iparág döntéshozóinak szól, és a mesterséges intelligencia vállalati alkalmazásának átalakító hatását mutatja be.
 
 Modules:
@@ -43,7 +78,7 @@ Modules:
 - Discover how to foster an AI-ready culture in customer service
 
 ## [Mesterséges intelligencia üzleti iskolája kiskereskedelemhez](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-retail)
-#### Képzési terv - 7 óra 22 perc - Modulok száma: 10
+#### Képzési terv - 7 óra 37 perc - Modulok száma: 10
 A kiskereskedelmi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erejét.
 
 Modules:
@@ -59,18 +94,19 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [AI-stratégia definiálása üzleti érték létrehozásához](https://docs.microsoft.com/hu-hu/learn/paths/ai-strategy-for-business-value)
-#### Képzési terv - 3 óra 52 perc - Modulok száma: 5
+#### Képzési terv - 4 óra 43 perc - Modulok száma: 6
 Ebben a képzési tervben Peter Zemsky, az INSEAD Eli Lilly stratégiai és innovációs elnöki professzora beszél arról, hogy a mesterséges intelligencia hogyan segíti elő az üzleti érték lefektetését számos iparágban és cégben, valamint a Microsoft ügyfelei és partnerei között. Értekezhet arról, hogy hogyan alkalmazzák a technikai csoportok a mesterséges intelligenciát üzleti alkalmazásokban, és hogyan építik be saját cégeikbe az AI-t a különböző iparágak üzleti vezetői.
 
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
 - Transform business processes in retail with AI
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
 ## [Mesterséges intelligencia üzleti iskolája pénzügyi szolgáltatásokhoz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-financial-services)
-#### Képzési terv - 7 óra 27 perc - Modulok száma: 10
+#### Képzési terv - 7 óra 42 perc - Modulok száma: 10
 Az pénzügyi iparág döntéshozói olyan iparágspecifikus szempontokat kell, hogy figyelembe vegyenek, amelyekkel kihasználhatják a vállalati mesterséges intelligencia átalakító erején. Kritikus fontosságú, hogy megértsék azokat a stratégiai összetevőket, amelyekkel a pénzügyi szektor üzleti értéket hozhat létre a mesterséges intelligencia segítségével.
 
 Modules:
@@ -86,7 +122,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Mesterséges intelligencia üzleti iskolája gyártáshoz](https://docs.microsoft.com/hu-hu/learn/paths/ai-business-school-manufacturing)
-#### Képzési terv - 7 óra 23 perc - Modulok száma: 10
+#### Képzési terv - 7 óra 38 perc - Modulok száma: 10
 A gyártási folyamat döntéshozóinak iparágspecifikus szempontokat kell figyelembe venniük, mielőtt kihasználhatnák a mesterséges intelligencia hatékony átalakító erejét a vállalatban. Ez a képzési terv a gyártási iparág döntéshozóinak szól, és a mesterséges intelligencia vállalati alkalmazásának átalakító hatását mutatja be.
 
 Modules:
@@ -100,15 +136,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Azure-beli tárolók felügyelete](https://docs.microsoft.com/hu-hu/learn/paths/administer-containers-in-azure)
-#### Képzési terv - 2 óra 23 perc - Modulok száma: 3
-A tárolók Azure-ban való futtatásának leggyorsabb és legegyszerűbb módja az Azure Container Instances használata. Ez a képzési terv azt ismerteti, hogyan hozhat létre és kezelhet tárolókat, és hogyan használható az Azure Container Instances (ACI) a rugalmas méretezéshez a Kubernetesben.
-
-Modules:
-- Tárolórendszerképek összeállítása és tárolása az Azure Container Registry használatával
-- Docker-tárolók futtatása az Azure Container Instances szolgáltatással
-- Tárolóalapú webalkalmazás üzembe helyezése és futtatása az Azure App Service-szel
 
 ## [Alapszintű képletek használata jobb minőségű PowerApps-vászonalkalmazások létrehozásához](https://docs.microsoft.com/hu-hu/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Képzési terv - 2 óra 16 perc - Modulok száma: 3
@@ -207,7 +234,7 @@ Modules:
 - Adott hangok felismerése az Azure Cognitive Services Speaker Recognition API-jaival
 
 ## [Adatfeldolgozás az Azure Databricksszel](https://docs.microsoft.com/hu-hu/learn/paths/data-engineering-with-databricks)
-#### Képzési terv - 10 óra 23 perc - Modulok száma: 9
+#### Képzési terv - 7 óra 49 perc - Modulok száma: 9
 Megismerheti az Azure Databricks által támogatott adatfeldolgozási eszközöket és technikákat.
 
 Modules:
@@ -229,15 +256,6 @@ Modules:
 - A Microsoft Flow használatának első lépései
 - Összetettebb folyamatok létrehozása a Microsoft Flow-val
 - Környezetek és adatszabályzatok felügyelete a Microsoft Flowban a Felügyeleti központ használatával
-
-## [Vászonalapú alkalmazás létrehozása a PowerAppsben](https://docs.microsoft.com/hu-hu/learn/paths/create-powerapps)
-#### Képzési terv - 2 óra 16 perc - Modulok száma: 3
-Ez a képzési terv bemutatja Önnek a PowerAppst; segítséget nyújt az alkalmazások létrehozásában és testre szabásában, valamint kezelésükben és közzétételükben.
-
-Modules:
-- Get started with PowerApps
-- Alkalmazás testreszabása a PowerAppsben
-- Alkalmazások kezelése a PowerAppsben
 
 ## [Modellalapú alkalmazás létrehozása a PowerAppsben](https://docs.microsoft.com/hu-hu/learn/paths/create-app-models-business-processes)
 #### Képzési terv - 1 óra 40 perc - Modulok száma: 2
@@ -264,7 +282,7 @@ Modules:
 - Adatok átalakítása az Azure Stream Analytics használatával
 
 ## [Ismeretek és elemzések kinyerése az adatokból az Azure Databricks szolgáltatással](https://docs.microsoft.com/hu-hu/learn/paths/data-science)
-#### Képzési terv - 5 óra 31 perc - Modulok száma: 6
+#### Képzési terv - 4 óra 21 perc - Modulok száma: 6
 Ismerje meg, hogyan használhatja az Azure Databricks platformot prediktív és analitikai adatkezelési technikák, például feltáró jellegű adatelemzések, modellbetanítás, szövegelemzés és mély tanulás végrehajtására.
 
 Modules:
@@ -358,15 +376,6 @@ Modules:
 - Windows rendszerű virtuális gép létrehozása az Azure-ban
 - Webalkalmazás fejlesztése és futtatása a MEAN veremmel Azure-beli Linux rendszerű virtuális gépen
 
-## [Kiszolgáló nélküli alkalmazás létrehozása](https://docs.microsoft.com/hu-hu/learn/paths/create-serverless-applications)
-#### Képzési terv - 3 óra 9 perc - Modulok száma: 3
-Az Azure Functions lehetővé teszi olyan eseményvezérelt, számítási igény szerinti rendszerek létrehozását, amelyeket különböző külső események aktiválhatnak. Elsajátíthatja a Functions kiaknázását kiszolgálóoldali logika végrehajtásához és kiszolgáló nélküli architektúrák kiépítéséhez.
-
-Modules:
-- Kiszolgáló nélküli logika létrehozása az Azure Functions használatával
-- Azure-függvény végrehajtása triggerekkel
-- Azure-függvények láncba fűzése bemeneti és kimeneti kötések használatával
-
 ## [Azure-beli infrastruktúra-erőforrások felügyelete](https://docs.microsoft.com/hu-hu/learn/paths/administer-infrastructure-resources-in-azure)
 #### Képzési terv - 9 óra 34 perc - Modulok száma: 10
 A virtuálisgép-erőforrások létrehozásának, kezelésének, védelmének és skálázásának ismertetése
@@ -390,15 +399,32 @@ Az Azure számos népszerű SQL-alapú adatbázis-megoldást támogat, így az S
 Modules:
 - Azure SQL Database-adatbázis üzembe helyezése az alkalmazásadatok tárolásához
 - Azure-adatbázis létrehozása PostgreSQL-kiszolgálóhoz
+- Több Azure SQL-adatbázis méretezése rugalmas SQL-készletekkel
 - Az Azure SQL Database-adatbázis védelme
 
+## [Kiszolgáló nélküli alkalmazás létrehozása](https://docs.microsoft.com/hu-hu/learn/paths/create-serverless-applications)
+#### Képzési terv - 6 óra 15 perc - Modulok száma: 7
+Az Azure Functions lehetővé teszi olyan eseményvezérelt, számítási igény szerinti rendszerek létrehozását, amelyeket különböző külső események aktiválhatnak. Elsajátíthatja a Functions kiaknázását kiszolgálóoldali logika végrehajtásához és kiszolgáló nélküli architektúrák kiépítéséhez.
+
+Modules:
+- A megfelelő Azure-szolgáltatás kiválasztása üzleti folyamatok integrálásához és automatizálásához
+- Kiszolgáló nélküli logika létrehozása az Azure Functions használatával
+- Azure-függvény végrehajtása triggerekkel
+- Azure-függvények láncba fűzése bemeneti és kimeneti kötések használatával
+- Hosszú ideig futó kiszolgáló nélküli munkafolyamatok létrehozása a Durable Functions használatával
+- Azure-függvény fejlesztése, tesztelése és üzembe helyezése a Visual Studióval
+- GitHub-események monitorozása webhookkal aktivált Azure-függvénnyel
+
 ## [NoSQL-adatokkal végzett munka az Azure Cosmos DB-ben](https://docs.microsoft.com/hu-hu/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Képzési terv - 3 óra 43 perc - Modulok száma: 5
+#### Képzési terv - 5 óra 55 perc - Modulok száma: 8
 A NoSQL-adatokkal hatékonyan tárolhatók olyan információk, amelyek nincsenek leképezve a relációs SQL Database követelményeire. Elsajátíthatja, hogyan használhatja az Azure Portalt, a Visual Studio Code Azure Cosmos DB-bővítményét és az Azure Cosmos DB .NET Core SDK-t, hogy bárhol dolgozhasson a NoSQL-adatokkal, illetve azt, hogyan biztosíthat magas rendelkezésre állást a felhasználóknak, bárhol is vannak a világon.
 
 Modules:
 - Méretezhető Azure Cosmos DB-adatbázis létrehozása
+- Az Azure Cosmos DB-tárolóhoz megfelelő API kiválasztása
 - Adatok beszúrása és lekérdezése az Azure Cosmos DB-adatbázisban
+- Gráfadatok tárolása és elérése az Azure Cosmos DB-ben a Graph API használatával
+- NoSQL-adatok tárolása és elérése az Azure Cosmos DB és a Table API használatával
 - .NET Core-alkalmazás fejlesztése az Azure Cosmos DB számára a Visual Studio Code-ban
 - Az Azure Cosmos DB teljesítményének optimalizálása particionálási és indexelési stratégiák használatával
 - Globális adatterjesztés az Azure Cosmos DB-vel
@@ -483,7 +509,7 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
@@ -498,7 +524,7 @@ Modules:
 - Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Képzési terv - 9 óra 3 perc - Modulok száma: 6
+#### Képzési terv - 9 óra 8 perc - Modulok száma: 6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -516,8 +542,8 @@ Add professional touches and development techniques for more beautiful and maint
 Modules:
 - Explore cross-platform design patterns for Xamarin apps
 - Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
 - Design an MVVM viewmodel for Xamarin.Forms
 - Display relationships in Xamarin.Forms with master-detail navigation
 - Create custom controls with Xamarin.Forms renderers
@@ -533,8 +559,8 @@ Modules:
 - Introduction to Xamarin.iOS
 - Create a UI in Xamarin.Forms apps by using XAML
 - Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
+- Design consistent Xamarin.Forms XAML pages by using shared resources and styles
+- Prepare to publish your Xamarin app
 - Consume REST web services in Xamarin apps
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
@@ -546,16 +572,6 @@ Do you want to make business decisions backed by data? Learn how to do that in P
 Modules:
 - Explore what Power BI can do for you
 - Analyze data with Power BI
-
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Képzési terv - 5 óra 57 perc - Modulok száma: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### Képzési terv - 5 óra 53 perc - Modulok száma: 3
@@ -577,6 +593,16 @@ Modules:
 - Create and process event Kanban rules in Dynamics 365 for Finance and Operations
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Képzési terv - 6 óra 10 perc - Modulok száma: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/hu-hu/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### Képzési terv - 5 óra 56 perc - Modulok száma: 4
@@ -665,7 +691,7 @@ Modules:
 - Get started with Microsoft 365 using FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/hu-hu/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Képzési terv - 5 óra 31 perc - Modulok száma: 6
+#### Képzési terv - 5 óra 36 perc - Modulok száma: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -747,10 +773,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/hu-hu/learn/paths/working-with-dynamics-sales-professional)
-#### Képzési terv - 2 óra 35 perc - Modulok száma: 3
+#### Képzési terv - 4 óra 35 perc - Modulok száma: 5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

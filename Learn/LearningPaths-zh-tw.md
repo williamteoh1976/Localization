@@ -1,7 +1,72 @@
 # Summary of Learning Paths (zh-tw)
-last updated: 2019-05-10
+last updated: 2019-06-03
+## [針對政府的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-government)
+#### 學習途徑 - 7 小時 44 分鐘 - 單元數：10
+在政府中，決策者必須進行特定公共面考量，才能了解 AI 轉型的影響。 了解能夠協助公共面透過 AI 創造價值的策略組成至關重要。 此學習路徑是為政府決策者所設計，使其能夠闡述 AI 轉型對公共面的實際影響。
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [管理 Azure 中的容器](https://docs.microsoft.com/zh-tw/learn/paths/administer-containers-in-azure)
+#### 學習途徑 - 3 小時 20 分鐘 - 單元數：4
+Azure Container Instances 是在 Azure 中執行容器之最快速且簡單的方式。 此學習路徑將指導您如何建立及管理容器，以及如何使用 ACI 為 Kubernetes 提供彈性的規模。
+
+Modules:
+- 使用 Docker 建置容器化的 Web 應用程式
+- 使用 Azure Container Registry 建置及儲存容器映像
+- 執行搭配 Azure Container Instances 的 Docker 容器
+- 使用 Azure App Service 來部署及執行容器化 Web 應用程式
+
+## [在 PowerApps 中建立畫布應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-powerapps)
+#### 學習途徑 - 2 小時 11 分鐘 - 單元數：3
+想要建立應用程式，來協助提升業務的效率嗎？ 那麼本路徑會非常適合您。 它會向您介紹 PowerApps、協助您建立和自訂應用程式，然後加以管理及散發。
+
+Modules:
+- 開始使用 PowerApps
+- 在 PowerApps 中自訂畫布應用程式
+- 在 PowerApps 中管理應用程式
+
+## [使用 Xamarin.Forms 建置行動應用程式](https://docs.microsoft.com/zh-tw/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### 學習途徑 - 9 小時 34 分鐘 - 單元數：10
+使用 C# 及 Visual Studio 來建立在 iOS 和 Android 裝置上執行的應用程式。
+
+Modules:
+- 使用 Xamarin.Forms 來建立行動應用程式
+- Xamarin.Android 簡介
+- Xamarin.iOS 簡介
+- 使用 XAML 在 Xamarin.Forms 應用程式中建立 UI
+- 自訂 Xamarin.Forms XAML 頁面的版面配置
+- 使用共用資源與樣式來設計一致的 Xamarin.Forms XAML 頁面
+- 準備發佈您的 Xamarin 應用程式
+- 在 Xamarin 應用程式中取用 REST Web 服務
+- 在 Xamarin.Forms 應用程式中使用 SQLite 儲存本機資料
+- 使用堆疊和索引標籤瀏覽來建立多頁面 Xamarin.Forms 應用程式
+
+## [自訂進階功能並新增至 Xamarin.Forms 應用程式](https://docs.microsoft.com/zh-tw/learn/paths/customize-your-xamarin-forms-apps)
+#### 學習途徑 - 7 小時 25 分鐘 - 單元數：8
+新增專業功能及開發技術，製作更加美觀且易維護的應用程式。
+
+Modules:
+- 探索 Xamarin 應用程式的跨平台設計模式
+- 使用 Xamarin.Forms 資料繫結來分隔 UI 與程式碼
+- 使用 ListView 在 Xamarin.Forms 應用程式中顯示集合
+- 自訂 Xamarin.Forms ListView
+- 設計適用於 Xamarin.Forms 的 MVVM ViewModel
+- 使用主從階層導覽顯示 Xamarin.Forms 中的關聯性
+- 使用 Xamarin.Forms 轉譯器來建立自訂控制項
+- 在 Xamarin.Forms 中使用效果
+
 ## [針對企業領導人的 AI 技術簡介](https://docs.microsoft.com/zh-tw/learn/paths/ai-technology-for-business-leaders)
-#### 學習途徑 - 1 小時 14 分鐘 - 單元數：2
+#### 學習途徑 - 1 小時 25 分鐘 - 單元數：2
 本學習路徑會提供您 AI 主要觀念的概觀。 您將能夠描述 AI 為何，以及其構成技術。 您也能了解 Microsoft 如何將 AI 最新進展化作可供組織利用的工具、產品及服務。
 
 Modules:
@@ -9,18 +74,19 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [決定用於創造商業價值的 AI 策略](https://docs.microsoft.com/zh-tw/learn/paths/ai-strategy-for-business-value)
-#### 學習途徑 - 3 小時 52 分鐘 - 單元數：5
+#### 學習途徑 - 4 小時 43 分鐘 - 單元數：6
 在本學習路徑中，INSEAD 的 Eli Lilly 策略與創新首席教授 Peter Zemsky 將現身說法，說明 AI 是如何在各產業及公司、Microsoft 客戶及合作夥伴間驅動商業價值。 您將能夠討論技術團隊如何將 AI 應用於商業領域，以及不同產業的企業領導人如何看待自身企業的 AI 應用。
 
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
 - Transform business processes in retail with AI
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
 ## [針對製造業的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-manufacturing)
-#### 學習途徑 - 7 小時 23 分鐘 - 單元數：10
+#### 學習途徑 - 7 小時 38 分鐘 - 單元數：10
 製造業的決策者必須進行特定的產業考量，才能了解 AI 轉型對企業的實際影響。 本學習路徑是為製造業決策者所設計，使其能夠闡述 AI 轉型對企業的實際影響。
 
 Modules:
@@ -36,7 +102,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [針對醫療保健業的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-healthcare)
-#### 學習途徑 - 7 小時 22 分鐘 - 單元數：10
+#### 學習途徑 - 7 小時 37 分鐘 - 單元數：10
 醫療保健業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。 本學習路徑是為醫療保健業決策者所設計，使其能夠闡述 AI 轉型對企業的實際影響。
 
 Modules:
@@ -63,7 +129,7 @@ Modules:
 - Discover how to foster an AI-ready culture in customer service
 
 ## [針對零售的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-retail)
-#### 學習途徑 - 7 小時 22 分鐘 - 單元數：10
+#### 學習途徑 - 7 小時 37 分鐘 - 單元數：10
 零售業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。
 
 Modules:
@@ -79,7 +145,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [針對金融服務業的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-financial-services)
-#### 學習途徑 - 7 小時 27 分鐘 - 單元數：10
+#### 學習途徑 - 7 小時 42 分鐘 - 單元數：10
 金融服務業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。 了解能夠協助金融服務部門透過 AI 創造商業價值的策略組成至關重要。
 
 Modules:
@@ -96,23 +162,14 @@ Modules:
 
 ## [為企業中負責任的 AI 制定引導原則](https://docs.microsoft.com/zh-tw/learn/paths/responsible-ai-business-principles)
 #### 學習途徑 - 1 小時 - 一個單元
-反映企業中的 AI 應用至關重要。 本學習路徑會提供指導方針，協助您在組織、資源、最佳做法和工具中建立原則及治理模型。
+反映 AI 企業中的含意至關重要。 本學習路徑會提供指導方針，協助您在組織、資源、最佳做法和工具中建立原則及治理模型。
 
 Modules:
 - Identify guiding principles for responsible AI in your business
 
-## [管理 Azure 中的容器](https://docs.microsoft.com/zh-tw/learn/paths/administer-containers-in-azure)
-#### 學習途徑 - 2 小時 23 分鐘 - 單元數：3
-Azure Container Instances 是在 Azure 中執行容器之最快速且簡單的方式。 此學習路徑將指導您如何建立及管理容器，以及如何使用 ACI 為 Kubernetes 提供彈性的規模。
-
-Modules:
-- 使用 Azure Container Registry 建置及儲存容器映像
-- 執行搭配 Azure Container Instances 的 Docker 容器
-- 使用 Azure App Service 來部署及執行容器化 Web 應用程式
-
-## [現代化工作場所與 Microsoft 365 商務介面](https://docs.microsoft.com/zh-tw/learn/paths/modernize-workplace-with-m365-and-surface)
+## [使用 Microsoft 365 和商務用 Surface 現代化您的工作場所](https://docs.microsoft.com/zh-tw/learn/paths/modernize-workplace-with-m365-and-surface)
 #### 學習途徑 - 2 小時 50 分鐘 - 單元數：9
-您會有興趣了解在簡單易懂的方式現代化工作場所增進嗎？ 您要了解 Microsoft 如何協助您建立現代化工作場所增進嗎？這個學習路徑向您介紹現代化工作場所增進表示使用者和 IT，以及 Microsoft 365 如何協助您建立它。
+您想以簡單易懂的方式了解現代化工作場所嗎？ 您想要了解 Microsoft 可如何協助您建立使用現代化工作場所嗎？這個學習路徑會向您介紹現代化工作場所對使用者和 IT 的意義，以及 Microsoft 365 能如何協助您建立它。
 
 Modules:
 - 歡迎使用 Microsoft 365
@@ -222,7 +279,7 @@ Modules:
 - 使用 Microsoft 自訂視覺服務分類影像
 
 ## [使用 Azure Databricks 執行資料工程](https://docs.microsoft.com/zh-tw/learn/paths/data-engineering-with-databricks)
-#### 學習途徑 - 10 小時 23 分鐘 - 單元數：9
+#### 學習途徑 - 7 小時 49 分鐘 - 單元數：9
 了解 Azure Databricks 支援的資料工程工具及技術。
 
 Modules:
@@ -244,15 +301,6 @@ Modules:
 - 開始使用 Microsoft Flow
 - 使用 Microsoft Flow 建置更複雜的流程
 - 在 Microsoft Flow 中使用系統管理中心來管理環境和資料原則
-
-## [在 PowerApps 中建立應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-powerapps)
-#### 學習途徑 - 2 小時 16 分鐘 - 單元數：3
-本學習路徑會為您介紹 PowerApps，協助您建立和自訂應用程式，然後加以管理及散發。
-
-Modules:
-- Get started with PowerApps
-- 在 PowerApps 中自訂應用程式
-- 在 PowerApps 中管理應用程式
 
 ## [在 PowerApps 中建立模型驅動應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-app-models-business-processes)
 #### 學習途徑 - 1 小時 40 分鐘 - 單元數：2
@@ -284,7 +332,7 @@ Modules:
 - Microsoft 雲端作業模式概觀
 
 ## [了解 Microsoft Dynamics 365 和 Power Platform 的商業價值](https://docs.microsoft.com/zh-tw/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### 學習途徑 - 4 小時 46 分鐘 - 單元數：15
+#### 學習途徑 - 5 小時 2 分鐘 - 單元數：15
 您有興趣了解商務應用程式嗎？ 或者，也許您不知道從哪裡開始使用 Microsoft Dynamics 365 和 Power Platform 應用程式？ 這個學習經驗將帶領您展開一段旅程，先從展示數位轉型如何進行以及和商務應用程式如何能夠讓您企業轉型的威力開始。 我們將討論 Dynamics 365 和 Power Platform 如何幫助您根據組織的需求和目標做出明智的決策。
 
 Modules:
@@ -292,7 +340,7 @@ Modules:
 - Microsoft Business Applications 簡介
 - 啟用數位轉型
 - 使用 Microsoft Catalyst 完成業務轉型
-- Dynamics 365 應用程式與 Power Platform
+- Dynamics 365 應用程式和 Power Platform
 - Dynamics 365 for Sales
 - Dynamics 365 for Marketing
 - Dynamics 365 for Customer Service
@@ -341,7 +389,7 @@ Modules:
 - 保護您的 Azure 儲存體帳戶
 
 ## [使用 Azure Databricks 從您的資料擷取知識與見解](https://docs.microsoft.com/zh-tw/learn/paths/data-science)
-#### 學習途徑 - 5 小時 31 分鐘 - 單元數：6
+#### 學習途徑 - 4 小時 21 分鐘 - 單元數：6
 了解如何使用 Azure Databricks，執行預測與分析的資料科學技術，例如探勘資料分析、模型定型、文字分析與深度學習。
 
 Modules:
@@ -381,12 +429,15 @@ Modules:
 - 撰寫連線至網際網路的 Windows 應用程式
 
 ## [在 Azure Cosmos DB 中使用 NoSQL 資料](https://docs.microsoft.com/zh-tw/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### 學習途徑 - 3 小時 43 分鐘 - 單元數：5
+#### 學習途徑 - 5 小時 55 分鐘 - 單元數：8
 NoSQL 資料是有效儲存資訊的方式，這些資訊不符合關聯式 SQL 資料庫的需求。 了解如何使用 Azure 入口網站、適用於 Visual Studio Code 的 Azure Cosmos DB 延伸模組以及 Azure Cosmos DB .NET Core SDK，以視您需要在任何地方使用 NoSQL 資料，且無論使用者位於世界上的哪個角落，都能為使用者提供高可用性。
 
 Modules:
-- 建立為擴展而建置的 Azure Cosmos DB 資料庫
+- 建立為調整規模而建置的 Azure Cosmos DB 資料庫
+- 為 Azure Cosmos DB 儲存體選擇適當的 API
 - 在 Azure Cosmos DB 資料庫中新增和查詢資料
+- 使用圖形 API 在 Azure Cosmos DB 中儲存和存取圖形資料
+- 使用 Azure Cosmos DB 和資料表 API 來儲存和存取 NoSQL 資料
 - 在 Visual Studio Code 中建置適用於 Azure Cosmos DB 的 .NET Core 應用程式
 - 使用資料分割和索引編製策略來將 Azure Cosmos DB 的效能最佳化
 - 使用 Azure Cosmos DB 來全域散發資料
@@ -440,13 +491,17 @@ Modules:
 - 透過 Azure Resource Manager 控制及組織 Azure 資源
 
 ## [建立無伺服器應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-serverless-applications)
-#### 學習途徑 - 3 小時 9 分鐘 - 單元數：3
+#### 學習途徑 - 6 小時 15 分鐘 - 單元數：7
 Azure Functions 可讓您建立事件驅動、依需求計算的系統，這可藉由各種不同的外部事件觸發。 了解如何運用函式來執行伺服器端邏輯，並建置無伺服器架構。
 
 Modules:
+- 選擇適當的 Azure 服務以整合及自動化商務程序
 - 使用 Azure Functions 建立無伺服器邏輯
 - 使用觸發程序執行 Azure 函式
 - 使用輸入和輸出繫結來將 Azure Functions 鏈結在一起
+- 使用 Durable Functions 來建立長時間執行的無伺服器工作流程
+- 使用 Visual Studio 開發、測試及部署 Azure 函數
+- 透過以 Webhook 觸發的 Azure 函式監視 GitHub 事件
 
 ## [將您的服務連結在一起](https://docs.microsoft.com/zh-tw/learn/paths/connect-your-services-together)
 #### 學習途徑 - 3 小時 31 分鐘 - 單元數：4
@@ -530,7 +585,7 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
@@ -545,7 +600,7 @@ Modules:
 - Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### 學習途徑 - 9 小時 3 分鐘 - 單元數：6
+#### 學習途徑 - 9 小時 8 分鐘 - 單元數：6
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -555,36 +610,6 @@ Modules:
 - Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/zh-tw/learn/paths/build-mobile-apps-with-xamarin-forms)
-#### 學習途徑 - 9 小時 34 分鐘 - 單元數：10
-Use C# and Visual Studio to create apps that run on iOS and Android devices.
-
-Modules:
-- Create a mobile app with Xamarin.Forms
-- Introduction to Xamarin.Android
-- Introduction to Xamarin.iOS
-- Create a UI in Xamarin.Forms apps by using XAML
-- Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
-- Consume REST web services in Xamarin apps
-- Store local data with SQLite in a Xamarin.Forms app
-- Create multi-page Xamarin.Forms apps with stack and tab navigation
-
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/zh-tw/learn/paths/customize-your-xamarin-forms-apps)
-#### 學習途徑 - 7 小時 25 分鐘 - 單元數：8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
 
 ## [Consume data with Power BI](https://docs.microsoft.com/zh-tw/learn/paths/consume-data-with-power-bi)
 #### 學習途徑 - 2 小時 35 分鐘 - 單元數：2
@@ -606,16 +631,6 @@ Modules:
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### 學習途徑 - 5 小時 57 分鐘 - 單元數：4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### 學習途徑 - 5 小時 56 分鐘 - 單元數：4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
@@ -634,6 +649,16 @@ Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### 學習途徑 - 6 小時 10 分鐘 - 單元數：4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### 學習途徑 - 4 小時 57 分鐘 - 單元數：2
@@ -697,7 +722,7 @@ Modules:
 - Provision and administer Dynamics 365 portals
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/zh-tw/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### 學習途徑 - 5 小時 31 分鐘 - 單元數：6
+#### 學習途徑 - 5 小時 36 分鐘 - 單元數：6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -779,10 +804,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/zh-tw/learn/paths/working-with-dynamics-sales-professional)
-#### 學習途徑 - 2 小時 35 分鐘 - 單元數：3
+#### 學習途徑 - 4 小時 35 分鐘 - 單元數：5
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales

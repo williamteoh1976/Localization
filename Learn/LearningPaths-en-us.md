@@ -1,5 +1,5 @@
 # Summary of Learning Paths (en-us)
-last updated: 2019-05-10
+last updated: 2019-06-03
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Learning Path - 5 hr 43 min - 3 Modules
 Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
@@ -37,11 +37,46 @@ As a functional consultant, you must understand how to prepare your customer's d
 Modules:
 - Prepare data for migration to Dynamics 365 for Finance and Operations
 - Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
 
+## [AI business school for government](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-government)
+#### Learning Path - 7 hr 44 min - 10 Modules
+In government, decision-makers must take into account specific public sector considerations before they can realize the true transformational power of AI. It is critical to understand the components of a strategy that will help the public sector create value with AI. This learning path is designed for government decision-makers to illustrate the true transformational impact of AI in the public sector.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Create a canvas app in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps)
+#### Learning Path - 2 hr 11 min - 3 Modules
+Do you want to create apps to help make your business more efficient? Than this path is for you. It introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
+
+Modules:
+- Get started with PowerApps
+- Customize a canvas app in PowerApps
+- Manage apps in PowerApps
+
+## [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure)
+#### Learning Path - 3 hr 20 min - 4 Modules
+Azure Container Instances are the quickest and easiest way to run containers in Azure. This learning path will teach you how to create and manage your containers, and how ACI can be used to provide elastic scale for Kubernetes.
+
+Modules:
+- Build a containerized web application with Docker
+- Build and store container images with Azure Container Registry
+- Run Docker containers with Azure Container Instances
+- Deploy and run a containerized web app with Azure App Service
+
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Learning Path - 9 hr 3 min - 6 Modules
+#### Learning Path - 9 hr 8 min - 6 Modules
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
@@ -59,8 +94,8 @@ Add professional touches and development techniques for more beautiful and maint
 Modules:
 - Explore cross-platform design patterns for Xamarin apps
 - Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
 - Design an MVVM viewmodel for Xamarin.Forms
 - Display relationships in Xamarin.Forms with master-detail navigation
 - Create custom controls with Xamarin.Forms renderers
@@ -76,8 +111,8 @@ Modules:
 - Introduction to Xamarin.iOS
 - Create a UI in Xamarin.Forms apps by using XAML
 - Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
+- Design consistent Xamarin.Forms XAML pages by using shared resources and styles
+- Prepare to publish your Xamarin app
 - Consume REST web services in Xamarin apps
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
@@ -90,7 +125,7 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 
 ## [Introduction to AI technology for business leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders)
-#### Learning Path - 1 hr 14 min - 2 Modules
+#### Learning Path - 1 hr 25 min - 2 Modules
 In this learning path, you will be provided with a high-level overview of the primary concepts of AI. You will be able to describe what AI happens to be and the technologies that underpin it. You will be able to share  how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.
 
 Modules:
@@ -98,7 +133,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [AI business school for manufacturing](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-manufacturing)
-#### Learning Path - 7 hr 23 min - 10 Modules
+#### Learning Path - 7 hr 38 min - 10 Modules
 In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
 Modules:
@@ -114,12 +149,13 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [Define an AI strategy to create business value](https://docs.microsoft.com/en-us/learn/paths/ai-strategy-for-business-value)
-#### Learning Path - 3 hr 52 min - 5 Modules
+#### Learning Path - 4 hr 43 min - 6 Modules
 In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are brining AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.
 
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
 - Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
@@ -133,7 +169,7 @@ Modules:
 - Analyze data with Power BI
 
 ## [AI business school for financial services](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-financial-services)
-#### Learning Path - 7 hr 27 min - 10 Modules
+#### Learning Path - 7 hr 42 min - 10 Modules
 Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI.
 
 Modules:
@@ -160,7 +196,7 @@ Modules:
 - Discover how to foster an AI-ready culture in customer service
 
 ## [AI business school for retail](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-retail)
-#### Learning Path - 7 hr 22 min - 10 Modules
+#### Learning Path - 7 hr 37 min - 10 Modules
 Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise.
 
 Modules:
@@ -176,7 +212,7 @@ Modules:
 - Examine the Microsoft approach to Artificial Intelligence
 
 ## [AI business school for healthcare](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-healthcare)
-#### Learning Path - 7 hr 22 min - 10 Modules
+#### Learning Path - 7 hr 37 min - 10 Modules
 Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise.
 
 Modules:
@@ -209,16 +245,6 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Learning Path - 5 hr 57 min - 4 Modules
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### Learning Path - 5 hr 53 min - 3 Modules
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
@@ -239,6 +265,16 @@ Modules:
 - Create and process event Kanban rules in Dynamics 365 for Finance and Operations
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Learning Path - 6 hr 10 min - 4 Modules
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/en-us/learn/paths/get-started-with-marketing)
 #### Learning Path - 1 hr 20 min - 2 Modules
@@ -293,15 +329,6 @@ Modules:
 - Configure Dynamics 365 portals
 - Provision and administer Dynamics 365 portals
 
-## [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure)
-#### Learning Path - 2 hr 23 min - 3 Modules
-Azure Container Instances are the quickest and easiest way to run containers in Azure. This learning path will teach you how to create and manage your containers, and how ACI can be used to provide elastic scale for Kubernetes.
-
-Modules:
-- Build and store container images with Azure Container Registry
-- Run Docker containers with Azure Container Instances
-- Deploy and run a containerized web app with Azure App Service
-
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/en-us/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Learning Path - 2 hr 50 min - 9 Modules
 Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
@@ -318,7 +345,7 @@ Modules:
 - Get started with Microsoft 365 using FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Learning Path - 5 hr 31 min - 6 Modules
+#### Learning Path - 5 hr 36 min - 6 Modules
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
@@ -454,10 +481,12 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/en-us/learn/paths/working-with-dynamics-sales-professional)
-#### Learning Path - 2 hr 35 min - 3 Modules
+#### Learning Path - 4 hr 35 min - 5 Modules
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales
@@ -533,7 +562,7 @@ Modules:
 - Microsoft Power Platform Mobile management
 
 ## [Perform data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks)
-#### Learning Path - 10 hr 23 min - 9 Modules
+#### Learning Path - 7 hr 49 min - 9 Modules
 Learn the data engineering tools and techniques supported by Azure Databricks.
 
 Modules:
@@ -589,15 +618,6 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Create a canvas app in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps)
-#### Learning Path - 2 hr 16 min - 3 Modules
-This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
-
-Modules:
-- Get started with PowerApps
-- Customize an app in PowerApps
-- Manage apps in PowerApps
-
 ## [Create and use analytics reports with Power BI](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi)
 #### Learning Path - 1 hr 42 min - 2 Modules
 This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.
@@ -605,17 +625,6 @@ This learning path introduces you to Power BI, and teaches you to use and build 
 Modules:
 - Get started building with Power BI
 - Create and share your first Power BI report
-
-## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/paths/working-with-connected-field-service-iot)
-#### Learning Path - 5 hr 56 min - 5 Modules
-This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
-
-Modules:
-- Get started with Connected Field Service for Dynamics 365 and Azure IoT
-- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
-- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
-- Using IoT Central with Connected Field Service for Dynamics 365
-- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/en-us/learn/paths/universal-resource-scheduling)
 #### Learning Path - 5 hr 9 min - 5 Modules
@@ -627,6 +636,17 @@ Modules:
 - Customize the schedule board in Microsoft Dynamics 365 for Field Service
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
+
+## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/en-us/learn/paths/working-with-connected-field-service-iot)
+#### Learning Path - 5 hr 56 min - 5 Modules
+This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
+Modules:
+- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
+- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
+- Using IoT Central with Connected Field Service for Dynamics 365
+- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Create a model-driven application in PowerApps](https://docs.microsoft.com/en-us/learn/paths/create-app-models-business-processes)
 #### Learning Path - 1 hr 40 min - 2 Modules
@@ -699,7 +719,7 @@ Modules:
 - Secure your Azure Storage account
 
 ## [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science)
-#### Learning Path - 5 hr 31 min - 6 Modules
+#### Learning Path - 4 hr 21 min - 6 Modules
 Learn how to use Azure Databricks to perform predictive and analytical Data Science techniques, such as exploratory data analysis, model training, text analytics and deep learning.
 
 Modules:
@@ -812,15 +832,6 @@ Modules:
 - Secure your Azure resources with role-based access control (RBAC)
 - Secure your Azure SQL Database
 
-## [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications)
-#### Learning Path - 3 hr 9 min - 3 Modules
-Azure Functions enable the creation of event driven, compute-on-demand systems that can be triggered by various external events. Learn how to leverage functions to execute server-side logic and build serverless architectures.
-
-Modules:
-- Create serverless logic with Azure Functions
-- Execute an Azure Function with triggers
-- Chain Azure functions together using input and output bindings
-
 ## [Administer infrastructure resources in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure)
 #### Learning Path - 9 hr 34 min - 10 Modules
 Learn how to create, manage, secure and scale virtual machine resources.
@@ -844,8 +855,21 @@ Azure supports several popular SQL-based database solutions including SQL Server
 Modules:
 - Provision an Azure SQL database to store application data
 - Create an Azure Database for PostgreSQL server
-- Scale multiple Azure SQL Databases with SQL elastic Pools
+- Scale multiple Azure SQL Databases with SQL elastic pools
 - Secure your Azure SQL Database
+
+## [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications)
+#### Learning Path - 6 hr 15 min - 7 Modules
+Azure Functions enable the creation of event driven, compute-on-demand systems that can be triggered by various external events. Learn how to leverage functions to execute server-side logic and build serverless architectures.
+
+Modules:
+- Choose the appropriate Azure service to integrate and automate business processes
+- Create serverless logic with Azure Functions
+- Execute an Azure Function with triggers
+- Chain Azure functions together using input and output bindings
+- Create a long-running serverless workflow with Durable Functions
+- Develop, test, and deploy an Azure Function with Visual Studio
+- Monitor GitHub events with an Azure Function triggered by a webhook
 
 ## [Deploy a website with Azure virtual machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### Learning Path - 4 hr 18 min - 4 Modules
@@ -891,12 +915,15 @@ Modules:
 - Control and organize Azure resources with Azure Resource Manager
 
 ## [Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Learning Path - 3 hr 43 min - 5 Modules
+#### Learning Path - 5 hr 55 min - 8 Modules
 NoSQL data is an efficient way to store information that doesn’t map to the requirements of a relational SQL database. Learn how to use the Azure portal, the Azure Cosmos DB extension for Visual Studio Code, and the Azure Cosmos DB .NET Core SDK to work with your NoSQL data where you want, and provide your users with high availability, no matter where they are in the world.
 
 Modules:
 - Create an Azure Cosmos DB database built to scale
+- Choose the appropriate API for Azure Cosmos DB storage
 - Insert and query data in your Azure Cosmos DB database
+- Store and access graph data in Azure Cosmos DB with the Graph API
+- Store and Access NoSQL Data with Azure Cosmos DB and the Table API
 - Build a .NET Core app for Azure Cosmos DB in Visual Studio Code
 - Optimize performance of Azure Cosmos DB by using partitioning and indexing strategies
 - Distribute your data globally with Azure Cosmos DB
