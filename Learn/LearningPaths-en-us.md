@@ -1,45 +1,5 @@
 # Summary of Learning Paths (en-us)
-last updated: 2019-06-03
-## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
-#### Learning Path - 5 hr 43 min - 3 Modules
-Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
-
-Modules:
-- Configure warehouse management in Dynamics 365 for Finance and Operations
-- Work with warehouse management in Dynamics 365 for Finance and Operations
-- Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
-
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### Learning Path - 5 hr 26 min - 4 Modules
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
-
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### Learning Path - 5 hr 25 min - 5 Modules
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Learning Path - 3 hr 9 min - 4 Modules
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
+last updated: 2019-06-15
 ## [AI business school for government](https://docs.microsoft.com/en-us/learn/paths/ai-business-school-government)
 #### Learning Path - 7 hr 44 min - 10 Modules
 In government, decision-makers must take into account specific public sector considerations before they can realize the true transformational power of AI. It is critical to understand the components of a strategy that will help the public sector create value with AI. This learning path is designed for government decision-makers to illustrate the true transformational impact of AI in the public sector.
@@ -75,17 +35,14 @@ Modules:
 - Run Docker containers with Azure Container Instances
 - Deploy and run a containerized web app with Azure App Service
 
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Learning Path - 9 hr 8 min - 6 Modules
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+#### Learning Path - 5 hr 43 min - 3 Modules
+Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
 
 Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
+- Configure warehouse management in Dynamics 365 for Finance and Operations
+- Work with warehouse management in Dynamics 365 for Finance and Operations
+- Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
 ## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/en-us/learn/paths/customize-your-xamarin-forms-apps)
 #### Learning Path - 7 hr 25 min - 8 Modules
@@ -245,14 +202,27 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Learning Path - 5 hr 53 min - 3 Modules
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Learning Path - 6 hr 10 min - 4 Modules
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Learning Path - 9 hr 8 min - 6 Modules
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+Modules:
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
 #### Learning Path - 6 hr 23 min - 6 Modules
@@ -266,15 +236,14 @@ Modules:
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Learning Path - 6 hr 10 min - 4 Modules
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Learning Path - 5 hr 53 min - 3 Modules
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/en-us/learn/paths/get-started-with-marketing)
 #### Learning Path - 1 hr 20 min - 2 Modules
@@ -320,29 +289,51 @@ Modules:
 - Connecting to other data in a PowerApps canvas app
 - Use custom connectors in a PowerApps canvas app
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/get-started-dynamics-365-portals)
-#### Learning Path - 2 hr 32 min - 3 Modules
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### Learning Path - 5 hr 26 min - 4 Modules
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
+
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### Learning Path - 5 hr 25 min - 5 Modules
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
+Modules:
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/en-us/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Learning Path - 3 hr 9 min - 4 Modules
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/en-us/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Learning Path - 2 hr 50 min - 9 Modules
 Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
 Modules:
-- Welcome to Microsoft 365
-- Introducing Microsoft 365 and Surface for Business
-- Facilitate Teamwork with Microsoft 365
-- Modern Communications in Microsoft Teams
-- Get more from Microsoft 365 with Surface for Business
-- Deploy and manage Windows 10 and Office 365 ProPlus
-- Security with Microsoft 365
-- Compliance with Microsoft 365
-- Get started with Microsoft 365 using FastTrack
+- Learn how your organization can move to a modern workplace with Microsoft 365
+- Discover modern workplace solutions with Microsoft 365 and Surface for Business
+- Facilitate teamwork to achieve more with Microsoft 365
+- Enable modern communication and collaboration with Microsoft Teams
+- Discover how your organization can achieve more with Surface for Business and Microsoft 365
+- Balance IT and user needs with Windows 10 and Office 365 ProPlus
+- Secure your organization with built-in, intelligent security from Microsoft 365
+- Meet the growing demand for transparency, privacy, and compliance with Microsoft 365
+- Accelerate deployment and improve adoption of Microsoft 365 with FastTrack
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### Learning Path - 5 hr 36 min - 6 Modules
@@ -575,6 +566,15 @@ Modules:
 - Create data pipelines by using Databricks Delta
 - Work with streaming data in Azure Databricks
 - Create data visualizations by using Azure Databricks and Power BI
+
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/en-us/learn/paths/get-started-dynamics-365-portals)
+#### Learning Path - 2 hr 32 min - 3 Modules
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
+Modules:
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
 
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/en-us/learn/paths/apply-goal-management-dynamics-365)
 #### Learning Path - 1 hr 20 min - 2 Modules
@@ -925,7 +925,7 @@ Modules:
 - Store and access graph data in Azure Cosmos DB with the Graph API
 - Store and Access NoSQL Data with Azure Cosmos DB and the Table API
 - Build a .NET Core app for Azure Cosmos DB in Visual Studio Code
-- Optimize performance of Azure Cosmos DB by using partitioning and indexing strategies
+- Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies
 - Distribute your data globally with Azure Cosmos DB
 
 ## [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together)

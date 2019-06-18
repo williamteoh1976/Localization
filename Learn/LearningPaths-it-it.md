@@ -1,5 +1,5 @@
 # Summary of Learning Paths (it-it)
-last updated: 2019-06-03
+last updated: 2019-06-15
 ## [Business school di intelligenza artificiale per enti pubblici](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-government)
 #### Percorso di apprendimento - 7 h 44 min - Numero di moduli: 10
 I decision maker degli enti pubblici devono analizzare gli aspetti specifici del settore per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale. È essenziale comprendere gli elementi di una strategia che assisterà il settore degli enti pubblici nella creazione di valore tramite l'intelligenza artificiale. Questo percorso di apprendimento è progettato per i decision maker degli enti pubblici e illustra l'effetto di trasformazione reale dell'intelligenza artificiale nel settore pubblico.
@@ -92,22 +92,6 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Business school di intelligenza artificiale per i servizi finanziari](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-financial-services)
-#### Percorso di apprendimento - 7 h 42 min - Numero di moduli: 10
-I responsabili dei servizi finanziari devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. È essenziale comprendere gli elementi di una strategia che assisterà il settore dei servizi finanziari nella creazione di valore tramite l'intelligenza artificiale.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
 ## [Business school di intelligenza artificiale per il manufacturing](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-manufacturing)
 #### Percorso di apprendimento - 7 h 38 min - Numero di moduli: 10
 I responsabili manufacturing devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. Questo percorso di apprendimento è progettato per i decision maker del settore manufacturing e illustra l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione.
@@ -124,6 +108,22 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
+## [Business school di intelligenza artificiale per i servizi finanziari](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-financial-services)
+#### Percorso di apprendimento - 7 h 42 min - Numero di moduli: 10
+I responsabili dei servizi finanziari devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. È essenziale comprendere gli elementi di una strategia che assisterà il settore dei servizi finanziari nella creazione di valore tramite l'intelligenza artificiale.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
 ## [Introduzione alla tecnologia di intelligenza artificiale per business leader](https://docs.microsoft.com/it-it/learn/paths/ai-technology-for-business-leaders)
 #### Percorso di apprendimento - 1 h 25 min - Numero di moduli: 2
 Questo percorso di apprendimento offre una panoramica generale dei concetti principali dell'intelligenza artificiale. Si apprenderà a descrivere che cos'è l'intelligenza artificiale e quali sono le tecnologie che la supportano. Si apprenderà come Microsoft sta trasformando le più recenti innovazioni nel campo dell'intelligenza artificiale in strumenti, prodotti e servizi che offrono vantaggi alle organizzazioni.
@@ -131,6 +131,14 @@ Questo percorso di apprendimento offre una panoramica generale dei concetti prin
 Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
+
+## [Utilizzare dati con Power BI](https://docs.microsoft.com/it-it/learn/paths/consume-data-with-power-bi)
+#### Percorso di apprendimento - 2 h 35 min - Numero di moduli: 2
+Si desidera adottare decisioni aziendali supportate da dati? È possibile imparare a farlo con Power BI. In questo percorso di apprendimento viene descritto come usare Power BI per esaminare e interagire con questo contenuto per prendere decisioni aziendali.
+
+Modules:
+- Scoprire i vantaggi di Power BI
+- Analizzare dati con Power BI
 
 ## [Identificare i principi per un'implementazione responsabile dell'intelligenza artificiale nell'azienda](https://docs.microsoft.com/it-it/learn/paths/responsible-ai-business-principles)
 #### Percorso di apprendimento - 1 h - 1 modulo
@@ -295,23 +303,6 @@ Modules:
 - Introduzione alla compilazione con Power BI
 - Creare e condividere il primo report di Power BI
 
-## [Utilizzare i casi in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
-#### Percorso di apprendimento - 2 h 57 min - Numero di moduli: 3
-Annuncio. La versione localizzata di questo corso verrà ritirata l'8 giugno. La versione più aggiornata del corso è disponibile in inglese.
-
-Modules:
-- Operazioni preliminari di Dynamics 365 for Customer Service
-- Gestione di casi con Microsoft Dynamics 365 for Customer Service
-- Utilizzare le code Microsoft Dynamics 365 for Customer Service per gestire i carichi di lavoro del caso
-
-## [Utilizzo delle soluzioni di gestione delle informazioni in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
-#### Percorso di apprendimento - 2 h - Numero di moduli: 2
-Annuncio. La versione localizzata di questo corso verrà ritirata l'8 giugno. La versione più aggiornata del corso è disponibile in inglese.
-
-Modules:
-- Crea e progetta soluzioni di gestione delle informazioni in Dynamics 365 for Customer Service
-- Utilizzo dei file di caratteristiche del caso per le Risoluzioni del caso in Dynamics 365 for Customer Service
-
 ## [Creare un'applicazione basata su modello in PowerApps](https://docs.microsoft.com/it-it/learn/paths/create-app-models-business-processes)
 #### Percorso di apprendimento - 1 h 40 min - Numero di moduli: 2
 Questo percorso di apprendimento illustra come creare un'applicazione PowerApps basata su modello che usa Common Data Service.
@@ -319,25 +310,6 @@ Questo percorso di apprendimento illustra come creare un'applicazione PowerApps 
 Modules:
 - Introduzione alle app basate su modello in PowerApps
 - Iniziare a usare Common Data Service
-
-## [Lavorare con Connected Field Service for Dynamics 365 e Azure IoT](https://docs.microsoft.com/it-it/learn/paths/working-with-connected-field-service-iot)
-#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 5
-Annuncio. La versione localizzata di questo corso verrà ritirata l'8 giugno. La versione più aggiornata del corso è disponibile in inglese.
-
-Modules:
-- Operazioni preliminari di Connected Field Service for Dynamics 365 e Azure IoT
-- Monitoraggio da remoto e manutenzione in remoto delle attrezzature dei clienti con Connected Field Service for Dynamics 365 e Azure IoT
-- Registrazione e gestione dei dispositivi dei clienti con Connected Field Service for Dynamics 365 e Azure IoT
-- Utilizzo di IoT Central con Connected Field Service for Dynamics 365
-- Identificare le eccezioni con Connected Field Service for Dynamics 365 e Azure IoT
-
-## [Utilizzare i diritti e i contratti di servizio in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Percorso di apprendimento - 2 h 8 min - Numero di moduli: 2
-Annuncio. La versione localizzata di questo corso verrà ritirata l'8 giugno. La versione più aggiornata del corso è disponibile in inglese.
-
-Modules:
-- Creare e gestire i diritti in Microsoft Dynamics 365 for Customer Service
-- Contratti di servizio di Dynamics 365 for Customer Service
 
 ## [Elaborazione dati su larga scala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/it-it/learn/paths/data-processing-with-azure-adls)
 #### Percorso di apprendimento - 2 h 5 min - Numero di moduli: 3
@@ -417,15 +389,6 @@ Modules:
 - Applicare e monitorare gli standard di infrastruttura con Criteri di Azure
 - Controllare e organizzare le risorse di Azure con Azure Resource Manager
 - Stimare i costi e ottimizzare la spesa per Azure
-
-## [Opinione del cliente per Dynamics 365](https://docs.microsoft.com/it-it/learn/paths/dyn365-voice-of-customer)
-#### Percorso di apprendimento - 2 h 52 min - Numero di moduli: 3
-Annuncio. La versione localizzata di questo corso verrà ritirata l'8 giugno. La versione più aggiornata del corso è disponibile in inglese.
-
-Modules:
-- Progetta Opinione del cliente per sondaggi Dynamics 365
-- La distribuzione delle risposte e le opzioni di punteggio del sondaggio in Opinione del cliente per Dynamics 365
-- Gestisci e guida le azioni dalle riposte del sondaggio con Opinione del cliente per Dynamics 365
 
 ## [Sviluppare applicazioni di Windows 10](https://docs.microsoft.com/it-it/learn/paths/develop-windows10-apps)
 #### Percorso di apprendimento - 4 h 30 min - Numero di moduli: 4
@@ -577,65 +540,33 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### Percorso di apprendimento - 5 h 26 min - Numero di moduli: 4
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 4
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
+- Configure and work with inventory management in Dynamics 365 for Finance and Operations
+- Use inventory reports in Finance and Operations
+- Create products and product masters in in Dynamics 365 for Finance and Operations
+- Create bill of materials in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Percorso di apprendimento - 3 h 9 min - Numero di moduli: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### Percorso di apprendimento - 5 h 25 min - Numero di moduli: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Percorso di apprendimento - 6 h 10 min - Numero di moduli: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Percorso di apprendimento - 9 h 8 min - Numero di moduli: 6
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
-
-Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Consume data with Power BI](https://docs.microsoft.com/it-it/learn/paths/consume-data-with-power-bi)
-#### Percorso di apprendimento - 2 h 35 min - Numero di moduli: 2
-Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-work-warehouse-management-d365-finance-ops)
+#### Percorso di apprendimento - 4 h 57 min - Numero di moduli: 2
+Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
 Modules:
-- Explore what Power BI can do for you
-- Analyze data with Power BI
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Percorso di apprendimento - 5 h 53 min - Numero di moduli: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
-Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+- Configure warehouse management in Dynamics 365 for Finance and Operations
+- Work with warehouse management in Dynamics 365 for Finance and Operations
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
 #### Percorso di apprendimento - 6 h 23 min - Numero di moduli: 6
@@ -649,33 +580,26 @@ Modules:
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 4
-Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Percorso di apprendimento - 5 h 53 min - Numero di moduli: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 Modules:
-- Configure and work with inventory management in Dynamics 365 for Finance and Operations
-- Use inventory reports in Finance and Operations
-- Create products and product masters in in Dynamics 365 for Finance and Operations
-- Create bill of materials in Dynamics 365 for Finance and Operations
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
 
-## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-work-warehouse-management-d365-finance-ops)
-#### Percorso di apprendimento - 4 h 57 min - Numero di moduli: 2
-Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
-
-Modules:
-- Configure warehouse management in Dynamics 365 for Finance and Operations
-- Work with warehouse management in Dynamics 365 for Finance and Operations
-
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Percorso di apprendimento - 6 h 10 min - Numero di moduli: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### Percorso di apprendimento - 9 h 8 min - Numero di moduli: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/it-it/learn/paths/get-started-with-marketing)
 #### Percorso di apprendimento - 1 h 20 min - Numero di moduli: 2
@@ -721,29 +645,51 @@ Modules:
 - Connecting to other data in a PowerApps canvas app
 - Use custom connectors in a PowerApps canvas app
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/it-it/learn/paths/get-started-dynamics-365-portals)
-#### Percorso di apprendimento - 2 h 32 min - Numero di moduli: 3
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### Percorso di apprendimento - 5 h 26 min - Numero di moduli: 4
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Percorso di apprendimento - 3 h 9 min - Numero di moduli: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
+
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### Percorso di apprendimento - 5 h 25 min - Numero di moduli: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
+Modules:
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/it-it/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Percorso di apprendimento - 2 h 50 min - Numero di moduli: 9
 Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
 
 Modules:
-- Welcome to Microsoft 365
-- Introducing Microsoft 365 and Surface for Business
-- Facilitate Teamwork with Microsoft 365
-- Modern Communications in Microsoft Teams
-- Get more from Microsoft 365 with Surface for Business
-- Deploy and manage Windows 10 and Office 365 ProPlus
-- Security with Microsoft 365
-- Compliance with Microsoft 365
-- Get started with Microsoft 365 using FastTrack
+- Learn how your organization can move to a modern workplace with Microsoft 365
+- Discover modern workplace solutions with Microsoft 365 and Surface for Business
+- Facilitate teamwork to achieve more with Microsoft 365
+- Enable modern communication and collaboration with Microsoft Teams
+- Discover how your organization can achieve more with Surface for Business and Microsoft 365
+- Balance IT and user needs with Windows 10 and Office 365 ProPlus
+- Secure your organization with built-in, intelligent security from Microsoft 365
+- Meet the growing demand for transparency, privacy, and compliance with Microsoft 365
+- Accelerate deployment and improve adoption of Microsoft 365 with FastTrack
 
 ## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/it-it/learn/paths/ui-controls-canvas-app-powerapps)
 #### Percorso di apprendimento - 1 h 58 min - Numero di moduli: 3
@@ -866,6 +812,15 @@ Modules:
 - Manage Dynamics 365 clients
 - Microsoft Power Platform Mobile management
 
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/it-it/learn/paths/get-started-dynamics-365-portals)
+#### Percorso di apprendimento - 2 h 32 min - Numero di moduli: 3
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
+Modules:
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
+
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/it-it/learn/paths/apply-goal-management-dynamics-365)
 #### Percorso di apprendimento - 1 h 20 min - Numero di moduli: 2
 Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
@@ -873,6 +828,31 @@ Apply goal management to track your individual, parent, and child goals. Analyze
 Modules:
 - Define and track individual goals in Dynamics 365 Customer Engagement
 - Use goal metrics in Dynamics 365 Customer Engagement
+
+## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
+#### Percorso di apprendimento - 2 h 57 min - Numero di moduli: 3
+This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
+
+Modules:
+- Get started with Dynamics 365 for Customer Service
+- Managing cases with Microsoft Dynamics 365 for Customer Service
+- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
+
+## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
+#### Percorso di apprendimento - 2 h - Numero di moduli: 2
+This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and design knowledge management solutions in Dynamics 365 for Customer Service
+- Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
+
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Percorso di apprendimento - 2 h 8 min - Numero di moduli: 2
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/it-it/learn/paths/universal-resource-scheduling)
 #### Percorso di apprendimento - 5 h 9 min - Numero di moduli: 5
@@ -884,6 +864,17 @@ Modules:
 - Customize the schedule board in Microsoft Dynamics 365 for Field Service
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
+
+## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/it-it/learn/paths/working-with-connected-field-service-iot)
+#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 5
+This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
+Modules:
+- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
+- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
+- Using IoT Central with Connected Field Service for Dynamics 365
+- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/it-it/learn/paths/working-with-dynamics-365-sales)
 #### Percorso di apprendimento - 6 h 42 min - Numero di moduli: 7
@@ -948,4 +939,13 @@ Modules:
 - Assess Leads in Dynamics 365 for Marketing
 - Marketing to Leads and Contacts in Dynamics 365 for Marketing
 - Analyze Results in Dynamics 365 for Marketing
+
+## [Voice of the Customer for Dynamics 365](https://docs.microsoft.com/it-it/learn/paths/dyn365-voice-of-customer)
+#### Percorso di apprendimento - 2 h 54 min - Numero di moduli: 3
+This learning path introduces you to the basics of Voice of the Customer for Dynamics 365.
+
+Modules:
+- Design Voice of the Customer for Dynamics 365 surveys
+- Response routing and survey scoring options in Voice of the Customer for Dynamics 365
+- Manage and drive actions from survey responses with Voice of the Customer for Dynamics 365
 

@@ -1,5 +1,5 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-06-03
+last updated: 2019-06-15
 ## [정부용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-government)
 #### 학습 경로 - 7시간 44분 - 모듈 수: 10
 정부의 의사 결정자는 AI의 진정한 변환 능력을 깨닫기 전에 특정 공공 분야의 고려 사항을 수행해야 합니다. 공공 부문이 AI를 통해 가치를 창출하는 데 도움이 되는 전략의 구성 요소를 파악하는 것이 중요합니다. 이 학습 경로는 정부 의사 결정자가 공공 분야에서 AI의 진정한 변환 영향을 설명하기 위해 설계되었습니다.
@@ -80,6 +80,14 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
+
+## [Power BI로 데이터 사용](https://docs.microsoft.com/ko-kr/learn/paths/consume-data-with-power-bi)
+#### 학습 경로 - 2시간 35분 - 모듈 수: 2
+데이터를 기반으로 비즈니스 결정을 내리시겠습니까? Power BI에서 작업을 수행하는 방법을 알아봅니다. Power BI에서 작업하여 이 콘텐츠를 검토하고 상호 작용하여 비즈니스 결정을 내리는 방법을 알아봅니다.
+
+Modules:
+- Power BI로 수행할 수 있는 작업 알아보기
+- Power BI를 사용하여 데이터 분석
 
 ## [소매용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-retail)
 #### 학습 경로 - 7시간 37분 - 모듈 수: 10
@@ -172,15 +180,15 @@ Modules:
 이해하기 쉬운 방식으로 최신 작업 공간에 대해 알아보고 싶으세요? Microsoft에서 최신 작업 공간을 만드는 데 어떤 도움을 줄 수 있는지 알고 싶으세요?  이 학습 경로를 통해 최신 작업 공간이 사용자와 IT에게 어떤 의미인지와 Microsoft 365를 사용하여 최신 작업 공간을 만들 수 있는 방법을 소개합니다.
 
 Modules:
-- Microsoft 365를 시작합니다.
-- Microsoft 365와 비즈니스용 Surface 소개
-- Microsoft 365로 용이한 팀 작업 지원
-- Microsoft 팀에서 최신 커뮤니케이션
-- 비즈니스용 Surface를 통해 Microsoft 365에서 더 많은 작업 수행
-- Windows 10과 Office 365 ProPlue 배포 및 관리
-- Microsoft 365를 통한 보안
-- Microsoft 365로 규정 준수
-- FastTrack을 사용하여 Microsoft 365 시작하기
+- Microsoft 365를 사용하여 조직을 현대식 작업 공간으로 만드는 방법을 알아봅니다.
+- Microsoft 365 및 비즈니스용 Surface를 사용하여 현대식 작업 공간 만들기
+- Microsoft 365를 사용하여 더 많은 성과를 얻기 위해 팀워크를 촉진
+- Microsoft Teams를 통해 최신 커뮤니케이션 및 공동 작업 가능
+- 조직이 비즈니스용 Surface 및 Microsoft 365를 사용하여 더 많은 성과를 달성할 수 있는 방법을 알아봅니다.
+- Windows 10과 Office 365 ProPlus를 사용하여 IT와 사용자 요구 사항의 균형 유지
+- Microsoft 365에서 기본 제공되는 인텔리전트 보안을 사용하여 조직의 보안 유지
+- Microsoft 365를 통해 투명성, 개인 정보 보호 및 규정 준수에 대해 높아지는 요구를 충족
+- FastTrack을 사용하여 배포를 가속화하고 Microsoft 365 채택 증진
 
 ## [기본 수식을 사용하여 PowerApps 캔버스 앱 개선하기](https://docs.microsoft.com/ko-kr/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 학습 경로 - 2시간 16분 - 모듈 수: 3
@@ -318,14 +326,6 @@ Modules:
 - Power BI로 빌드 시작
 - 첫 번째 Power BI 보고서 만들기 및 공유
 
-## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
-#### 학습 경로 - 1시간 14분 - 모듈 수: 2
-이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
-
-Modules:
-- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
-- Azure Stream Analytics를 사용하여 데이터 변환
-
 ## [Microsoft Azure의 비즈니스 가치 알아보기](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-azure)
 #### 학습 경로 - 3시간 47분 - 모듈 수: 7
 클라우드를 쉽게 이해할 수 있는 방법이 있다면 알아볼 생각이 있으신가요? 혹시 클라우드 기술을 어디서 시작해야 하는지 몰라서 어려움을 겪고 계신가요? 이 학습 환경은 디지털 변환 및 강력한 클라우드가 비즈니스를 어떻게 바꿀 수 있는지 보여주는 것부터 시작해서 여러분에게 그 과정을 안내합니다.
@@ -338,6 +338,14 @@ Modules:
 - Microsoft Azure AI(인공 지능) 전략 및 솔루션
 - Microsoft Azure IoT 전략 및 솔루션
 - Microsoft 클라우드 운영 모델 개요
+
+## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
+#### 학습 경로 - 1시간 14분 - 모듈 수: 2
+이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
+
+Modules:
+- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
+- Azure Stream Analytics를 사용하여 데이터 변환
 
 ## [Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
 #### 학습 경로 - 4시간 21분 - 모듈 수: 6
@@ -528,16 +536,6 @@ Modules:
 - Azure의 효율성 및 운영을 위한 디자인
 - Azure의 가용성 및 복구 기능을 위한 설계
 
-## [서비스를 함께 연결](https://docs.microsoft.com/ko-kr/learn/paths/connect-your-services-together)
-#### 학습 경로 - 3시간 31분 - 모듈 수: 4
-Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔드 서비스 및 주문형 계산 서비스를 수행하는 트리거 함수)로 구성된 애플리케이션을 만들 수 있습니다. 또한 Azure에는 다양한 구성 요소가 서로 데이터를 전달할 수 있는 다양한 통신 전략이 포함되어 있습니다. 이러한 통신 서비스를 활용하여 테스트 가능한 구성 요소에서 확장성 있는 효율적인 솔루션을 만드는 방법을 알아봅니다.
-
-Modules:
-- Azure에서 메시징 모델을 선택하여 서비스를 느슨하게 연결
-- Azure Service Bus를 통한 메시지 기반 통신 워크플로 구현
-- Azure Queue Storage를 사용하여 애플리케이션 간에 통신
-- Azure Event Hubs를 사용하여 빅 데이터 애플리케이션에 대해 신뢰할 수 있는 메시징 사용
-
 ## [Azure Virtual Machines를 통해 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### 학습 경로 - 4시간 18분 - 모듈 수: 4
 Azure 웹앱 플랫폼에서 웹 호스팅 요구 사항을 직접 지원하지 않는 경우 가상 머신을 활용하여 웹 서버의 모든 측면을 사용자 지정하고 제어할 수 있습니다. 웹앱을 호스트하는 Linux 및 Windows에서 가상 머신을 만들고 구성하고 관리하는 방법을 알아봅니다.
@@ -547,6 +545,16 @@ Modules:
 - Azure에서 Linux 가상 머신 만들기
 - Azure에서 Windows 가상 머신 만들기
 - Azure Linux 가상 머신에서 MEAN 스택을 사용하여 웹 애플리케이션 빌드 및 실행
+
+## [서비스를 함께 연결](https://docs.microsoft.com/ko-kr/learn/paths/connect-your-services-together)
+#### 학습 경로 - 3시간 31분 - 모듈 수: 4
+Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔드 서비스 및 주문형 계산 서비스를 수행하는 트리거 함수)로 구성된 애플리케이션을 만들 수 있습니다. 또한 Azure에는 다양한 구성 요소가 서로 데이터를 전달할 수 있는 다양한 통신 전략이 포함되어 있습니다. 이러한 통신 서비스를 활용하여 테스트 가능한 구성 요소에서 확장성 있는 효율적인 솔루션을 만드는 방법을 알아봅니다.
+
+Modules:
+- Azure에서 메시징 모델을 선택하여 서비스를 느슨하게 연결
+- Azure Service Bus를 통한 메시지 기반 통신 워크플로 구현
+- Azure Queue Storage를 사용하여 애플리케이션 간에 통신
+- Azure Event Hubs를 사용하여 빅 데이터 애플리케이션에 대해 신뢰할 수 있는 메시징 사용
 
 ## [Azure에 데이터 저장](https://docs.microsoft.com/ko-kr/learn/paths/store-data-in-azure)
 #### 학습 경로 - 3시간 50분 - 모듈 수: 5
@@ -568,57 +576,6 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### 학습 경로 - 5시간 25분 - 모듈 수: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### 학습 경로 - 3시간 9분 - 모듈 수: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### 학습 경로 - 5시간 26분 - 모듈 수: 4
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
-
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### 학습 경로 - 9시간 8분 - 모듈 수: 6
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
-
-Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Consume data with Power BI](https://docs.microsoft.com/ko-kr/learn/paths/consume-data-with-power-bi)
-#### 학습 경로 - 2시간 35분 - 모듈 수: 2
-Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
-
-Modules:
-- Explore what Power BI can do for you
-- Analyze data with Power BI
-
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### 학습 경로 - 4시간 57분 - 모듈 수: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
@@ -626,16 +583,6 @@ Warehouse management in Dynamics 365 for Finance and Operations helps optimize a
 Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
-
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### 학습 경로 - 5시간 56분 - 모듈 수: 4
-Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
-
-Modules:
-- Configure and work with inventory management in Dynamics 365 for Finance and Operations
-- Use inventory reports in Finance and Operations
-- Create products and product masters in in Dynamics 365 for Finance and Operations
-- Create bill of materials in Dynamics 365 for Finance and Operations
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### 학습 경로 - 6시간 10분 - 모듈 수: 4
@@ -647,14 +594,15 @@ Modules:
 - Process purchase orders in Dynamics 365 for Finance and Operations
 - Configure and work with quality control in Dynamics 365 for Finance and Operations
 
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### 학습 경로 - 5시간 53분 - 모듈 수: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+#### 학습 경로 - 5시간 56분 - 모듈 수: 4
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+- Configure and work with inventory management in Dynamics 365 for Finance and Operations
+- Use inventory reports in Finance and Operations
+- Create products and product masters in in Dynamics 365 for Finance and Operations
+- Create bill of materials in Dynamics 365 for Finance and Operations
 
 ## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
 #### 학습 경로 - 6시간 23분 - 모듈 수: 6
@@ -667,6 +615,27 @@ Modules:
 - Create and process event Kanban rules in Dynamics 365 for Finance and Operations
 - Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 5시간 53분 - 모듈 수: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+Modules:
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### 학습 경로 - 9시간 8분 - 모듈 수: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+Modules:
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-marketing)
 #### 학습 경로 - 1시간 20분 - 모듈 수: 2
@@ -712,14 +681,36 @@ Modules:
 - Connecting to other data in a PowerApps canvas app
 - Use custom connectors in a PowerApps canvas app
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ko-kr/learn/paths/get-started-dynamics-365-portals)
-#### 학습 경로 - 2시간 32분 - 모듈 수: 3
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### 학습 경로 - 5시간 25분 - 모듈 수: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### 학습 경로 - 3시간 9분 - 모듈 수: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
+
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### 학습 경로 - 5시간 26분 - 모듈 수: 4
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+Modules:
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ko-kr/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### 학습 경로 - 5시간 36분 - 모듈 수: 6
@@ -842,6 +833,15 @@ Modules:
 - Manage Dynamics 365 clients
 - Microsoft Power Platform Mobile management
 
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ko-kr/learn/paths/get-started-dynamics-365-portals)
+#### 학습 경로 - 2시간 32분 - 모듈 수: 3
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
+Modules:
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
+
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/ko-kr/learn/paths/apply-goal-management-dynamics-365)
 #### 학습 경로 - 1시간 20분 - 모듈 수: 2
 Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
@@ -875,17 +875,6 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ko-kr/learn/paths/working-with-connected-field-service-iot)
-#### 학습 경로 - 5시간 56분 - 모듈 수: 5
-This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
-
-Modules:
-- Get started with Connected Field Service for Dynamics 365 and Azure IoT
-- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
-- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
-- Using IoT Central with Connected Field Service for Dynamics 365
-- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
-
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ko-kr/learn/paths/universal-resource-scheduling)
 #### 학습 경로 - 5시간 9분 - 모듈 수: 5
 Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
@@ -896,6 +885,17 @@ Modules:
 - Customize the schedule board in Microsoft Dynamics 365 for Field Service
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
+
+## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ko-kr/learn/paths/working-with-connected-field-service-iot)
+#### 학습 경로 - 5시간 56분 - 모듈 수: 5
+This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
+Modules:
+- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
+- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
+- Using IoT Central with Connected Field Service for Dynamics 365
+- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/ko-kr/learn/paths/working-with-dynamics-365-sales)
 #### 학습 경로 - 6시간 42분 - 모듈 수: 7

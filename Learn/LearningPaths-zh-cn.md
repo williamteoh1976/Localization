@@ -1,5 +1,5 @@
 # Summary of Learning Paths (zh-cn)
-last updated: 2019-06-03
+last updated: 2019-06-15
 ## [面向政府的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-government)
 #### 学习路径 - 7 小时 44 分钟 - 模块数：10 个
 在政府中，决策者们必须顾及到特定公共部门考量，这样才能在转型中发挥 AI 的真正效力。 理解有助于公共部门通过 AI 创造价值的战略的各个方面，这是至关重要的。 该学习路径专为政府决策者们设计，它描述了 AI 在公共部门转型中真正的影响力。
@@ -104,6 +104,14 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
+## [通过 Power BI 使用数据](https://docs.microsoft.com/zh-cn/learn/paths/consume-data-with-power-bi)
+#### 学习路径 - 2 小时 35 分钟 - 模块数：2 个
+是否想作出由数据提供支持的业务决策？ 了解如何在 Power BI 中执行此操作。 了解如何在 Power BI 中操作来查看此内容并与之交互，进而作出业务决策。
+
+Modules:
+- 探索 Power BI 可以提供的服务
+- 使用 Power BI 分析数据
+
 ## [面向商业领袖的 AI 技术简介](https://docs.microsoft.com/zh-cn/learn/paths/ai-technology-for-business-leaders)
 #### 学习路径 - 1 小时 25 分钟 - 模块数：2 个
 在该学习路径中，你将简要了解 AI 的主要概念。 你将能够描述出 AI 的本质及支撑它的技术。 你将能够分享 Microsoft 正在如何将 AI 中的最新前沿技术转化到可供组织使用的工具、产品和服务中。
@@ -172,15 +180,15 @@ Modules:
 你是否有兴趣以易于理解的方式了解现代工作场所？ 你想知道 Microsoft 如何帮助你创建现代工作场所吗？此学习路径向你介绍现代工作场所对用户和 IT 的意义，以及 Microsoft 365 如何帮助你创建现代工作场所。
 
 Modules:
-- 欢迎使用 Microsoft 365
-- 介绍 Microsoft 365 和 Surface for Business
-- 通过 Microsoft 365 促进团队合作
-- Microsoft Teams 中的新式通信
-- 使用 Surface for Business 从 Microsoft 365 中获得更多价值
-- 部署和管理 Windows 10 和 Office 365 专业增强版
-- Microsoft 365 安全性
-- Microsoft 365 合规性
-- 使用 Fasttrack 的 Microsoft 365 入门
+- 了解你的组织可以如何使用 Microsoft 365 迁移到现代化的工作场所
+- 使用 Microsoft 365 和 Surface for Business 发现现代化工作场所解决方案
+- 通过 Microsoft 365 促进团队工作，以实现更多目标
+- 使用 Microsoft Teams 进行现代化的沟通和协作
+- 了解你的组织如何通过 Surface for Business 和 Microsoft 365 实现更多目标。
+- 通过 Windows 10 和 Office 365 专业增强版平衡 IT 和用户需求
+- 使用 Microsoft 365 的内置智能安全保护贵公司
+- 满足对 Microsoft 365 的透明度、隐私和合规性日益增长的需求
+- 使用 FastTrack 加速部署 Microsoft 365 和改善其使用
 
 ## [使用基本公式生成 PowerApps 画布应用](https://docs.microsoft.com/zh-cn/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### 学习路径 - 2 小时 16 分钟 - 模块数：3 个
@@ -568,57 +576,6 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### 学习路径 - 5 小时 25 分钟 - 模块数：5 个
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
-
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### 学习路径 - 5 小时 26 分钟 - 模块数：4 个
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### 学习路径 - 3 小时 9 分钟 - 模块数：4 个
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### 学习路径 - 9 小时 8 分钟 - 模块数：6 个
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
-
-Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Consume data with Power BI](https://docs.microsoft.com/zh-cn/learn/paths/consume-data-with-power-bi)
-#### 学习路径 - 2 小时 35 分钟 - 模块数：2 个
-Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
-
-Modules:
-- Explore what Power BI can do for you
-- Analyze data with Power BI
-
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### 学习路径 - 4 小时 57 分钟 - 模块数：2 个
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
@@ -626,27 +583,6 @@ Warehouse management in Dynamics 365 for Finance and Operations helps optimize a
 Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### 学习路径 - 5 小时 53 分钟 - 模块数：3 个
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
-Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### 学习路径 - 6 小时 23 分钟 - 模块数：6 个
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### 学习路径 - 6 小时 10 分钟 - 模块数：4 个
@@ -667,6 +603,39 @@ Modules:
 - Use inventory reports in Finance and Operations
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 6 小时 23 分钟 - 模块数：6 个
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
+- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 5 小时 53 分钟 - 模块数：3 个
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+Modules:
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### 学习路径 - 9 小时 8 分钟 - 模块数：6 个
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+Modules:
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/zh-cn/learn/paths/get-started-with-marketing)
 #### 学习路径 - 1 小时 20 分钟 - 模块数：2 个
@@ -712,14 +681,36 @@ Modules:
 - Connecting to other data in a PowerApps canvas app
 - Use custom connectors in a PowerApps canvas app
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/zh-cn/learn/paths/get-started-dynamics-365-portals)
-#### 学习路径 - 2 小时 32 分钟 - 模块数：3 个
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### 学习路径 - 5 小时 25 分钟 - 模块数：5 个
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### 学习路径 - 5 小时 26 分钟 - 模块数：4 个
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+Modules:
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### 学习路径 - 3 小时 9 分钟 - 模块数：4 个
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/zh-cn/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### 学习路径 - 5 小时 36 分钟 - 模块数：6 个
@@ -841,6 +832,15 @@ Modules:
 - Administer Microsoft Power Platform subscriptions
 - Manage Dynamics 365 clients
 - Microsoft Power Platform Mobile management
+
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/zh-cn/learn/paths/get-started-dynamics-365-portals)
+#### 学习路径 - 2 小时 32 分钟 - 模块数：3 个
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
+Modules:
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
 
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/zh-cn/learn/paths/apply-goal-management-dynamics-365)
 #### 学习路径 - 1 小时 20 分钟 - 模块数：2 个

@@ -1,5 +1,5 @@
 # Summary of Learning Paths (ja-jp)
-last updated: 2019-06-03
+last updated: 2019-06-15
 ## [官公庁/自治体のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-government)
 #### ラーニング パス - 7 時間 44 分 - モジュール数: 10
 官公庁/自治体において、意思決定者が AI の真の変革の力を現実化するには、公的機関独自の考慮事項を考える必要があります。 戦略の各構成要素は、公的機関が AI を使って価値を生み出すために役立つため、これを理解することが重要です。 このラーニング パスは、AI の真の変革の影響を説明する、官公庁/自治体の公的機関の意思決定者向けに設計されています。
@@ -113,6 +113,14 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
+## [Power BI でデータを使用する](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
+#### ラーニング パス - 2 時間 35 分 - モジュール数: 2
+データに裏付けられたビジネスの意思決定をしますか。 Power BI で実行する方法をについて説明します。 Power BI を使用して、このコンテンツをレビューし、対話して、ビジネスの意思決定を行う方法について説明します。
+
+Modules:
+- Power BI で何ができるかを調べる
+- Power BI を使用したデータ分析
+
 ## [AI 戦略を定義してビジネスの価値を生み出す](https://docs.microsoft.com/ja-jp/learn/paths/ai-strategy-for-business-value)
 #### ラーニング パス - 4 時間 43 分 - モジュール数: 6
 このラーニング パスでは INSEAD で Eli Lilly の戦略とイノベーションの主任教授を務める Peter Zemsky 氏に、AI が Microsoft の顧客やパートナーだけでなく、さまざまな業種や企業でどのようにしてビジネスの価値を生み出すかを伺います。 技術チームがどのようにして AI をビジネス アプリケーションに取り入れるのか、そしてさまざまな業種のビジネス リーダーが自社向けの AI についてどのように考えているのかを説明できるようになります。
@@ -172,15 +180,15 @@ Modules:
 わかりやすい方法で最新の職場について知ることに興味がありますか? Microsoft がどのようにして、最新の職場の構築に役立つかを知りたいですか?このラーニング パスでは、最新の職場がユーザーと IT にとって何を意味するのかと、最新の職場の構築に Microsoft 365 がどのように役立つかについて説明します。
 
 Modules:
-- Microsoft 365 へようこそ
-- Microsoft 365 と Surface for Business の導入
-- Microsoft 365 でチーム作業を円滑に進める
-- Microsoft Teams での現代的なコミュニケーション
-- Microsoft 365 と Surface for Business から更に力を引き出す
-- Windows 10 および Office 365 ProPlus の展開と管理
-- Microsoft 365 でのセキュリティ
-- Microsoft 365 とコンプライアンス
-- FastTrack を使用して Microsoft 365 を開始する
+- Microsoft 365 を使用して組織をモダンな職場へと移動させる方法を学ぶ
+- Microsoft 365 と Surface for Business を使用して現代的な職場のソリューションを見つける
+- さらに多くのことを達成するために Microsoft 365 を使用してチーム作業を円滑に進める
+- Microsoft Teams を使用して現代的なコミュニケーションとコラボレーションをできるようにする
+- Surface for Business と Microsoft 365 を使用して、組織の成果をさらに上げる方法を見つける
+- Windows 10 と Office 365 ProPlus を使用して IT とユーザーのニーズのバランスを取る
+- Microsoft 365 が提供する組み込みのインテリジェント セキュリティを用いて組織を保護する
+- Microsoft 365 を使用して透明性、プライバシー、およびコンプライアンスへの高まる需要を満たす
+- FastTrack を使用して Microsoft 365 の展開を加速して導入を促進する
 
 ## [基本的な数式を使用してより優れた PowerApps のキャンバス アプリを作成する](https://docs.microsoft.com/ja-jp/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### ラーニング パス - 2 時間 16 分 - モジュール数: 3
@@ -317,14 +325,6 @@ Modules:
 - Microsoft Flow でより複雑なフローを構築する
 - 管理センターを使用し、Microsoft Flow で環境とデータ ポリシーを管理する
 
-## [Microsoft Dynamics 365 for Customer Service でナレッジ マネージメント ソリューションを使用する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
-#### ラーニング パス - 2 時間 - モジュール数: 2
-お知らせ! このコースのローカライズ バージョンは、6 月 8 日に廃止されました。コースの最新バージョンは英語で入手できます。
-
-Modules:
-- Dynamics 365 for Customer Service でナレッジ マネージメント ソリューションを作成および設計する
-- Dynamics 365 for Customer Service でサポート案件の解決のためにサポート情報の記事を利用する
-
 ## [Power BI で分析レポートを作成して使用する](https://docs.microsoft.com/ja-jp/learn/paths/create-use-analytics-reports-power-bi)
 #### ラーニング パス - 1 時間 42 分 - モジュール数: 2
 このラーニング パスでは、Power BI の概要と、ビジネス インテリジェンス レポートの使用および作成について説明します。
@@ -333,23 +333,6 @@ Modules:
 - Power BI を使用してビルドを開始する
 - 最初の Power BI レポートを作成して共有する
 
-## [Microsoft Dynamics 365 for Customer Service でサポート案件を処理する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
-#### ラーニング パス - 2 時間 57 分 - モジュール数: 3
-お知らせ! このコースのローカライズ バージョンは、6 月 8 日に廃止されました。コースの最新バージョンは英語で入手できます。
-
-Modules:
-- Dynamics 365 for Customer Service に関する入門情報
-- Microsoft Dynamics 365 for Customer Service でサポート案件を管理する
-- Microsoft Dynamics 365 for Customer Service キューを使ってサポート案件のワークロードを管理する
-
-## [Microsoft Dynamics 365 for Customer Service で権利とサービス レベル アグリーメントを使用する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### ラーニング パス - 2 時間 8 分 - モジュール数: 2
-お知らせ! このコースのローカライズ バージョンは、6 月 8 日に廃止されました。コースの最新バージョンは英語で入手できます。
-
-Modules:
-- Microsoft Dynamics 365 for Customer Service で権利を作成および管理する
-- Dynamics 365 for Customer Service サービス レベル アグリーメント
-
 ## [PowerApps でモデル駆動型アプリケーションを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-app-models-business-processes)
 #### ラーニング パス - 1 時間 40 分 - モジュール数: 2
 このラーニング パスでは、Common Data Service を使用するモデル駆動型 PowerApp の作成について説明します。
@@ -357,17 +340,6 @@ Modules:
 Modules:
 - PowerApps のモデル駆動型アプリの概要
 - Common Data Service の概要
-
-## [Connected Field Service for Dynamics 365 と Azure IoT に関する作業](https://docs.microsoft.com/ja-jp/learn/paths/working-with-connected-field-service-iot)
-#### ラーニング パス - 5 時間 56 分 - モジュール数: 5
-お知らせ! このコースのローカライズ バージョンは、6 月 8 日に廃止されました。コースの最新バージョンは英語で入手できます。
-
-Modules:
-- Connected Field Service for Dynamics 365 と Azure IoT を開始する
-- Connected Field Service for Dynamics 365 と Azure IoT を使用した、リモートでの顧客備品の監視およびサービス
-- Connected Field Service for Dynamics 365 と Azure IoT での顧客デバイスの登録と管理
-- Connected Field Service for Dynamics 365 での IoT Central の使用
-- Connected Field Service for Dynamics 365 と Azure IoT を使用して例外を識別する
 
 ## [Azure Data Lake Storage Gen2 を使用した大規模なデータ処理](https://docs.microsoft.com/ja-jp/learn/paths/data-processing-with-azure-adls)
 #### ラーニング パス - 2 時間 5 分 - モジュール数: 3
@@ -400,15 +372,6 @@ Modules:
 - Azure Databricks でのディープ ラーニング
 - Azure Databricks でテキスト分析を実行する
 
-## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
-#### ラーニング パス - 1 時間 51 分 - モジュール数: 3
-データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
-
-Modules:
-- 進化するデータの世界について理解する
-- Azure データ プラットフォームのサービスを調べる
-- クラウド ホスト型アーキテクチャでデータ エンジニアのタスクを確認する
-
 ## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
 #### ラーニング パス - 3 時間 47 分 - モジュール数: 7
 クラウドについて理解しやすい方法で学習することに関心がありますか?  あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
@@ -421,6 +384,15 @@ Modules:
 - Microsoft Azure 人工知能 (AI) の戦略とソリューション
 - Microsoft Azure IoT の戦略とソリューション
 - Microsoft Cloud 運用モデルの概要
+
+## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
+#### ラーニング パス - 1 時間 51 分 - モジュール数: 3
+データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
+
+Modules:
+- 進化するデータの世界について理解する
+- Azure データ プラットフォームのサービスを調べる
+- クラウド ホスト型アーキテクチャでデータ エンジニアのタスクを確認する
 
 ## [Microsoft Dynamics 365 と Power Platform のビジネス バリューについて学ぶ](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### ラーニング パス - 5 時間 2 分 - モジュール数: 15
@@ -468,15 +440,6 @@ Modules:
 - Azure Policy でインフラストラクチャの標準を適用して監視する
 - Azure Resource Manager での Azure リソースの管理と整理
 - Azure のコストを予測して支出を最適化する
-
-## [Dynamics 365 のお客様の声](https://docs.microsoft.com/ja-jp/learn/paths/dyn365-voice-of-customer)
-#### ラーニング パス - 2 時間 52 分 - モジュール数: 3
-お知らせ! このコースのローカライズ バージョンは、6 月 8 日に廃止されました。コースの最新バージョンは英語で入手できます。
-
-Modules:
-- Dynamics 365 のお客様の声の調査の設計
-- Dynamics 365 のお客様の声の応答ルーティングと調査のスコアリング オプション
-- Dynamics 365 のお客様の声を使った、調査回答からのアクションの管理と推進
 
 ## [Windows 10 アプリケーションの開発](https://docs.microsoft.com/ja-jp/learn/paths/develop-windows10-apps)
 #### ラーニング パス - 4 時間 30 分 - モジュール数: 4
@@ -628,78 +591,6 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### ラーニング パス - 5 時間 25 分 - モジュール数: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
-
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### ラーニング パス - 5 時間 26 分 - モジュール数: 4
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### ラーニング パス - 3 時間 9 分 - モジュール数: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 9 時間 8 分 - モジュール数: 6
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
-
-Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Consume data with Power BI](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
-#### ラーニング パス - 2 時間 35 分 - モジュール数: 2
-Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
-
-Modules:
-- Explore what Power BI can do for you
-- Analyze data with Power BI
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 5 時間 53 分 - モジュール数: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
-Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### ラーニング パス - 6 時間 10 分 - モジュール数: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
@@ -727,6 +618,39 @@ Modules:
 - Use inventory reports in Finance and Operations
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
+- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 5 時間 53 分 - モジュール数: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+Modules:
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 9 時間 8 分 - モジュール数: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+Modules:
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-marketing)
 #### ラーニング パス - 1 時間 20 分 - モジュール数: 2
@@ -772,14 +696,36 @@ Modules:
 - Connecting to other data in a PowerApps canvas app
 - Use custom connectors in a PowerApps canvas app
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ja-jp/learn/paths/get-started-dynamics-365-portals)
-#### ラーニング パス - 2 時間 32 分 - モジュール数: 3
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### ラーニング パス - 5 時間 25 分 - モジュール数: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### ラーニング パス - 5 時間 26 分 - モジュール数: 4
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
+Modules:
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### ラーニング パス - 3 時間 9 分 - モジュール数: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ja-jp/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### ラーニング パス - 5 時間 36 分 - モジュール数: 6
@@ -887,6 +833,15 @@ Modules:
 - Manage Dynamics 365 clients
 - Microsoft Power Platform Mobile management
 
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ja-jp/learn/paths/get-started-dynamics-365-portals)
+#### ラーニング パス - 2 時間 32 分 - モジュール数: 3
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
+Modules:
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
+
 ## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/ja-jp/learn/paths/apply-goal-management-dynamics-365)
 #### ラーニング パス - 1 時間 20 分 - モジュール数: 2
 Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
@@ -894,6 +849,31 @@ Apply goal management to track your individual, parent, and child goals. Analyze
 Modules:
 - Define and track individual goals in Dynamics 365 Customer Engagement
 - Use goal metrics in Dynamics 365 Customer Engagement
+
+## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
+#### ラーニング パス - 2 時間 - モジュール数: 2
+This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and design knowledge management solutions in Dynamics 365 for Customer Service
+- Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
+
+## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
+#### ラーニング パス - 2 時間 57 分 - モジュール数: 3
+This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
+
+Modules:
+- Get started with Dynamics 365 for Customer Service
+- Managing cases with Microsoft Dynamics 365 for Customer Service
+- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
+
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### ラーニング パス - 2 時間 8 分 - モジュール数: 2
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ja-jp/learn/paths/universal-resource-scheduling)
 #### ラーニング パス - 5 時間 9 分 - モジュール数: 5
@@ -905,6 +885,17 @@ Modules:
 - Customize the schedule board in Microsoft Dynamics 365 for Field Service
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
+
+## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ja-jp/learn/paths/working-with-connected-field-service-iot)
+#### ラーニング パス - 5 時間 56 分 - モジュール数: 5
+This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
+Modules:
+- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
+- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
+- Using IoT Central with Connected Field Service for Dynamics 365
+- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
 #### ラーニング パス - 1 時間 12 分 - モジュール数: 3
@@ -948,4 +939,13 @@ Modules:
 - Assess Leads in Dynamics 365 for Marketing
 - Marketing to Leads and Contacts in Dynamics 365 for Marketing
 - Analyze Results in Dynamics 365 for Marketing
+
+## [Voice of the Customer for Dynamics 365](https://docs.microsoft.com/ja-jp/learn/paths/dyn365-voice-of-customer)
+#### ラーニング パス - 2 時間 54 分 - モジュール数: 3
+This learning path introduces you to the basics of Voice of the Customer for Dynamics 365.
+
+Modules:
+- Design Voice of the Customer for Dynamics 365 surveys
+- Response routing and survey scoring options in Voice of the Customer for Dynamics 365
+- Manage and drive actions from survey responses with Voice of the Customer for Dynamics 365
 
