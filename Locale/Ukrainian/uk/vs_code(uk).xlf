@@ -4,10 +4,10 @@
       <source xml:lang="en">Another instance of {0} is running but not responding</source><target>Інший екземпляр {0} працює, але не відповідає</target>
     </trans-unit>
     <trans-unit id="secondInstanceNoResponseDetail">
-      <source xml:lang="en">Please close all other instances and try again.</source><target>Будь ласка, закрийте всі інші інстанції і знову спробувати.</target>
+      <source xml:lang="en">Please close all other instances and try again.</source><target>Будь ласка, закрийте всі інші інстанції і спробуйте знову.</target>
     </trans-unit>
     <trans-unit id="secondInstanceAdmin">
-      <source xml:lang="en">A second instance of {0} is already running as administrator.</source><target>Другий екземпляр {0} уже запущено правами адміністратора.</target>
+      <source xml:lang="en">A second instance of {0} is already running as administrator.</source><target>Інший екземпляр {0} уже запущено правами адміністратора.</target>
     </trans-unit>
     <trans-unit id="secondInstanceAdminDetail">
       <source xml:lang="en">Please close the other instance and try again.</source><target>Закрийте інші інстанції і повторіть спробу.</target>
@@ -40,7 +40,7 @@
       <source xml:lang="en">Found '{0}' in the marketplace.</source><target>Знайдено "{0}" на ринку.</target>
     </trans-unit>
     <trans-unit id="installing">
-      <source xml:lang="en">Installing...</source><target>Установка...</target>
+      <source xml:lang="en">Installing...</source><target>Встановлення...</target>
     </trans-unit>
     <trans-unit id="successInstall">
       <source xml:lang="en">Extension '{0}' v{1} was successfully installed!</source><target>Додаток '{0}' v {1} успішно встановлено!</target>
@@ -98,7 +98,7 @@
       <source xml:lang="en">Open</source><target>Відкрити</target>
     </trans-unit>
     <trans-unit id="openFolder">
-      <source xml:lang="en">Open Folder</source><target>Відкрийте Папку</target>
+      <source xml:lang="en">Open Folder</source><target>Відкрийте Каталог</target>
     </trans-unit>
     <trans-unit id="openFile">
       <source xml:lang="en">Open File</source><target>Відкрити Файл</target>
