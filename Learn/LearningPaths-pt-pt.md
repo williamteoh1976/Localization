@@ -1,5 +1,48 @@
 # Summary of Learning Paths (pt-pt)
-last updated: 2019-06-16
+last updated: 2019-07-21
+## [Administrar contentores no Azure](https://docs.microsoft.com/pt-pt/learn/paths/administer-containers-in-azure)
+#### Percurso de Aprendizagem - 3 h 45 min - Número de módulos: 5
+O Azure Container Instances é a forma mais rápida e fácil de executar contentores no Azure. Este percurso de aprendizagem irá ensiná-lo a criar e gerir os seus contentores e como o ACI pode ser utilizado para fornecer dimensionamento flexível para o Kubernetes.
+
+Modules:
+- Criar uma aplicação Web em contentores com o Docker
+- Criar e armazenar imagens de contentor com o Azure Container Registry Build
+- Executar contentores do Docker com o Azure Container Instances
+- Implementar e executar uma aplicação Web em contentor com o Serviço de Aplicações do Azure
+- Introduction to Azure Kubernetes Service
+
+## [Compilar aplicações com o Azure DevOps](https://docs.microsoft.com/pt-pt/learn/paths/build-applications-with-azure-devops)
+#### Percurso de Aprendizagem - 6 h 10 min - Número de módulos: 7
+Aprenda a configurar pipelines de compilação que compilam, testam e verificam continuamente as suas aplicações.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Desenvolver as suas práticas do DevOps](https://docs.microsoft.com/pt-pt/learn/paths/evolve-your-devops-practices)
+#### Percurso de Aprendizagem - 1 h 17 min - Número de módulos: 3
+O DevOps é a união das pessoas, dos processos e dos produtos que lhe permite proporcionar continuamente valor aos seus utilizadores finais. O Azure DevOps é um conjunto de serviços que lhe dá as ferramentas necessárias para o fazer. Com o Azure DevOps, pode compilar, testar e implementar qualquer aplicação, tanto na cloud como no local. As práticas do DevOps que permitem a transparência, a cooperação e a entrega e implementação contínuas são incorporadas no ciclo de vida de desenvolvimento do seu software.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Criar fluxos de trabalho automatizados para integrar dados e aplicações com o Azure Logic Apps](https://docs.microsoft.com/pt-pt/learn/paths/build-workflows-with-logic-apps)
+#### Percurso de Aprendizagem - 2 h 49 min - Número de módulos: 4
+O Azure Logic Apps é um serviço cloud que automatiza a execução dos seus processos de negócio. Saiba como tirar partido de aplicações lógicas para criar fluxos de trabalho sem servidor que são executados automaticamente quando os dados estão disponíveis.
+
+Modules:
+- Introdução ao Azure Logic Apps
+- Encaminhar e processar dados automaticamente com o Logic Apps
+- Chamar uma API a partir de um fluxo de trabalho do Logic Apps com um conector personalizado
+- Criar e implementar Aplicações Lógicas do Logic Apps com os modelos do Azure Resource Manager
+
 ## [Percurso de aprendizagem de IA para administração pública](https://docs.microsoft.com/pt-pt/learn/paths/ai-business-school-government)
 #### Percurso de Aprendizagem - 7 h 44 min - Número de módulos: 10
 No setor da administração pública, os responsáveis pela tomada de decisões têm de ter em consideração as necessidades específicas ao setor público antes de poderem empregar a tecnologia transformacional da IA. É fundamental compreenderem os componentes de uma estratégia que ajudará a área da administração pública a gerar valor com a IA. Este percurso de aprendizagem foi criado tendo em mente os responsáveis pela tomada de decisões na área da administração pública, para ilustrar o verdadeiro impacto transformacional da IA no setor público.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Administrar contentores no Azure](https://docs.microsoft.com/pt-pt/learn/paths/administer-containers-in-azure)
-#### Percurso de Aprendizagem - 3 h 20 min - Número de módulos: 4
-O Azure Container Instances é a forma mais rápida e fácil de executar contentores no Azure. Este percurso de aprendizagem irá ensiná-lo a criar e gerir os seus contentores e como o ACI pode ser utilizado para fornecer dimensionamento flexível para o Kubernetes.
-
-Modules:
-- Criar uma aplicação Web em contentores com o Docker
-- Criar e armazenar imagens de contentor com o Azure Container Registry Build
-- Executar contentores do Docker com o Azure Container Instances
-- Implementar e executar uma aplicação Web em contentor com o Serviço de Aplicações do Azure
 
 ## [Criar uma aplicação baseada em telas no PowerApps](https://docs.microsoft.com/pt-pt/learn/paths/create-powerapps)
 #### Percurso de Aprendizagem - 2 h 11 min - Número de módulos: 3
@@ -123,7 +156,7 @@ Os responsáveis pela tomada de decisões na área das revendas têm necessidade
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -141,7 +174,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -225,7 +258,7 @@ Modules:
 - Reconhecer vozes específicas com as APIs de Reconhecimento de Orador nos Serviços Cognitivos do Azure
 
 ## [Processar e classificar imagens com os Serviços Cognitivos de Visão do Azure](https://docs.microsoft.com/pt-pt/learn/paths/classify-images-with-vision-services)
-#### Percurso de Aprendizagem - 2 h 5 min - Número de módulos: 3
+#### Percurso de Aprendizagem - 1 h 59 min - Número de módulos: 3
 Os Serviços Cognitivos da Microsoft contêm capacidades pré-concebidas que permitem utilizar a funcionalidade de imagem digitalizada nas suas aplicações.  Saiba como pode utilizar os Serviços Cognitivos de Visão para detetar rostos, identificar e classificar imagens e identificar objetos.
 
 Modules:
@@ -242,7 +275,7 @@ Modules:
 - Criar uma Experimentação no Azure Machine Learning Studio
 
 ## [Efetuar engenharia de dados com o Azure Databricks](https://docs.microsoft.com/pt-pt/learn/paths/data-engineering-with-databricks)
-#### Percurso de Aprendizagem - 7 h 55 min - Número de módulos: 9
+#### Percurso de Aprendizagem - 7 h 49 min - Número de módulos: 9
 Saiba mais sobre as ferramentas e técnicas de engenharia de dados suportadas pelo Azure Databricks.
 
 Modules:
@@ -317,19 +350,6 @@ Modules:
 - Conhecer os serviços na plataforma de Dados do Azure
 - Identificar as tarefas de um engenheiro de dados numa arquitetura alojada na cloud
 
-## [Aprender o valor comercial do Microsoft Azure](https://docs.microsoft.com/pt-pt/learn/paths/learn-business-value-of-azure)
-#### Percurso de Aprendizagem - 3 h 47 min - Número de módulos: 7
-Tem interesse em saber mais sobre a cloud de forma fácil de compreender? Não tem a certeza de onde deve começar para utilizar a tecnologia da cloud? Nesta experiência de aprendizagem, irá acompanhar-nos numa jornada que começa por lhe mostrar como a transformação digital e o poder da cloud podem transformar a sua empresa.
-
-Modules:
-- Welcome to Microsoft Azure
-- Introduction to Azure solutions
-- Applications and infrastructure migration and modernization
-- Microsoft data estate migration and modernization
-- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
-- Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
-
 ## [Extrair conhecimentos e informações dos seus dados com o Azure Databricks](https://docs.microsoft.com/pt-pt/learn/paths/data-science)
 #### Percurso de Aprendizagem - 4 h 21 min - Número de módulos: 6
 Saiba como utilizar o Azure Databricks para executar técnicas preditivas e analíticas da Ciência de Dados, como a análise de dados exploratória, a preparação de modelos, a análise de texto e a aprendizagem profunda.
@@ -342,13 +362,27 @@ Modules:
 - Aprendizagem profunda com o Azure Databricks
 - Realizar análises de texto com o Azure Databricks
 
+## [Aprender o valor comercial do Microsoft Azure](https://docs.microsoft.com/pt-pt/learn/paths/learn-business-value-of-azure)
+#### Percurso de Aprendizagem - 4 h 58 min - Número de módulos: 9
+Tem interesse em saber mais sobre a cloud de forma fácil de compreender? Não tem a certeza de onde deve começar para utilizar a tecnologia da cloud? Nesta experiência de aprendizagem, irá acompanhar-nos numa jornada que começa por lhe mostrar como a transformação digital e o poder da cloud podem transformar a sua empresa.
+
+Modules:
+- Welcome to Microsoft Azure
+- Introduction to Azure solutions
+- Applications and infrastructure migration and modernization
+- Microsoft data estate migration and modernization
+- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
+- Microsoft Azure IoT strategy and solutions
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
+
 ## [Princípios fundamentais do Azure](https://docs.microsoft.com/pt-pt/learn/paths/azure-fundamentals)
-#### Percurso de Aprendizagem - 9 h 35 min - Número de módulos: 12
+#### Percurso de Aprendizagem - 8 h 59 min - Número de módulos: 11
 Tem interesse na cloud, mas não sabe bem qual é a sua utilidade? Saiba tudo com este percurso de aprendizagem.
 
 Modules:
 - Conceitos da Cloud – princípios da computação na cloud
-- Serviços Cloud Principais – Introdução ao Azure
 - Principais Serviços Cloud – Arquitetura e garantias de serviço do Azure
 - Criar uma conta do Azure
 - Serviços Cloud Principais – Gerir serviços com o portal do Azure
@@ -374,17 +408,6 @@ Modules:
 - Otimizar o desempenho do Azure Cosmos DB através das estratégias de criação de partições e de indexação
 - Distribuir dados globalmente com o Azure Cosmos DB
 
-## [Implementar um site no Azure com o Serviço de Aplicações do Azure](https://docs.microsoft.com/pt-pt/learn/paths/deploy-a-website-with-azure-app-service)
-#### Percurso de Aprendizagem - 4 h 30 min - Número de módulos: 5
-As aplicações Web no Azure permitem-lhe publicar e gerir o seu site facilmente sem ter de trabalhar com os ativos de rede, armazenamento ou servidores subjacentes. Em vez disso, pode focar-se nas funcionalidades do site e depender da plataforma avançada do Azure para fornecer acesso seguro ao site.
-
-Modules:
-- Preparar o ambiente para o desenvolvimento do Azure
-- Alojar uma aplicação Web com o Serviço de Aplicações do Azure
-- Publicar uma aplicação Web no Azure com o Visual Studio
-- Preparar a implementação de uma aplicação Web para teste e reversão com os blocos de implementação do Serviço de Aplicações
-- Implementar e executar uma aplicação Web em contentor com o Serviço de Aplicações do Azure
-
 ## [Administrar recursos da infraestrutura no Azure](https://docs.microsoft.com/pt-pt/learn/paths/administer-infrastructure-resources-in-azure)
 #### Percurso de Aprendizagem - 9 h 34 min - Número de módulos: 10
 Saiba como criar, gerir, proteger e dimensionar os recursos da máquina virtual.
@@ -400,6 +423,17 @@ Modules:
 - Adicionar e dimensionar discos em máquinas virtuais do Azure
 - A colocação em cache e o desempenho em discos de armazenamento do Azure
 - Proteger os seus discos da máquina virtual do Azure
+
+## [Implementar um site no Azure com o Serviço de Aplicações do Azure](https://docs.microsoft.com/pt-pt/learn/paths/deploy-a-website-with-azure-app-service)
+#### Percurso de Aprendizagem - 3 h 50 min - Número de módulos: 5
+As aplicações Web no Azure permitem-lhe publicar e gerir o seu site facilmente sem ter de trabalhar com os ativos de rede, armazenamento ou servidores subjacentes. Em vez disso, pode focar-se nas funcionalidades do site e depender da plataforma avançada do Azure para fornecer acesso seguro ao site.
+
+Modules:
+- Preparar o ambiente para o desenvolvimento do Azure
+- Alojar uma aplicação Web com o Serviço de Aplicações do Azure
+- Publicar uma aplicação Web no Azure com o Visual Studio
+- Preparar a implementação de uma aplicação Web para teste e reversão com os blocos de implementação do Serviço de Aplicações
+- Implementar e executar uma aplicação Web em contentor com o Serviço de Aplicações do Azure
 
 ## [Arquitetar grandes soluções com o Azure](https://docs.microsoft.com/pt-pt/learn/paths/architect-great-solutions-in-azure)
 #### Percurso de Aprendizagem - 4 h 17 min - Número de módulos: 5
@@ -490,6 +524,92 @@ Modules:
 - Ligar uma aplicação ao Armazenamento do Azure
 - Proteger a sua conta de Armazenamento do Azure
 - Armazenar dados de aplicações com o Armazenamento de Blobs do Azure
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/build-dynamics-365-finance-operations)
+#### Percurso de Aprendizagem - 8 h 30 min - Número de módulos: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Percurso de Aprendizagem - 3 h 52 min - Número de módulos: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/pt-pt/learn/paths/extend-power-platform-model-driven-app)
+#### Percurso de Aprendizagem - 3 h 41 min - Número de módulos: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/extending-dynamics-365-finance-operations)
+#### Percurso de Aprendizagem - 1 h 27 min - Número de módulos: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/pt-pt/learn/paths/get-started-cds)
+#### Percurso de Aprendizagem - 4 h 16 min - Número de módulos: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/pt-pt/learn/paths/intro-developing-power-platform)
+#### Percurso de Aprendizagem - 2 h 22 min - Número de módulos: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/pt-pt/learn/paths/m365-getmodern)
+#### Percurso de Aprendizagem - 2 h 33 min - Número de módulos: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Percurso de Aprendizagem - 5 h 43 min - Número de módulos: 3
@@ -717,7 +837,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/pt-pt/learn/paths/m365-fundamentals)
-#### Percurso de Aprendizagem - 3 h 10 min - Número de módulos: 9
+#### Percurso de Aprendizagem - 3 h 42 min - Número de módulos: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -733,7 +853,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Percurso de Aprendizagem - 8 h 52 min - Número de módulos: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -867,7 +987,7 @@ Modules:
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/pt-pt/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Percurso de Aprendizagem - 5 h 2 min - Número de módulos: 15
+#### Percurso de Aprendizagem - 6 h 56 min - Número de módulos: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -885,10 +1005,10 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-pt/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Percurso de Aprendizagem - 1 h 12 min - Número de módulos: 3
+#### Percurso de Aprendizagem - 1 h 15 min - Número de módulos: 3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

@@ -1,5 +1,48 @@
 # Summary of Learning Paths (tr-tr)
-last updated: 2019-06-16
+last updated: 2019-07-21
+## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
+#### Öğrenme Yolu - 3 sa 45 dk - Modül sayısı: 5
+Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
+
+Modules:
+- Docker ile kapsayıcılı web uygulaması oluşturma
+- Azure Container Registry ile kapsayıcı görüntüleri oluşturup depolama
+- Azure Container Instances ile Docker kapsayıcılarını çalıştırma
+- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
+- Introduction to Azure Kubernetes Service
+
+## [Azure DevOps ile uygulama derleme](https://docs.microsoft.com/tr-tr/learn/paths/build-applications-with-azure-devops)
+#### Öğrenme Yolu - 6 sa 10 dk - Modül sayısı: 7
+Uygulamalarınızı sürekli derleyen, test eden ve doğrulayan derleme işlem hatlarını yapılandırmayı öğrenin.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [DevOps uygulamalarınız geliştirme](https://docs.microsoft.com/tr-tr/learn/paths/evolve-your-devops-practices)
+#### Öğrenme Yolu - 1 sa 17 dk - Modül sayısı: 3
+DevOps, son kullanıcılarınıza sürekli değer sunulmasını sağlamak için tasarlanmış kişilerin, süreçlerin ve ürünlerin birleşimidir. Azure DevOps tam olarak bunu yapmak için ihtiyaç duyduğunuz araçları sunan bir dizi hizmettir. Azure DevOps ile herhangi bir uygulamayı derleyebilir, test edebilir ve bulutta veya şirket içinde dağıtabilirsiniz. Saydamlığı, işbirliğini, sürekli teslimi ve sürekli dağıtımı etkinleştiren DevOps uygulamaları, yazılım geliştirme yaşam döngünüze eklenir.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Verileri ve uygulamaları tümleştirmek için Azure Logic Apps ile otomatik iş akışları oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/build-workflows-with-logic-apps)
+#### Öğrenme Yolu - 2 sa 49 dk - Modül sayısı: 4
+Azure Logic Apps, iş süreçlerinizin otomatik bir şekilde yürütülmesini sağlayan bir bulut hizmetidir. Kullanılabilir veri olduğunda otomatik olarak çalışan sunucusuz iş akışları oluşturmak için mantıksal uygulamalardan nasıl faydalanacağınızı öğrenin.
+
+Modules:
+- Azure Logic Apps'e Giriş
+- Logic Apps kullanıp verileri otomatik olarak yönlendirme ve işleme
+- Özel bağlayıcı kullanarak Logic Apps iş akışından bir API’ye çağrı yapma
+- Azure Resource Manager şablonlarını kullanarak Logic Apps iş akışı oluşturma ve dağıtma
+
 ## [Kamu için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-government)
 #### Öğrenme Yolu - 7 sa 44 dk - Modül sayısı: 10
 Kamuda, karar alıcıların kuruluşta yapay zekanın gerçek dönüştürme gücünü hayata geçirmek için önce kamu sektörüyle ilgili dikkat edilmesi gereken belirli noktaları hesaba katmaları gerekir. Kamu sektörünün yapay zekayla değer oluşturmasına yardımcı olacak strateji bileşenlerini anlamak kritik önem taşır. Bu öğrenme yolu kamuda yapay zekanın kamu sektörü üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
-#### Öğrenme Yolu - 3 sa 20 dk - Modül sayısı: 4
-Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
-
-Modules:
-- Docker ile kapsayıcılı web uygulaması oluşturma
-- Azure Container Registry ile kapsayıcı görüntüleri oluşturup depolama
-- Azure Container Instances ile Docker kapsayıcılarını çalıştırma
-- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
 
 ## [PowerApps’te tuval uygulaması oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-powerapps)
 #### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
@@ -91,7 +124,7 @@ Perakende sektörünün karar alıcılarının, yapay zekanın kuruluş üzerind
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -133,7 +166,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -154,15 +187,6 @@ Modules:
 - PowerApps tuval uygulamasında davranışları değiştirmek için temel bir formül yazma
 - PowerApps tuval uygulamasında tabloları ve kayıtları kullanan temel bir formül yazma
 
-## [Python ve Azure Notebooks ile makine öğrenmesine giriş](https://docs.microsoft.com/tr-tr/learn/paths/intro-to-ml-with-python)
-#### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
-Python, makine öğrenmesi ile veri analizi gerçekleştirmede en çok kullanılan dil haline geldi. Desenleri tahmin etmek ve eğilimleri belirlemek için Python’dan ve Azure Notebooks’ta çalıştırılan Jupyter Not Defterlerindeki ilişkili kitaplıklardan yararlanmayı öğrenin.
-
-Modules:
-- Azure Notebooks ile iklim verisi çözümleme
-- Python’da bir makine öğrenmesi modeli oluşturarak uçuş gecikmelerini tahmin etme
-- Keras ile incelemelerin yaklaşımını analiz edin
-
 ## [Azure Machine Learning hizmeti ile yapay zeka çözümleri oluşturun](https://docs.microsoft.com/tr-tr/learn/paths/build-ai-solutions-with-azure-ml-service)
 #### Öğrenme Yolu - 3 sa 17 dk - Modül sayısı: 4
 Azure, makine öğrenmesi modelleri tasarlamaya ve dağıtmaya yönelik çeşitli hizmetler sunar. Verilerinizi analiz ederken bu hizmetlerden nasıl yararlanabileceğinizi öğrenin
@@ -181,6 +205,15 @@ Modules:
 - Azure Veri Bilimi Sanal Makinesine Giriş
 - Azure Veri Bilimi Sanal Makinesi türlerini keşfedin
 - Azure Veri Bilimi Sanal Makinesi sağlama ve kullanma
+
+## [Python ve Azure Notebooks ile makine öğrenmesine giriş](https://docs.microsoft.com/tr-tr/learn/paths/intro-to-ml-with-python)
+#### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
+Python, makine öğrenmesi ile veri analizi gerçekleştirmede en çok kullanılan dil haline geldi. Desenleri tahmin etmek ve eğilimleri belirlemek için Python’dan ve Azure Notebooks’ta çalıştırılan Jupyter Not Defterlerindeki ilişkili kitaplıklardan yararlanmayı öğrenin.
+
+Modules:
+- Azure Notebooks ile iklim verisi çözümleme
+- Python’da bir makine öğrenmesi modeli oluşturarak uçuş gecikmelerini tahmin etme
+- Keras ile incelemelerin yaklaşımını analiz edin
 
 ## [Bir PowerApps tuval uygulamasında verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-data-in-a-canvas-app)
 #### Öğrenme Yolu - 2 sa 14 dk - Modül sayısı: 3
@@ -233,7 +266,7 @@ Modules:
 - Azure Machine Learning Studio'da Deneme Oluşturma
 
 ## [Azure Cognitive Vision Services ile görüntüleri işleme ve sınıflandırma](https://docs.microsoft.com/tr-tr/learn/paths/classify-images-with-vision-services)
-#### Öğrenme Yolu - 2 sa 5 dk - Modül sayısı: 3
+#### Öğrenme Yolu - 1 sa 59 dk - Modül sayısı: 3
 Microsoft Bilişsel Hizmetler bilgisayarların görsel işlevselliklerini uygulamalarınıza eklemenizi olanak veren, önceden oluşturulmuş işlevler sağlar.  Yüz ve etiket algılamak, görüntüleri sınıflandırmak ve nesneleri tanımak için Cognitive Vision Services’ı nasıl kullanacağınızı öğrenin.
 
 Modules:
@@ -330,7 +363,7 @@ Modules:
 - Bulutta barındırılan bir mimaride veri mühendisinin görevlerini tanımlama
 
 ## [Microsoft Azure'ın iş değerini gösterme](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-azure)
-#### Öğrenme Yolu - 3 sa 47 dk - Modül sayısı: 7
+#### Öğrenme Yolu - 4 sa 58 dk - Modül sayısı: 9
 Kolay anlaşılır bir yolla bulut hakkında bilgi edinmek ilginizi çeker mi? Yoksa bulut teknolojisini öğrenmeye nereden başlayacağınızdan emin değil misiniz? Bu öğrenme deneyiminde başlangıç olarak dijital dönüşümle ve bulutun gücüyle işlerinizde nasıl dönüşüm yaratabileceğinizin gösterildiği bir yolculuğa çıkacaksınız.
 
 Modules:
@@ -340,15 +373,16 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Azure ile ilgili temel bilgiler](https://docs.microsoft.com/tr-tr/learn/paths/azure-fundamentals)
-#### Öğrenme Yolu - 9 sa 35 dk - Modül sayısı: 12
+#### Öğrenme Yolu - 8 sa 59 dk - Modül sayısı: 11
 Bulutla ilgileniyor ancak sizin için yapabileceklerinden emin olamıyor musunuz? Bu yol, başlamak için doğru yerdir.
 
 Modules:
 - Bulut Kavramları - Bulut bilişim ilkeleri
-- Temel Bulut Hizmetleri - Azure'a giriş
 - Temel Bulut Hizmetleri - Azure mimarisi ve hizmet garantileri
 - Azure hesabı oluşturma
 - Temel Bulut Hizmetleri - Azure portalından hizmetleri yönetme
@@ -424,17 +458,6 @@ Modules:
 - Visual Studio ile Azure İşlevi geliştirme, test etme ve dağıtma
 - Web kancasıyla tetiklenen bir Azure İşleviyle GitHub olaylarını izleme
 
-## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
-#### Öğrenme Yolu - 4 sa 30 dk - Modül sayısı: 5
-Azure’da web uygulamaları, web sitenizi temel alınan sunucular, depolama veya ağ varlıkları ile çalışmanıza gerek olmadan yayımlamanıza ve yönetmenize olanak sağlar. Bunun yerine, web sitenizin özelliklerine odaklanabilir ve sitenize güvenli erişim sağlamak için güçlü Azure platformundan yararlanabilirsiniz.
-
-Modules:
-- Azure geliştirme için geliştirme ortamınızı hazırlama
-- Azure App Service ile web uygulaması barındırma
-- Visual Studio ile Azure’da bir web uygulaması yayımlama
-- App Service dağıtım yuvalarını kullanarak test etmek ve geri almak için bir web uygulaması dağıtımı hazırlama
-- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
-
 ## [Hizmetlerinizi birbirine bağlama](https://docs.microsoft.com/tr-tr/learn/paths/connect-your-services-together)
 #### Öğrenme Yolu - 3 sa 31 dk - Modül sayısı: 4
 Azure web sitesi ön uçları, arka uç hizmetleri ve isteğe bağlı bilgi işlem hizmetleri gerçekleştiren tetiklenebilen hizmetleri içeren çeşitli bileşenlerden oluşan uygulamalar oluşturmanıza olanak sağlar. Azure ayrıca bu bileşenlerin birbirine veri iletmesine olanak sağlayan çeşitli iletişim stratejilerini de içerir. Test edilebilir bileşenler ile ölçeklenebilir, etkili çözümler oluşturmak için bu iletişim hizmetlerini kullanmayı öğrenin.
@@ -444,6 +467,17 @@ Modules:
 - Azure Service Bus ile ileti tabanlı iletişim iş akışları uygulama
 - Azure Kuyruk depolamayla uygulamalar arasında iletişim kurma
 - Azure Event Hubs’ı kullanarak Büyük Veri uygulamaları için güvenilir mesajlaşmayı etkinleştirme
+
+## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
+#### Öğrenme Yolu - 3 sa 50 dk - Modül sayısı: 5
+Azure’da web uygulamaları, web sitenizi temel alınan sunucular, depolama veya ağ varlıkları ile çalışmanıza gerek olmadan yayımlamanıza ve yönetmenize olanak sağlar. Bunun yerine, web sitenizin özelliklerine odaklanabilir ve sitenize güvenli erişim sağlamak için güçlü Azure platformundan yararlanabilirsiniz.
+
+Modules:
+- Azure geliştirme için geliştirme ortamınızı hazırlama
+- Azure App Service ile web uygulaması barındırma
+- Visual Studio ile Azure’da bir web uygulaması yayımlama
+- App Service dağıtım yuvalarını kullanarak test etmek ve geri almak için bir web uygulaması dağıtımı hazırlama
+- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
 
 ## [Azure’da kaynakları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/manage-resources-in-azure)
 #### Öğrenme Yolu - 4 sa 15 dk - Modül sayısı: 5
@@ -490,6 +524,92 @@ Modules:
 - Bir uygulamayı Azure Depolama'ya bağlama
 - Azure Depolama hesabınızı güvenli hale getirme
 - Azure Blob depolama ile uygulama verilerini depolama
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/build-dynamics-365-finance-operations)
+#### Öğrenme Yolu - 8 sa 30 dk - Modül sayısı: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Öğrenme Yolu - 3 sa 52 dk - Modül sayısı: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/tr-tr/learn/paths/extend-power-platform-model-driven-app)
+#### Öğrenme Yolu - 3 sa 41 dk - Modül sayısı: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/extending-dynamics-365-finance-operations)
+#### Öğrenme Yolu - 1 sa 27 dk - Modül sayısı: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/tr-tr/learn/paths/get-started-cds)
+#### Öğrenme Yolu - 4 sa 16 dk - Modül sayısı: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/tr-tr/learn/paths/intro-developing-power-platform)
+#### Öğrenme Yolu - 2 sa 22 dk - Modül sayısı: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/tr-tr/learn/paths/m365-getmodern)
+#### Öğrenme Yolu - 2 sa 33 dk - Modül sayısı: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Öğrenme Yolu - 5 sa 43 dk - Modül sayısı: 3
@@ -733,7 +853,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Öğrenme Yolu - 8 sa 52 dk - Modül sayısı: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -867,7 +987,7 @@ Modules:
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Öğrenme Yolu - 5 sa 2 dk - Modül sayısı: 15
+#### Öğrenme Yolu - 6 sa 56 dk - Modül sayısı: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -885,16 +1005,7 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
-
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Öğrenme Yolu - 1 sa 12 dk - Modül sayısı: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
-
-Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/tr-tr/learn/paths/working-with-dynamics-365-sales)
 #### Öğrenme Yolu - 6 sa 42 dk - Modül sayısı: 7
@@ -908,6 +1019,15 @@ Modules:
 - Process sales orders with Dynamics 365 for Sales
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
+
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
+#### Öğrenme Yolu - 1 sa 15 dk - Modül sayısı: 3
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/tr-tr/learn/paths/implementing-dyn365-field-service)
 #### Öğrenme Yolu - 4 sa 14 dk - Modül sayısı: 4

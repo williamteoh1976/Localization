@@ -1,5 +1,48 @@
 # Summary of Learning Paths (ru-ru)
-last updated: 2019-06-16
+last updated: 2019-07-21
+## [Администрирование контейнеров в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-containers-in-azure)
+#### Схема обучения - 3 ч 45 мин - Число модулей: 5
+Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
+
+Modules:
+- Создание контейнерного веб-приложения с помощью Docker
+- Создание и хранение образов контейнеров с помощью службы "Реестр контейнеров Azure"
+- Запуск контейнеров Docker с помощью службы "Экземпляры контейнеров Azure"
+- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
+- Introduction to Azure Kubernetes Service
+
+## [Создание приложений с Azure DevOps](https://docs.microsoft.com/ru-ru/learn/paths/build-applications-with-azure-devops)
+#### Схема обучения - 6 ч 10 мин - Число модулей: 7
+Узнайте, как настроить конвейеры сборки, которые непрерывно собирают, тестируют и проверяют приложения.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Развитие практик DevOps](https://docs.microsoft.com/ru-ru/learn/paths/evolve-your-devops-practices)
+#### Схема обучения - 1 ч 17 мин - Число модулей: 3
+DevOps — это объединение людей, процессов и продуктов для непрерывной поставки ценности конечным пользователям. Azure DevOps — это набор служб, обеспечивающий такую возможность. С помощью Azure DevOps можно создавать, тестировать и развертывать любые приложения в облаке или в локальной среде. Практики DevOps, обеспечивающие прозрачность, сотрудничество, непрерывную поставку и непрерывное развертывание, интегрируются в ваш цикл разработки программного обеспечения.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Создание автоматизированных рабочих процессов для интеграции данных и приложений с Azure Logic Apps](https://docs.microsoft.com/ru-ru/learn/paths/build-workflows-with-logic-apps)
+#### Схема обучения - 2 ч 49 мин - Число модулей: 4
+Azure Logic Apps — это облачная служба, которая позволяет автоматизировать выполнение бизнес-процессов. Узнайте, как использовать приложения логики для создания бессерверных рабочих процессов, которые запускаются автоматически при появлении доступных данных.
+
+Modules:
+- Введение в Azure Logic Apps
+- Автоматическая маршрутизация и обработка данных с помощью приложений логики
+- Вызов API из рабочего процесса Logic Apps с помощью пользовательского соединителя
+- Создание и развертывание Logic Apps с помощью шаблонов Azure Resource Manager
+
 ## [Бизнес-школа ИИ для государственных организаций](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-government)
 #### Схема обучения - 7 ч 44 мин - Число модулей: 10
 Лицам, отвечающим за принятие решений в государственных организациях, важно учитывать специализированные требования государственного сектора при оценке влияния ИИ на преобразование рабочих процессов. Крайне важно определить компоненты стратегии, которые позволят повысить эффективность государственных организаций с использованием средств ИИ. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в государственном секторе. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов государственных организаций.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Администрирование контейнеров в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-containers-in-azure)
-#### Схема обучения - 3 ч 20 мин - Число модулей: 4
-Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
-
-Modules:
-- Создание контейнерного веб-приложения с помощью Docker
-- Создание и хранение образов контейнеров с помощью службы "Реестр контейнеров Azure"
-- Запуск контейнеров Docker с помощью службы "Экземпляры контейнеров Azure"
-- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
 
 ## [Создание приложения на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-powerapps)
 #### Схема обучения - 2 ч 11 мин - Число модулей: 3
@@ -114,7 +147,7 @@ Modules:
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -132,7 +165,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -255,7 +288,7 @@ Modules:
 - Создание чат-бота с помощью службы Azure Bot
 
 ## [Обработка и классификация изображений с помощью Azure Cognitive Vision Services](https://docs.microsoft.com/ru-ru/learn/paths/classify-images-with-vision-services)
-#### Схема обучения - 2 ч 5 мин - Число модулей: 3
+#### Схема обучения - 1 ч 59 мин - Число модулей: 3
 Microsoft Cognitive Services предлагает встроенные функции включения компьютерного зрения в приложениях.  Узнайте, как использовать службы Cognitive Vision Services для обнаружения лиц, пометки и классификации изображений, а также идентификации объектов.
 
 Modules:
@@ -321,19 +354,6 @@ Modules:
 - Импорт данных в хранилище данных SQL Azure с помощью PolyBase
 - Безопасность хранилища данных
 
-## [Узнайте о ценности Microsoft Azure для бизнеса](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-azure)
-#### Схема обучения - 3 ч 47 мин - Число модулей: 7
-Хотите узнать больше об облаке простым для понимания способом? Или, возможно, вы не знаете, с чего начать изучение облачных технологий? С помощью этой схемы обучения вы увидите, как цифровые преобразования и возможности облака могут изменить ваш бизнес.
-
-Modules:
-- Welcome to Microsoft Azure
-- Introduction to Azure solutions
-- Applications and infrastructure migration and modernization
-- Microsoft data estate migration and modernization
-- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
-- Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
-
 ## [Извлечение знаний и аналитических сведений из данных с помощью Azure Databricks](https://docs.microsoft.com/ru-ru/learn/paths/data-science)
 #### Схема обучения - 4 ч 21 мин - Число модулей: 6
 Узнайте, как применить Azure Databricks для реализации методов прогнозной и аналитической обработки данных, таких как исследовательский анализ данных, обучение моделей, анализ текста и глубокое обучение.
@@ -345,6 +365,21 @@ Modules:
 - Обучение, оценка и выбор моделей машинного обучения с помощью Azure Databricks
 - Глубокое обучение с помощью Azure Databricks
 - Выполнение анализа текста с помощью Azure Databricks
+
+## [Узнайте о ценности Microsoft Azure для бизнеса](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-azure)
+#### Схема обучения - 4 ч 58 мин - Число модулей: 9
+Хотите узнать больше об облаке простым для понимания способом? Или, возможно, вы не знаете, с чего начать изучение облачных технологий? С помощью этой схемы обучения вы увидите, как цифровые преобразования и возможности облака могут изменить ваш бизнес.
+
+Modules:
+- Welcome to Microsoft Azure
+- Introduction to Azure solutions
+- Applications and infrastructure migration and modernization
+- Microsoft data estate migration and modernization
+- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
+- Microsoft Azure IoT strategy and solutions
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Реализация решения для потока данных с помощью Azure Streaming Analytics](https://docs.microsoft.com/ru-ru/learn/paths/implement-data-streaming-with-asa)
 #### Схема обучения - 1 ч 14 мин - Число модулей: 2
@@ -373,12 +408,11 @@ Modules:
 - Защита учетной записи хранения Azure
 
 ## [Основные сведения об Azure](https://docs.microsoft.com/ru-ru/learn/paths/azure-fundamentals)
-#### Схема обучения - 9 ч 35 мин - Число модулей: 12
+#### Схема обучения - 8 ч 59 мин - Число модулей: 11
 Вы заинтересовались облаком, но не знаете, какую именно пользу оно может вам принести? Вам стоит начать с этой схемы обучения.
 
 Modules:
 - Основные понятия, связанные с облачными вычислениями — принципы облачных вычислений
-- Основные облачные службы — введение в Azure
 - Основы облачных служб — архитектура на основе Azure и гарантии служб
 - Создание учетной записи Azure
 - Основные облачные службы — управление службами с помощью портала Azure
@@ -400,17 +434,6 @@ Modules:
 - Создание приложения для Windows 10
 - Создание подключенных к Интернету приложений для Windows
 
-## [Развертывание веб-сайта в Azure с помощью службы приложений Azure](https://docs.microsoft.com/ru-ru/learn/paths/deploy-a-website-with-azure-app-service)
-#### Схема обучения - 4 ч 30 мин - Число модулей: 5
-Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
-
-Modules:
-- Подготовка среды для разработки в Azure
-- Размещение веб-приложения с помощью Службы приложений Azure
-- Публикация веб-приложения в Azure с помощью Visual Studio
-- Подготовка развертывания веб-приложения для тестирования и отката с помощью слотов развертывания службы приложений
-- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
-
 ## [Администрирование ресурсов инфраструктуры в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-infrastructure-resources-in-azure)
 #### Схема обучения - 9 ч 34 мин - Число модулей: 10
 Узнайте, как создать, администрировать, защитить и масштабировать ресурсы виртуальной машины.
@@ -426,6 +449,17 @@ Modules:
 - Изменение размера и добавление дисков на виртуальных машинах Azure
 - Кэширование и производительность на дисках хранилища Azure
 - Защита дисков виртуальных машин Azure
+
+## [Развертывание веб-сайта в Azure с помощью службы приложений Azure](https://docs.microsoft.com/ru-ru/learn/paths/deploy-a-website-with-azure-app-service)
+#### Схема обучения - 3 ч 50 мин - Число модулей: 5
+Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
+
+Modules:
+- Подготовка среды для разработки в Azure
+- Размещение веб-приложения с помощью Службы приложений Azure
+- Публикация веб-приложения в Azure с помощью Visual Studio
+- Подготовка развертывания веб-приложения для тестирования и отката с помощью слотов развертывания службы приложений
+- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
 
 ## [Работа с данными NoSQL в Azure Cosmos DB](https://docs.microsoft.com/ru-ru/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
 #### Схема обучения - 5 ч 55 мин - Число модулей: 8
@@ -530,6 +564,92 @@ Modules:
 - Подключение приложения к Службе хранилища Azure
 - Защита учетной записи хранения Azure
 - Хранение данных приложения в хранилище BLOB-объектов Azure
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/build-dynamics-365-finance-operations)
+#### Схема обучения - 8 ч 30 мин - Число модулей: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Схема обучения - 3 ч 52 мин - Число модулей: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/ru-ru/learn/paths/extend-power-platform-model-driven-app)
+#### Схема обучения - 3 ч 41 мин - Число модулей: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/extending-dynamics-365-finance-operations)
+#### Схема обучения - 1 ч 27 мин - Число модулей: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/ru-ru/learn/paths/get-started-cds)
+#### Схема обучения - 4 ч 16 мин - Число модулей: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/ru-ru/learn/paths/intro-developing-power-platform)
+#### Схема обучения - 2 ч 22 мин - Число модулей: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/ru-ru/learn/paths/m365-getmodern)
+#### Схема обучения - 2 ч 33 мин - Число модулей: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Схема обучения - 5 ч 43 мин - Число модулей: 3
@@ -727,7 +847,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/ru-ru/learn/paths/m365-fundamentals)
-#### Схема обучения - 3 ч 10 мин - Число модулей: 9
+#### Схема обучения - 3 ч 42 мин - Число модулей: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -743,7 +863,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Схема обучения - 8 ч 52 мин - Число модулей: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -837,6 +957,14 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Схема обучения - 2 ч 8 мин - Число модулей: 2
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
+
 ## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Схема обучения - 2 ч 57 мин - Число модулей: 3
 This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
@@ -845,14 +973,6 @@ Modules:
 - Get started with Dynamics 365 for Customer Service
 - Managing cases with Microsoft Dynamics 365 for Customer Service
 - Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
-
-## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Схема обучения - 2 ч 8 мин - Число модулей: 2
-This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
-
-Modules:
-- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
-- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ru-ru/learn/paths/universal-resource-scheduling)
 #### Схема обучения - 5 ч 9 мин - Число модулей: 5
@@ -877,7 +997,7 @@ Modules:
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Схема обучения - 1 ч 12 мин - Число модулей: 3
+#### Схема обучения - 1 ч 15 мин - Число модулей: 3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:
@@ -886,7 +1006,7 @@ Modules:
 - Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Схема обучения - 5 ч 2 мин - Число модулей: 15
+#### Схема обучения - 6 ч 56 мин - Число модулей: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -904,7 +1024,7 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/ru-ru/learn/paths/working-with-dynamics-365-sales)
 #### Схема обучения - 6 ч 42 мин - Число модулей: 7

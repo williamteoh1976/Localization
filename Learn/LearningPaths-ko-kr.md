@@ -1,5 +1,48 @@
 # Summary of Learning Paths (ko-kr)
-last updated: 2019-06-15
+last updated: 2019-07-21
+## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
+#### 학습 경로 - 3시간 45분 - 모듈 수: 5
+Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
+
+Modules:
+- Docker를 사용하여 컨테이너화된 웹 애플리케이션 빌드
+- Azure Container Registry를 사용하여 컨테이너 이미지 빌드 및 저장
+- Azure Container Instances에서 Docker 컨테이너 실행
+- App Service를 사용하여 컨테이너화된 웹앱 배포 및 실행
+- Introduction to Azure Kubernetes Service
+
+## [Azure DevOps를 사용하여 애플리케이션 빌드](https://docs.microsoft.com/ko-kr/learn/paths/build-applications-with-azure-devops)
+#### 학습 경로 - 6시간 10분 - 모듈 수: 7
+애플리케이션을 지속적으로 빌드, 테스트 및 확인하는 빌드 파이프라인을 구성하는 방법을 알아봅니다.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [DevOps 사례 진화](https://docs.microsoft.com/ko-kr/learn/paths/evolve-your-devops-practices)
+#### 학습 경로 - 1시간 17분 - 모듈 수: 3
+DevOps는 최종 사용자에게 가치를 지속적으로 제공할 수 있는 사람, 프로세스 및 제품의 결합체입니다. Azure DevOps는 이러한 작업을 수행하는 데 필요한 도구를 제공하는 서비스 세트입니다. Azure DevOps를 사용하면 모든 애플리케이션을 클라우드 또는 온-프레미스에 빌드, 테스트 및 배포할 수 있습니다. 투명성, 협업, 지속적인 업데이트 및 지속적인 배포를 지원하는 DevOps 사례가 소프트웨어 개발 수명 주기에 포함됩니다.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [자동화된 워크플로를 빌드하여 Azure Logic Apps와 데이터 및 앱 통합](https://docs.microsoft.com/ko-kr/learn/paths/build-workflows-with-logic-apps)
+#### 학습 경로 - 2시간 49분 - 모듈 수: 4
+Azure Logic Apps는 비즈니스 프로세스의 실행을 자동화하는 클라우드 서비스입니다. 논리 앱을 활용하여 데이터를 사용할 수 있을 때 자동으로 실행되는 서버리스 워크플로를 만드는 방법을 알아봅니다.
+
+Modules:
+- Azure Logic Apps 소개
+- Logic Apps를 사용하여 자동으로 데이터 라우팅 및 처리
+- 사용자 지정 커넥터를 사용하여 Logic Apps 워크플로에서 API를 호출합니다.
+- Azure Resource Manager를 사용하여 Logic Apps 만들기 및 배포
+
 ## [정부용 AI 경영 대학](https://docs.microsoft.com/ko-kr/learn/paths/ai-business-school-government)
 #### 학습 경로 - 7시간 44분 - 모듈 수: 10
 정부의 의사 결정자는 AI의 진정한 변환 능력을 깨닫기 전에 특정 공공 분야의 고려 사항을 수행해야 합니다. 공공 부문이 AI를 통해 가치를 창출하는 데 도움이 되는 전략의 구성 요소를 파악하는 것이 중요합니다. 이 학습 경로는 정부 의사 결정자가 공공 분야에서 AI의 진정한 변환 영향을 설명하기 위해 설계되었습니다.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Azure의 컨테이너 관리](https://docs.microsoft.com/ko-kr/learn/paths/administer-containers-in-azure)
-#### 학습 경로 - 3시간 20분 - 모듈 수: 4
-Azure Container Instances는 Azure에서 컨테이너를 실행하는 가장 빠르고 쉬운 방법입니다. 이 학습 경로에서는 컨테이너를 만들고 관리하는 방법과 ACI를 사용하여 Kubernetes에 대한 탄력적인 확장을 제공하는 방법을 설명합니다.
-
-Modules:
-- Docker를 사용하여 컨테이너화된 웹 애플리케이션 빌드
-- Azure Container Registry를 사용하여 컨테이너 이미지 빌드 및 저장
-- Azure Container Instances에서 Docker 컨테이너 실행
-- App Service를 사용하여 컨테이너화된 웹앱 배포 및 실행
 
 ## [PowerApps에서 캔버스 앱 만들기](https://docs.microsoft.com/ko-kr/learn/paths/create-powerapps)
 #### 학습 경로 - 2시간 11분 - 모듈 수: 3
@@ -95,7 +128,7 @@ Modules:
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -113,7 +146,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -270,7 +303,7 @@ Modules:
 - Azure Cognitive Services의 Speaker Recognition API를 사용하여 특정 음성 인식
 
 ## [Azure Cognitive Vision Services로 이미지 처리 및 분류](https://docs.microsoft.com/ko-kr/learn/paths/classify-images-with-vision-services)
-#### 학습 경로 - 2시간 5분 - 모듈 수: 3
+#### 학습 경로 - 1시간 59분 - 모듈 수: 3
 Microsoft Cognitive Services는 애플리케이션에서 컴퓨터 비전 기능을 활성화하기 위해 미리 빌드된 기능을 제공합니다.  Cognitive Vision Services를 사용하여 얼굴 감지, 이미지 태그와 분류 및 개체를 식별하는 방법을 알아봅니다.
 
 Modules:
@@ -326,8 +359,16 @@ Modules:
 - Power BI로 빌드 시작
 - 첫 번째 Power BI 보고서 만들기 및 공유
 
+## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
+#### 학습 경로 - 1시간 14분 - 모듈 수: 2
+이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
+
+Modules:
+- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
+- Azure Stream Analytics를 사용하여 데이터 변환
+
 ## [Microsoft Azure의 비즈니스 가치 알아보기](https://docs.microsoft.com/ko-kr/learn/paths/learn-business-value-of-azure)
-#### 학습 경로 - 3시간 47분 - 모듈 수: 7
+#### 학습 경로 - 4시간 58분 - 모듈 수: 9
 클라우드를 쉽게 이해할 수 있는 방법이 있다면 알아볼 생각이 있으신가요? 혹시 클라우드 기술을 어디서 시작해야 하는지 몰라서 어려움을 겪고 계신가요? 이 학습 환경은 디지털 변환 및 강력한 클라우드가 비즈니스를 어떻게 바꿀 수 있는지 보여주는 것부터 시작해서 여러분에게 그 과정을 안내합니다.
 
 Modules:
@@ -337,15 +378,9 @@ Modules:
 - Microsoft 데이터 자산 마이그레이션 및 현대화
 - Microsoft Azure AI(인공 지능) 전략 및 솔루션
 - Microsoft Azure IoT 전략 및 솔루션
-- Microsoft 클라우드 운영 모델 개요
-
-## [Azure Streaming Analytics를 사용하여 데이터 스트리밍 솔루션 구현](https://docs.microsoft.com/ko-kr/learn/paths/implement-data-streaming-with-asa)
-#### 학습 경로 - 1시간 14분 - 모듈 수: 2
-이벤트 처리 및 데이터 스트리밍의 개념과 이를 Azure Stream Analytics에 응용하는 방법을 알아봅니다. 그런 다음, 데이터를 스트리밍하는 스트림 분석 작업을 설정하고, 실행 중인 작업을 관리하고 모니터링하는 방법을 알아봅니다.
-
-Modules:
-- Azure Stream Analytics를 사용하여 데이터 스트림으로 작업
-- Azure Stream Analytics를 사용하여 데이터 변환
+- Azure의 실제 작동 모습
+- Azure에 대한 Microsoft 클라우드 채택 프레임워크
+- Microsoft runs on trust
 
 ## [Azure Databricks를 사용하여 데이터에서 기술 및 인사이트 추출](https://docs.microsoft.com/ko-kr/learn/paths/data-science)
 #### 학습 경로 - 4시간 21분 - 모듈 수: 6
@@ -409,12 +444,11 @@ Modules:
 - 클라우드에서 호스트하는 아키텍처에서 데이터 엔지니어의 작업 식별
 
 ## [Azure 기본 사항](https://docs.microsoft.com/ko-kr/learn/paths/azure-fundamentals)
-#### 학습 경로 - 9시간 35분 - 모듈 수: 12
+#### 학습 경로 - 8시간 59분 - 모듈 수: 11
 클라우드에 관심이 있지만 어떤 도움이 되는지 잘 이해할 수 없으신가요? 이 경로에서 시작할 수 있습니다.
 
 Modules:
 - 클라우드 개념 - 클라우드 컴퓨팅의 원칙
-- 코어 Cloud Services - Azure 소개
 - 주요 Cloud Services - Azure 아키텍처 및 서비스 보증
 - Azure 계정 만들기
 - 주요 Cloud Services - Azure Portal을 사용하여 서비스 관리
@@ -515,7 +549,7 @@ Modules:
 - Azure SQL Database 보안
 
 ## [Azure App Service로 Azure에 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-app-service)
-#### 학습 경로 - 4시간 30분 - 모듈 수: 5
+#### 학습 경로 - 3시간 50분 - 모듈 수: 5
 Azure의 웹앱을 사용하면 기본 서버, 스토리지 또는 네트워크 자산을 사용할 필요 없이 웹 사이트를 쉽게 게시하고 관리할 수 있습니다. 대신에 웹 사이트 기능에 집중하고, 강력한 Azure 플랫폼을 사용하여 사이트에 대한 보안 액세스 권한을 제공할 수 있습니다.
 
 Modules:
@@ -536,16 +570,6 @@ Modules:
 - Azure의 효율성 및 운영을 위한 디자인
 - Azure의 가용성 및 복구 기능을 위한 설계
 
-## [Azure Virtual Machines를 통해 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### 학습 경로 - 4시간 18분 - 모듈 수: 4
-Azure 웹앱 플랫폼에서 웹 호스팅 요구 사항을 직접 지원하지 않는 경우 가상 머신을 활용하여 웹 서버의 모든 측면을 사용자 지정하고 제어할 수 있습니다. 웹앱을 호스트하는 Linux 및 Windows에서 가상 머신을 만들고 구성하고 관리하는 방법을 알아봅니다.
-
-Modules:
-- Azure Virtual Machines 소개
-- Azure에서 Linux 가상 머신 만들기
-- Azure에서 Windows 가상 머신 만들기
-- Azure Linux 가상 머신에서 MEAN 스택을 사용하여 웹 애플리케이션 빌드 및 실행
-
 ## [서비스를 함께 연결](https://docs.microsoft.com/ko-kr/learn/paths/connect-your-services-together)
 #### 학습 경로 - 3시간 31분 - 모듈 수: 4
 Azure를 통해 다양한 구성 요소(웹 사이트 프런트 엔드, 백 엔드 서비스 및 주문형 계산 서비스를 수행하는 트리거 함수)로 구성된 애플리케이션을 만들 수 있습니다. 또한 Azure에는 다양한 구성 요소가 서로 데이터를 전달할 수 있는 다양한 통신 전략이 포함되어 있습니다. 이러한 통신 서비스를 활용하여 테스트 가능한 구성 요소에서 확장성 있는 효율적인 솔루션을 만드는 방법을 알아봅니다.
@@ -555,6 +579,16 @@ Modules:
 - Azure Service Bus를 통한 메시지 기반 통신 워크플로 구현
 - Azure Queue Storage를 사용하여 애플리케이션 간에 통신
 - Azure Event Hubs를 사용하여 빅 데이터 애플리케이션에 대해 신뢰할 수 있는 메시징 사용
+
+## [Azure Virtual Machines를 통해 웹 사이트 배포](https://docs.microsoft.com/ko-kr/learn/paths/deploy-a-website-with-azure-virtual-machines)
+#### 학습 경로 - 4시간 18분 - 모듈 수: 4
+Azure 웹앱 플랫폼에서 웹 호스팅 요구 사항을 직접 지원하지 않는 경우 가상 머신을 활용하여 웹 서버의 모든 측면을 사용자 지정하고 제어할 수 있습니다. 웹앱을 호스트하는 Linux 및 Windows에서 가상 머신을 만들고 구성하고 관리하는 방법을 알아봅니다.
+
+Modules:
+- Azure Virtual Machines 소개
+- Azure에서 Linux 가상 머신 만들기
+- Azure에서 Windows 가상 머신 만들기
+- Azure Linux 가상 머신에서 MEAN 스택을 사용하여 웹 애플리케이션 빌드 및 실행
 
 ## [Azure에 데이터 저장](https://docs.microsoft.com/ko-kr/learn/paths/store-data-in-azure)
 #### 학습 경로 - 3시간 50분 - 모듈 수: 5
@@ -566,6 +600,92 @@ Modules:
 - Azure Storage에 앱 연결
 - Azure Storage 계정 보안
 - Azure Blob Storage를 사용하여 애플리케이션 데이터 저장
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/build-dynamics-365-finance-operations)
+#### 학습 경로 - 8시간 30분 - 모듈 수: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### 학습 경로 - 3시간 52분 - 모듈 수: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/ko-kr/learn/paths/extend-power-platform-model-driven-app)
+#### 학습 경로 - 3시간 41분 - 모듈 수: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/extending-dynamics-365-finance-operations)
+#### 학습 경로 - 1시간 27분 - 모듈 수: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/ko-kr/learn/paths/get-started-cds)
+#### 학습 경로 - 4시간 16분 - 모듈 수: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/ko-kr/learn/paths/intro-developing-power-platform)
+#### 학습 경로 - 2시간 22분 - 모듈 수: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/ko-kr/learn/paths/m365-getmodern)
+#### 학습 경로 - 2시간 33분 - 모듈 수: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### 학습 경로 - 5시간 43분 - 모듈 수: 3
@@ -748,7 +868,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/ko-kr/learn/paths/m365-fundamentals)
-#### 학습 경로 - 3시간 10분 - 모듈 수: 9
+#### 학습 경로 - 3시간 42분 - 모듈 수: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -764,7 +884,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/configure-your-organization-in-finance-and-ops)
 #### 학습 경로 - 8시간 52분 - 모듈 수: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -875,17 +995,6 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ko-kr/learn/paths/universal-resource-scheduling)
-#### 학습 경로 - 5시간 9분 - 모듈 수: 5
-Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
-
-Modules:
-- Configure bookable resources in Microsoft Dynamics 365 for Field Service
-- Manage scheduling options in Dynamics 365 for Field Service
-- Customize the schedule board in Microsoft Dynamics 365 for Field Service
-- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
-- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
-
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ko-kr/learn/paths/working-with-connected-field-service-iot)
 #### 학습 경로 - 5시간 56분 - 모듈 수: 5
 This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
@@ -896,6 +1005,17 @@ Modules:
 - Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
 - Using IoT Central with Connected Field Service for Dynamics 365
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
+
+## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ko-kr/learn/paths/universal-resource-scheduling)
+#### 학습 경로 - 5시간 9분 - 모듈 수: 5
+Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
+
+Modules:
+- Configure bookable resources in Microsoft Dynamics 365 for Field Service
+- Manage scheduling options in Dynamics 365 for Field Service
+- Customize the schedule board in Microsoft Dynamics 365 for Field Service
+- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
+- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/ko-kr/learn/paths/working-with-dynamics-365-sales)
 #### 학습 경로 - 6시간 42분 - 모듈 수: 7
@@ -911,7 +1031,7 @@ Modules:
 - Analyze Dynamics 365 sales data
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ko-kr/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### 학습 경로 - 1시간 12분 - 모듈 수: 3
+#### 학습 경로 - 1시간 15분 - 모듈 수: 3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

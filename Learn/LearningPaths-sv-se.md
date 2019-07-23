@@ -1,5 +1,48 @@
 # Summary of Learning Paths (sv-se)
-last updated: 2019-06-16
+last updated: 2019-07-21
+## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
+#### Inlärningsväg - 3 h 45 min - 5 moduler
+Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
+
+Modules:
+- Skapa ett containerbaserat webbprogram med Docker
+- Skapa och lagra containeravbildningar med Azure Container Registry
+- Köra Docker-containers med Azure Container Instances
+- Distribuera och kör en containerbaserad webbapp med Azure App Service
+- Introduction to Azure Kubernetes Service
+
+## [Skapa program med Azure DevOps](https://docs.microsoft.com/sv-se/learn/paths/build-applications-with-azure-devops)
+#### Inlärningsväg - 6 h 10 min - 7 moduler
+Lär dig hur du konfigurerar bygg-pipelines för att kontinuerligt skapa, testa och verifiera dina program.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Utveckla dina DevOps-metoder](https://docs.microsoft.com/sv-se/learn/paths/evolve-your-devops-practices)
+#### Inlärningsväg - 1 h 17 min - 3 moduler
+DevOps för samman människor, processer och produkter för att möjliggöra kontinuerlig leverans av mervärde till slutanvändarna. Azure DevOps är en uppsättning tjänster som ger dig de verktyg du behöver för att göra precis det. Med Azure DevOps kan du skapa, testa och distribuera valfritt program antingen till molnet eller lokalt. DevOps-metoder som möjliggör transparens, samarbete, kontinuerlig leverans och kontinuerlig distribution bäddas in i livscykeln för programvaruutveckling.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Skapa automatiserade arbetsflöden för att integrera data och appar med Azure Logic Apps](https://docs.microsoft.com/sv-se/learn/paths/build-workflows-with-logic-apps)
+#### Inlärningsväg - 2 h 49 min - 4 moduler
+Azure Logic Apps är en molntjänst som automatiserar körningen av affärsprocesser. Lär dig hur du kan använda logikappar för att skapa serverlösa arbetsflöden som körs automatiskt när data är tillgängliga.
+
+Modules:
+- Introduktion till Azure Logic Apps
+- Dirigera och bearbeta data automatiskt med hjälp av Logic Apps
+- Anropa ett API från ett Logic Apps-arbetsflöde med en anpassad anslutningsapp
+- Skapa och distribuera logikappar med hjälp av Azure Resource Manager-mallar
+
 ## [AI Business School för myndigheter](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-government)
 #### Inlärningsväg - 7 h 44 min - 10 moduler
 Beslutsfattare på myndigheter måste ta hänsyn till vissa specifika överväganden inom den offentliga sektorn för att kunna se den stora effekt som AI kan ha. Det är viktigt att förstå komponenterna i en strategi som kan vara till hjälp inom den offentliga sektorn för att skapa värde med hjälp av AI-teknik. Den här utbildningsvägen är utformad för beslutsfattare på myndigheter för att visa den omvälvande påverkan som AI kan ha i den offentliga sektorn.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
-#### Inlärningsväg - 3 h 20 min - 4 moduler
-Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
-
-Modules:
-- Skapa ett containerbaserat webbprogram med Docker
-- Skapa och lagra containeravbildningar med Azure Container Registry
-- Köra Docker-containers med Azure Container Instances
-- Distribuera och kör en containerbaserad webbapp med Azure App Service
 
 ## [Skapa en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-powerapps)
 #### Inlärningsväg - 2 h 11 min - 3 moduler
@@ -104,7 +137,7 @@ Beslutsfattare inom detaljhandeln behöver fatta branschspecifika beslut för at
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -141,7 +174,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -208,7 +241,7 @@ Modules:
 - Skapa ett experiment i Azure Machine Learning Studio
 
 ## [Bearbeta och klassificera bilder med hjälp av Azure Cognitive Vision Services](https://docs.microsoft.com/sv-se/learn/paths/classify-images-with-vision-services)
-#### Inlärningsväg - 2 h 5 min - 3 moduler
+#### Inlärningsväg - 1 h 59 min - 3 moduler
 Microsoft Cognitive Services har färdiga funktioner för att aktivera funktioner för visuellt innehåll i dina program.  Lär dig hur du använder Cognitive Vision Services för att identifiera ansikten, märka och klassificera bilder och identifiera objekt.
 
 Modules:
@@ -308,15 +341,14 @@ Modules:
 - Importera data till Azure SQL Data Warehouse med hjälp av PolyBase
 - Säkerhet för informationslager
 
-## [Implementera ett informationslager med Azure SQL Data Warehouse](https://docs.microsoft.com/sv-se/learn/paths/implement-sql-data-warehouse)
-#### Inlärningsväg - 3 h 21 min - 4 moduler
-Azure SQL Data Warehouse ger ett stort relationsdatalager för stordata, som kan skalas upp till petabyte-storlek. I den här utbildningsvägen lär du dig hur Azure SQL Data Warehouse kan skalas upp till den här storleken tack vare arkitekturen med massiv parallellbearbetning (MPP). Skapa ett informationslager på bara några minuter och skapa rapporter med frågespråk du redan kan. Läs in enorma mängder data på bara några minuter och se till att ditt informationslager är säkert.
+## [Azure för datatekniker](https://docs.microsoft.com/sv-se/learn/paths/azure-for-the-data-engineer)
+#### Inlärningsväg - 1 h 51 min - 3 moduler
+Utforska hur datavärlden har utvecklats och hur de nya molnteknikerna erbjuder nya möjligheter som företag kan utforska. Du får lära dig de olika plattformsteknikerna för data som finns tillgängliga och hur en datatekniker kan dra nytta av den här tekniken för en organisation.
 
 Modules:
-- Designa ett informationslager med Azure SQL Data Warehouse
-- Köra frågor i Azure SQL Data Warehouse
-- Importera data till Azure SQL Data Warehouse med hjälp av PolyBase
-- Säkerhet för informationslager
+- Förstå den växande världen av data
+- Överblicka tjänsterna på Azure-dataplattformen
+- Identifiera de uppgifter som en datatekniker utför i en molnbaserad arkitektur
 
 ## [Extrahera kunskap och insikter från dina data med Azure Databricks](https://docs.microsoft.com/sv-se/learn/paths/data-science)
 #### Inlärningsväg - 4 h 21 min - 6 moduler
@@ -331,7 +363,7 @@ Modules:
 - Utföra textanalys med Azure Databricks
 
 ## [Upptäck affärsvärdet med Microsoft Azure](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-azure)
-#### Inlärningsväg - 3 h 47 min - 7 moduler
+#### Inlärningsväg - 4 h 58 min - 9 moduler
 Är du intresserad av att lära dig mer om molnet på ett enkelt sätt? Eller är du kanske osäker på var du ska börja när det gäller molnteknik? Den här utbildningsvägen tar dig med på en resa som börjar med att visa dig hur digital omvandling och molnets kraft kan omvandla din verksamhet.
 
 Modules:
@@ -341,15 +373,16 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Grunderna för Azure](https://docs.microsoft.com/sv-se/learn/paths/azure-fundamentals)
-#### Inlärningsväg - 9 h 35 min - 12 moduler
+#### Inlärningsväg - 8 h 59 min - 11 moduler
 Är du intresserad av molnet, men vet inte riktigt hur det skulle passa dig? Den här utbildningsvägen är rätt ställe att börja på.
 
 Modules:
 - Molnbegrepp – principerna bakom molntjänster
-- Core Cloud Services – Introduktion till Azure
 - Viktiga molntjänster – Azure-arkitektur och tjänstgarantier
 - Skapa ett Azure-konto
 - Core Cloud Services – Hantera tjänster med Azure-portalen
@@ -471,7 +504,7 @@ Modules:
 - Distribuera dina data globalt med Azure Cosmos DB
 
 ## [Distribuera en webbplats till Azure med Azure App Service](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-app-service)
-#### Inlärningsväg - 4 h 30 min - 5 moduler
+#### Inlärningsväg - 3 h 50 min - 5 moduler
 Med webbappar i Azure kan du publicera och hantera din webbplats på ett enkelt sätt, utan att behöva arbeta med underliggande servrar, lagring och nätverksresurser. Du kan i stället fokusera på dina webbplatsfunktioner och förlita dig på att den robusta Azure-plattformen ger säker åtkomst till din webbplats.
 
 Modules:
@@ -491,6 +524,92 @@ Modules:
 - Ansluta en app till Azure Storage
 - Skydda ditt Azure Storage-konto
 - Lagra programdata med Azure Blob Storage
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/build-dynamics-365-finance-operations)
+#### Inlärningsväg - 8 h 30 min - 12 moduler
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Inlärningsväg - 3 h 52 min - 8 moduler
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/sv-se/learn/paths/extend-power-platform-model-driven-app)
+#### Inlärningsväg - 3 h 41 min - 3 moduler
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/extending-dynamics-365-finance-operations)
+#### Inlärningsväg - 1 h 27 min - 3 moduler
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/sv-se/learn/paths/get-started-cds)
+#### Inlärningsväg - 4 h 16 min - 6 moduler
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/sv-se/learn/paths/intro-developing-power-platform)
+#### Inlärningsväg - 2 h 22 min - 3 moduler
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/sv-se/learn/paths/m365-getmodern)
+#### Inlärningsväg - 2 h 33 min - 9 moduler
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Inlärningsväg - 5 h 43 min - 3 moduler
@@ -718,7 +837,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/sv-se/learn/paths/m365-fundamentals)
-#### Inlärningsväg - 3 h 10 min - 9 moduler
+#### Inlärningsväg - 3 h 42 min - 9 moduler
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -734,7 +853,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Inlärningsväg - 8 h 52 min - 8 moduler
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -868,7 +987,7 @@ Modules:
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Inlärningsväg - 5 h 2 min - 15 moduler
+#### Inlärningsväg - 6 h 56 min - 15 moduler
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -886,10 +1005,10 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Inlärningsväg - 1 h 12 min - 3 moduler
+#### Inlärningsväg - 1 h 15 min - 3 moduler
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

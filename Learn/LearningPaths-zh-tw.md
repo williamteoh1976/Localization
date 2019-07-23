@@ -1,23 +1,7 @@
 # Summary of Learning Paths (zh-tw)
-last updated: 2019-06-15
-## [針對政府的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-government)
-#### 學習途徑 - 7 小時 44 分鐘 - 單元數：10
-在政府中，決策者必須進行特定公共面考量，才能了解 AI 轉型的影響。 了解能夠協助公共面透過 AI 創造價值的策略組成至關重要。 此學習路徑是為政府決策者所設計，使其能夠闡述 AI 轉型對公共面的實際影響。
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create value in government
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
+last updated: 2019-07-21
 ## [管理 Azure 中的容器](https://docs.microsoft.com/zh-tw/learn/paths/administer-containers-in-azure)
-#### 學習途徑 - 3 小時 20 分鐘 - 單元數：4
+#### 學習途徑 - 3 小時 45 分鐘 - 單元數：5
 Azure Container Instances 是在 Azure 中執行容器之最快速且簡單的方式。 此學習路徑將指導您如何建立及管理容器，以及如何使用 ACI 為 Kubernetes 提供彈性的規模。
 
 Modules:
@@ -25,6 +9,55 @@ Modules:
 - 使用 Azure Container Registry 建置及儲存容器映像
 - 執行搭配 Azure Container Instances 的 Docker 容器
 - 使用 Azure App Service 來部署及執行容器化 Web 應用程式
+- Introduction to Azure Kubernetes Service
+
+## [使用 Azure DevOps 建置應用程式](https://docs.microsoft.com/zh-tw/learn/paths/build-applications-with-azure-devops)
+#### 學習途徑 - 6 小時 10 分鐘 - 單元數：7
+了解如何設定組建管線，以持續建置、測試及驗證您的應用程式。
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [發展您的 DevOps 實務](https://docs.microsoft.com/zh-tw/learn/paths/evolve-your-devops-practices)
+#### 學習途徑 - 1 小時 17 分鐘 - 單元數：3
+DevOps 是人員、程序及產品的結合，為終端使用者提供持續性的價值傳遞。 Azure DevOps 服務中所提供的工具，能協助您辦到。 使用 Azure DevOps，您可以建置、測試任何應用程式，並將其部署到雲端或在內部部署。 DevOps 實務會內嵌於您的軟體開發週期，以便啟用透明度、共同作業、持續傳遞和持續部署。
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [建置自動化工作流程以將資料和應用程式與 Azure Logic Apps 整合](https://docs.microsoft.com/zh-tw/learn/paths/build-workflows-with-logic-apps)
+#### 學習途徑 - 2 小時 49 分鐘 - 單元數：4
+Azure Logic Apps 是一個雲端服務，可用來將商務程序執行自動化。 了解如何利用邏輯應用程式來建立當資料可用時自動執行的無伺服器工作流程。
+
+Modules:
+- Azure Logic Apps 簡介
+- 使用 Logic Apps 自動路由傳送和處理資料
+- 使用自訂的連接器從 Logic Apps 工作流程呼叫 API
+- 使用 Azure Resource Manager 範本建立和部署 Logic Apps
+
+## [針對政府的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-government)
+#### 學習途徑 - 7 小時 44 分鐘 - 單元數：10
+在政府中，決策者必須進行特定公共面考量，才能了解 AI 轉型的影響。 了解能夠協助公共面透過 AI 創造價值的策略組成至關重要。 此學習路徑是為政府決策者所設計，使其能夠闡述 AI 轉型對公共面的實際影響。
+
+Modules:
+- 決定用於創造商業價值的 AI 策略
+- 定義可在政府中創造價值的 AI 策略
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
+- 為企業中負責任的 AI 制定指導原則
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [在 PowerApps 中建立畫布應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-powerapps)
 #### 學習途徑 - 2 小時 11 分鐘 - 單元數：3
@@ -70,79 +103,79 @@ Modules:
 本學習路徑會提供您 AI 主要觀念的概觀。 您將能夠描述 AI 為何，以及其構成技術。 您也能了解 Microsoft 如何將 AI 最新進展化作可供組織利用的工具、產品及服務。
 
 Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [決定用於創造商業價值的 AI 策略](https://docs.microsoft.com/zh-tw/learn/paths/ai-strategy-for-business-value)
 #### 學習途徑 - 4 小時 43 分鐘 - 單元數：6
 在本學習路徑中，INSEAD 的 Eli Lilly 策略與創新首席教授 Peter Zemsky 將現身說法，說明 AI 是如何在各產業及公司、Microsoft 客戶及合作夥伴間驅動商業價值。 您將能夠討論技術團隊如何將 AI 應用於商業領域，以及不同產業的企業領導人如何看待自身企業的 AI 應用。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- 決定用於創造商業價值的 AI 策略
+- 定義可在金融服務中創造商業價值的 AI 策略
+- 定義可在政府中創造價值的 AI 策略
+- 定義可在零售產業中創造商業價值的 AI 策略
+- 定義可在製造業創造商業價值的 AI 策略
+- 定義可在醫療產業中創造商業價值的 AI 策略
 
 ## [針對製造業的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-manufacturing)
 #### 學習途徑 - 7 小時 38 分鐘 - 單元數：10
 製造業的決策者必須進行特定的產業考量，才能了解 AI 轉型對企業的實際影響。 本學習路徑是為製造業決策者所設計，使其能夠闡述 AI 轉型對企業的實際影響。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 決定用於創造商業價值的 AI 策略
+- 定義可在製造業創造商業價值的 AI 策略
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
+- 為企業中負責任的 AI 制定指導原則
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [針對醫療保健業的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-healthcare)
 #### 學習途徑 - 7 小時 37 分鐘 - 單元數：10
 醫療保健業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。 本學習路徑是為醫療保健業決策者所設計，使其能夠闡述 AI 轉型對企業的實際影響。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 決定用於創造商業價值的 AI 策略
+- 定義可在醫療產業中創造商業價值的 AI 策略
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
+- 為企業中負責任的 AI 制定指導原則
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [探索如何促進企業為 AI 準備就緒的文化](https://docs.microsoft.com/zh-tw/learn/paths/foster-ai-ready-culture)
 #### 學習途徑 - 3 小時 22 分鐘 - 單元數：5
 在本學習路徑中，Microsoft 高階主管將現身說法，他們介紹的架構，會推動成為為 AI 準備就緒的組織所必需的關鍵改變。 您將能了解成功的 AI 實作，並描述相關案例。 也能討論財經、行銷、銷售及客服方面的企業營運專屬和相關使用案例。 最後，您將能根據您組織的成熟度，選擇要執行的 AI 解決方案。
 
 Modules:
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
 
 ## [針對零售的 AI 商業學校](https://docs.microsoft.com/zh-tw/learn/paths/ai-business-school-retail)
 #### 學習途徑 - 7 小時 37 分鐘 - 單元數：10
 零售業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。
 
 Modules:
-- Define an AI strategy to create business value
-- Transform business processes in retail with AI
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 決定用於創造商業價值的 AI 策略
+- 定義可在零售產業中創造商業價值的 AI 策略
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
+- 為企業中負責任的 AI 制定指導原則
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [利用 Power BI 取用資料](https://docs.microsoft.com/zh-tw/learn/paths/consume-data-with-power-bi)
 #### 學習途徑 - 2 小時 35 分鐘 - 單元數：2
@@ -157,23 +190,23 @@ Modules:
 金融服務業的決策者會針對其產業進行特別考量，以協助其了解 AI 轉型對企業的實際影響。 了解能夠協助金融服務部門透過 AI 創造商業價值的策略組成至關重要。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 決定用於創造商業價值的 AI 策略
+- 定義可在金融服務中創造商業價值的 AI 策略
+- 了解打造 AI 就緒文化的重要性
+- 探索如何在財務中培養 AI 就緒文化
+- 探索如何在行銷中培養 AI 就緒文化
+- 探索如何在銷售中培養 AI 就緒文化
+- 探索如何為客戶服務部門培養 AI 就緒文化
+- 為企業中負責任的 AI 制定指導原則
+- AI 技術簡介
+- 探討 Microsoft 如何採用人工智慧
 
 ## [為企業中負責任的 AI 制定引導原則](https://docs.microsoft.com/zh-tw/learn/paths/responsible-ai-business-principles)
 #### 學習途徑 - 1 小時 - 一個單元
 反映 AI 企業中的含意至關重要。 本學習路徑會提供指導方針，協助您在組織、資源、最佳做法和工具中建立原則及治理模型。
 
 Modules:
-- Identify guiding principles for responsible AI in your business
+- 為企業中負責任的 AI 制定指導原則
 
 ## [使用 Microsoft 365 和商務用 Surface 現代化您的工作場所](https://docs.microsoft.com/zh-tw/learn/paths/modernize-workplace-with-m365-and-surface)
 #### 學習途徑 - 2 小時 50 分鐘 - 單元數：9
@@ -278,7 +311,7 @@ Modules:
 - 在 Azure Machine Learning Studio 中建立實驗
 
 ## [使用 Azure Cognitive Vision Services 處理及分類映像](https://docs.microsoft.com/zh-tw/learn/paths/classify-images-with-vision-services)
-#### 學習途徑 - 2 小時 5 分鐘 - 單元數：3
+#### 學習途徑 - 1 小時 59 分鐘 - 單元數：3
 Microsoft 認知服務提供預先建置的功能，讓您的應用程式具備執行電腦視覺功能的能力。  了解如何使用 Cognitive Vision Services 偵測臉部、標記和分類影像及辨識物件。
 
 Modules:
@@ -300,272 +333,6 @@ Modules:
 - 使用 Databricks Delta 建立資料管線
 - 在 Azure Databricks 中使用串流資料
 - 使用 Azure Databricks 與 Power BI 建立資料視覺效果
-
-## [使用 Microsoft Flow 將商務程序自動化](https://docs.microsoft.com/zh-tw/learn/paths/automate-process-using-flow)
-#### 學習途徑 - 3 小時 11 分鐘 - 單元數：3
-本學習路徑會為您介紹 Microsoft Flow，並教導您如何建立工作流程及管理流程。
-
-Modules:
-- 開始使用 Microsoft Flow
-- 使用 Microsoft Flow 建置更複雜的流程
-- 在 Microsoft Flow 中使用系統管理中心來管理環境和資料原則
-
-## [在 PowerApps 中建立模型驅動應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-app-models-business-processes)
-#### 學習途徑 - 1 小時 40 分鐘 - 單元數：2
-此學習路徑將介紹如何建立模型驅動的 PowerApp，而該 PowerApp 會使用 Common Data Service。
-
-Modules:
-- 在 PowerApps 中開始使用模型驅動應用程式
-- 開始使用 Common Data Service
-
-## [透過 Power BI 建立及使用分析報表](https://docs.microsoft.com/zh-tw/learn/paths/create-use-analytics-reports-power-bi)
-#### 學習途徑 - 1 小時 42 分鐘 - 單元數：2
-本學習路徑會為您介紹 Power BI，並教導您如何使用及建置商業智慧報表。
-
-Modules:
-- 開始建置 Power BI
-- 建立及分享您的第一個 Power BI 報表
-
-## [了解 Microsoft Azure 的商業價值](https://docs.microsoft.com/zh-tw/learn/paths/learn-business-value-of-azure)
-#### 學習途徑 - 3 小時 47 分鐘 - 單元數：7
-您對透過簡單易懂的方式學習雲端有興趣嗎？ 或者您對於該從何開始使用雲端技術感到困惑？ 此學路路徑將會帶您踏上旅程，向您展示數位轉型及雲端的強大功能能夠如何讓您的企業轉型。
-
-Modules:
-- 歡迎使用 Microsoft Azure
-- Azure 解決方案簡介
-- 應用程式和基礎結構的移轉與現代化
-- Microsoft 資料資產的移轉與現代化
-- Microsoft Azure 人工智慧 (AI) 策略與解決方案
-- Microsoft Azure IoT 策略與解決方案
-- Microsoft 雲端作業模式概觀
-
-## [了解 Microsoft Dynamics 365 和 Power Platform 的商業價值](https://docs.microsoft.com/zh-tw/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### 學習途徑 - 5 小時 2 分鐘 - 單元數：15
-您有興趣了解商務應用程式嗎？ 或者，也許您不知道從哪裡開始使用 Microsoft Dynamics 365 和 Power Platform 應用程式？ 這個學習經驗將帶領您展開一段旅程，先從展示數位轉型如何進行以及和商務應用程式如何能夠讓您企業轉型的威力開始。 我們將討論 Dynamics 365 和 Power Platform 如何幫助您根據組織的需求和目標做出明智的決策。
-
-Modules:
-- 歡迎使用 Microsoft Business Applications
-- Microsoft Business Applications 簡介
-- 啟用數位轉型
-- 使用 Microsoft Catalyst 完成業務轉型
-- Dynamics 365 應用程式和 Power Platform
-- Dynamics 365 for Sales
-- Dynamics 365 for Marketing
-- Dynamics 365 for Customer Service
-- Dynamics 365 for Field Service
-- Dynamics 365 for Finance and Operations
-- Dynamics 365 for Retail
-- Dynamics 365 for Talent
-- Dynamics 365 Business Central
-- Power Platform - 簡介、商業價值與示範
-- Microsoft 運作的基礎是信任
-
-## [使用 Azure SQL 資料倉儲實作資料倉儲](https://docs.microsoft.com/zh-tw/learn/paths/implement-sql-data-warehouse)
-#### 學習途徑 - 3 小時 21 分鐘 - 單元數：4
-Azure SQL 資料倉儲提供可以擴充到 PB 資料的相關巨量資料存放區。 在此學習路徑中，您將學習 Azure SQL 資料倉儲如何透過「大量平行處理 (MPP)」架構，達到這樣的規模。 在數分鐘內建立資料倉儲，並使用熟悉的查詢語言來建置報表。 在數分鐘內載入大量資料，並確保您的資料倉儲是安全的。
-
-Modules:
-- 使用 Azure SQL 資料倉儲設計資料倉儲
-- 查詢 Azure SQL 資料倉儲中的資料
-- 使用 PolyBase 將資料匯入 Azure SQL 資料倉儲
-- 資料倉儲安全性
-
-## [使用 Azure 串流分析實作資料串流解決方案](https://docs.microsoft.com/zh-tw/learn/paths/implement-data-streaming-with-asa)
-#### 學習途徑 - 1 小時 14 分鐘 - 單元數：2
-了解事件處理和串流資料的概念，以及如何應用於 Azure 串流分析。 接著，您會設定串流分析作業以串流資料，並了解如何管理和監控正在執行的作業。
-
-Modules:
-- 使用 Azure 串流分析來處理資料流
-- 使用 Azure 串流分析來轉換資料
-
-## [Azure 資料工程師](https://docs.microsoft.com/zh-tw/learn/paths/azure-for-the-data-engineer)
-#### 學習途徑 - 1 小時 51 分鐘 - 單元數：3
-探索資料世界的演變，以及雲端技術的問世如何為企業探索提供全新的商機。 您將了解各種可用的資料平台技術，以及資料工程師如何利用此技術為組織獲取利益。
-
-Modules:
-- 了解不斷演進的資料世界
-- 調查 Azure 資料平台的服務
-- 識別資料工程師在雲端裝載架構上的工作
-
-## [使用 Azure Data Lake Storage Gen2 的大規模資料處理](https://docs.microsoft.com/zh-tw/learn/paths/data-processing-with-azure-adls)
-#### 學習途徑 - 2 小時 4 分鐘 - 單元數：3
-在此學習路徑中，您會了解 Azure Data Lake Storage 能更有效地處理巨量資料分析解決方案，及其易於安裝的特性。 您也可以探索其融入一般架構的方法，以及將資料上傳到資料存放區的各種方法。 最後，您可以檢查各式各樣的安全性功能，以確保資料的安全。
-
-Modules:
-- Azure Data Lake Storage 簡介
-- 將資料上傳至 Azure Data Lake Storage
-- 保護您的 Azure 儲存體帳戶
-
-## [使用 Azure Databricks 從您的資料擷取知識與見解](https://docs.microsoft.com/zh-tw/learn/paths/data-science)
-#### 學習途徑 - 4 小時 21 分鐘 - 單元數：6
-了解如何使用 Azure Databricks，執行預測與分析的資料科學技術，例如探勘資料分析、模型定型、文字分析與深度學習。
-
-Modules:
-- Azure Databricks 簡介
-- 使用 Azure Databricks 讀取及寫入資料
-- 使用 Azure Databricks 執行探勘資料分析
-- 使用 Azure Databricks 定型、評估及選取機器學習服務模型
-- 使用 Azure Databricks 進行深度學習
-- 使用 Azure Databricks 執行文字分析
-
-## [Azure 基本概念](https://docs.microsoft.com/zh-tw/learn/paths/azure-fundamentals)
-#### 學習途徑 - 9 小時 35 分鐘 - 單元數：12
-對雲端有興趣，但不是很確定它能為您做什麼？ 這條路徑是開始之處。
-
-Modules:
-- 雲端概念 - 雲端運算的準則
-- 核心雲端服務 - Azure 簡介
-- 核心雲端服務 - Azure 架構和服務保證
-- 建立 Azure 帳戶
-- 核心雲端服務 - 使用 Azure 入口網站管理服務
-- 核心雲端服務 - Azure 計算選項
-- 核心雲端服務 - Azure 資料儲存體選項
-- 核心雲端服務 - Azure 網路選項
-- Azure 中的安全性、責任和信任
-- 使用 Azure 原則來套用及監視基礎結構標準
-- 透過 Azure Resource Manager 控制及組織 Azure 資源
-- 預測成本以及將 Azure 費用最佳化
-
-## [開發 Windows 10 應用程式](https://docs.microsoft.com/zh-tw/learn/paths/develop-windows10-apps)
-#### 學習途徑 - 4 小時 30 分鐘 - 單元數：4
-了解如何開發、測試及部署 Windows 10 應用程式。
-
-Modules:
-- Windows 10 開發的簡介
-- 開始使用 Visual Studio 進行 Windows 10 應用程式開發
-- 撰寫您的第一個 Windows 10 應用程式
-- 撰寫連線至網際網路的 Windows 應用程式
-
-## [在 Azure Cosmos DB 中使用 NoSQL 資料](https://docs.microsoft.com/zh-tw/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### 學習途徑 - 5 小時 55 分鐘 - 單元數：8
-NoSQL 資料是有效儲存資訊的方式，這些資訊不符合關聯式 SQL 資料庫的需求。 了解如何使用 Azure 入口網站、適用於 Visual Studio Code 的 Azure Cosmos DB 延伸模組以及 Azure Cosmos DB .NET Core SDK，以視您需要在任何地方使用 NoSQL 資料，且無論使用者位於世界上的哪個角落，都能為使用者提供高可用性。
-
-Modules:
-- 建立為調整規模而建置的 Azure Cosmos DB 資料庫
-- 為 Azure Cosmos DB 儲存體選擇適當的 API
-- 在 Azure Cosmos DB 資料庫中新增和查詢資料
-- 使用圖形 API 在 Azure Cosmos DB 中儲存和存取圖形資料
-- 使用 Azure Cosmos DB 和資料表 API 來儲存和存取 NoSQL 資料
-- 在 Visual Studio Code 中建置適用於 Azure Cosmos DB 的 .NET Core 應用程式
-- 使用資料分割和索引編製策略，將 Azure Cosmos DB 的效能最佳化
-- 使用 Azure Cosmos DB 來全域散發資料
-
-## [管理 Azure 中的基礎結構資源](https://docs.microsoft.com/zh-tw/learn/paths/administer-infrastructure-resources-in-azure)
-#### 學習途徑 - 9 小時 34 分鐘 - 單元數：10
-了解如何建立、管理、保護及調整虛擬機器資源。
-
-Modules:
-- Azure 虛擬機器簡介
-- 在 Azure 中建立 Linux 虛擬機器
-- 在 Azure 中建立 Windows 虛擬機器
-- 使用 Azure CLI 管理虛擬機器
-- 讓虛擬機器保持在最新狀態
-- 設定虛擬機器的網路設定
-- 建置 Azure Resource Manager 範本
-- 在 Azure 虛擬機器中新增磁碟及調整其大小
-- Azure 儲存體磁碟中的快取與效能
-- 保護您的 Azure 虛擬機器磁碟
-
-## [在 Azure 中使用相關資料](https://docs.microsoft.com/zh-tw/learn/paths/work-with-relational-data-in-azure)
-#### 學習途徑 - 3 小時 20 分鐘 - 單元數：4
-Azure 支援數種熱門的 SQL 資料庫解決方案，包括 SQL Server、PostgreSQL 和 MySQL。 了解如何在 Azure 中使用這些企業資料解決方案，在雲端儲存和擷取您應用程式的資料。
-
-Modules:
-- 佈建 Azure SQL Database 來儲存應用程式資料
-- 建立適用於 PostgreSQL 的 Azure 資料庫伺服器
-- 搭配 SQL 彈性集區調整多個 Azure SQL 資料庫
-- 保護 Azure SQL 資料庫
-
-## [使用 Azure App Service 將網站部署至 Azure](https://docs.microsoft.com/zh-tw/learn/paths/deploy-a-website-with-azure-app-service)
-#### 學習途徑 - 4 小時 30 分鐘 - 單元數：5
-Azure Web 應用程式可讓您輕鬆發佈及管理網站，而不需要使用基礎伺服器、儲存體或網路資產。 相反地，您可以專注於網站功能，並依賴強固的 Azure 平台提供網站的安全存取。
-
-Modules:
-- 準備您的開發環境以便進行 Azure 開發
-- 使用 Azure App Service 裝載 Web 應用程式
-- 使用 Visual Studio 將 Web 應用程式發佈到 Azure
-- 使用 App Service 部署位置來預備 Web 應用程式部署以進行測試和復原
-- 使用 Azure App Service 來部署及執行容器化 Web 應用程式
-
-## [在 Azure 中管理資源](https://docs.microsoft.com/zh-tw/learn/paths/manage-resources-in-azure)
-#### 學習途徑 - 4 小時 15 分鐘 - 單元數：5
-了解如何使用 Azure 命令列和入口網站來建立、管理及控制以雲端為基礎的資源。
-
-Modules:
-- 使用 Azure 中的雲端類型和服務模型對應需求
-- 使用 CLI 控制 Azure 服務
-- 搭配使用指令碼與 PowerShell 將 Azure 工作自動化
-- 預測成本以及將 Azure 費用最佳化
-- 透過 Azure Resource Manager 控制及組織 Azure 資源
-
-## [建立無伺服器應用程式](https://docs.microsoft.com/zh-tw/learn/paths/create-serverless-applications)
-#### 學習途徑 - 6 小時 15 分鐘 - 單元數：7
-Azure Functions 可讓您建立事件驅動、依需求計算的系統，這可藉由各種不同的外部事件觸發。 了解如何運用函式來執行伺服器端邏輯，並建置無伺服器架構。
-
-Modules:
-- 選擇適當的 Azure 服務以整合及自動化商務程序
-- 使用 Azure Functions 建立無伺服器邏輯
-- 使用觸發程序執行 Azure 函式
-- 使用輸入和輸出繫結來將 Azure Functions 鏈結在一起
-- 使用 Durable Functions 來建立長時間執行的無伺服器工作流程
-- 使用 Visual Studio 開發、測試及部署 Azure 函數
-- 透過以 Webhook 觸發的 Azure 函式監視 GitHub 事件
-
-## [將您的服務連結在一起](https://docs.microsoft.com/zh-tw/learn/paths/connect-your-services-together)
-#### 學習途徑 - 3 小時 31 分鐘 - 單元數：4
-Azure 可讓您建立由各種元件所組成的應用程式：網站前端、後端服務，以及執行依需求計算服務的觸發函式。 Azure 還包含各種通訊策略，可讓這些不同元件彼此傳遞資料。 了解如何運用這些通訊服務，從可測試的元件建立可調整、有效率的解決方案。
-
-Modules:
-- 選擇 Azure 傳訊模型以鬆散連線到您的服務
-- 使用 Azure 服務匯流排實作訊息式通訊工作流程
-- 使用 Azure 佇列儲存體在應用程式之間通訊
-- 使用 Azure 事件中樞啟用可靠的巨量資料應用程式傳訊功能
-
-## [在 Azure 中建構絕佳解決方案](https://docs.microsoft.com/zh-tw/learn/paths/architect-great-solutions-in-azure)
-#### 學習途徑 - 4 小時 17 分鐘 - 單元數：5
-藉由探究每個優質架構的核心原則，了解如何在 Azure 中設計及建置安全、可調整規模的高效能解決方案。
-
-Modules:
-- 絕佳 Azure 架構的要件
-- Azure 中的安全性設計
-- Azure 中的效能與延展性設計
-- Azure 中的效率和作業設計
-- Azure 中的可用性和復原能力設計
-
-## [使用 Azure 虛擬機器部署網站](https://docs.microsoft.com/zh-tw/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### 學習途徑 - 4 小時 18 分鐘 - 單元數：4
-如果 Azure Web 應用程式平台不直接支援您的虛擬主機需求，您可以利用虛擬機器來自訂及控制網頁伺服器的各個層面。 了解如何建立、設定及管理裝載 Web 應用程式的 Linux 和 Windows 虛擬機器。
-
-Modules:
-- Azure 虛擬機器簡介
-- 在 Azure 中建立 Linux 虛擬機器
-- 在 Azure 中建立 Windows 虛擬機器
-- 在 Azure Linux 虛擬機器上使用 MEAN 堆疊建置並執行 Web 應用程式
-
-## [保護您的雲端資料](https://docs.microsoft.com/zh-tw/learn/paths/secure-your-cloud-data)
-#### 學習途徑 - 6 小時 45 分鐘 - 單元數：8
-Azure 專為安全性與合規性而設計。 了解如何運用內建服務安全地儲存您的應用程式資料，確保只有獲得授權的服務和用戶端可存取它。
-
-Modules:
-- Azure 中的安全性設計
-- 邁向生產前需考慮的前 5 個安全性項目
-- 保護您的 Azure 儲存體帳戶
-- 使用 Azure Key Vault 管理伺服器應用程式中的祕密
-- 使用 Azure App Service 來驗證瀏覽器型應用程式
-- 使用條件式存取保護您的 Azure 資源
-- 使用角色型存取控制 (RBAC) 保護 Azure 資源
-- 保護 Azure SQL 資料庫
-
-## [將資料儲存在 Azure](https://docs.microsoft.com/zh-tw/learn/paths/store-data-in-azure)
-#### 學習途徑 - 3 小時 50 分鐘 - 單元數：5
-Azure 提供各種儲存資料的方式：非結構化、封存、關聯式等等。 了解 Azure 儲存體管理的基本概念、如何建立儲存體帳戶，以及如何為您想要在雲端中儲存的資料選擇正確的模型。
-
-Modules:
-- 選擇在 Azure 中儲存資料的方法
-- 建立 Azure 儲存體帳戶
-- 將應用程式連線到 Azure 儲存體
-- 保護您的 Azure 儲存體帳戶
-- 使用 Azure Blob 儲存體儲存應用程式資料
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### 學習途徑 - 5 小時 43 分鐘 - 單元數：3
@@ -748,7 +515,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/zh-tw/learn/paths/m365-fundamentals)
-#### 學習途徑 - 3 小時 10 分鐘 - 單元數：9
+#### 學習途徑 - 3 小時 42 分鐘 - 單元數：9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -764,7 +531,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/configure-your-organization-in-finance-and-ops)
 #### 學習途徑 - 8 小時 52 分鐘 - 單元數：8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -898,7 +665,7 @@ Modules:
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-tw/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### 學習途徑 - 1 小時 12 分鐘 - 單元數：3
+#### 學習途徑 - 1 小時 15 分鐘 - 單元數：3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

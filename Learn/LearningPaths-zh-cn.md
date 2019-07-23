@@ -1,23 +1,7 @@
 # Summary of Learning Paths (zh-cn)
-last updated: 2019-06-15
-## [面向政府的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-government)
-#### 学习路径 - 7 小时 44 分钟 - 模块数：10 个
-在政府中，决策者们必须顾及到特定公共部门考量，这样才能在转型中发挥 AI 的真正效力。 理解有助于公共部门通过 AI 创造价值的战略的各个方面，这是至关重要的。 该学习路径专为政府决策者们设计，它描述了 AI 在公共部门转型中真正的影响力。
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create value in government
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
+last updated: 2019-07-20
 ## [在 Azure 中管理容器](https://docs.microsoft.com/zh-cn/learn/paths/administer-containers-in-azure)
-#### 学习路径 - 3 小时 20 分钟 - 模块数：4 个
+#### 学习路径 - 3 小时 45 分钟 - 模块数：5 个
 要在 Azure 中运行容器，最迅速、最简单的方式是使用 Azure 容器实例。 本学习路径介绍了如何创建和管理容器，还介绍了如何使用 ACI 为 Kubernetes 提供弹性缩放功能。
 
 Modules:
@@ -25,6 +9,55 @@ Modules:
 - 使用 Azure 容器注册表生成和存储容器映像
 - 使用 Azure 容器实例运行 Docker 容器
 - 使用 Azure 应用服务部署和运行容器化 Web 应用
+- Introduction to Azure Kubernetes Service
+
+## [使用 Azure DevOps 构建应用程序](https://docs.microsoft.com/zh-cn/learn/paths/build-applications-with-azure-devops)
+#### 学习路径 - 6 小时 10 分钟 - 模块数：7 个
+了解如何配置可持续构建、测试和验证应用程序的生成管道。
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [改进 DevOps 实践做法](https://docs.microsoft.com/zh-cn/learn/paths/evolve-your-devops-practices)
+#### 学习路径 - 1 小时 17 分钟 - 模块数：3 个
+DevOps 是人员、过程和产品的集合体，可向最终用户持续提供价值。 Azure DevOps 是一组服务，它向你提供可实现该目标的工具。 通过 Azure DevOps，可构建和测试任何应用程序，并将它们部署到云端或本地。 DevOps 实践做法内嵌在软件开发生命周期内，可实现透明度、合作、持续交付和持续部署。
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [使用 Azure 逻辑应用构建自动工作流来集成数据和应用](https://docs.microsoft.com/zh-cn/learn/paths/build-workflows-with-logic-apps)
+#### 学习路径 - 2 小时 49 分钟 - 模块数：4 个
+Azure 逻辑应用是一种自动执行业务流程的云服务。 了解如何使用逻辑应用来创建在数据可用时自动运行的无服务器工作流。
+
+Modules:
+- Azure 逻辑应用简介
+- 使用逻辑应用自动路由和处理数据
+- 使用自定义连接器通过逻辑应用工作流调用 API
+- 使用 Azure 资源管理器模板创建和部署逻辑应用
+
+## [面向政府的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-government)
+#### 学习路径 - 7 小时 44 分钟 - 模块数：10 个
+在政府中，决策者们必须顾及到特定公共部门考量，这样才能在转型中发挥 AI 的真正效力。 理解有助于公共部门通过 AI 创造价值的战略的各个方面，这是至关重要的。 该学习路径专为政府决策者们设计，它描述了 AI 在公共部门转型中真正的影响力。
+
+Modules:
+- 定义可创造商业价值的 AI 战略
+- 定义可在政府中创造价值的 AI 战略
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
+- 确定用于在企业中实现负责任的 AI 的指导原则
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [在 PowerApps 中创建画布应用](https://docs.microsoft.com/zh-cn/learn/paths/create-powerapps)
 #### 学习路径 - 2 小时 11 分钟 - 模块数：3 个
@@ -70,39 +103,39 @@ Modules:
 在该学习路径中，Microsoft 顶级高管们将介绍一种框架，它可驱动成为 AI 就绪的组织所必需的关键变更。 你将能够辨别出成功的 AI 实施情形并清楚阐述相关场景。 你将能够探讨金融、市场营销、销售和客户服务方面的行业特定和相关用例。 最后，你将能够根据你的组织的完备情况确定要在其中实现的 AI 解决方案。
 
 Modules:
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
 
 ## [定义可创造商业价值的 AI 战略](https://docs.microsoft.com/zh-cn/learn/paths/ai-strategy-for-business-value)
 #### 学习路径 - 4 小时 43 分钟 - 模块数：6 个
 在该学习路径中，欧洲工商管理学院 (INSEAD) 的礼来制药战略与创新讲座教授 Peter Zemsky 将介绍 AI 正如何在各大行业和公司，以及 Microsoft 客户和合作伙伴中驱动商业价值。 你将能够探讨技术团队正在如何将 AI 引入到商业应用程序中，以及来自不同行业的商业领袖们从自身企业的角度如何看待 AI。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- 定义可创造商业价值的 AI 战略
+- 定义可在金融服务中创造商业价值的 AI 战略
+- 定义可在政府中创造价值的 AI 战略
+- 定义可在零售业中创造商业价值的 AI 战略
+- 定义可在制造业中创造商业价值的 AI 战略
+- 定义可在医疗保健中创造商业价值的 AI 战略
 
 ## [面向制造业的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-manufacturing)
 #### 学习路径 - 7 小时 38 分钟 - 模块数：10 个
 在制造业中，决策者们必须顾及到特定行业考量，这样还能在企业转型中发挥 AI 的真正效力。 该学习路径专为制造行业的决策者们设计，它描述了 AI 在企业转型中真正的影响力。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 定义可创造商业价值的 AI 战略
+- 定义可在制造业中创造商业价值的 AI 战略
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
+- 确定用于在企业中实现负责任的 AI 的指导原则
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [通过 Power BI 使用数据](https://docs.microsoft.com/zh-cn/learn/paths/consume-data-with-power-bi)
 #### 学习路径 - 2 小时 35 分钟 - 模块数：2 个
@@ -117,63 +150,63 @@ Modules:
 在该学习路径中，你将简要了解 AI 的主要概念。 你将能够描述出 AI 的本质及支撑它的技术。 你将能够分享 Microsoft 正在如何将 AI 中的最新前沿技术转化到可供组织使用的工具、产品和服务中。
 
 Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [确定要在企业中实现负责任的 AI 的指导原则](https://docs.microsoft.com/zh-cn/learn/paths/responsible-ai-business-principles)
 #### 学习路径 - 1 小时 - 1 个模块
 这必须在 AI 于企业中产生的影响上反映出来。 在该学习路径中，你将了解相关指导，它们可帮助你在组织中设定原则和管理模型，还能帮你设置资源、最佳做法和工具。
 
 Modules:
-- Identify guiding principles for responsible AI in your business
+- 确定用于在企业中实现负责任的 AI 的指导原则
 
 ## [面向医疗保健的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-healthcare)
 #### 学习路径 - 7 小时 37 分钟 - 模块数：10 个
 医疗保健领域的决策者们拥有其行业特定的考量，这些考量帮助他们在企业转型中发挥 AI 真正的影响力。 该学习路径专为医疗保健行业的决策者们设计，它描述了 AI 在企业转型中真正的影响力。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 定义可创造商业价值的 AI 战略
+- 定义可在医疗保健中创造商业价值的 AI 战略
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
+- 确定用于在企业中实现负责任的 AI 的指导原则
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [面向零售业的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-retail)
 #### 学习路径 - 7 小时 37 分钟 - 模块数：10 个
 零售业的决策者们拥有其行业特定的考量，这些考量帮助他们在企业转型中发挥 AI 真正的影响力。
 
 Modules:
-- Define an AI strategy to create business value
-- Transform business processes in retail with AI
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 定义可创造商业价值的 AI 战略
+- 定义可在零售业中创造商业价值的 AI 战略
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
+- 确定用于在企业中实现负责任的 AI 的指导原则
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [面向金融服务的 AI 商学院](https://docs.microsoft.com/zh-cn/learn/paths/ai-business-school-financial-services)
 #### 学习路径 - 7 小时 42 分钟 - 模块数：10 个
 金融服务领域的决策者们拥有其行业特定的考量，这些考量帮助他们在企业转型中发挥 AI 真正的影响力。 重要的是理解将帮助金融服务领域通过 AI 创造商业价值的战略的各个方面。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- 定义可创造商业价值的 AI 战略
+- 定义可在金融服务中创造商业价值的 AI 战略
+- 了解构建 AI 就绪文化的重要性
+- 了解如何在财务部门培养 AI 就绪文化
+- 了解如何在营销部门培养 AI 就绪文化
+- 了解如何在销售部门培养 AI 就绪文化
+- 探索如何在客户服务部门中培植 AI 就绪文化
+- 确定用于在企业中实现负责任的 AI 的指导原则
+- AI 技术简介
+- 考察 Microsoft 如何实现人工智能
 
 ## [使用 Microsoft 365 和 Surface for Business 使你的工作场所现代化](https://docs.microsoft.com/zh-cn/learn/paths/modernize-workplace-with-m365-and-surface)
 #### 学习路径 - 2 小时 50 分钟 - 模块数：9 个
@@ -270,7 +303,7 @@ Modules:
 - 使用 Azure 机器人服务构建聊天机器人
 
 ## [使用 Azure 认知影像服务处理和分类图像](https://docs.microsoft.com/zh-cn/learn/paths/classify-images-with-vision-services)
-#### 学习路径 - 2 小时 5 分钟 - 模块数：3 个
+#### 学习路径 - 1 小时 59 分钟 - 模块数：3 个
 Microsoft 认知服务提供预建的功能，以支持应用程序中的计算机视觉功能。  了解如何使用认知影像服务检测人脸、标记和分类图像，以及识别物体。
 
 Modules:
@@ -327,7 +360,7 @@ Modules:
 - Common Data Service 入门
 
 ## [了解 Microsoft Azure 的商业价值](https://docs.microsoft.com/zh-cn/learn/paths/learn-business-value-of-azure)
-#### 学习路径 - 3 小时 47 分钟 - 模块数：7 个
+#### 学习路径 - 4 小时 58 分钟 - 模块数：9 个
 你有兴趣以一种易于理解的方式了解云端吗？ 又或许你对在何处开始运用云技术感到困惑吗？ 该学习体验将引领你开启学习之旅，它将首先介绍数字化转型和云端功能可如何实现你的业务转型。
 
 Modules:
@@ -337,7 +370,9 @@ Modules:
 - Microsoft 数据资产的迁移和现代化
 - Microsoft Azure 人工智能 (AI) 战略和解决方案
 - Microsoft Azure IoT 策略和解决方案
-- Microsoft Cloud Operating Model 概述
+- 在实践中了解 Azure
+- Azure 的 Microsoft 云采用框架
+- Microsoft runs on trust
 
 ## [使用 Azure Data Lake Storage Gen2 进行大规模数据处理](https://docs.microsoft.com/zh-cn/learn/paths/data-processing-with-azure-adls)
 #### 学习路径 - 2 小时 5 分钟 - 模块数：3 个
@@ -409,12 +444,11 @@ Modules:
 - 数据仓库安全
 
 ## [Azure 基础知识](https://docs.microsoft.com/zh-cn/learn/paths/azure-fundamentals)
-#### 学习路径 - 9 小时 35 分钟 - 模块数：12 个
+#### 学习路径 - 8 小时 59 分钟 - 模块数：11 个
 对云感兴趣，但不太确定它的作用？ 此路径可助你入门。
 
 Modules:
 - 云概念 - 云计算的原则
-- 核心云服务 - Azure 简介
 - 核心云服务 - Azure 体系结构和服务保证
 - 创建 Azure 帐户
 - 核心云服务 - 使用 Azure 门户管理服务
@@ -437,7 +471,7 @@ Modules:
 - 编写连接到 Internet 的 Windows 应用
 
 ## [使用 Azure 应用服务将网站部署到 Azure](https://docs.microsoft.com/zh-cn/learn/paths/deploy-a-website-with-azure-app-service)
-#### 学习路径 - 4 小时 30 分钟 - 模块数：5 个
+#### 学习路径 - 3 小时 50 分钟 - 模块数：5 个
 利用 Azure 中的 Web 应用，可轻松发布和管理网站，而无需使用基础服务器、存储或网络资产。 相反，你可专注于网站功能，以可靠的 Azure 平台为后盾让用户能安全访问你的网站。
 
 Modules:
@@ -566,6 +600,92 @@ Modules:
 - 将应用连接到 Azure 存储
 - 保护 Azure 存储帐户
 - 使用 Azure Blob 存储来存储应用程序数据
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/build-dynamics-365-finance-operations)
+#### 学习路径 - 8 小时 30 分钟 - 模块数：12 个
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### 学习路径 - 3 小时 52 分钟 - 模块数：8 个
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/zh-cn/learn/paths/extend-power-platform-model-driven-app)
+#### 学习路径 - 3 小时 41 分钟 - 模块数：3 个
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/extending-dynamics-365-finance-operations)
+#### 学习路径 - 1 小时 27 分钟 - 模块数：3 个
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/zh-cn/learn/paths/get-started-cds)
+#### 学习路径 - 4 小时 16 分钟 - 模块数：6 个
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/zh-cn/learn/paths/intro-developing-power-platform)
+#### 学习路径 - 2 小时 22 分钟 - 模块数：3 个
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/zh-cn/learn/paths/m365-getmodern)
+#### 学习路径 - 2 小时 33 分钟 - 模块数：9 个
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### 学习路径 - 5 小时 43 分钟 - 模块数：3 个
@@ -764,7 +884,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/configure-your-organization-in-finance-and-ops)
 #### 学习路径 - 8 小时 52 分钟 - 模块数：8 个
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -898,7 +1018,7 @@ Modules:
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/zh-cn/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### 学习路径 - 1 小时 12 分钟 - 模块数：3 个
+#### 学习路径 - 1 小时 15 分钟 - 模块数：3 个
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

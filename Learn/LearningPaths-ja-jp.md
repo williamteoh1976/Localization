@@ -1,23 +1,7 @@
 # Summary of Learning Paths (ja-jp)
-last updated: 2019-06-15
-## [官公庁/自治体のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-government)
-#### ラーニング パス - 7 時間 44 分 - モジュール数: 10
-官公庁/自治体において、意思決定者が AI の真の変革の力を現実化するには、公的機関独自の考慮事項を考える必要があります。 戦略の各構成要素は、公的機関が AI を使って価値を生み出すために役立つため、これを理解することが重要です。 このラーニング パスは、AI の真の変革の影響を説明する、官公庁/自治体の公的機関の意思決定者向けに設計されています。
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create value in government
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
+last updated: 2019-07-20
 ## [Azure でコンテナーを管理する](https://docs.microsoft.com/ja-jp/learn/paths/administer-containers-in-azure)
-#### ラーニング パス - 3 時間 20 分 - モジュール数: 4
+#### ラーニング パス - 3 時間 45 分 - モジュール数: 5
 Azure Container Instances は、Azure でコンテナーを実行する方法として最も簡単で迅速な方法です。 このラーニング パスでは、コンテナーを作成して管理する方法、ACI を利用して Kubernetes に柔軟なスケールを与える方法を紹介します。
 
 Modules:
@@ -25,6 +9,70 @@ Modules:
 - Azure Container Registry を使用してコンテナー イメージをビルドして保存する
 - Azure Container Instances で Docker コンテナーを実行する
 - Azure App Service を使ってコンテナー化された Web アプリをデプロイして実行する
+- Introduction to Azure Kubernetes Service
+
+## [Azure DevOps でアプリケーションをビルドする](https://docs.microsoft.com/ja-jp/learn/paths/build-applications-with-azure-devops)
+#### ラーニング パス - 6 時間 10 分 - モジュール数: 7
+アプリケーションを継続的にビルドし、テストし、検証するビルド パイプラインを構成する方法について紹介します。
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [DevOps プラクティスを発展させる](https://docs.microsoft.com/ja-jp/learn/paths/evolve-your-devops-practices)
+#### ラーニング パス - 1 時間 17 分 - モジュール数: 3
+DevOps とは、エンド ユーザーに対する価値の継続的に届けることを可能にする、人、プロセス、製品の結合です。 その価値の継続的デリバリーに必要なツールを与える一連のサービスが Azure DevOps です。 Azure DevOps を利用すれば、あらゆるアプリケーションをビルドし、テストし、クラウドまたはオンプレミスにデプロイできます。 透明性、共同作業、継続的デリバリー、継続的配置を可能にする DevOps プラクティスは、ソフトウェア開発ライフサイクルに組み込まれます。
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Azure Logic Apps でデータとアプリを統合するための自動化されたワークフローを構築する](https://docs.microsoft.com/ja-jp/learn/paths/build-workflows-with-logic-apps)
+#### ラーニング パス - 2 時間 49 分 - モジュール数: 4
+Azure Logic Apps は、ビジネス プロセスの実行を自動化するクラウド サービスです。 ロジック アプリを活用して、データがあるときに自動的に実行されるサーバーレスのワークフローを作成する方法を学習します。
+
+Modules:
+- Azure Logic Apps の概要
+- Logic Apps を使用して自動的にデータをルートし、処理する
+- カスタム コネクタを使用して Logic Apps ワークフローから API を呼び出す
+- Azure Resource Manager テンプレートを使用して Logic Apps を作成してデプロイする
+
+## [Microsoft 365 - Windows 10 および Office 365 ProPlus でエンタープライズ展開をモダン化します。](https://docs.microsoft.com/ja-jp/learn/paths/m365-getmodern)
+#### ラーニング パス - 2 時間 33 分 - モジュール数: 9
+Microsoft 365 では、Office 365 ProPlus アプリを実行し、Microsoft Enterprise Mobility + Security によって管理されている Windows 10 デバイスを使用して、常に最新の安全な環境を構築することができます。 組織を Windows 10 および Office 365 ProPlus にアップグレードするための推奨手順について説明します。これには、最新の管理技術と方法を導入しながら既存のツールとプロセスを活用する方法も含まれています。
+
+Modules:
+- Microsoft 365 の使用を開始する
+- Windows 10 に対するデバイスとアプリの準備状況を分析する
+- Microsoft 365 用のディレクトリとネットワークの準備状況を分析する
+- Office 365 ProPlus およびビジネス アプリを配布する
+- Microsoft 365 でユーザーのファイルと設定を移行する
+- セキュリティおよびコンプライアンス構成の更新 - Windows 10 および Office 365 ProPlus
+- Windows 10 への展開、アップグレード、および移行
+- Microsoft 365 での Windows と Office 365 ProPlus のサービス提供について説明する
+- 新しい Windows と Office 365 ProPlus の機能についてユーザーをトレーニングする
+
+## [官公庁/自治体のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-government)
+#### ラーニング パス - 7 時間 44 分 - モジュール数: 10
+官公庁/自治体において、意思決定者が AI の真の変革の力を現実化するには、公的機関独自の考慮事項を考える必要があります。 戦略の各構成要素は、公的機関が AI を使って価値を生み出すために役立つため、これを理解することが重要です。 このラーニング パスは、AI の真の変革の影響を説明する、官公庁/自治体の公的機関の意思決定者向けに設計されています。
+
+Modules:
+- AI 戦略を定義してビジネスの価値を生み出す
+- 官公庁/自治体において価値を生み出す AI 戦略を定義する
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [PowerApps でキャンバス アプリを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-powerapps)
 #### ラーニング パス - 2 時間 11 分 - モジュール数: 3
@@ -70,48 +118,48 @@ Modules:
 金融サービスの意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を企業で現実化するために役立ちます。 戦略の各構成要素は、金融サービス部門が AI を使ってビジネスの価値を生み出すために役立つため、これを理解することが重要です。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 戦略を定義してビジネスの価値を生み出す
+- AI 戦略を定義して金融サービスでビジネスの価値を生み出す
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [小売業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-retail)
 #### ラーニング パス - 7 時間 37 分 - モジュール数: 10
 小売業の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。
 
 Modules:
-- Define an AI strategy to create business value
-- Transform business processes in retail with AI
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 戦略を定義してビジネスの価値を生み出す
+- 小売でのビジネス価値を生み出すための AI 戦略を定義する
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [製造業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-manufacturing)
 #### ラーニング パス - 7 時間 38 分 - モジュール数: 10
 製造業において、意思決定者が AI の真の変革の力を企業で現実化するには、業種独自の考慮事項を考える必要があります。 このラーニング パスは、AI の真の変革の影響を説明する、製造業の企業の意思決定者向けに設計されています。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 戦略を定義してビジネスの価値を生み出す
+- AI 戦略を定義して製造業でビジネスの価値を生み出す
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [Power BI でデータを使用する](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
 #### ラーニング パス - 2 時間 35 分 - モジュール数: 2
@@ -126,54 +174,54 @@ Modules:
 このラーニング パスでは INSEAD で Eli Lilly の戦略とイノベーションの主任教授を務める Peter Zemsky 氏に、AI が Microsoft の顧客やパートナーだけでなく、さまざまな業種や企業でどのようにしてビジネスの価値を生み出すかを伺います。 技術チームがどのようにして AI をビジネス アプリケーションに取り入れるのか、そしてさまざまな業種のビジネス リーダーが自社向けの AI についてどのように考えているのかを説明できるようになります。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- AI 戦略を定義してビジネスの価値を生み出す
+- AI 戦略を定義して金融サービスでビジネスの価値を生み出す
+- 官公庁/自治体において価値を生み出す AI 戦略を定義する
+- 小売でのビジネス価値を生み出すための AI 戦略を定義する
+- AI 戦略を定義して製造業でビジネスの価値を生み出す
+- AI 戦略を定義して医療分野でビジネスの価値を生み出す
 
 ## [ビジネス リーダー向けの AI テクノロジの概要](https://docs.microsoft.com/ja-jp/learn/paths/ai-technology-for-business-leaders)
 #### ラーニング パス - 1 時間 25 分 - モジュール数: 2
 このラーニング パスでは、AI の主要な概念の概要が提供されます。 AI が今後どうなるか、また AI を支えるテクノロジが何かを説明できるようになります。 組織で活用できるツール、製品、サービスに、Microsoft が AI の最新の機能強化をどのように取り入れているかを説明できるようになります。
 
 Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [ビジネスを担う AI に関する基本原則を特定する](https://docs.microsoft.com/ja-jp/learn/paths/responsible-ai-business-principles)
 #### ラーニング パス - 1 時間 - モジュール数 1
 ビジネスで AI の影響を熟考することは重要です。 このラーニング パスでは、リソース、ベスト プラクティス、ツールだけでなく、組織の原則とガバナンス モデルの設定に役立つガイドラインが提供されます。
 
 Modules:
-- Identify guiding principles for responsible AI in your business
+- ビジネスを担う AI に関する基本原則を特定する
 
 ## [ヘルスケア業界のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-healthcare)
 #### ラーニング パス - 7 時間 37 分 - モジュール数: 10
 ヘルスケア業界の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。 このラーニング パスは、AI の真の変革の影響を説明する、ヘルスケア業界の企業の意思決定者向けに設計されています。
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- AI 戦略を定義してビジネスの価値を生み出す
+- AI 戦略を定義して医療分野でビジネスの価値を生み出す
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [ビジネスで AI に対応するカルチャを促進するための方法を考える](https://docs.microsoft.com/ja-jp/learn/paths/foster-ai-ready-culture)
 #### ラーニング パス - 3 時間 22 分 - モジュール数: 5
 このラーニング パスでは、AI に対応する組織となるために必要な、大きな変更を促進するためのフレームワークについて Microsoft の経営陣トップの話を聞きます。 AI の適切な実装を見極め、関連するシナリオについて説明できるようになります。 金融、マーケティング、販売、顧客サービスの基幹業務に固有で関連するユース ケースについて説明できるようになります。 最後に、組織の成熟度に基づいて、実装する AI ソリューションを識別できるようになります。
 
 Modules:
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
 
 ## [Microsoft 365 と Surface for Business で職場を最新化する](https://docs.microsoft.com/ja-jp/learn/paths/modernize-workplace-with-m365-and-surface)
 #### ラーニング パス - 2 時間 50 分 - モジュール数: 9
@@ -200,7 +248,7 @@ Modules:
 - PowerApps キャンバス アプリでテーブルとレコードを使用する基本的な式を作成する
 
 ## [Microsoft 365 基礎](https://docs.microsoft.com/ja-jp/learn/paths/m365-fundamentals)
-#### ラーニング パス - 3 時間 10 分 - モジュール数: 9
+#### ラーニング パス - 3 時間 42 分 - モジュール数: 9
 Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含むインテリジェント ソリューションで、すべてのユーザーがクリエイティブで安全に共同作業を行えるようにします。 組織のデジタル トランスフォーメーションのサポート方法について学びます。
 
 Modules:
@@ -277,7 +325,7 @@ Modules:
 - Azure Bot Service を使用してチャット ボットを構築する
 
 ## [Azure Cognitive Vision Services を使用してイメージを処理して分類する](https://docs.microsoft.com/ja-jp/learn/paths/classify-images-with-vision-services)
-#### ラーニング パス - 2 時間 5 分 - モジュール数: 3
+#### ラーニング パス - 1 時間 59 分 - モジュール数: 3
 Microsoft Cognitive Services では、ご利用のアプリケーションで Computer Vision 機能を有効にできる事前に作成した機能を提供します。  Cognitive Vision Services を使用して、顔を検出し、イメージをタグ付けして分類し、オブジェクトを特定する方法について説明します。
 
 Modules:
@@ -372,19 +420,6 @@ Modules:
 - Azure Databricks でのディープ ラーニング
 - Azure Databricks でテキスト分析を実行する
 
-## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
-#### ラーニング パス - 3 時間 47 分 - モジュール数: 7
-クラウドについて理解しやすい方法で学習することに関心がありますか?  あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
-
-Modules:
-- Microsoft Azure へようこそ
-- Azure ソリューションの概要
-- アプリケーションとインフラストラクチャの移行とモダン化
-- Microsoft のデータ資産の移行と最新化
-- Microsoft Azure 人工知能 (AI) の戦略とソリューション
-- Microsoft Azure IoT の戦略とソリューション
-- Microsoft Cloud 運用モデルの概要
-
 ## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
 #### ラーニング パス - 1 時間 51 分 - モジュール数: 3
 データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
@@ -393,6 +428,21 @@ Modules:
 - 進化するデータの世界について理解する
 - Azure データ プラットフォームのサービスを調べる
 - クラウド ホスト型アーキテクチャでデータ エンジニアのタスクを確認する
+
+## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
+#### ラーニング パス - 4 時間 58 分 - モジュール数: 9
+クラウドについて理解しやすい方法で学習することに関心がありますか? あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
+
+Modules:
+- Microsoft Azure へようこそ
+- Azure ソリューションの概要
+- アプリケーションとインフラストラクチャの移行とモダン化
+- Microsoft のデータ資産の移行と最新化
+- Microsoft Azure 人工知能 (AI) の戦略とソリューション
+- Microsoft Azure IoT の戦略とソリューション
+- Azure の作業を確認する
+- Azure 向けの Microsoft Cloud 導入フレームワーク
+- Microsoft runs on trust
 
 ## [Microsoft Dynamics 365 と Power Platform のビジネス バリューについて学ぶ](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### ラーニング パス - 5 時間 2 分 - モジュール数: 15
@@ -424,12 +474,11 @@ Modules:
 - Azure Stream Analytics を使用してデータを変換する
 
 ## [Azure の基礎](https://docs.microsoft.com/ja-jp/learn/paths/azure-fundamentals)
-#### ラーニング パス - 9 時間 35 分 - モジュール数: 12
+#### ラーニング パス - 8 時間 59 分 - モジュール数: 11
 クラウドに関心があっても、クラウドで何ができるかについては、はっきりしていない方もいます。 このパスは出発点です。
 
 Modules:
 - クラウドの概念 - クラウド コンピューティングの原則
-- Core Cloud Services - Azure 入門
 - コア Cloud Services - Azure アーキテクチャとサービスの保証
 - Azure アカウントの作成
 - Core Cloud Services - Azure portal を使用してサービスを管理する
@@ -493,7 +542,7 @@ Modules:
 - Azure Cosmos DB を使用してデータをグローバルに分散させる
 
 ## [Azure App Service を使用して Web サイトを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/paths/deploy-a-website-with-azure-app-service)
-#### ラーニング パス - 4 時間 30 分 - モジュール数: 5
+#### ラーニング パス - 3 時間 50 分 - モジュール数: 5
 Azure 内の Web アプリでは、基になるサーバー、ストレージ、またはネットワークの資産を使用することなく、簡単にご自分の Web サイトを発行および管理することができます。 代わりに、Web サイトの機能に集中することができ、堅牢な Azure プラットフォームを使用して、ご自分のサイトに対するアクセスをセキュリティで保護できます。
 
 Modules:
@@ -581,6 +630,77 @@ Modules:
 - Azure Storage へのアプリの接続
 - Azure Storage アカウントをセキュリティで保護する
 - Azure Blob ストレージを使用してアプリケーション データを格納する
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/build-dynamics-365-finance-operations)
+#### ラーニング パス - 8 時間 30 分 - モジュール数: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### ラーニング パス - 3 時間 52 分 - モジュール数: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/ja-jp/learn/paths/extend-power-platform-model-driven-app)
+#### ラーニング パス - 3 時間 41 分 - モジュール数: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/extending-dynamics-365-finance-operations)
+#### ラーニング パス - 1 時間 27 分 - モジュール数: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/ja-jp/learn/paths/get-started-cds)
+#### ラーニング パス - 4 時間 16 分 - モジュール数: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/ja-jp/learn/paths/intro-developing-power-platform)
+#### ラーニング パス - 2 時間 22 分 - モジュール数: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### ラーニング パス - 5 時間 43 分 - モジュール数: 3
@@ -764,7 +884,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-your-organization-in-finance-and-ops)
 #### ラーニング パス - 8 時間 52 分 - モジュール数: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -898,7 +1018,7 @@ Modules:
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### ラーニング パス - 1 時間 12 分 - モジュール数: 3
+#### ラーニング パス - 1 時間 15 分 - モジュール数: 3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

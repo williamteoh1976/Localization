@@ -1,23 +1,7 @@
 # Summary of Learning Paths (pt-br)
-last updated: 2019-06-16
-## [Escola de administração de IA para o governo](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-government)
-#### Roteiro de aprendizagem - 7 h 44 min - Número de módulos: 10
-No governo, os responsáveis pela tomada de decisões precisam levar em consideração aspectos específicos do setor público para que possam perceber o verdadeiro poder de transformação da IA. É essencial entender os componentes de uma estratégia que ajudarão o setor público a gerar valor usando IA. Este roteiro de aprendizagem destina-se a esses responsáveis pela tomada de decisões do governo e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA no setor público.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create value in government
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
+last updated: 2019-07-21
 ## [Administrar contêineres no Azure](https://docs.microsoft.com/pt-br/learn/paths/administer-containers-in-azure)
-#### Roteiro de aprendizagem - 3 h 20 min - Número de módulos: 4
+#### Roteiro de aprendizagem - 3 h 45 min - Número de módulos: 5
 As Instâncias de Contêiner do Azure são a maneira mais rápida e fácil de executar contêineres no Azure. Este roteiro de aprendizagem ensinará você a criar e gerenciar seus contêineres e mostrará como o ACI pode ser usado para fornecer escala elástica para o Kubernetes.
 
 Modules:
@@ -25,6 +9,55 @@ Modules:
 - Criar e armazenar imagens de contêiner com o Registro de Contêiner do Azure
 - Executar contêineres do Docker com Instâncias de Contêiner do Azure
 - Implantar e executar um aplicativo Web conteinerizado com o Serviço de Aplicativo do Azure
+- Introduction to Azure Kubernetes Service
+
+## [Crie aplicativos com o Azure DevOps](https://docs.microsoft.com/pt-br/learn/paths/build-applications-with-azure-devops)
+#### Roteiro de aprendizagem - 6 h 10 min - Número de módulos: 7
+Saiba como configurar pipelines de build que criam, testam e verificam seus aplicativos continuamente.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Desenvolva suas práticas do DevOps](https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices)
+#### Roteiro de aprendizagem - 1 h 17 min - Número de módulos: 3
+O DevOps é a união de pessoas, processos e produtos para habilitar a entrega contínua de valor para seus usuários finais. O Azure DevOps é um conjunto de serviços que fornece as ferramentas necessárias para isso. Com o Azure DevOps, você pode criar, testar e implantar qualquer aplicativo, seja na nuvem ou no local. Práticas do DevOps que habilitam transparência, cooperação, entrega e implantação contínuas passam a estar inseridas no ciclo de vida do seu desenvolvimento de software.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Construir fluxos de trabalho automáticos para integrar dados e aplicativos com os Aplicativos Lógicos do Azure](https://docs.microsoft.com/pt-br/learn/paths/build-workflows-with-logic-apps)
+#### Roteiro de aprendizagem - 2 h 49 min - Número de módulos: 4
+Os Aplicativos Lógicos do Azure são um serviço de nuvem que automatiza a execução de seus processos de negócios. Saiba como aproveitar os aplicativos lógicos para criar fluxos de trabalho sem servidor que são executados automaticamente quando os dados estão disponíveis.
+
+Modules:
+- Introdução aos Aplicativos Lógicos do Azure
+- Encaminhar e processar dados automaticamente usando os Aplicativos Lógicos
+- Chamar uma API em um fluxo de trabalho dos Aplicativos Lógicos usando um conector personalizado
+- Criar e implantar Aplicativos Lógicos usando modelos do Azure Resource Manager
+
+## [Escola de administração de IA para o governo](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-government)
+#### Roteiro de aprendizagem - 7 h 44 min - Número de módulos: 10
+No governo, os responsáveis pela tomada de decisões precisam levar em consideração aspectos específicos do setor público para que possam perceber o verdadeiro poder de transformação da IA. É essencial entender os componentes de uma estratégia que ajudarão o setor público a gerar valor usando IA. Este roteiro de aprendizagem destina-se a esses responsáveis pela tomada de decisões do governo e tem a finalidade de ilustrar o verdadeiro impacto transformador da IA no setor público.
+
+Modules:
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor no governo
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Criar um aplicativo de tela no PowerApps](https://docs.microsoft.com/pt-br/learn/paths/create-powerapps)
 #### Roteiro de aprendizagem - 2 h 11 min - Número de módulos: 3
@@ -70,28 +103,28 @@ Modules:
 Os responsáveis pela tomada de decisões no setor de atendimento à saúde têm aspectos específicos a levar em consideração quanto ao verdadeiro impacto de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de atendimento à saúde e tem a finalidade de ilustrar o impacto transformador da IA na empresa.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor de negócios nos serviços de saúde
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Definir uma estratégia de IA para gerar valor de negócios](https://docs.microsoft.com/pt-br/learn/paths/ai-strategy-for-business-value)
 #### Roteiro de aprendizagem - 4 h 43 min - Número de módulos: 6
 Neste roteiro de aprendizagem, você aprenderá com Peter Zemsky, professor de Estratégia e Inovação da Eli Lilly na INSEAD, sobre como a IA está gerando valor de negócios em diferentes setores e empresas, bem como para clientes e parceiros da Microsoft. Você poderá discutir como equipes técnicas estão integrando IA a aplicativos de negócios e como líderes de negócios de diferentes setores estão pensando em usar IA para suas próprias empresas.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor comercial em serviços financeiros
+- Definir uma estratégia de IA para gerar valor no governo
+- Definir uma estratégia de IA para gerar valor de negócios no varejo
+- Definir uma estratégia de IA para gerar valor comercial no setor de manufatura
+- Definir uma estratégia de IA para gerar valor de negócios nos serviços de saúde
 
 ## [Consumir dados com o Power BI](https://docs.microsoft.com/pt-br/learn/paths/consume-data-with-power-bi)
 #### Roteiro de aprendizagem - 2 h 35 min - Número de módulos: 2
@@ -106,74 +139,74 @@ Modules:
 É fundamental refletir sobre as implicações da IA nos negócios. Neste roteiro de aprendizagem, você conhecerá as diretrizes que o ajudarão a definir princípios e um modelo de governança em sua organização, bem como recursos, melhores práticas e ferramentas.
 
 Modules:
-- Identify guiding principles for responsible AI in your business
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
 
 ## [Introdução à tecnologia de IA para líderes de negócios](https://docs.microsoft.com/pt-br/learn/paths/ai-technology-for-business-leaders)
 #### Roteiro de aprendizagem - 1 h 25 min - Número de módulos: 2
 Neste roteiro de aprendizagem, você terá uma visão geral dos principais conceitos da IA. Você será capaz de descrever o que é IA e quais são as tecnologias que a sustentam. Você será capaz de compartilhar como a Microsoft está transformando os mais recentes avanços em ferramentas, produtos e serviços de IA que podem ser aproveitados por organizações.
 
 Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Escola de administração de IA para serviços financeiros](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-financial-services)
 #### Roteiro de aprendizagem - 7 h 42 min - Número de módulos: 10
 Os responsáveis pela tomada de decisões no setor financeiro têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa. É essencial entender os componentes de uma estratégia que ajudarão o setor de serviços financeiros a gerar valor comercial usando IA.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor comercial em serviços financeiros
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Descubra maneiras de promover uma cultura pronta para IA em sua empresa](https://docs.microsoft.com/pt-br/learn/paths/foster-ai-ready-culture)
 #### Roteiro de aprendizagem - 3 h 22 min - Número de módulos: 5
 Neste roteiro de aprendizagem, você aprenderá com os principais executivos da Microsoft sobre uma estrutura usada para gerar as principais mudanças necessárias para se tornar uma organização pronta para IA. Você será capaz de identificar implementações bem-sucedidas de IA e articular cenários relevantes. Você será capaz de discutir uma linha de negócios específica e casos de uso relevantes em finanças, marketing, vendas e serviço de atendimento ao consumidor. E, por fim, você será capaz de identificar soluções de IA para implementação em sua organização com base na maturidade.
 
 Modules:
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
 
 ## [Escola de administração de IA para varejo](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-retail)
 #### Roteiro de aprendizagem - 7 h 37 min - Número de módulos: 10
 Os responsáveis pela tomada de decisões no setor de varejo têm aspectos específicos a levar em consideração quanto ao impacto verdadeiramente transformador da IA na empresa.
 
 Modules:
-- Define an AI strategy to create business value
-- Transform business processes in retail with AI
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor de negócios no varejo
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Escola de administração de IA para manufatura](https://docs.microsoft.com/pt-br/learn/paths/ai-business-school-manufacturing)
 #### Roteiro de aprendizagem - 7 h 38 min - Número de módulos: 10
 No setor de manufatura, os responsáveis pela tomada de decisões precisam levar em consideração aspectos específicos do setor para que possam perceber o verdadeiro poder de transformação da IA na empresa. Este roteiro de aprendizagem destina-se a esses profissionais do setor de manufatura e tem a finalidade de ilustrar o impacto transformador da IA na empresa.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Definir uma estratégia de IA para gerar valor de negócios
+- Definir uma estratégia de IA para gerar valor comercial no setor de manufatura
+- Entender a importância da criação de uma cultura pronta para IA
+- Descubra como promover uma cultura pronta para IA em finanças
+- Descubra como promover uma cultura pronta para IA em marketing
+- Descubra como promover uma cultura pronta para IA em vendas
+- Descubra como promover uma cultura pronta para IA no serviço de atendimento ao consumidor
+- Identificar os princípios que orientam o uso responsável de IA em sua empresa
+- Introdução à tecnologia de IA
+- Examine a abordagem da Microsoft à Inteligência Artificial
 
 ## [Usar fórmulas básicas para fazer aplicativos de tela do PowerApps melhores](https://docs.microsoft.com/pt-br/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Roteiro de aprendizagem - 2 h 16 min - Número de módulos: 3
@@ -194,15 +227,6 @@ Modules:
 - Automatizar a seleção de modelo de ML com o Serviço do Azure Machine Learning
 - Registre-se e implante modelos de machine learning com o serviço do Azure Machine Learning
 
-## [Introdução ao machine learning com o Python e o Azure Notebooks](https://docs.microsoft.com/pt-br/learn/paths/intro-to-ml-with-python)
-#### Roteiro de aprendizagem - 2 h 11 min - Número de módulos: 3
-O Python tornou-se uma linguagem dominante para fazer análise de dados com machine learning. Saiba como aproveitar o Python e as bibliotecas associadas no Jupyter Notebooks executados no Azure Notebooks para prever padrões e identificar tendências.
-
-Modules:
-- Analisar dados de clima com o Azure Notebooks
-- Preveja os atrasos de voo, criando um modelo de machine learning em Python
-- Analise o sentimento de revisões com o Keras
-
 ## [Como trabalhar com os dados em um aplicativo de tela do PowerApps](https://docs.microsoft.com/pt-br/learn/paths/work-with-data-in-a-canvas-app)
 #### Roteiro de aprendizagem - 2 h 14 min - Número de módulos: 3
 Você precisa se conectar a um aplicativo para acessar dados? Este roteiro de aprendizagem foi feito para você. Ele mostrará como se conectar a fontes de dados. Ele também mostrará como usar a filtragem, as condições e outras funções para formatar seus dados e gravar dados em sua fonte de dados.
@@ -211,6 +235,15 @@ Modules:
 - Trabalhar com dados externos em um aplicativo de tela do PowerApps
 - Formatar dados em um aplicativo de tela do PowerApps
 - Gravar dados em um aplicativo de tela do PowerApps
+
+## [Introdução ao machine learning com o Python e o Azure Notebooks](https://docs.microsoft.com/pt-br/learn/paths/intro-to-ml-with-python)
+#### Roteiro de aprendizagem - 2 h 11 min - Número de módulos: 3
+O Python tornou-se uma linguagem dominante para fazer análise de dados com machine learning. Saiba como aproveitar o Python e as bibliotecas associadas no Jupyter Notebooks executados no Azure Notebooks para prever padrões e identificar tendências.
+
+Modules:
+- Analisar dados de clima com o Azure Notebooks
+- Preveja os atrasos de voo, criando um modelo de machine learning em Python
+- Analise o sentimento de revisões com o Keras
 
 ## [Explore o desenvolvimento de soluções de IA com serviços de ciência de dados no Azure](https://docs.microsoft.com/pt-br/learn/paths/explore-data-science-tools-in-azure)
 #### Roteiro de aprendizagem - 1 h 40 min - Número de módulos: 2
@@ -238,13 +271,21 @@ Modules:
 - Reconhecer vozes específicas com as APIs de Reconhecimento do Locutor nos Serviços Cognitivos do Azure
 
 ## [Processar e classificar imagens com o Serviços de Visão Cognitiva do Azure](https://docs.microsoft.com/pt-br/learn/paths/classify-images-with-vision-services)
-#### Roteiro de aprendizagem - 2 h 5 min - Número de módulos: 3
+#### Roteiro de aprendizagem - 1 h 59 min - Número de módulos: 3
 Os Serviços Cognitivos da Microsoft oferecem funcionalidade pré-criada para habilitar a funcionalidade de pesquisa visual computacional em seus aplicativos.  Saiba como usar os Serviços de Visão Cognitiva para detectar rostos, marcar e classificar imagens e identificar objetos.
 
 Modules:
 - Identificar rostos e expressões usando a API da Pesquisa Visual Computacional nos Serviços Cognitivos do Azure
 - Processar imagens com o serviço de Pesquisa Visual Computacional
 - Classificar imagens com o Serviço de Visão Personalizada da Microsoft
+
+## [Crie bots inteligentes com o Serviço de Bot do Azure](https://docs.microsoft.com/pt-br/learn/paths/create-bots-with-the-azure-bot-service)
+#### Roteiro de aprendizagem - 2 h 38 min - Número de módulos: 2
+Saiba como criar um chatbot e adicionar inteligência ao Bot integrando o QnA Maker e o LUIS.
+
+Modules:
+- Criar um chatbot de perguntas frequentes do QnA Maker e Serviço de Bot do Azure
+- Criar um chatbot com o Serviço de Bot do Azure
 
 ## [Avaliar texto com os Serviços de Linguagem Cognitiva do Azure](https://docs.microsoft.com/pt-br/learn/paths/evaluate-text-with-language-services)
 #### Roteiro de aprendizagem - 2 h 13 min - Número de módulos: 3
@@ -254,14 +295,6 @@ Modules:
 - Classificar e moderar o texto com o Azure Content Moderator
 - Adicione inteligência de conversação aos seus aplicativos usando o LUIS (Serviço Inteligente de Reconhecimento Vocal)
 - Descobrir o sentimento do texto com a API de Análise de Texto
-
-## [Crie bots inteligentes com o Serviço de Bot do Azure](https://docs.microsoft.com/pt-br/learn/paths/create-bots-with-the-azure-bot-service)
-#### Roteiro de aprendizagem - 2 h 38 min - Número de módulos: 2
-Saiba como criar um chatbot e adicionar inteligência ao Bot integrando o QnA Maker e o LUIS.
-
-Modules:
-- Criar um chatbot de perguntas frequentes do QnA Maker e Serviço de Bot do Azure
-- Criar um chatbot com o Serviço de Bot do Azure
 
 ## [Publicar um experimento de aprendizado de máquina com o Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/pt-br/learn/paths/publish-experiment-with-ml-studio)
 #### Roteiro de aprendizagem - 1 h 6 min - Número de módulos: 2
@@ -320,7 +353,7 @@ Modules:
 - Transformar dados usando o Azure Stream Analytics
 
 ## [Conheça o valor comercial do Microsoft Azure](https://docs.microsoft.com/pt-br/learn/paths/learn-business-value-of-azure)
-#### Roteiro de aprendizagem - 3 h 47 min - Número de módulos: 7
+#### Roteiro de aprendizagem - 4 h 58 min - Número de módulos: 9
 Você tem interesse em saber mais sobre a nuvem de uma maneira fácil de entender? Ou talvez não sabe muito bem por onde começar com a tecnologia de nuvem? Esta experiência de aprendizagem levará você em uma jornada que começará mostrando como a transformação digital e o poder da nuvem podem transformar seu negócio.
 
 Modules:
@@ -330,7 +363,9 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Processamento de dados de grande escala com o Azure Data Lake Storage Gen2](https://docs.microsoft.com/pt-br/learn/paths/data-processing-with-azure-adls)
 #### Roteiro de aprendizagem - 2 h 5 min - Número de módulos: 3
@@ -373,12 +408,11 @@ Modules:
 - Executar a análise de texto com o Azure Databricks
 
 ## [Conceitos básicos do Azure](https://docs.microsoft.com/pt-br/learn/paths/azure-fundamentals)
-#### Roteiro de aprendizagem - 9 h 35 min - Número de módulos: 12
+#### Roteiro de aprendizagem - 8 h 59 min - Número de módulos: 11
 Interessado na nuvem, mas não tem certeza do que ela pode fazer por você? Este caminho é o lugar ideal para começar.
 
 Modules:
 - Conceitos de nuvem – Princípios da computação em nuvem
-- Serviços de Nuvem Centrais – Introdução ao Azure
 - Principais Serviços de Nuvem – arquitetura e garantias de serviço do Azure
 - Criar uma conta do Azure
 - Serviços de Nuvem Principais – Gerenciar serviços com o portal do Azure
@@ -435,17 +469,6 @@ Modules:
 - Criar uma máquina virtual do Windows no Azure
 - Criar e executar um aplicativo Web com a pilha MEAN em uma máquina virtual do Linux no Azure
 
-## [Implantar um site no Azure com o Serviço de Aplicativo do Azure](https://docs.microsoft.com/pt-br/learn/paths/deploy-a-website-with-azure-app-service)
-#### Roteiro de aprendizagem - 4 h 30 min - Número de módulos: 5
-Os aplicativos Web no Azure possibilitam que você publique e gerencie seu site com facilidade, sem a necessidade de trabalhar com servidores, armazenamento ou ativos de rede subjacentes. Em vez disso, você pode se concentrar nos recursos de seu site e contar com a robusta plataforma do Azure para fornecer acesso seguro ao site.
-
-Modules:
-- Preparar o ambiente de desenvolvimento para desenvolvimento do Azure
-- Hospedar um aplicativo Web com o Serviço de Aplicativo do Azure
-- Publicar um aplicativo Web no Azure com o Visual Studio
-- Preparar uma implantação de aplicativo Web para teste e reversão usando os slots de implantação do Serviço de Aplicativo
-- Implantar e executar um aplicativo Web conteinerizado com o Serviço de Aplicativo do Azure
-
 ## [Administrar os recursos de infraestrutura no Azure](https://docs.microsoft.com/pt-br/learn/paths/administer-infrastructure-resources-in-azure)
 #### Roteiro de aprendizagem - 9 h 34 min - Número de módulos: 10
 Saiba como criar, gerenciar, proteger e dimensionar os recursos de uma máquina virtual.
@@ -475,6 +498,17 @@ Modules:
 - Proteger os recursos do Azure com o acesso condicional
 - Proteger os recursos do Azure com o RBAC (controle de acesso baseado em função)
 - Proteger o Banco de Dados SQL do Azure
+
+## [Implantar um site no Azure com o Serviço de Aplicativo do Azure](https://docs.microsoft.com/pt-br/learn/paths/deploy-a-website-with-azure-app-service)
+#### Roteiro de aprendizagem - 3 h 50 min - Número de módulos: 5
+Os aplicativos Web no Azure possibilitam que você publique e gerencie seu site com facilidade, sem a necessidade de trabalhar com servidores, armazenamento ou ativos de rede subjacentes. Em vez disso, você pode se concentrar nos recursos de seu site e contar com a robusta plataforma do Azure para fornecer acesso seguro ao site.
+
+Modules:
+- Preparar o ambiente de desenvolvimento para desenvolvimento do Azure
+- Hospedar um aplicativo Web com o Serviço de Aplicativo do Azure
+- Publicar um aplicativo Web no Azure com o Visual Studio
+- Preparar uma implantação de aplicativo Web para teste e reversão usando os slots de implantação do Serviço de Aplicativo
+- Implantar e executar um aplicativo Web conteinerizado com o Serviço de Aplicativo do Azure
 
 ## [Gerenciar recursos no Azure](https://docs.microsoft.com/pt-br/learn/paths/manage-resources-in-azure)
 #### Roteiro de aprendizagem - 4 h 15 min - Número de módulos: 5
@@ -530,6 +564,92 @@ Modules:
 - Conectar um aplicativo ao Armazenamento do Azure
 - Proteger sua conta de Armazenamento do Azure
 - Armazenar dados do aplicativo com o Armazenamento de Blobs do Azure
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/build-dynamics-365-finance-operations)
+#### Roteiro de aprendizagem - 8 h 30 min - Número de módulos: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Roteiro de aprendizagem - 3 h 52 min - Número de módulos: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/pt-br/learn/paths/extend-power-platform-model-driven-app)
+#### Roteiro de aprendizagem - 3 h 41 min - Número de módulos: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/extending-dynamics-365-finance-operations)
+#### Roteiro de aprendizagem - 1 h 27 min - Número de módulos: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/pt-br/learn/paths/get-started-cds)
+#### Roteiro de aprendizagem - 4 h 16 min - Número de módulos: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/pt-br/learn/paths/intro-developing-power-platform)
+#### Roteiro de aprendizagem - 2 h 22 min - Número de módulos: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/pt-br/learn/paths/m365-getmodern)
+#### Roteiro de aprendizagem - 2 h 33 min - Número de módulos: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Roteiro de aprendizagem - 5 h 43 min - Número de módulos: 3
@@ -727,7 +847,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/pt-br/learn/paths/m365-fundamentals)
-#### Roteiro de aprendizagem - 3 h 10 min - Número de módulos: 9
+#### Roteiro de aprendizagem - 3 h 42 min - Número de módulos: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -743,7 +863,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Roteiro de aprendizagem - 8 h 52 min - Número de módulos: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -877,7 +997,7 @@ Modules:
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/pt-br/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Roteiro de aprendizagem - 5 h 2 min - Número de módulos: 15
+#### Roteiro de aprendizagem - 6 h 56 min - Número de módulos: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -895,7 +1015,7 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/pt-br/learn/paths/working-with-dynamics-365-sales)
 #### Roteiro de aprendizagem - 6 h 42 min - Número de módulos: 7
@@ -911,7 +1031,7 @@ Modules:
 - Analyze Dynamics 365 sales data
 
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pt-br/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Roteiro de aprendizagem - 1 h 12 min - Número de módulos: 3
+#### Roteiro de aprendizagem - 1 h 15 min - Número de módulos: 3
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
 
 Modules:

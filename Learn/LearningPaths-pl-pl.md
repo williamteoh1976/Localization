@@ -1,5 +1,48 @@
 # Summary of Learning Paths (pl-pl)
-last updated: 2019-06-16
+last updated: 2019-07-21
+## [Administrowanie kontenerami na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-containers-in-azure)
+#### Ścieżka szkoleniowa - 3 godz. 45 min - Liczba modułów: 5
+Usługa Azure Container Instances to najszybszy i najłatwiejszy sposób uruchamiania kontenerów na platformie Azure. W ramach tej ścieżki szkoleniowej nauczysz się, jak tworzyć kontenery i nimi zrządzać oraz jak korzystać z usługi ACI w celu zapewnienia elastycznego skalowania usługi Kubernetes.
+
+Modules:
+- Tworzenie konteneryzowanej aplikacji internetowej za pomocą platformy Docker
+- Tworzenie i przechowywanie obrazów kontenerów w usłudze Azure Container Registry
+- Uruchamianie kontenerów platformy Docker za pomocą usługi Azure Container Instances
+- Wdrażanie i uruchamianie konteneryzowanej aplikacji internetowej za pomocą usługi Azure App Service
+- Introduction to Azure Kubernetes Service
+
+## [Tworzenie aplikacji przy użyciu usługi Azure DevOps](https://docs.microsoft.com/pl-pl/learn/paths/build-applications-with-azure-devops)
+#### Ścieżka szkoleniowa - 6 godz. 10 min - Liczba modułów: 7
+Dowiedz się, jak konfigurować potoki kompilacji, które nieprzerwanie kompilują, testują i weryfikują Twoje aplikacje.
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline using Git and GitHub
+- Run quality tests in your build pipeline using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Rozwijanie praktyk metodyki DevOps](https://docs.microsoft.com/pl-pl/learn/paths/evolve-your-devops-practices)
+#### Ścieżka szkoleniowa - 1 godz. 17 min - Liczba modułów: 3
+DevOps to związek ludzi, procesów i produktów, umożliwiający ciągłe dostarczanie wartości użytkownikom końcowym. Azure DevOps to zestaw usług, który udostępnia potrzebne w tym celu narzędzia. Dzięki usłudze Azure DevOps możesz tworzyć, testować i wdrażać dowolne aplikacje, zarówno w chmurze, jak i w środowisku lokalnym. Metodyka DevOps, umożliwiająca przejrzystość, współpracę, ciągłe dostarczanie i ciągłe wdrażanie, zostanie osadzona w cyklu życia tworzenia oprogramowania.
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Tworzenie zautomatyzowanych przepływów pracy w celu integracji danych i aplikacji z usługą Azure Logic Apps](https://docs.microsoft.com/pl-pl/learn/paths/build-workflows-with-logic-apps)
+#### Ścieżka szkoleniowa - 2 godz. 49 min - Liczba modułów: 4
+Azure Logic Apps to usługa w chmurze, która automatyzuje wykonywanie procesów biznesowych. Dowiedz się, jak korzystać z aplikacji logiki, aby tworzyć bezserwerowe przepływy pracy, które są uruchamiane automatycznie, gdy są dostępne dane.
+
+Modules:
+- Wprowadzenie do usługi Azure Logic Apps
+- Automatyczne kierowanie i przetwarzanie danych za pomocą usługi Logic Apps
+- Wywoływanie interfejsu API z przepływu pracy usługi Logic Apps przy użyciu łącznika niestandardowego
+- Tworzenie i wdrażanie aplikacji usługi Logic Apps przy użyciu szablonów usługi Azure Resource Manager
+
 ## [Szkoła biznesowa dotycząca sztucznej inteligencji dla instytucji rządowych](https://docs.microsoft.com/pl-pl/learn/paths/ai-business-school-government)
 #### Ścieżka szkoleniowa - 7 godz. 44 min - Liczba modułów: 10
 W instytucjach rządowych osoby podejmujące decyzje muszą wziąć pod uwagę kwestie związane z sektorem publicznym, zanim skorzystają z możliwości transformacyjnych sztucznej inteligencji. Niezwykle ważne jest poznanie składników strategii, które pomogą utworzyć wartość w sektorze publicznym dzięki sztucznej inteligencji. Ta ścieżka szkoleniowa jest przeznaczona dla osób podejmujących decyzje w instytucjach rządowych i przedstawia rzeczywisty wpływ transformacyjny sztucznej inteligencji w sektorze publicznym.
@@ -15,16 +58,6 @@ Modules:
 - Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Administrowanie kontenerami na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-containers-in-azure)
-#### Ścieżka szkoleniowa - 3 godz. 20 min - Liczba modułów: 4
-Usługa Azure Container Instances to najszybszy i najłatwiejszy sposób uruchamiania kontenerów na platformie Azure. W ramach tej ścieżki szkoleniowej nauczysz się, jak tworzyć kontenery i nimi zrządzać oraz jak korzystać z usługi ACI w celu zapewnienia elastycznego skalowania usługi Kubernetes.
-
-Modules:
-- Tworzenie konteneryzowanej aplikacji internetowej za pomocą platformy Docker
-- Tworzenie i przechowywanie obrazów kontenerów w usłudze Azure Container Registry
-- Uruchamianie kontenerów platformy Docker za pomocą usługi Azure Container Instances
-- Wdrażanie i uruchamianie konteneryzowanej aplikacji internetowej za pomocą usługi Azure App Service
 
 ## [Tworzenie aplikacji kanwy w usłudze PowerApps](https://docs.microsoft.com/pl-pl/learn/paths/create-powerapps)
 #### Ścieżka szkoleniowa - 2 godz. 11 min - Liczba modułów: 3
@@ -57,7 +90,7 @@ Osoby podejmujące decyzje w branży handlu detalicznego mają uwagi dotyczące 
 
 Modules:
 - Define an AI strategy to create business value
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -83,7 +116,7 @@ Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
 - Define an AI strategy to create value in government
-- Transform business processes in retail with AI
+- Define an AI strategy to create business value in retail
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
@@ -181,15 +214,6 @@ Modules:
 - Kształtowanie danych w aplikacji kanwy usługi PowerApps
 - Zapis danych w aplikacji kanwy usługi PowerApps
 
-## [Wprowadzenie do uczenia maszynowego z użyciem języka Python i usługi Azure Notebooks](https://docs.microsoft.com/pl-pl/learn/paths/intro-to-ml-with-python)
-#### Ścieżka szkoleniowa - 2 godz. 11 min - Liczba modułów: 3
-Python stał się dominującym językiem do przeprowadzania analiz danych z użyciem języka maszynowego. Dowiedz się, jak używać języka Python i skojarzonych z nim bibliotek w notesach Jupyter uruchamianych w usłudze Azure Notebooks do przewidywania wzorców i wykrywania trendów.
-
-Modules:
-- Analizowanie danych dotyczących klimatu w usłudze Azure Notebooks
-- Przewidywanie opóźnień lotów przez utworzenie modelu uczenia maszynowego w języku Python
-- Analiza tonacji recenzji za pomocą interfejsu Keras
-
 ## [Wprowadzenie do uczenia maszynowego przy użyciu środowiska Azure Data Science Virtual Machine](https://docs.microsoft.com/pl-pl/learn/paths/get-started-with-azure-dsvm)
 #### Ścieżka szkoleniowa - 1 godz. 43 min - Liczba modułów: 3
 Platforma Azure zawiera wstępnie skonfigurowaną usługę maszyn wirtualnych do wykonywania zadań nauki o danych. Dowiedz się, jak przy użyciu środowiska Azure Data Science Virtual Machine wykonywać typowe zadania uczenia maszynowego i analizy danych.
@@ -198,6 +222,15 @@ Modules:
 - Wprowadzenie do maszyny Azure Data Science Virtual Machine
 - Poznawanie typów maszyn wirtualnych do analizy danych na platformie Azure
 - Aprowizowanie i używanie maszyny Azure Data Science Virtual Machine
+
+## [Wprowadzenie do uczenia maszynowego z użyciem języka Python i usługi Azure Notebooks](https://docs.microsoft.com/pl-pl/learn/paths/intro-to-ml-with-python)
+#### Ścieżka szkoleniowa - 2 godz. 11 min - Liczba modułów: 3
+Python stał się dominującym językiem do przeprowadzania analiz danych z użyciem języka maszynowego. Dowiedz się, jak używać języka Python i skojarzonych z nim bibliotek w notesach Jupyter uruchamianych w usłudze Azure Notebooks do przewidywania wzorców i wykrywania trendów.
+
+Modules:
+- Analizowanie danych dotyczących klimatu w usłudze Azure Notebooks
+- Przewidywanie opóźnień lotów przez utworzenie modelu uczenia maszynowego w języku Python
+- Analiza tonacji recenzji za pomocą interfejsu Keras
 
 ## [Tworzenie inteligentnych botów za pomocą usługi Azure Bot Service](https://docs.microsoft.com/pl-pl/learn/paths/create-bots-with-the-azure-bot-service)
 #### Ścieżka szkoleniowa - 2 godz. 38 min - Liczba modułów: 2
@@ -216,7 +249,7 @@ Modules:
 - Tworzenie eksperymentu w usłudze Azure Machine Learning Studio
 
 ## [Przetwarzanie i klasyfikowanie obrazów za pomocą usługi Azure Cognitive Vision Services](https://docs.microsoft.com/pl-pl/learn/paths/classify-images-with-vision-services)
-#### Ścieżka szkoleniowa - 2 godz. 5 min - Liczba modułów: 3
+#### Ścieżka szkoleniowa - 1 godz. 59 min - Liczba modułów: 3
 Usługi Microsoft Cognitive Services oferują wstępnie utworzone funkcje umożliwiające przetwarzanie obrazów w aplikacjach.  Dowiedz się, jak usługa Cognitive Vision Services pozwala wykrywać twarze, tagować i klasyfikować obrazy oraz identyfikować obiekty.
 
 Modules:
@@ -290,19 +323,6 @@ Modules:
 - Przegląd usług na platformie danych Azure
 - Określanie zadań wykonywanych przez inżynierów danych w architekturze hostowanej w chmurze
 
-## [Wartość biznesowa platformy Microsoft Azure](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-azure)
-#### Ścieżka szkoleniowa - 3 godz. 47 min - Liczba modułów: 7
-Czy chcesz w łatwy do zrozumienia sposób poznać informacje o chmurze? A może nie wiesz, jak zacząć korzystać z technologii chmury? W tym środowisku szkoleniowym odbędziesz podróż, której początkiem będzie poznanie sposobu, w jaki cyfrowa transformacja oraz zalety chmury mogą przekształcić Twoją firmę.
-
-Modules:
-- Welcome to Microsoft Azure
-- Introduction to Azure solutions
-- Applications and infrastructure migration and modernization
-- Microsoft data estate migration and modernization
-- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
-- Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
-
 ## [Uzyskiwanie wiedzy i szczegółowych informacji na podstawie danych za pomocą usługi Azure Databricks](https://docs.microsoft.com/pl-pl/learn/paths/data-science)
 #### Ścieżka szkoleniowa - 4 godz. 21 min - Liczba modułów: 6
 Dowiedz się, jak za pomocą usługi Azure Databricks stosować predykcyjne i analityczne techniki z zakresu nauki o danych, takie jak eksploracyjna analiza danych, trenowanie modeli, analiza tekstu i uczenie głębokie.
@@ -314,6 +334,21 @@ Modules:
 - Trenowanie, ewaluowanie i wybieranie modeli uczenia maszynowego za pomocą usługi Azure Databricks
 - Uczenie głębokie za pomocą usługi Azure Databricks
 - Wykonywanie analizy tekstu w usłudze Azure Databricks
+
+## [Wartość biznesowa platformy Microsoft Azure](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-azure)
+#### Ścieżka szkoleniowa - 4 godz. 58 min - Liczba modułów: 9
+Czy chcesz w łatwy do zrozumienia sposób poznać informacje o chmurze? A może nie wiesz, jak zacząć korzystać z technologii chmury? W tym środowisku szkoleniowym odbędziesz podróż, której początkiem będzie poznanie sposobu, w jaki cyfrowa transformacja oraz zalety chmury mogą przekształcić Twoją firmę.
+
+Modules:
+- Welcome to Microsoft Azure
+- Introduction to Azure solutions
+- Applications and infrastructure migration and modernization
+- Microsoft data estate migration and modernization
+- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
+- Microsoft Azure IoT strategy and solutions
+- See Azure in Action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Implementowanie magazynu danych za pomocą usługi Azure SQL Data Warehouse](https://docs.microsoft.com/pl-pl/learn/paths/implement-sql-data-warehouse)
 #### Ścieżka szkoleniowa - 3 godz. 21 min - Liczba modułów: 4
@@ -343,12 +378,11 @@ Modules:
 - Przekształcanie danych za pomocą usługi Azure Stream Analytics
 
 ## [Podstawy platformy Azure](https://docs.microsoft.com/pl-pl/learn/paths/azure-fundamentals)
-#### Ścieżka szkoleniowa - 9 godz. 35 min - Liczba modułów: 12
+#### Ścieżka szkoleniowa - 8 godz. 59 min - Liczba modułów: 11
 Interesuje Cię chmura, ale nie masz pewności, do czego może Ci się przydać? Ta ścieżka szkoleniowa to dobry początek.
 
 Modules:
 - Pojęcia dotyczące chmury — zasady przetwarzania w chmurze
-- Podstawowe usługi w chmurze — wprowadzenie do platformy Azure
 - Podstawowe usługi w chmurze — architektura platformy Azure i gwarancje dotyczące świadczenia usług
 - Tworzenie konta platformy Azure
 - Podstawowe usługi Cloud Services — Zarządzanie usługami w witrynie Azure Portal
@@ -408,17 +442,6 @@ Modules:
 - Optymalizowanie wydajności usługi Azure Cosmos DB przy użyciu strategii partycjonowania i indeksowania
 - Globalna dystrybucja danych przy użyciu usługi Azure Cosmos DB
 
-## [Wdrażanie witryny internetowej na platformie Azure za pomocą usługi Azure App Service](https://docs.microsoft.com/pl-pl/learn/paths/deploy-a-website-with-azure-app-service)
-#### Ścieżka szkoleniowa - 4 godz. 30 min - Liczba modułów: 5
-Aplikacje internetowe na platformie Azure umożliwiają łatwe publikowanie witryny internetowej i zarządzanie nią bez potrzeby pracy z bazowymi serwerami, magazynem czy zasobami sieciowymi. Zamiast tego możesz skupić się na funkcjach witryny, polegając na niezawodnej platformie Azure, która zapewnia bezpieczny dostęp do witryny.
-
-Modules:
-- Przygotowywanie środowiska deweloperskiego pod kątem programowania dla platformy Azure
-- Hostowanie aplikacji internetowej przy użyciu usługi Azure App Service
-- Publikowanie aplikacji internetowej na platformie Azure za pomocą programu Visual Studio
-- Przygotowywanie wdrożenia aplikacji internetowej do testowania i wycofywania za pomocą miejsc wdrożenia usługi App Service
-- Wdrażanie i uruchamianie konteneryzowanej aplikacji internetowej za pomocą usługi Azure App Service
-
 ## [Administrowanie zasobami infrastruktury na platformie Azure](https://docs.microsoft.com/pl-pl/learn/paths/administer-infrastructure-resources-in-azure)
 #### Ścieżka szkoleniowa - 9 godz. 34 min - Liczba modułów: 10
 Dowiedz się, jak tworzyć, zabezpieczać i skalować zasoby maszyny wirtualnej oraz zarządzać nimi.
@@ -444,6 +467,17 @@ Modules:
 - Tworzenie serwera usługi Azure Database for PostgreSQL
 - Skalowanie wielu baz danych Azure SQL Database za pomocą elastycznych pul SQL
 - Zabezpieczanie usługi Azure SQL Database
+
+## [Wdrażanie witryny internetowej na platformie Azure za pomocą usługi Azure App Service](https://docs.microsoft.com/pl-pl/learn/paths/deploy-a-website-with-azure-app-service)
+#### Ścieżka szkoleniowa - 3 godz. 50 min - Liczba modułów: 5
+Aplikacje internetowe na platformie Azure umożliwiają łatwe publikowanie witryny internetowej i zarządzanie nią bez potrzeby pracy z bazowymi serwerami, magazynem czy zasobami sieciowymi. Zamiast tego możesz skupić się na funkcjach witryny, polegając na niezawodnej platformie Azure, która zapewnia bezpieczny dostęp do witryny.
+
+Modules:
+- Przygotowywanie środowiska deweloperskiego pod kątem programowania dla platformy Azure
+- Hostowanie aplikacji internetowej przy użyciu usługi Azure App Service
+- Publikowanie aplikacji internetowej na platformie Azure za pomocą programu Visual Studio
+- Przygotowywanie wdrożenia aplikacji internetowej do testowania i wycofywania za pomocą miejsc wdrożenia usługi App Service
+- Wdrażanie i uruchamianie konteneryzowanej aplikacji internetowej za pomocą usługi Azure App Service
 
 ## [Zabezpieczanie danych w chmurze](https://docs.microsoft.com/pl-pl/learn/paths/secure-your-cloud-data)
 #### Ścieżka szkoleniowa - 6 godz. 45 min - Liczba modułów: 8
@@ -490,6 +524,92 @@ Modules:
 - Łączenie aplikacji z usługą Azure Storage
 - Zabezpieczanie konta usługi Azure Storage
 - Przechowywanie danych aplikacji za pomocą usługi Azure Blob Storage
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/build-dynamics-365-finance-operations)
+#### Ścieżka szkoleniowa - 8 godz. 30 min - Liczba modułów: 12
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/introduction-develop-dynamics-365-finance-operations)
+#### Ścieżka szkoleniowa - 3 godz. 52 min - Liczba modułów: 8
+As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/pl-pl/learn/paths/extend-power-platform-model-driven-app)
+#### Ścieżka szkoleniowa - 3 godz. 41 min - Liczba modułów: 3
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/extending-dynamics-365-finance-operations)
+#### Ścieżka szkoleniowa - 1 godz. 27 min - Liczba modułów: 3
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/pl-pl/learn/paths/get-started-cds)
+#### Ścieżka szkoleniowa - 4 godz. 16 min - Liczba modułów: 6
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/pl-pl/learn/paths/intro-developing-power-platform)
+#### Ścieżka szkoleniowa - 2 godz. 22 min - Liczba modułów: 3
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+Modules:
+- Introduction to developing the Power Platform
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/pl-pl/learn/paths/m365-getmodern)
+#### Ścieżka szkoleniowa - 2 godz. 33 min - Liczba modułów: 9
+Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
+
+Modules:
+- Get started with Microsoft 365
+- Analyze your device and app readiness for Windows 10
+- Analyze your directory and network readiness for Microsoft 365
+- Deliver Office 365 ProPlus and business apps
+- Migrate user files and settings in Microsoft 365
+- Update your security and compliance configuration – Windows 10 and Office 365 ProPlus
+- Deploy, upgrade, and migrate to Windows 10
+- Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
+- Train users on the new Windows and Office 365 ProPlus features
 
 ## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
 #### Ścieżka szkoleniowa - 5 godz. 43 min - Liczba modułów: 3
@@ -717,7 +837,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/pl-pl/learn/paths/m365-fundamentals)
-#### Ścieżka szkoleniowa - 3 godz. 10 min - Liczba modułów: 9
+#### Ścieżka szkoleniowa - 3 godz. 42 min - Liczba modułów: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -733,7 +853,7 @@ Modules:
 
 ## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/configure-your-organization-in-finance-and-ops)
 #### Ścieżka szkoleniowa - 8 godz. 52 min - Liczba modułów: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -867,7 +987,7 @@ Modules:
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/pl-pl/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Ścieżka szkoleniowa - 5 godz. 2 min - Liczba modułów: 15
+#### Ścieżka szkoleniowa - 6 godz. 56 min - Liczba modułów: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
 
 Modules:
@@ -885,16 +1005,7 @@ Modules:
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
-
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Ścieżka szkoleniowa - 1 godz. 12 min - Liczba modułów: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
-
-Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/pl-pl/learn/paths/working-with-dynamics-365-sales)
 #### Ścieżka szkoleniowa - 6 godz. 42 min - Liczba modułów: 7
@@ -908,6 +1019,15 @@ Modules:
 - Process sales orders with Dynamics 365 for Sales
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
+
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/pl-pl/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
+#### Ścieżka szkoleniowa - 1 godz. 15 min - Liczba modułów: 3
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/pl-pl/learn/paths/implementing-dyn365-field-service)
 #### Ścieżka szkoleniowa - 4 godz. 14 min - Liczba modułów: 4
