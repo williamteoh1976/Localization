@@ -1,5 +1,48 @@
 # Summary of Learning Paths (sv-se)
-last updated: 2019-07-21
+last updated: 2019-08-20
+## [SQL Server på Linux](https://docs.microsoft.com/sv-se/learn/paths/sql-server-2017-on-linux)
+#### Inlärningsväg - 2 h 28 min - 4 moduler
+SQL Server kan nu köras på ditt önskade operativsystem. I den här utbildningsvägen kommer du att lära dig grunderna i SQL Server på Linux, innan du får lära dig hur du kör SQL Server på Linux-containrar och distribuerar SQL Server på Linux. Sedan får du lära dig att automatiskt justera SQL Server på Linux-distributionen.
+
+Modules:
+- Introduction to SQL Server on Linux
+- Deploy SQL Server on Linux
+- Automatically tune SQL Server on Linux
+- Run SQL Server 2017 on Linux containers
+
+## [SQL Server-uppgraderingar](https://docs.microsoft.com/sv-se/learn/paths/sql-server-2017-upgrades)
+#### Inlärningsväg - 3 h 18 min - 5 moduler
+När du kör den senaste versionen av SQL Server får du flera prestanda- och funktionsfördelar samtidigt som stödet för din databasplattform utökas. I den här utbildningsvägen får du lära dig hur du gör en inventering av dina SQL Server-distributioner med hjälp av Microsoft Assessment and Planning Toolkit, hur du uppgraderar SQL Server-databaser med hjälp av Data Migration Assistant och hur du optimerar ditt uppdaterade system med hjälp av både Data Experimentation Assistant och Query Tuning Assistant.
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
+## [Skapa och använda analysrapporter med Power BI](https://docs.microsoft.com/sv-se/learn/paths/create-use-analytics-reports-power-bi)
+#### Inlärningsväg - 6 h 23 min - 6 moduler
+Den här utbildningsvägen ger en introduktion till Power BI och du lär dig att använda och skapa Business Intelligence-rapporter.
+
+Modules:
+- Komma igång att bygga med Power BI
+- Hämta data med Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Utforska data i Power BI
+- Publish and share in Power BI
+
+## [Använda avancerade dataalternativ och anslutningsappar i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/advanced-data-options-and-connectors)
+#### Inlärningsväg - 2 h 21 min - 4 moduler
+Vill du förbättra användarupplevelsen i din arbetsyteapp? Vill du använda anpassade dataanslutningar? Med den här utbildningsvägen får du hjälp att göra bådadera. Fokus ligger även på att arbeta med begränsning av datakällor.
+
+Modules:
+- Arbeta med relationsdata i en PowerApps-arbetsyteapp
+- Arbeta med datakällsbegränsningar (delegeringsgränser) i en PowerApps-arbetsyteapp
+- Ansluta till andra data i en PowerApps-arbetsyteapp
+- Använda anpassade anslutningsappar i en PowerApps-arbetsyteapp
+
 ## [Administrera containers i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-containers-in-azure)
 #### Inlärningsväg - 3 h 45 min - 5 moduler
 Azure Container Instances är det snabbaste och enklaste sättet att köra containers i Azure. I den här utbildningsvägen får du lära dig att skapa och hantera containrar, och hur du kan använda ACI till elastisk skalning för Kubernetes.
@@ -9,7 +52,7 @@ Modules:
 - Skapa och lagra containeravbildningar med Azure Container Registry
 - Köra Docker-containers med Azure Container Instances
 - Distribuera och kör en containerbaserad webbapp med Azure App Service
-- Introduction to Azure Kubernetes Service
+- Introduktion till Azure Kubernetes Service
 
 ## [Skapa program med Azure DevOps](https://docs.microsoft.com/sv-se/learn/paths/build-applications-with-azure-devops)
 #### Inlärningsväg - 6 h 10 min - 7 moduler
@@ -17,8 +60,8 @@ Lär dig hur du konfigurerar bygg-pipelines för att kontinuerligt skapa, testa 
 
 Modules:
 - Create a build pipeline with Azure Pipelines
-- Implement a code workflow in your build pipeline using Git and GitHub
-- Run quality tests in your build pipeline using Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
 - Scan code for vulnerabilities in Azure Pipelines
 - Scan open source components for vulnerabilities and license ratings in Azure Pipelines
 - Manage build dependencies with Azure Artifacts
@@ -68,50 +111,22 @@ Modules:
 - Anpassa en arbetsyteapp i PowerApps
 - Hantera appar i PowerApps
 
-## [AI Business School för sjukvården](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-healthcare)
-#### Inlärningsväg - 7 h 37 min - 10 moduler
-Beslutsfattare inom sjukvården behöver fatta branschspecifika beslut för att kunna få förståelse för den omvälvande påverkan som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom sjukvården för att visa den omvälvande påverkan som AI kan ha på verksamheten.
+## [Identifiera sätt att främja en företagskultur som är redo för AI i din verksamhet](https://docs.microsoft.com/sv-se/learn/paths/foster-ai-ready-culture)
+#### Inlärningsväg - 3 h 22 min - 5 moduler
+I den här utbildningsvägen berättar Microsoft-chefer om ett ramverk som ligger bakom viktiga ändringar som krävs för att din organisation ska bli redo för AI. Du får lära dig att identifiera lyckade implementeringar av AI och förklara relevanta scenarier. Du får information om användningsfall som är relevanta och specifika för vissa verksamhetsområden, till exempel ekonomi, marknadsföring, försäljning och kundservice. Slutligen får du lära dig att identifiera AI-lösningar som du kan implementera i din organisation baserat på dess mognadsgrad.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
 - Discover how to foster an AI-ready culture in sales
 - Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
 
 ## [Introduktion till AI-teknik för företagsledare](https://docs.microsoft.com/sv-se/learn/paths/ai-technology-for-business-leaders)
 #### Inlärningsväg - 1 h 25 min - 2 moduler
 I den här utbildningsvägen får du en översikt över de viktigaste begreppen inom AI. Du får lära dig vad AI är och vilka tekniker som ligger till grund för AI. Du får också information om hur Microsoft använder de senaste framstegen inom AI i sina verktyg, produkter och tjänster som kan användas av organisationer.
 
 Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
-## [Identifiera riktlinjer för att använda AI ansvarsfullt i verksamheten](https://docs.microsoft.com/sv-se/learn/paths/responsible-ai-business-principles)
-#### Inlärningsväg - 1 tim - 1 modul
-Det är mycket viktigt att alltid överväga konsekvenserna av att använda AI i verksamheten. Den här utbildningsvägen omfattar riktlinjer som kan hjälpa dig att konfigurera principer och en styrningsmodell i din organisation. Du får även tillgång till resurser, metodtips och verktyg.
-
-Modules:
-- Identify guiding principles for responsible AI in your business
-
-## [AI Business School för tillverkningsindustrin](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-manufacturing)
-#### Inlärningsväg - 7 h 38 min - 10 moduler
-Beslutsfattare inom tillverkningsindustrin måste ta hänsyn till vissa branschspecifika överväganden för att kunna se den stora effekt som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom tillverkningsindustrin för att visa den omvälvande påverkan som AI kan ha på verksamheten.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
@@ -122,6 +137,49 @@ Beslutsfattare inom finanssektorn behöver fatta branschspecifika beslut för at
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in financial services
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Definiera en AI-strategi för att skapa affärsvärde](https://docs.microsoft.com/sv-se/learn/paths/ai-strategy-for-business-value)
+#### Inlärningsväg - 4 h 43 min - 6 moduler
+I den här utbildningsvägen berättar Peter Zemsky, INSEAD:s Eli Lilly Chaired Professor of Strategy and Innovation, om hur AI skapar affärsvärde i olika branscher och företag samt för Microsofts kunder och partner. Du får information om hur tekniska team använder AI i affärsprogram och hur företagsledare från olika branscher ser på AI-teknik i sina egna verksamheter.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
+- Define an AI strategy to create business value in retail
+- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in healthcare
+
+## [Identifiera riktlinjer för att använda AI ansvarsfullt i verksamheten](https://docs.microsoft.com/sv-se/learn/paths/responsible-ai-business-principles)
+#### Inlärningsväg - 1 tim - 1 modul
+Det är mycket viktigt att alltid överväga konsekvenserna av att använda AI i verksamheten. Den här utbildningsvägen omfattar riktlinjer som kan hjälpa dig att konfigurera principer och en styrningsmodell i din organisation. Du får även tillgång till resurser, metodtips och verktyg.
+
+Modules:
+- Identify guiding principles for responsible AI in your business
+
+## [Använda data med Power BI](https://docs.microsoft.com/sv-se/learn/paths/consume-data-with-power-bi)
+#### Inlärningsväg - 2 h 35 min - 2 moduler
+Vill du fatta affärsbeslut som stöds av data? Lär dig hur du gör det i Power BI. Lär dig att arbeta i Power BI för att granska och interagera med det här innehållet för att fatta affärsbeslut.
+
+Modules:
+- Utforska vad du kan göra med Power BI
+- Analysera data med Power BI
+
+## [AI Business School för sjukvården](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-healthcare)
+#### Inlärningsväg - 7 h 37 min - 10 moduler
+Beslutsfattare inom sjukvården behöver fatta branschspecifika beslut för att kunna få förståelse för den omvälvande påverkan som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom sjukvården för att visa den omvälvande påverkan som AI kan ha på verksamheten.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in healthcare
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -147,36 +205,40 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Identifiera sätt att främja en företagskultur som är redo för AI i din verksamhet](https://docs.microsoft.com/sv-se/learn/paths/foster-ai-ready-culture)
-#### Inlärningsväg - 3 h 22 min - 5 moduler
-I den här utbildningsvägen berättar Microsoft-chefer om ett ramverk som ligger bakom viktiga ändringar som krävs för att din organisation ska bli redo för AI. Du får lära dig att identifiera lyckade implementeringar av AI och förklara relevanta scenarier. Du får information om användningsfall som är relevanta och specifika för vissa verksamhetsområden, till exempel ekonomi, marknadsföring, försäljning och kundservice. Slutligen får du lära dig att identifiera AI-lösningar som du kan implementera i din organisation baserat på dess mognadsgrad.
+## [AI Business School för tillverkningsindustrin](https://docs.microsoft.com/sv-se/learn/paths/ai-business-school-manufacturing)
+#### Inlärningsväg - 7 h 38 min - 10 moduler
+Beslutsfattare inom tillverkningsindustrin måste ta hänsyn till vissa branschspecifika överväganden för att kunna se den stora effekt som AI kan ha på verksamheten. Den här utbildningsvägen är utformad för beslutsfattare inom tillverkningsindustrin för att visa den omvälvande påverkan som AI kan ha på verksamheten.
 
 Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in manufacturing
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
 - Discover how to foster an AI-ready culture in sales
 - Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
 
-## [Använda data med Power BI](https://docs.microsoft.com/sv-se/learn/paths/consume-data-with-power-bi)
-#### Inlärningsväg - 2 h 35 min - 2 moduler
-Vill du fatta affärsbeslut som stöds av data? Lär dig hur du gör det i Power BI. Lär dig att arbeta i Power BI för att granska och interagera med det här innehållet för att fatta affärsbeslut.
-
-Modules:
-- Utforska vad du kan göra med Power BI
-- Analysera data med Power BI
-
-## [Definiera en AI-strategi för att skapa affärsvärde](https://docs.microsoft.com/sv-se/learn/paths/ai-strategy-for-business-value)
-#### Inlärningsväg - 4 h 43 min - 6 moduler
-I den här utbildningsvägen berättar Peter Zemsky, INSEAD:s Eli Lilly Chaired Professor of Strategy and Innovation, om hur AI skapar affärsvärde i olika branscher och företag samt för Microsofts kunder och partner. Du får information om hur tekniska team använder AI i affärsprogram och hur företagsledare från olika branscher ser på AI-teknik i sina egna verksamheter.
+## [Bemästra avancerade tekniker för arbetsyteappar i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/understand-advanced-topics)
+#### Inlärningsväg - 2 h 30 min - 4 moduler
+Vill du se till att din app är så bra den kan? Den här utbildningsvägen hjälper dig att använda avancerade formler och göra anpassade uppdateringar. Den fokuserar också på prestandakontroller och testning.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Define an AI strategy to create business value in retail
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- Använda imperativa utvecklingstekniker för arbetsyteappar i PowerApps
+- Skriva en avancerad formel som använder tabeller, poster och samlingar i en arbetsyteapp i PowerApps
+- Utföra anpassade uppdateringar i en PowerApps-arbetsyteapp
+- Slutföra testning och prestandakontroller i en PowerApps-arbetsyteapp
+
+## [Använda gränssnittet och kontroller i en arbetsyteapp i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/ui-controls-canvas-app-powerapps)
+#### Inlärningsväg - 1 h 58 min - 3 moduler
+Användarupplevelsen i en app är ofta det som avgör om appen blir framgångsrik eller inte. Den här utbildningsvägen fokuserar på hur du kan skapa den bästa appnavigeringen och det bästa gränssnittet med teman, ikoner, bilder och personanpassning, och även olika formfaktorer och kontroller.
+
+Modules:
+- Navigering i en arbetsyteapp i PowerApps
+- Skapa användargränssnitt i en arbetsyteapp i PowerApps
+- Använda och förstå kontroller i en arbetsyteapp i PowerApps
 
 ## [Använda grundläggande formler för att göra bättre PowerApps-arbetsyteappar](https://docs.microsoft.com/sv-se/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Inlärningsväg - 2 h 16 min - 3 moduler
@@ -186,6 +248,15 @@ Modules:
 - Skapa en grundläggande formel för att ändra egenskaper i en PowerApps-arbetsyteapp
 - Skapa en grundläggande formel för att ändra beteenden i en PowerApps-arbetsyteapp
 - Skapa en grundläggande formel som använder tabeller och poster i en PowerApps-arbetsyteapp
+
+## [Kom igång med Machine Learning med Azure Data Science Virtual Machine](https://docs.microsoft.com/sv-se/learn/paths/get-started-with-azure-dsvm)
+#### Inlärningsväg - 1 h 43 min - 3 moduler
+I Azure ingår en förkonfigurerad tjänst för virtuella datorer för att utföra datavetenskapsuppgifter. Lär dig hur du använder Azure Data Science Virtual Machine för att utföra vanliga dataanalys- och maskininlärningsaktiviteter.
+
+Modules:
+- Introduktion till Azure Data Science Virtual Machine
+- Utforska typerna för Azure Data Science Virtual Machines
+- Etablera och använda en Azure Data Science Virtual Machine
 
 ## [Utforska AI-lösningsutvecklingen med datavetenskapstjänster i Azure](https://docs.microsoft.com/sv-se/learn/paths/explore-data-science-tools-in-azure)
 #### Inlärningsväg - 1 h 40 min - 2 moduler
@@ -205,15 +276,6 @@ Modules:
 - Automatisera valet av ML-modell i Azure Machine Learning-tjänsten
 - Registrera och distribuera ML-modeller med Azure Machine Learning Service
 
-## [Introduktion till maskininlärning med Python och Azure Notebooks](https://docs.microsoft.com/sv-se/learn/paths/intro-to-ml-with-python)
-#### Inlärningsväg - 2 h 11 min - 3 moduler
-Python har blivit ett framträdande språk för att utföra dataanalys med maskininlärning. Lär dig hur du använder Python och tillhörande bibliotek i Jupyter Notebooks som körs på Azure Notebooks för att förutse mönster och identifiera trender.
-
-Modules:
-- Analysera klimatdata med Azure Notebooks
-- Förutsäga flygförseningar genom att skapa en maskininlärningsmodell i Python
-- Analysera attityd för recensioner med Keras
-
 ## [Arbeta med data i en PowerApps-arbetsyteapp](https://docs.microsoft.com/sv-se/learn/paths/work-with-data-in-a-canvas-app)
 #### Inlärningsväg - 2 h 14 min - 3 moduler
 Behöver du ansluta en app för att komma åt data? Då är den här utbildningsvägen något för dig. Den förklarar hur du ansluter till datakällor. Den visar också hur du använder filtrering, villkor och andra funktioner för att forma dina data och skriva data till datakällan.
@@ -223,14 +285,24 @@ Modules:
 - Forma data i en PowerApps-app för arbetsytor
 - Skriva data i en PowerApps-arbetsyteapp
 
-## [Kom igång med Machine Learning med Azure Data Science Virtual Machine](https://docs.microsoft.com/sv-se/learn/paths/get-started-with-azure-dsvm)
-#### Inlärningsväg - 1 h 43 min - 3 moduler
-I Azure ingår en förkonfigurerad tjänst för virtuella datorer för att utföra datavetenskapsuppgifter. Lär dig hur du använder Azure Data Science Virtual Machine för att utföra vanliga dataanalys- och maskininlärningsaktiviteter.
+## [Introduktion till maskininlärning med Python och Azure Notebooks](https://docs.microsoft.com/sv-se/learn/paths/intro-to-ml-with-python)
+#### Inlärningsväg - 2 h 11 min - 3 moduler
+Python har blivit ett framträdande språk för att utföra dataanalys med maskininlärning. Lär dig hur du använder Python och tillhörande bibliotek i Jupyter Notebooks som körs på Azure Notebooks för att förutse mönster och identifiera trender.
 
 Modules:
-- Introduktion till Azure Data Science Virtual Machine
-- Utforska typerna för Azure Data Science Virtual Machines
-- Etablera och använda en Azure Data Science Virtual Machine
+- Analysera klimatdata med Azure Notebooks
+- Förutsäga flygförseningar genom att skapa en maskininlärningsmodell i Python
+- Analysera attityd för recensioner med Keras
+
+## [Bearbeta och klassificera bilder med hjälp av Azure Cognitive Vision Services](https://docs.microsoft.com/sv-se/learn/paths/classify-images-with-vision-services)
+#### Inlärningsväg - 2 h 45 min - 4 moduler
+Microsoft Cognitive Services har färdiga funktioner för att aktivera funktioner för visuellt innehåll i dina program.  Lär dig hur du använder Cognitive Vision Services för att identifiera ansikten, märka och klassificera bilder och identifiera objekt.
+
+Modules:
+- Identifiera ansikten och uttryck med API:et för visuellt innehåll i Azure Cognitive Services
+- Behandla bilder med tjänsten Visuellt innehåll
+- Klassificera bilder med Microsoft Custom Vision Service
+- Utvärdera kraven för att implementera Custom Vision-API:er
 
 ## [Publicera ett Machine Learning-experiment med Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/sv-se/learn/paths/publish-experiment-with-ml-studio)
 #### Inlärningsväg - 1 h 6 min - 2 moduler
@@ -240,14 +312,14 @@ Modules:
 - Skapa ett Azure Machine Learning Studio-konto
 - Skapa ett experiment i Azure Machine Learning Studio
 
-## [Bearbeta och klassificera bilder med hjälp av Azure Cognitive Vision Services](https://docs.microsoft.com/sv-se/learn/paths/classify-images-with-vision-services)
-#### Inlärningsväg - 1 h 59 min - 3 moduler
-Microsoft Cognitive Services har färdiga funktioner för att aktivera funktioner för visuellt innehåll i dina program.  Lär dig hur du använder Cognitive Vision Services för att identifiera ansikten, märka och klassificera bilder och identifiera objekt.
+## [Utvärdera text med Azure Cognitive Language Services](https://docs.microsoft.com/sv-se/learn/paths/evaluate-text-with-language-services)
+#### Inlärningsväg - 2 h 13 min - 3 moduler
+Lär dig hur du använder Cognitive Language Services för att analysera text, fastställa avsikter, identifiera stötande innehåll och bearbeta naturligt språk.
 
 Modules:
-- Identifiera ansikten och uttryck med API:et för visuellt innehåll i Azure Cognitive Services
-- Behandla bilder med tjänsten Visuellt innehåll
-- Klassificera bilder med Microsoft Custom Vision Service
+- Klassificera och moderera text med Azure Content Moderator
+- Lägg till konversationsanpassad intelligens i dina appar genom att använda Language Understanding Intelligent Service (LUIS)
+- Identifiera attityd i text med API:et för textanalys
 
 ## [Bearbeta och översätta tal med Azure Cognitive Speech Services](https://docs.microsoft.com/sv-se/learn/paths/translate-speech-with-speech-services)
 #### Inlärningsväg - 1 h 34 min - 2 moduler
@@ -264,15 +336,6 @@ Lär dig hur du skapar en chattrobot och lägger till intelligens genom att inte
 Modules:
 - Skapa en chattrobot för vanliga frågor och svar med QnA Maker och Azure Bot Service
 - Skapa en chattrobot med Azure Bot Service
-
-## [Utvärdera text med Azure Cognitive Language Services](https://docs.microsoft.com/sv-se/learn/paths/evaluate-text-with-language-services)
-#### Inlärningsväg - 2 h 13 min - 3 moduler
-Lär dig hur du använder Cognitive Language Services för att analysera text, fastställa avsikter, identifiera stötande innehåll och bearbeta naturligt språk.
-
-Modules:
-- Klassificera och moderera text med Azure Content Moderator
-- Lägg till konversationsanpassad intelligens i dina appar genom att använda Language Understanding Intelligent Service (LUIS)
-- Identifiera attityd i text med API:et för textanalys
 
 ## [Utföra datateknikuppgifter med Azure Databricks](https://docs.microsoft.com/sv-se/learn/paths/data-engineering-with-databricks)
 #### Inlärningsväg - 7 h 49 min - 9 moduler
@@ -298,14 +361,6 @@ Modules:
 - Skapa mer komplexa flöden med Microsoft Flow
 - Använda administrationscentret till att hantera miljöer och dataprinciper i Microsoft Flow
 
-## [Skapa och använda analysrapporter med Power BI](https://docs.microsoft.com/sv-se/learn/paths/create-use-analytics-reports-power-bi)
-#### Inlärningsväg - 1 h 42 min - 2 moduler
-Den här utbildningsvägen ger en introduktion till Power BI och du lär dig att använda och skapa Business Intelligence-rapporter.
-
-Modules:
-- Komma igång att bygga med Power BI
-- Skapa och dela din första Power BI-rapport
-
 ## [Skapa en modelldriven app i PowerApps](https://docs.microsoft.com/sv-se/learn/paths/create-app-models-business-processes)
 #### Inlärningsväg - 1 h 40 min - 2 moduler
 Den här utbildningsvägen ger en introduktion till att skapa en modelldriven PowerApp-app som använder Common Data Service.
@@ -313,14 +368,6 @@ Den här utbildningsvägen ger en introduktion till att skapa en modelldriven Po
 Modules:
 - Kom igång med modelldrivna appar i PowerApps
 - Kom igång med Common Data Service
-
-## [Implementera en dataströmningslösning med Azure Streaming Analytics](https://docs.microsoft.com/sv-se/learn/paths/implement-data-streaming-with-asa)
-#### Inlärningsväg - 1 h 14 min - 2 moduler
-Lär dig mer om begrepp och strömmande data och hur detta kan användas för Azure Stream Analytics. Du kommer sedan konfigurera ett Stream Analytics-jobb för att strömma data och lära dig att hantera och övervaka ett jobb som körs.
-
-Modules:
-- Arbeta med dataströmmar med Azure Stream Analytics
-- Transformera data med hjälp av Azure Stream Analytics
 
 ## [Databehandling i stor skala med Azure Data Lake Storage Gen2](https://docs.microsoft.com/sv-se/learn/paths/data-processing-with-azure-adls)
 #### Inlärningsväg - 2 h 5 min - 3 moduler
@@ -340,6 +387,21 @@ Modules:
 - Köra frågor i Azure SQL Data Warehouse
 - Importera data till Azure SQL Data Warehouse med hjälp av PolyBase
 - Säkerhet för informationslager
+
+## [Upptäck affärsvärdet med Microsoft Azure](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-azure)
+#### Inlärningsväg - 4 h 58 min - 9 moduler
+Är du intresserad av att lära dig mer om molnet på ett enkelt sätt? Eller är du kanske osäker på var du ska börja när det gäller molnteknik? Den här utbildningsvägen tar dig med på en resa som börjar med att visa dig hur digital omvandling och molnets kraft kan omvandla din verksamhet.
+
+Modules:
+- Welcome to Microsoft Azure
+- Introduction to Azure solutions
+- Applications and infrastructure migration and modernization
+- Microsoft data estate migration and modernization
+- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
+- Microsoft Azure IoT strategy and solutions
+- See Azure in action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Azure för datatekniker](https://docs.microsoft.com/sv-se/learn/paths/azure-for-the-data-engineer)
 #### Inlärningsväg - 1 h 51 min - 3 moduler
@@ -362,20 +424,13 @@ Modules:
 - Djupinlärning med Azure Databricks
 - Utföra textanalys med Azure Databricks
 
-## [Upptäck affärsvärdet med Microsoft Azure](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-azure)
-#### Inlärningsväg - 4 h 58 min - 9 moduler
-Är du intresserad av att lära dig mer om molnet på ett enkelt sätt? Eller är du kanske osäker på var du ska börja när det gäller molnteknik? Den här utbildningsvägen tar dig med på en resa som börjar med att visa dig hur digital omvandling och molnets kraft kan omvandla din verksamhet.
+## [Implementera en dataströmningslösning med Azure Streaming Analytics](https://docs.microsoft.com/sv-se/learn/paths/implement-data-streaming-with-asa)
+#### Inlärningsväg - 1 h 14 min - 2 moduler
+Lär dig mer om begrepp och strömmande data och hur detta kan användas för Azure Stream Analytics. Du kommer sedan konfigurera ett Stream Analytics-jobb för att strömma data och lära dig att hantera och övervaka ett jobb som körs.
 
 Modules:
-- Welcome to Microsoft Azure
-- Introduction to Azure solutions
-- Applications and infrastructure migration and modernization
-- Microsoft data estate migration and modernization
-- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
-- Microsoft Azure IoT strategy and solutions
-- See Azure in Action
-- Microsoft Cloud Adoption Framework for Azure
-- Microsoft runs on trust
+- Arbeta med dataströmmar med Azure Stream Analytics
+- Transformera data med hjälp av Azure Stream Analytics
 
 ## [Grunderna för Azure](https://docs.microsoft.com/sv-se/learn/paths/azure-fundamentals)
 #### Inlärningsväg - 8 h 59 min - 11 moduler
@@ -394,16 +449,6 @@ Modules:
 - Ha kontroll över och ordna Azure-resurser med Azure Resource Manager
 - Förutse kostnader och optimera utgifter för Azure
 
-## [Distribuera en webbplats med virtuella Azure-datorer](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### Inlärningsväg - 4 h 18 min - 4 moduler
-Om dina värdbaserade krav inte stöds fullt ut av plattformen för Azures webbappar kan du använda virtuella datorer till att anpassa och styra alla delar av webbservern. Läs mer om att skapa, konfigurera och hantera virtuella datorer i Linux och Windows som är värdar för webbappar.
-
-Modules:
-- Introduktion till Azure Virtual Machines
-- Skapa en virtuell Linux-dator i Azure
-- Skapa en virtuell Windows-dator i Azure
-- Skapa och köra ett webbprogram med MEAN-stacken på en virtuell Linux-dator i Azure
-
 ## [Arbeta med relationsdata i Azure](https://docs.microsoft.com/sv-se/learn/paths/work-with-relational-data-in-azure)
 #### Inlärningsväg - 3 h 20 min - 4 moduler
 Azure har stöd för flera populära SQL-baserade databaslösningar, inklusive SQL Server, PostgreSQL och MySQL. Lär dig att använda dessa lösningar för företagsdata i Azure till att lagra och hämta appens data i molnet.
@@ -413,65 +458,6 @@ Modules:
 - Skapa en Azure Database för PostgreSQL-server
 - Skala flera Azure SQL-databaser med elastiska SQL-pooler
 - Skydda din Azure SQL-databas
-
-## [Skydda dina molndata](https://docs.microsoft.com/sv-se/learn/paths/secure-your-cloud-data)
-#### Inlärningsväg - 6 h 45 min - 8 moduler
-Azure är utformat för säkerhet och efterlevnad. Lär dig att använda de inbyggda tjänsterna för att lagra appdata på ett säkert sätt och se till att endast auktoriserade tjänster och klienter har åtkomst till den.
-
-Modules:
-- Designa för säkerhet i Azure
-- De 5 främsta säkerhetsposterna att tänka på innan du skickar till produktion
-- Skydda ditt Azure Storage-konto
-- Hantera hemligheter i dina serverappar med Azure Key Vault
-- Autentisera webbläsarbaserade appar med Azure App Services
-- Skydda dina Azure-resurser med villkorsstyrd åtkomst
-- Skydda dina Azure-resurser med rollbaserad åtkomstkontroll (RBAC)
-- Skydda din Azure SQL-databas
-
-## [Skapa bra lösningar i Azure](https://docs.microsoft.com/sv-se/learn/paths/architect-great-solutions-in-azure)
-#### Inlärningsväg - 4 h 17 min - 5 moduler
-Läs om hur du utformar och skapar säkra, skalbara, högpresterande lösningar i Azure genom att undersöka de huvudprinciper som finns i alla bra arkitekturer.
-
-Modules:
-- Grundpelare för en bra Azure-arkitektur
-- Designa för säkerhet i Azure
-- Utforma för prestanda och skalbarhet i Azure
-- Designa för effektivitet och drift i Azure
-- Designa för tillgänglighet och återställning i Azure
-
-## [Skapa serverlösa program](https://docs.microsoft.com/sv-se/learn/paths/create-serverless-applications)
-#### Inlärningsväg - 6 h 15 min - 7 moduler
-Med Azure Functions kan du skapa händelsestyrda system med beräkning på begäran som utlöses av olika externa händelser. Lär dig att använda funktioner för att köra logik på serversidan och skapa serverlösa arkitekturer.
-
-Modules:
-- Välj lämplig Azure-tjänst för att integrera och automatisera affärsprocesser
-- Skapa serverlös logik med Azure Functions
-- Kör en Azure-funktion med utlösare
-- Koppla samman Azure-funktioner med hjälp av in- och utdatabindningar
-- Skapa ett långvarigt serverlöst arbetsflöde med Durable Functions (varaktiga funktioner)
-- Utveckla, testa och distribuera en Azure-funktion med Visual Studio
-- Övervaka GitHub-händelser med en Azure-funktion som utlöses av en webhook
-
-## [Koppla samman dina tjänster](https://docs.microsoft.com/sv-se/learn/paths/connect-your-services-together)
-#### Inlärningsväg - 3 h 31 min - 4 moduler
-Med Azure kan du skapa program som består av olika komponenter: klientdelar för webbplats, serverdelstjänster och utlösta funktioner som utför tjänster för beräkning på begäran. Azure innehåller även olika kommunikationsstrategier så att dessa olika komponenter kan skicka data till varandra. Lär dig hur du kan använda dessa kommunikationstjänster för att skapa skalbara och effektiva lösningar utifrån testbara komponenter.
-
-Modules:
-- Välja en meddelandemodell i Azure som löst kopplar samman dina tjänster
-- Implementera meddelandebaserade kommunikationsarbetsflöden med Azure Service Bus
-- Kommunicera mellan program med Azure Queue Storage
-- Aktivera tillförlitlig meddelandehantering för Big Data-program med Azure Event Hubs
-
-## [Hantera resurser i Azure](https://docs.microsoft.com/sv-se/learn/paths/manage-resources-in-azure)
-#### Inlärningsväg - 4 h 15 min - 5 moduler
-Lär dig hur du arbetar med Azure-kommandoraden och webbportalen för att skapa, hantera och styra molnbaserade resurser.
-
-Modules:
-- Hitta rätt molntyper och tjänstmodeller i Azure för olika behov
-- Kontrollera Azure-tjänster med CLI
-- Automatisera Azure-uppgifter med hjälp av PowerShell-skript
-- Förutse kostnader och optimera utgifter för Azure
-- Ha kontroll över och ordna Azure-resurser med Azure Resource Manager
 
 ## [Administrera infrastrukturresurser i Azure](https://docs.microsoft.com/sv-se/learn/paths/administer-infrastructure-resources-in-azure)
 #### Inlärningsväg - 9 h 34 min - 10 moduler
@@ -489,6 +475,37 @@ Modules:
 - Cachelagring och prestanda i Azure Storage-diskar
 - Skydda dina virtuella Azure-datordiskar
 
+## [Distribuera en webbplats med virtuella Azure-datorer](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-virtual-machines)
+#### Inlärningsväg - 4 h 18 min - 4 moduler
+Om dina värdbaserade krav inte stöds fullt ut av plattformen för Azures webbappar kan du använda virtuella datorer till att anpassa och styra alla delar av webbservern. Läs mer om att skapa, konfigurera och hantera virtuella datorer i Linux och Windows som är värdar för webbappar.
+
+Modules:
+- Introduktion till Azure Virtual Machines
+- Skapa en virtuell Linux-dator i Azure
+- Skapa en virtuell Windows-dator i Azure
+- Skapa och köra ett webbprogram med MEAN-stacken på en virtuell Linux-dator i Azure
+
+## [Hantera resurser i Azure](https://docs.microsoft.com/sv-se/learn/paths/manage-resources-in-azure)
+#### Inlärningsväg - 4 h 15 min - 5 moduler
+Lär dig hur du arbetar med Azure-kommandoraden och webbportalen för att skapa, hantera och styra molnbaserade resurser.
+
+Modules:
+- Hitta rätt molntyper och tjänstmodeller i Azure för olika behov
+- Kontrollera Azure-tjänster med CLI
+- Automatisera Azure-uppgifter med hjälp av PowerShell-skript
+- Förutse kostnader och optimera utgifter för Azure
+- Ha kontroll över och ordna Azure-resurser med Azure Resource Manager
+
+## [Koppla samman dina tjänster](https://docs.microsoft.com/sv-se/learn/paths/connect-your-services-together)
+#### Inlärningsväg - 3 h 31 min - 4 moduler
+Med Azure kan du skapa program som består av olika komponenter: klientdelar för webbplats, serverdelstjänster och utlösta funktioner som utför tjänster för beräkning på begäran. Azure innehåller även olika kommunikationsstrategier så att dessa olika komponenter kan skicka data till varandra. Lär dig hur du kan använda dessa kommunikationstjänster för att skapa skalbara och effektiva lösningar utifrån testbara komponenter.
+
+Modules:
+- Välja en meddelandemodell i Azure som löst kopplar samman dina tjänster
+- Implementera meddelandebaserade kommunikationsarbetsflöden med Azure Service Bus
+- Kommunicera mellan program med Azure Queue Storage
+- Aktivera tillförlitlig meddelandehantering för Big Data-program med Azure Event Hubs
+
 ## [Arbeta med NoSQL-data i Azure Cosmos DB](https://docs.microsoft.com/sv-se/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
 #### Inlärningsväg - 5 h 55 min - 8 moduler
 NoSQL-data är ett effektivt sätt att lagra information som inte mappas till kraven i en SQL-relationsdatabas. Lär dig hur du använder Azure Portal, Azure Cosmos DB-tillägget för Visual Studio Code och Azure Cosmos DB .NET Core SDK för att arbeta med dina NoSQL-data var du vill och ge användarna hög tillgänglighet, oavsett var de befinner sig i världen.
@@ -503,8 +520,35 @@ Modules:
 - Optimera prestanda för Azure Cosmos DB med hjälp av partitionerings- och indexeringsstrategier
 - Distribuera dina data globalt med Azure Cosmos DB
 
+## [Skapa serverlösa program](https://docs.microsoft.com/sv-se/learn/paths/create-serverless-applications)
+#### Inlärningsväg - 6 h 15 min - 7 moduler
+Med Azure Functions kan du skapa händelsestyrda system med beräkning på begäran som utlöses av olika externa händelser. Lär dig att använda funktioner för att köra logik på serversidan och skapa serverlösa arkitekturer.
+
+Modules:
+- Välj lämplig Azure-tjänst för att integrera och automatisera affärsprocesser
+- Skapa serverlös logik med Azure Functions
+- Kör en Azure-funktion med utlösare
+- Koppla samman Azure-funktioner med hjälp av in- och utdatabindningar
+- Skapa ett långvarigt serverlöst arbetsflöde med Durable Functions (varaktiga funktioner)
+- Utveckla, testa och distribuera en Azure-funktion med Visual Studio
+- Övervaka GitHub-händelser med en Azure-funktion som utlöses av en webhook
+
+## [Skydda dina molndata](https://docs.microsoft.com/sv-se/learn/paths/secure-your-cloud-data)
+#### Inlärningsväg - 6 h 45 min - 8 moduler
+Azure är utformat för säkerhet och efterlevnad. Lär dig att använda de inbyggda tjänsterna för att lagra appdata på ett säkert sätt och se till att endast auktoriserade tjänster och klienter har åtkomst till den.
+
+Modules:
+- Designa för säkerhet i Azure
+- De 5 främsta säkerhetsposterna att tänka på innan du skickar till produktion
+- Skydda ditt Azure Storage-konto
+- Hantera hemligheter i dina serverappar med Azure Key Vault
+- Autentisera webbläsarbaserade appar med Azure App Services
+- Skydda dina Azure-resurser med villkorsstyrd åtkomst
+- Skydda dina Azure-resurser med rollbaserad åtkomstkontroll (RBAC)
+- Skydda din Azure SQL-databas
+
 ## [Distribuera en webbplats till Azure med Azure App Service](https://docs.microsoft.com/sv-se/learn/paths/deploy-a-website-with-azure-app-service)
-#### Inlärningsväg - 3 h 50 min - 5 moduler
+#### Inlärningsväg - 4 h 36 min - 6 moduler
 Med webbappar i Azure kan du publicera och hantera din webbplats på ett enkelt sätt, utan att behöva arbeta med underliggande servrar, lagring och nätverksresurser. Du kan i stället fokusera på dina webbplatsfunktioner och förlita dig på att den robusta Azure-plattformen ger säker åtkomst till din webbplats.
 
 Modules:
@@ -512,7 +556,19 @@ Modules:
 - Vara värd för ett webbprogram med Azure App-tjänsten
 - Publicera en webbapp i Azure med Visual Studio
 - Mellanlagra en webbappdistribution för testning och återställning med hjälp av distributionsfack i App Service
+- Skala en App Service-webbapp för att effektivt möta behovet med upp- och utskalning av App Service
 - Distribuera och kör en containerbaserad webbapp med Azure App Service
+
+## [Skapa bra lösningar i Azure](https://docs.microsoft.com/sv-se/learn/paths/architect-great-solutions-in-azure)
+#### Inlärningsväg - 4 h 17 min - 5 moduler
+Läs om hur du utformar och skapar säkra, skalbara, högpresterande lösningar i Azure genom att undersöka de huvudprinciper som finns i alla bra arkitekturer.
+
+Modules:
+- Grundpelare för en bra Azure-arkitektur
+- Designa för säkerhet i Azure
+- Utforma för prestanda och skalbarhet i Azure
+- Designa för effektivitet och drift i Azure
+- Designa för tillgänglighet och återställning i Azure
 
 ## [Lagra data i Azure](https://docs.microsoft.com/sv-se/learn/paths/store-data-in-azure)
 #### Inlärningsväg - 3 h 50 min - 5 moduler
@@ -524,6 +580,36 @@ Modules:
 - Ansluta en app till Azure Storage
 - Skydda ditt Azure Storage-konto
 - Lagra programdata med Azure Blob Storage
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/sv-se/learn/paths/use-journals-dynamics-365-business-central)
+#### Inlärningsväg - 2 h 1 min - 3 moduler
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/sv-se/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### Inlärningsväg - 3 h 13 min - 4 moduler
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Create reports with Power BI](https://docs.microsoft.com/sv-se/learn/paths/create-reports-power-bi)
+#### Inlärningsväg - 5 h 34 min - 5 moduler
+Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+
+Modules:
+- Get data with Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Explore data in Power BI
+- Publish and share in Power BI
 
 ## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/build-dynamics-365-finance-operations)
 #### Inlärningsväg - 8 h 30 min - 12 moduler
@@ -542,6 +628,45 @@ Modules:
 - Build workspaces in Dynamics 365 for Finance and Operations
 - Implement role-based security in Dynamics 365 for Finance and Operations
 - Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/sv-se/learn/paths/extend-power-platform-common-data-service)
+#### Inlärningsväg - 2 h 3 min - 2 moduler
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/sv-se/learn/paths/manage-permissions-administration-common-data-service)
+#### Inlärningsväg - 1 h 23 min - 2 moduler
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/connect-to-dynamics-365-finance-operations)
+#### Inlärningsväg - 4 h 1 min - 8 moduler
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/sv-se/learn/paths/create-relationships-common-data-service)
+#### Inlärningsväg - 2 h 21 min - 3 moduler
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
 
 ## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/introduction-develop-dynamics-365-finance-operations)
 #### Inlärningsväg - 3 h 52 min - 8 moduler
@@ -597,7 +722,7 @@ Modules:
 - Introduction to extending the Microsoft Power Platform
 
 ## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/sv-se/learn/paths/m365-getmodern)
-#### Inlärningsväg - 2 h 33 min - 9 moduler
+#### Inlärningsväg - 3 h 17 min - 9 moduler
 Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
 
 Modules:
@@ -650,24 +775,6 @@ Modules:
 - Create custom controls with Xamarin.Forms renderers
 - Use effects in Xamarin.Forms
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Inlärningsväg - 6 h 10 min - 4 moduler
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
-## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-work-warehouse-management-d365-finance-ops)
-#### Inlärningsväg - 4 h 57 min - 2 moduler
-Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
-
-Modules:
-- Configure warehouse management in Dynamics 365 for Finance and Operations
-- Work with warehouse management in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### Inlärningsväg - 5 h 56 min - 4 moduler
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
@@ -677,6 +784,24 @@ Modules:
 - Use inventory reports in Finance and Operations
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
+
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-work-warehouse-management-d365-finance-ops)
+#### Inlärningsväg - 4 h 57 min - 2 moduler
+Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
+
+Modules:
+- Configure warehouse management in Dynamics 365 for Finance and Operations
+- Work with warehouse management in Dynamics 365 for Finance and Operations
+
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Inlärningsväg - 6 h 10 min - 4 moduler
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
 #### Inlärningsväg - 9 h 8 min - 6 moduler
@@ -697,9 +822,9 @@ Lean manufacturing is a journey of continuous improvement. The goal is to produc
 Modules:
 - Get started with lean manufacturing in Dynamics 365 for Finance and Operations
 - Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
@@ -735,35 +860,15 @@ Modules:
 - Configure and use basic budgeting and budget control in Dynamics 365 for Finance and Operations
 - Configure and use budget planning in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/sv-se/learn/paths/understand-advanced-topics)
-#### Inlärningsväg - 2 h 30 min - 4 moduler
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Inlärningsväg - 3 h 9 min - 4 moduler
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
 Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
-
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/sv-se/learn/paths/advanced-data-options-and-connectors)
-#### Inlärningsväg - 2 h 21 min - 4 moduler
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
-
-Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
-
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### Inlärningsväg - 5 h 26 min - 4 moduler
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### Inlärningsväg - 5 h 25 min - 5 moduler
@@ -776,15 +881,15 @@ Modules:
 - Configure and process postdated checks in Dynamics 365 for Finance and Operations
 - Configure the Tax module in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Inlärningsväg - 3 h 9 min - 4 moduler
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### Inlärningsväg - 5 h 26 min - 4 moduler
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
 Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/sv-se/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Inlärningsväg - 2 h 50 min - 9 moduler
@@ -800,15 +905,6 @@ Modules:
 - Secure your organization with built-in, intelligent security from Microsoft 365
 - Meet the growing demand for transparency, privacy, and compliance with Microsoft 365
 - Accelerate deployment and improve adoption of Microsoft 365 with FastTrack
-
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/sv-se/learn/paths/ui-controls-canvas-app-powerapps)
-#### Inlärningsväg - 1 h 58 min - 3 moduler
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
-
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/sv-se/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### Inlärningsväg - 5 h 36 min - 6 moduler
@@ -947,6 +1043,14 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Inlärningsväg - 2 h 8 min - 2 moduler
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
+
 ## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Inlärningsväg - 2 h 57 min - 3 moduler
 This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
@@ -955,14 +1059,6 @@ Modules:
 - Get started with Dynamics 365 for Customer Service
 - Managing cases with Microsoft Dynamics 365 for Customer Service
 - Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
-
-## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/sv-se/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Inlärningsväg - 2 h 8 min - 2 moduler
-This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
-
-Modules:
-- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
-- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/sv-se/learn/paths/universal-resource-scheduling)
 #### Inlärningsväg - 5 h 9 min - 5 moduler
@@ -986,27 +1082,6 @@ Modules:
 - Using IoT Central with Connected Field Service for Dynamics 365
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
-## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Inlärningsväg - 6 h 56 min - 15 moduler
-Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
-
-Modules:
-- Welcome to Microsoft Business Applications
-- Introduction to Microsoft Business Applications
-- Enabling digital transformation
-- Achieve business transformation with Microsoft Catalyst
-- Dynamics 365 applications and Power Platform
-- Dynamics 365 for Sales
-- Dynamics 365 for Marketing
-- Dynamics 365 for Customer Service
-- Dynamics 365 for Field Service
-- Dynamics 365 for Finance and Operations
-- Dynamics 365 for Retail
-- Dynamics 365 for Talent
-- Dynamics 365 Business Central
-- Power Platform—Introduction, business value, and demos
-- Dynamics 365 AI - Insights-driven business applications
-
 ## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/sv-se/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
 #### Inlärningsväg - 1 h 15 min - 3 moduler
 Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
@@ -1028,6 +1103,27 @@ Modules:
 - Process sales orders with Dynamics 365 for Sales
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
+
+## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/sv-se/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
+#### Inlärningsväg - 6 h 56 min - 15 moduler
+Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
+
+Modules:
+- Welcome to Microsoft Business Applications
+- Introduction to Microsoft Business Applications
+- Enabling digital transformation
+- Achieve business transformation with Microsoft Catalyst
+- Dynamics 365 applications and the Power Platform
+- Dynamics 365 for Sales
+- Dynamics 365 for Marketing
+- Dynamics 365 for Customer Service
+- Dynamics 365 for Field Service
+- Dynamics 365 for Finance and Operations
+- Dynamics 365 for Retail
+- Dynamics 365 for Talent
+- Dynamics 365 Business Central
+- Power Platform—Introduction, business value, and demos
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/sv-se/learn/paths/implementing-dyn365-field-service)
 #### Inlärningsväg - 4 h 14 min - 4 moduler

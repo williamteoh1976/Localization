@@ -1,5 +1,48 @@
 # Summary of Learning Paths (tr-tr)
-last updated: 2019-07-21
+last updated: 2019-08-20
+## [Linux üzerinde SQL Server](https://docs.microsoft.com/tr-tr/learn/paths/sql-server-2017-on-linux)
+#### Öğrenme Yolu - 2 sa 28 dk - Modül sayısı: 4
+SQL Server artık tercih ettiğiniz işletim sistemi üzerinde çalışır. Bu öğrenme yolunda, Linux üzerinde SQL Server kapsayıcıları çalıştırmayı ve Linux üzerinde SQL Server dağıtmayı öğrenmeden önce Linux üzerinde SQL Server hakkında temel bilgileri öğreneceksiniz. Daha sonra, Linux üzerinde SQL Server dağıtımınızı otomatik olarak ayarlamayı öğreneceksiniz.
+
+Modules:
+- Introduction to SQL Server on Linux
+- Deploy SQL Server on Linux
+- Automatically tune SQL Server on Linux
+- Run SQL Server 2017 on Linux containers
+
+## [SQL Server yükseltmeleri](https://docs.microsoft.com/tr-tr/learn/paths/sql-server-2017-upgrades)
+#### Öğrenme Yolu - 3 sa 18 dk - Modül sayısı: 5
+SQL Server’ın en son sürümünü çalıştırmak, veritabanı platformunuzun desteğini genişletirken çok sayıda performans ve işlevsellik avantajı sağlar. Bu öğrenme yolunda, Microsoft Değerlendirme ve Planlama araç setini kullanarak SQL Server dağıtımlarınızın envanterini alma, Data Migration Yardımcısı’nı kullanarak SQL Server veritabanlarını yükseltme ve Veri Deneme Yardımcısı ile Sorgu Ayarlama Yardımcısı’nın her ikisini de kullanarak güncelleştirilmiş sisteminizi iyileştirme hakkında bilgi edineceksiniz.
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
+## [Power BI ile analiz raporlarını oluşturma ve kullanma](https://docs.microsoft.com/tr-tr/learn/paths/create-use-analytics-reports-power-bi)
+#### Öğrenme Yolu - 6 sa 23 dk - Modül sayısı: 6
+Bu öğrenme yolunda Power BI tanıtılır ve iş zekası raporlarını kullanma ve oluşturma konusunda bilgi verilir.
+
+Modules:
+- Power BI ile oluşturmaya başlama
+- Power BI Desktop ile verileri alma
+- Model data in Power BI
+- Use visuals in Power BI
+- Power BI'da verileri keşfetme
+- Publish and share in Power BI
+
+## [PowerApps'te gelişmiş veri seçeneklerini ve bağlayıcıları kullanma](https://docs.microsoft.com/tr-tr/learn/paths/advanced-data-options-and-connectors)
+#### Öğrenme Yolu - 2 sa 21 dk - Modül sayısı: 4
+Kullanıcının tuval uygulamanızdaki deneyimini iyileştirmek mi istiyorsunuz? Verilere bağlanmak için özel bağlayıcılar mı kullanmak istiyorsunuz? Bu öğrenme yolu her ikisini de yapmanıza yardımcı olacak. Ayrıca veri kaynağı sınırlarıyla çalışma konusuna da odaklanacak.
+
+Modules:
+- PowerApps tuval uygulamasında ilişkisel verilerle çalışma
+- PowerApps tuval uygulamasında veri kaynağı sınırlarıyla (temsilci sınırları) çalışma
+- PowerApps tuval uygulamasında diğer verilere bağlanma
+- PowerApps tuval uygulamasında özel bağlayıcıları kullanma
+
 ## [Azure'da kapsayıcıları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-containers-in-azure)
 #### Öğrenme Yolu - 3 sa 45 dk - Modül sayısı: 5
 Azure Container Instances, Azure’da kapsayıcıları çalıştırmanın en hızlı ve en kolay yoludur. Bu öğrenme yolu, kapsayıcı oluşturma ve kapsayıcılarınızı yönetmenin yanı sıra ACI’nin Kubernetes için elastik ölçek sağlamak üzere nasıl kullanılacağını öğretir.
@@ -9,7 +52,7 @@ Modules:
 - Azure Container Registry ile kapsayıcı görüntüleri oluşturup depolama
 - Azure Container Instances ile Docker kapsayıcılarını çalıştırma
 - Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
-- Introduction to Azure Kubernetes Service
+- Azure Kubernetes Service'e Giriş
 
 ## [Azure DevOps ile uygulama derleme](https://docs.microsoft.com/tr-tr/learn/paths/build-applications-with-azure-devops)
 #### Öğrenme Yolu - 6 sa 10 dk - Modül sayısı: 7
@@ -17,8 +60,8 @@ Uygulamalarınızı sürekli derleyen, test eden ve doğrulayan derleme işlem h
 
 Modules:
 - Create a build pipeline with Azure Pipelines
-- Implement a code workflow in your build pipeline using Git and GitHub
-- Run quality tests in your build pipeline using Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
 - Scan code for vulnerabilities in Azure Pipelines
 - Scan open source components for vulnerabilities and license ratings in Azure Pipelines
 - Manage build dependencies with Azure Artifacts
@@ -68,20 +111,13 @@ Modules:
 - PowerApps’te tuval uygulamasını özelleştirme
 - PowerApps’te uygulama yönetme
 
-## [İşletmenizde sorumlu yapay zekaya yol gösteren ilkeleri tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/responsible-ai-business-principles)
-#### Öğrenme Yolu - 1 sa - 1 Modül
-İşletmelerde yapay zekanın etkilerinin yansıtılması bir zorunluluktur. Bu öğrenme yolunda kuruluşunuzda ilkeleri ve yönetim modelini ayarlamaya yardımcı olacak yönergeler, ayrıca kaynaklar, en iyi yöntemler ve araçlar sağlanacak.
-
-Modules:
-- Identify guiding principles for responsible AI in your business
-
-## [Üretim için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-manufacturing)
-#### Öğrenme Yolu - 7 sa 38 dk - Modül sayısı: 10
-Üretim sektöründe, karar alıcıların kuruluşta yapay zekanın gerçek dönüştürme gücünü hayata geçirmek için önce sektörle ilgili dikkat edilmesi gereken belirli noktaları hesaba katmaları gerekir. Bu öğrenme yolu üretim sektöründe yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
+## [Finansal hizmetler için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-financial-services)
+#### Öğrenme Yolu - 7 sa 42 dk - Modül sayısı: 10
+Finansal hizmetlerdeki karar alıcıların, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır. Finansal hizmetler sektörünün yapay zekayla iş değeri oluşturmasına yardımcı olacak strateji bileşenlerini anlamak kritik önem taşır.
 
 Modules:
 - Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in financial services
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -102,6 +138,25 @@ Modules:
 - Discover how to foster an AI-ready culture in sales
 - Discover how to foster an AI-ready culture in customer service
 
+## [İş değeri oluşturmak için yapay zeka stratejisini tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/ai-strategy-for-business-value)
+#### Öğrenme Yolu - 4 sa 43 dk - Modül sayısı: 6
+Bu öğrenme yolunda INSEAD'de Eli Lilly Kürsüsünde Strateji ve İnovasyon Profesörü Peter Zemsky'den yapay zekanın endüstrilerde ve şirketlerde iş değerini nasıl artırdığını öğrenecek, ayrıca Microsoft müşterilerini ve iş ortaklarını dinleyeceksiniz. Teknik takımların iş uygulamalarına nasıl yapay zeka getirdiğini tartışabilecek ve farklı sektörlerden işletme liderlerinin kendi işletmeleri için yapay zeka konusundaki görüşlerini öğreneceksiniz.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
+- Define an AI strategy to create business value in retail
+- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in healthcare
+
+## [İşletmenizde sorumlu yapay zekaya yol gösteren ilkeleri tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/responsible-ai-business-principles)
+#### Öğrenme Yolu - 1 sa - 1 Modül
+İşletmelerde yapay zekanın etkilerinin yansıtılması bir zorunluluktur. Bu öğrenme yolunda kuruluşunuzda ilkeleri ve yönetim modelini ayarlamaya yardımcı olacak yönergeler, ayrıca kaynaklar, en iyi yöntemler ve araçlar sağlanacak.
+
+Modules:
+- Identify guiding principles for responsible AI in your business
+
 ## [Sağlık sektörü için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-healthcare)
 #### Öğrenme Yolu - 7 sa 37 dk - Modül sayısı: 10
 Sağlık sektöründeki karar alıcıların, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır. Bu öğrenme yolu sağlık sektöründe yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
@@ -109,6 +164,30 @@ Sağlık sektöründeki karar alıcıların, yapay zekanın kuruluş üzerindeki
 Modules:
 - Define an AI strategy to create business value
 - Define an AI strategy to create business value in healthcare
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Power BI ile verileri kullanma](https://docs.microsoft.com/tr-tr/learn/paths/consume-data-with-power-bi)
+#### Öğrenme Yolu - 2 sa 35 dk - Modül sayısı: 2
+Verilerle desteklenen işletme kararları mı almak istiyorsunuz? Bunu Power BI’da nasıl yapacağınızı öğrenin. İşletme kararları almak amacıyla bu içeriği incelemek ve içerikle etkileşim kurmak için Power BI’da çalışmayı öğrenin.
+
+Modules:
+- Power BI'ın sizin için yapabileceklerini keşfedin
+- Power BI ile veri analizi
+
+## [Üretim için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-manufacturing)
+#### Öğrenme Yolu - 7 sa 38 dk - Modül sayısı: 10
+Üretim sektöründe, karar alıcıların kuruluşta yapay zekanın gerçek dönüştürme gücünü hayata geçirmek için önce sektörle ilgili dikkat edilmesi gereken belirli noktaları hesaba katmaları gerekir. Bu öğrenme yolu üretim sektöründe yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini göstermek için tasarlanmıştır.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in manufacturing
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -134,22 +213,6 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Finansal hizmetler için yapay zeka işletme okulu](https://docs.microsoft.com/tr-tr/learn/paths/ai-business-school-financial-services)
-#### Öğrenme Yolu - 7 sa 42 dk - Modül sayısı: 10
-Finansal hizmetlerdeki karar alıcıların, yapay zekanın kuruluş üzerindeki gerçek dönüştürme etkisini hayata geçirmelerine yardımcı olacak, dikkate alınması gereken belirli konuları vardır. Finansal hizmetler sektörünün yapay zekayla iş değeri oluşturmasına yardımcı olacak strateji bileşenlerini anlamak kritik önem taşır.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
 ## [İşletme liderleri için yapay zeka teknolojisine giriş](https://docs.microsoft.com/tr-tr/learn/paths/ai-technology-for-business-leaders)
 #### Öğrenme Yolu - 1 sa 25 dk - Modül sayısı: 2
 Bu öğrenme yolunda yapay zekanın başlıca kavramlarına üst düzey bir genel bakış sağlanacak. Yapay zekanın ne olduğunu ve buna dayanak oluşturan teknolojileri açıklayabileceksiniz. Microsoft'un yapay zeka alanındaki en son ilerlemeleri nasıl kuruluşların yararlanabileceği araçlara, ürünlere ve hizmetlere dönüştürdüğünü paylaşabileceksiniz.
@@ -158,25 +221,24 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [İş değeri oluşturmak için yapay zeka stratejisini tanımlama](https://docs.microsoft.com/tr-tr/learn/paths/ai-strategy-for-business-value)
-#### Öğrenme Yolu - 4 sa 43 dk - Modül sayısı: 6
-Bu öğrenme yolunda INSEAD'de Eli Lilly Kürsüsünde Strateji ve İnovasyon Profesörü Peter Zemsky'den yapay zekanın endüstrilerde ve şirketlerde iş değerini nasıl artırdığını öğrenecek, ayrıca Microsoft müşterilerini ve iş ortaklarını dinleyeceksiniz. Teknik takımların iş uygulamalarına nasıl yapay zeka getirdiğini tartışabilecek ve farklı sektörlerden işletme liderlerinin kendi işletmeleri için yapay zeka konusundaki görüşlerini öğreneceksiniz.
+## [PowerApps tuval uygulamalarına yönelik gelişmiş tekniklerde uzmanlaşma](https://docs.microsoft.com/tr-tr/learn/paths/understand-advanced-topics)
+#### Öğrenme Yolu - 2 sa 30 dk - Modül sayısı: 4
+Uygulamanızın mümkün olan en iyi duruma geldiğinden emin olmak mı istiyorsunuz? Bu öğrenme yolu gelişmiş formüller kullanmanıza ve özel güncelleştirmeler yapmanıza yardımcı olur. Ayrıca performans denetimlerine ve testlere de odaklanır.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Define an AI strategy to create business value in retail
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- PowerApps’te tuval uygulamaları için kesinlik temelli geliştirme tekniklerini kullanma
+- PowerApps'te tuval uygulamasında tabloların, kayıtların ve koleksiyonların kullanıldığı temel bir formül yazma
+- PowerApps tuval uygulamasında özel güncelleştirmeler yapma
+- PowerApps tuval uygulamasında test ve performans denetimlerini tamamlama
 
-## [Power BI ile verileri kullanma](https://docs.microsoft.com/tr-tr/learn/paths/consume-data-with-power-bi)
-#### Öğrenme Yolu - 2 sa 35 dk - Modül sayısı: 2
-Verilerle desteklenen işletme kararları mı almak istiyorsunuz? Bunu Power BI’da nasıl yapacağınızı öğrenin. İşletme kararları almak amacıyla bu içeriği incelemek ve içerikle etkileşim kurmak için Power BI’da çalışmayı öğrenin.
+## [PowerApps'te tuval uygulamasında kullanıcı arabirimini ve denetimleri kullanma](https://docs.microsoft.com/tr-tr/learn/paths/ui-controls-canvas-app-powerapps)
+#### Öğrenme Yolu - 1 sa 58 dk - Modül sayısı: 3
+Uygulamanızın başarısı sıklıkla uygulamanın kullanıcı deneyimiyle tanımlanır. Bu öğrenme yolu en iyi uygulama gezintisini sağlama ve temaları, simgeleri, resimleri, kişiselleştirmeyi, farklı form faktörlerini ve denetimleri kullanarak en iyi kullanıcı arabirimini oluşturma konularına odaklanır.
 
 Modules:
-- Power BI'ın sizin için yapabileceklerini keşfedin
-- Power BI ile veri analizi
+- PowerApps'te tuval uygulamasında gezinti
+- PowerApps'te tuval uygulamasının kullanıcı arabirimini oluşturma
+- PowerApps'te tuval uygulamasında Denetimleri kullanma ve anlama
 
 ## [Daha iyi PowerApps tuval uygulamaları oluşturmak için temel formüller kullanma](https://docs.microsoft.com/tr-tr/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Öğrenme Yolu - 2 sa 16 dk - Modül sayısı: 3
@@ -186,34 +248,6 @@ Modules:
 - PowerApps tuval uygulamasında özellikleri değiştirmek için temel bir formül yazma
 - PowerApps tuval uygulamasında davranışları değiştirmek için temel bir formül yazma
 - PowerApps tuval uygulamasında tabloları ve kayıtları kullanan temel bir formül yazma
-
-## [Azure Machine Learning hizmeti ile yapay zeka çözümleri oluşturun](https://docs.microsoft.com/tr-tr/learn/paths/build-ai-solutions-with-azure-ml-service)
-#### Öğrenme Yolu - 3 sa 17 dk - Modül sayısı: 4
-Azure, makine öğrenmesi modelleri tasarlamaya ve dağıtmaya yönelik çeşitli hizmetler sunar. Verilerinizi analiz ederken bu hizmetlerden nasıl yararlanabileceğinizi öğrenin
-
-Modules:
-- Azure Machine Learning hizmetine giriş
-- Azure Machine Learning hizmeti ile yerel ML modeli eğitme
-- Azure Machine Learning hizmeti ile ML modeli seçimini otomatikleştirme
-- Azure Machine Learning hizmeti ile ML modelleri kaydetme ve dağıtma
-
-## [Azure Veri Bilimi Sanal Makinesi ile Machine Learning’i kullanmaya başlama](https://docs.microsoft.com/tr-tr/learn/paths/get-started-with-azure-dsvm)
-#### Öğrenme Yolu - 1 sa 43 dk - Modül sayısı: 3
-Azure, Veri Bilimi görevlerini gerçekleştirmeye yönelik önceden yapılandırılmış bir sanal makine hizmeti içerir. Veri analizi ve makine öğrenmesiyle ilgili yaygın görevleri gerçekleştirmek için Azure Veri Bilimi Sanal Makinesi’ni kullanmayı öğrenin.
-
-Modules:
-- Azure Veri Bilimi Sanal Makinesine Giriş
-- Azure Veri Bilimi Sanal Makinesi türlerini keşfedin
-- Azure Veri Bilimi Sanal Makinesi sağlama ve kullanma
-
-## [Python ve Azure Notebooks ile makine öğrenmesine giriş](https://docs.microsoft.com/tr-tr/learn/paths/intro-to-ml-with-python)
-#### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
-Python, makine öğrenmesi ile veri analizi gerçekleştirmede en çok kullanılan dil haline geldi. Desenleri tahmin etmek ve eğilimleri belirlemek için Python’dan ve Azure Notebooks’ta çalıştırılan Jupyter Not Defterlerindeki ilişkili kitaplıklardan yararlanmayı öğrenin.
-
-Modules:
-- Azure Notebooks ile iklim verisi çözümleme
-- Python’da bir makine öğrenmesi modeli oluşturarak uçuş gecikmelerini tahmin etme
-- Keras ile incelemelerin yaklaşımını analiz edin
 
 ## [Bir PowerApps tuval uygulamasında verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-data-in-a-canvas-app)
 #### Öğrenme Yolu - 2 sa 14 dk - Modül sayısı: 3
@@ -232,14 +266,43 @@ Modules:
 - Azure'da veri bilimine giriş
 - Azure'da ihtiyacınız olan Veri Bilimi hizmetini seçin
 
-## [Azure Cognitive Language Services ile metin değerlendirme](https://docs.microsoft.com/tr-tr/learn/paths/evaluate-text-with-language-services)
-#### Öğrenme Yolu - 2 sa 13 dk - Modül sayısı: 3
-Metin analiz etmek, amaç belirlemek, yetişkinlere yönelik temaları algılamak ve doğal dil girişini işlemek için Cognitive Language Services’ı kullanmayı öğrenin.
+## [Azure Veri Bilimi Sanal Makinesi ile Machine Learning’i kullanmaya başlama](https://docs.microsoft.com/tr-tr/learn/paths/get-started-with-azure-dsvm)
+#### Öğrenme Yolu - 1 sa 43 dk - Modül sayısı: 3
+Azure, Veri Bilimi görevlerini gerçekleştirmeye yönelik önceden yapılandırılmış bir sanal makine hizmeti içerir. Veri analizi ve makine öğrenmesiyle ilgili yaygın görevleri gerçekleştirmek için Azure Veri Bilimi Sanal Makinesi’ni kullanmayı öğrenin.
 
 Modules:
-- Azure Content Moderator ile metin sınıflandırması ve moderasyonu
-- Language Understanding Intelligent Service (LUIS) kullanarak uygulamalarınıza konuşma zekası ekleme
-- Metin Analizi API'si ile metindeki yaklaşımı keşfetme
+- Azure Veri Bilimi Sanal Makinesine Giriş
+- Azure Veri Bilimi Sanal Makinesi türlerini keşfedin
+- Azure Veri Bilimi Sanal Makinesi sağlama ve kullanma
+
+## [Azure Machine Learning hizmeti ile yapay zeka çözümleri oluşturun](https://docs.microsoft.com/tr-tr/learn/paths/build-ai-solutions-with-azure-ml-service)
+#### Öğrenme Yolu - 3 sa 17 dk - Modül sayısı: 4
+Azure, makine öğrenmesi modelleri tasarlamaya ve dağıtmaya yönelik çeşitli hizmetler sunar. Verilerinizi analiz ederken bu hizmetlerden nasıl yararlanabileceğinizi öğrenin
+
+Modules:
+- Azure Machine Learning hizmetine giriş
+- Azure Machine Learning hizmeti ile yerel ML modeli eğitme
+- Azure Machine Learning hizmeti ile ML modeli seçimini otomatikleştirme
+- Azure Machine Learning hizmeti ile ML modelleri kaydetme ve dağıtma
+
+## [Python ve Azure Notebooks ile makine öğrenmesine giriş](https://docs.microsoft.com/tr-tr/learn/paths/intro-to-ml-with-python)
+#### Öğrenme Yolu - 2 sa 11 dk - Modül sayısı: 3
+Python, makine öğrenmesi ile veri analizi gerçekleştirmede en çok kullanılan dil haline geldi. Desenleri tahmin etmek ve eğilimleri belirlemek için Python’dan ve Azure Notebooks’ta çalıştırılan Jupyter Not Defterlerindeki ilişkili kitaplıklardan yararlanmayı öğrenin.
+
+Modules:
+- Azure Notebooks ile iklim verisi çözümleme
+- Python’da bir makine öğrenmesi modeli oluşturarak uçuş gecikmelerini tahmin etme
+- Keras ile incelemelerin yaklaşımını analiz edin
+
+## [Azure Cognitive Vision Services ile görüntüleri işleme ve sınıflandırma](https://docs.microsoft.com/tr-tr/learn/paths/classify-images-with-vision-services)
+#### Öğrenme Yolu - 2 sa 45 dk - Modül sayısı: 4
+Microsoft Bilişsel Hizmetler bilgisayarların görsel işlevselliklerini uygulamalarınıza eklemenizi olanak veren, önceden oluşturulmuş işlevler sağlar.  Yüz ve etiket algılamak, görüntüleri sınıflandırmak ve nesneleri tanımak için Cognitive Vision Services’ı nasıl kullanacağınızı öğrenin.
+
+Modules:
+- Azure Bilişsel Hizmetler'de Görüntü İşleme API'sini kullanarak yüzleri ve ifadeleri tanımlama
+- Görüntü İşleme hizmetiyle görüntüleri işleme
+- Microsoft Özel Görüntü İşleme Hizmeti ile görüntüleri sınıflandırma
+- Özel Görüntü İşleme API’lerini uygulamaya yönelik gereksinimleri değerlendirme
 
 ## [Azure Cognitive Speech Services ile konuşmayı işleme ve çevirme](https://docs.microsoft.com/tr-tr/learn/paths/translate-speech-with-speech-services)
 #### Öğrenme Yolu - 1 sa 34 dk - Modül sayısı: 2
@@ -249,13 +312,14 @@ Modules:
 - Azure Bilişsel Hizmetler'le konuşmayı gerçek zamanlı olarak çevirme
 - Azure Bilişsel Hizmetler'de Konuşmacı Tanıma API'leriyle belirli sesleri tanıma
 
-## [Azure Bot Hizmeti ile Akıllı Botlar Oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-bots-with-the-azure-bot-service)
-#### Öğrenme Yolu - 2 sa 38 dk - Modül sayısı: 2
-Bir sohbet botu oluşturup Soru-Cevap Oluşturma ve LUIS ile tümleştirerek bu Bot’a makine zekası eklemeyi öğrenin.
+## [Azure Cognitive Language Services ile metin değerlendirme](https://docs.microsoft.com/tr-tr/learn/paths/evaluate-text-with-language-services)
+#### Öğrenme Yolu - 2 sa 13 dk - Modül sayısı: 3
+Metin analiz etmek, amaç belirlemek, yetişkinlere yönelik temaları algılamak ve doğal dil girişini işlemek için Cognitive Language Services’ı kullanmayı öğrenin.
 
 Modules:
-- Soru-Cevap Oluşturma ve Azure Bot Hizmeti ile SSS sohbet botu oluşturma
-- Azure Bot Hizmeti ile bir sohbet botu oluşturma
+- Azure Content Moderator ile metin sınıflandırması ve moderasyonu
+- Language Understanding Intelligent Service (LUIS) kullanarak uygulamalarınıza konuşma zekası ekleme
+- Metin Analizi API'si ile metindeki yaklaşımı keşfetme
 
 ## [Microsoft Azure Machine Learning Studio ile Makine Öğrenmesi Deneyi Yayımlama](https://docs.microsoft.com/tr-tr/learn/paths/publish-experiment-with-ml-studio)
 #### Öğrenme Yolu - 1 sa 6 dk - Modül sayısı: 2
@@ -265,14 +329,13 @@ Modules:
 - Azure Machine Learning Studio Hesabı Oluşturma
 - Azure Machine Learning Studio'da Deneme Oluşturma
 
-## [Azure Cognitive Vision Services ile görüntüleri işleme ve sınıflandırma](https://docs.microsoft.com/tr-tr/learn/paths/classify-images-with-vision-services)
-#### Öğrenme Yolu - 1 sa 59 dk - Modül sayısı: 3
-Microsoft Bilişsel Hizmetler bilgisayarların görsel işlevselliklerini uygulamalarınıza eklemenizi olanak veren, önceden oluşturulmuş işlevler sağlar.  Yüz ve etiket algılamak, görüntüleri sınıflandırmak ve nesneleri tanımak için Cognitive Vision Services’ı nasıl kullanacağınızı öğrenin.
+## [Azure Bot Hizmeti ile Akıllı Botlar Oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-bots-with-the-azure-bot-service)
+#### Öğrenme Yolu - 2 sa 38 dk - Modül sayısı: 2
+Bir sohbet botu oluşturup Soru-Cevap Oluşturma ve LUIS ile tümleştirerek bu Bot’a makine zekası eklemeyi öğrenin.
 
 Modules:
-- Azure Bilişsel Hizmetler'de Görüntü İşleme API'sini kullanarak yüzleri ve ifadeleri tanımlama
-- Görüntü İşleme hizmetiyle görüntüleri işleme
-- Microsoft Özel Görüntü İşleme Hizmeti ile görüntüleri sınıflandırma
+- Soru-Cevap Oluşturma ve Azure Bot Hizmeti ile SSS sohbet botu oluşturma
+- Azure Bot Hizmeti ile bir sohbet botu oluşturma
 
 ## [Azure Databricks ile veri mühendisliği yapın](https://docs.microsoft.com/tr-tr/learn/paths/data-engineering-with-databricks)
 #### Öğrenme Yolu - 7 sa 49 dk - Modül sayısı: 9
@@ -306,22 +369,6 @@ Modules:
 - PowerApps’te model tabanlı uygulamaları kullanmaya başlama
 - Common Data Service ile çalışmaya başlama
 
-## [Power BI ile analiz raporlarını oluşturma ve kullanma](https://docs.microsoft.com/tr-tr/learn/paths/create-use-analytics-reports-power-bi)
-#### Öğrenme Yolu - 1 sa 42 dk - Modül sayısı: 2
-Bu öğrenme yolunda Power BI tanıtılır ve iş zekası raporlarını kullanma ve oluşturma konusunda bilgi verilir.
-
-Modules:
-- Power BI ile oluşturmaya başlama
-- İlk Power BI raporunuzu oluşturma ve paylaşma
-
-## [Azure Stream Analytics ile bir Veri Akış Çözümünü uygulamaya koyma](https://docs.microsoft.com/tr-tr/learn/paths/implement-data-streaming-with-asa)
-#### Öğrenme Yolu - 1 sa 14 dk - Modül sayısı: 2
-Olay işleme ve veri akışı kavramlarını öğrenin ve bunların Azure Stream Analytics'teki uygulamasını görün. Veri akışı yapmak için bir akışı analizi işi ayarlayacak, çalışan işi yönetmeyi ve izlemeyi öğreneceksiniz.
-
-Modules:
-- Azure Stream Analytics kullanarak veri akışlarıyla çalışma
-- Azure Stream Analytics kullanarak verileri dönüştürme
-
 ## [Azure SQL Veri Ambarı ile bir Veri Ambarını uygulamaya koyma](https://docs.microsoft.com/tr-tr/learn/paths/implement-sql-data-warehouse)
 #### Öğrenme Yolu - 3 sa 21 dk - Modül sayısı: 4
 Azure SQL Veri Ambarı petabaytlarca veriye ölçeklendirilebilen büyük bir ilişkisel veri deposu sağlar. Bu öğrenme yolunda Azure SQL Veri Ambarı'nın sahip olduğu Yüksek Düzeyde Paralel İşleme (MPP) mimarisiyle bu ölçeğe nasıl ulaşabildiğini öğreneceksiniz. Dakikalar içinde bir veri ambarı oluşturun ve tanıdık sorgu dilini kullanarak raporları derleyin. Büyük miktarda veriyi dakikalar içinde yükleyin ve veri ambarınızın güvenli olduğundan emin olun.
@@ -331,15 +378,6 @@ Modules:
 - Azure SQL Veri Ambarı’nda veri sorgulama
 - PolyBase kullanarak Azure SQL Veri Ambarı'na veri aktarma
 - Veri ambarı güvenliği
-
-## [Azure Data Lake Storage 2. Nesil ile Büyük Ölçekli Bilgi İşlem](https://docs.microsoft.com/tr-tr/learn/paths/data-processing-with-azure-adls)
-#### Öğrenme Yolu - 2 sa 5 dk - Modül sayısı: 3
-Bu öğrenme yolunda, Azure Data Lake Storage'ın Büyük Veri analiz çözümlerinin işlenmesini nasıl daha verimli hale getirdiğini ve bunu ayarlamanın ne kadar kolay olduğunu göreceksiniz. Ayrıca bunun yaygın mimarilere nasıl uyum sağladığını inceleyecek, aynı zamanda verileri veri deposuna yüklemenin farklı yöntemlerini gözden geçireceksiniz. Son olarak, verilerinizin güvenli olmasını sağlayacak çok sayıda güvenlik özelliğini inceleyeceksiniz.
-
-Modules:
-- Azure Data Lake Storage'a giriş
-- Azure Data Lake Storage'a veri yükleme
-- Azure Depolama hesabınızı güvenli hale getirme
 
 ## [Azure Databricks ile verilerinizden bilgileri ve içgörüleri ayıklama](https://docs.microsoft.com/tr-tr/learn/paths/data-science)
 #### Öğrenme Yolu - 4 sa 21 dk - Modül sayısı: 6
@@ -362,6 +400,23 @@ Modules:
 - Azure Veri platformundaki hizmetleri araştırma
 - Bulutta barındırılan bir mimaride veri mühendisinin görevlerini tanımlama
 
+## [Azure Data Lake Storage 2. Nesil ile Büyük Ölçekli Bilgi İşlem](https://docs.microsoft.com/tr-tr/learn/paths/data-processing-with-azure-adls)
+#### Öğrenme Yolu - 2 sa 5 dk - Modül sayısı: 3
+Bu öğrenme yolunda, Azure Data Lake Storage'ın Büyük Veri analiz çözümlerinin işlenmesini nasıl daha verimli hale getirdiğini ve bunu ayarlamanın ne kadar kolay olduğunu göreceksiniz. Ayrıca bunun yaygın mimarilere nasıl uyum sağladığını inceleyecek, aynı zamanda verileri veri deposuna yüklemenin farklı yöntemlerini gözden geçireceksiniz. Son olarak, verilerinizin güvenli olmasını sağlayacak çok sayıda güvenlik özelliğini inceleyeceksiniz.
+
+Modules:
+- Azure Data Lake Storage'a giriş
+- Azure Data Lake Storage'a veri yükleme
+- Azure Depolama hesabınızı güvenli hale getirme
+
+## [Azure Stream Analytics ile bir Veri Akış Çözümünü uygulamaya koyma](https://docs.microsoft.com/tr-tr/learn/paths/implement-data-streaming-with-asa)
+#### Öğrenme Yolu - 1 sa 14 dk - Modül sayısı: 2
+Olay işleme ve veri akışı kavramlarını öğrenin ve bunların Azure Stream Analytics'teki uygulamasını görün. Veri akışı yapmak için bir akışı analizi işi ayarlayacak, çalışan işi yönetmeyi ve izlemeyi öğreneceksiniz.
+
+Modules:
+- Azure Stream Analytics kullanarak veri akışlarıyla çalışma
+- Azure Stream Analytics kullanarak verileri dönüştürme
+
 ## [Microsoft Azure'ın iş değerini gösterme](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-azure)
 #### Öğrenme Yolu - 4 sa 58 dk - Modül sayısı: 9
 Kolay anlaşılır bir yolla bulut hakkında bilgi edinmek ilginizi çeker mi? Yoksa bulut teknolojisini öğrenmeye nereden başlayacağınızdan emin değil misiniz? Bu öğrenme deneyiminde başlangıç olarak dijital dönüşümle ve bulutun gücüyle işlerinizde nasıl dönüşüm yaratabileceğinizin gösterildiği bir yolculuğa çıkacaksınız.
@@ -373,7 +428,7 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- See Azure in Action
+- See Azure in action
 - Microsoft Cloud Adoption Framework for Azure
 - Microsoft runs on trust
 
@@ -394,30 +449,39 @@ Modules:
 - Azure Resource Manager ile Azure kaynaklarınızı denetleme ve düzenleme
 - Azure için maliyetleri tahmin etme ve harcamaları iyileştirme
 
-## [Bulut verilerinizi güvenli hale getirme](https://docs.microsoft.com/tr-tr/learn/paths/secure-your-cloud-data)
-#### Öğrenme Yolu - 6 sa 45 dk - Modül sayısı: 8
-Azure güvenlik ve uyumluluk için tasarlanmıştır. Uygulama verilerinizi verilere yalnızca yetkili hizmetler ve istemcilerin erişiminin olduğundan emin olmak üzere güvenli bir şekilde depolamak için yerleşik hizmetlerden yararlanın.
+## [Sunucusuz uygulamalar oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-serverless-applications)
+#### Öğrenme Yolu - 6 sa 15 dk - Modül sayısı: 7
+Azure İşlevleri çeşitli dış olaylar tarafından tetiklenebilen olay temelli, isteğe bağlı hesaplama sunan sistemlerin oluşturulmasına olanak sağlar. Sunucu tarafı mantığını yürütmek ve sunucusuz mimari oluşturmak için işlevleri kullanmayı öğrenin.
 
 Modules:
-- Azure’da güvenlik için tasarlama
-- Üretime göndermeden önce dikkate alınması gereken en önemli 5 güvenlik öğesi
-- Azure Depolama hesabınızı güvenli hale getirme
-- Azure Key Vault ile sunucu uygulamalarınızdaki gizli dizileri yönetme
-- Azure App Service ile tarayıcı tabanlı uygulamaların kimliğini doğrulama
-- Koşullu erişim ile Azure kaynaklarınızın güvenliğini sağlama
-- Rol tabanlı erişim denetimiyle (RBAC) Azure kaynaklarınızın güvenliğini sağlama
+- İş süreçlerini tümleştirmek ve otomatikleştirmek için uygun Azure hizmetini seçme
+- Azure İşlevleri ile sunucusuz mantık oluşturma
+- Tetikleyicilerle bir Azure işlevi yürütme
+- Giriş ve çıkış bağlamalarını kullanarak Azure işlev zinciri oluşturma
+- Dayanıklı İşlevler ile uzun süre çalışan sunucusuz iş akışı oluşturma
+- Visual Studio ile Azure İşlevi geliştirme, test etme ve dağıtma
+- Web kancasıyla tetiklenen bir Azure İşleviyle GitHub olaylarını izleme
+
+## [Azure'da ilişkisel verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-relational-data-in-azure)
+#### Öğrenme Yolu - 3 sa 20 dk - Modül sayısı: 4
+Azure SQL Server, PostgreSQL ve MySQL dahil çeşitli popüler SQL tabanlı veritabanı çözümlerini destekler. Uygulamanızın verilerini bulutta depolamak ve buluttan almak için Azure’da bu kurumsal veri çözümlerini kullanmayı öğrenin.
+
+Modules:
+- Uygulama verilerini depolamak için Azure SQL veritabanı sağlama
+- PostgreSQL için Azure Veritabanı sunucusu oluşturma
+- SQL elastik havuzlarıyla birden çok Azure SQL Veritabanını ölçeklendirme
 - Azure SQL Veritabanınızın güvenliğini sağlama
 
-## [Azure’da harika çözümlerin mimarisini oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/architect-great-solutions-in-azure)
-#### Öğrenme Yolu - 4 sa 17 dk - Modül sayısı: 5
-Her iyi mimaride bulunan temel ilkeleri inceleyerek Azure’da güvenli, ölçeklenebilir, yüksek performanslı çözümler tasarlamayı ve oluşturmayı öğrenin.
+## [Azure’da kaynakları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/manage-resources-in-azure)
+#### Öğrenme Yolu - 4 sa 15 dk - Modül sayısı: 5
+Bulut tabanlı kaynakları oluşturmak, yönetmek ve denetlemek için Azure komut satırı ve web portalıyla çalışmayı öğrenin.
 
 Modules:
-- Harika bir Azure mimarisinin yapı taşları
-- Azure’da güvenlik için tasarlama
-- Azure’da performans ve ölçeklenebilirlik için tasarlama
-- Azure’da verimlilik ve işlem için tasarlama
-- Azure’da kullanılabilirlik ve kurtarılabilirlik için tasarlama
+- Azure’da gereksinimleri bulut türleri ve hizmet modelleriyle uyumlu hale getirme
+- CLI ile Azure hizmetlerini denetleme
+- PowerShell ile betikleri kullanarak Azure görevlerini otomatikleştirme
+- Azure için maliyetleri tahmin etme ve harcamaları iyileştirme
+- Azure Resource Manager ile Azure kaynaklarınızı denetleme ve düzenleme
 
 ## [Azure’da altyapı kaynaklarını yönetme](https://docs.microsoft.com/tr-tr/learn/paths/administer-infrastructure-resources-in-azure)
 #### Öğrenme Yolu - 9 sa 34 dk - Modül sayısı: 10
@@ -435,61 +499,6 @@ Modules:
 - Azure depolama disklerinde önbelleğe alma ve performans
 - Azure sanal makine disklerinizin güvenliğini sağlama
 
-## [Azure'da ilişkisel verilerle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-relational-data-in-azure)
-#### Öğrenme Yolu - 3 sa 20 dk - Modül sayısı: 4
-Azure SQL Server, PostgreSQL ve MySQL dahil çeşitli popüler SQL tabanlı veritabanı çözümlerini destekler. Uygulamanızın verilerini bulutta depolamak ve buluttan almak için Azure’da bu kurumsal veri çözümlerini kullanmayı öğrenin.
-
-Modules:
-- Uygulama verilerini depolamak için Azure SQL veritabanı sağlama
-- PostgreSQL için Azure Veritabanı sunucusu oluşturma
-- SQL elastik havuzlarıyla birden çok Azure SQL Veritabanını ölçeklendirme
-- Azure SQL Veritabanınızın güvenliğini sağlama
-
-## [Sunucusuz uygulamalar oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/create-serverless-applications)
-#### Öğrenme Yolu - 6 sa 15 dk - Modül sayısı: 7
-Azure İşlevleri çeşitli dış olaylar tarafından tetiklenebilen olay temelli, isteğe bağlı hesaplama sunan sistemlerin oluşturulmasına olanak sağlar. Sunucu tarafı mantığını yürütmek ve sunucusuz mimari oluşturmak için işlevleri kullanmayı öğrenin.
-
-Modules:
-- İş süreçlerini tümleştirmek ve otomatikleştirmek için uygun Azure hizmetini seçme
-- Azure İşlevleri ile sunucusuz mantık oluşturma
-- Tetikleyicilerle bir Azure işlevi yürütme
-- Giriş ve çıkış bağlamalarını kullanarak Azure işlev zinciri oluşturma
-- Dayanıklı İşlevler ile uzun süre çalışan sunucusuz iş akışı oluşturma
-- Visual Studio ile Azure İşlevi geliştirme, test etme ve dağıtma
-- Web kancasıyla tetiklenen bir Azure İşleviyle GitHub olaylarını izleme
-
-## [Hizmetlerinizi birbirine bağlama](https://docs.microsoft.com/tr-tr/learn/paths/connect-your-services-together)
-#### Öğrenme Yolu - 3 sa 31 dk - Modül sayısı: 4
-Azure web sitesi ön uçları, arka uç hizmetleri ve isteğe bağlı bilgi işlem hizmetleri gerçekleştiren tetiklenebilen hizmetleri içeren çeşitli bileşenlerden oluşan uygulamalar oluşturmanıza olanak sağlar. Azure ayrıca bu bileşenlerin birbirine veri iletmesine olanak sağlayan çeşitli iletişim stratejilerini de içerir. Test edilebilir bileşenler ile ölçeklenebilir, etkili çözümler oluşturmak için bu iletişim hizmetlerini kullanmayı öğrenin.
-
-Modules:
-- Hizmetlerinizi gevşek bir şekilde bağlamak için bir mesajlaşma modeli seçme
-- Azure Service Bus ile ileti tabanlı iletişim iş akışları uygulama
-- Azure Kuyruk depolamayla uygulamalar arasında iletişim kurma
-- Azure Event Hubs’ı kullanarak Büyük Veri uygulamaları için güvenilir mesajlaşmayı etkinleştirme
-
-## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
-#### Öğrenme Yolu - 3 sa 50 dk - Modül sayısı: 5
-Azure’da web uygulamaları, web sitenizi temel alınan sunucular, depolama veya ağ varlıkları ile çalışmanıza gerek olmadan yayımlamanıza ve yönetmenize olanak sağlar. Bunun yerine, web sitenizin özelliklerine odaklanabilir ve sitenize güvenli erişim sağlamak için güçlü Azure platformundan yararlanabilirsiniz.
-
-Modules:
-- Azure geliştirme için geliştirme ortamınızı hazırlama
-- Azure App Service ile web uygulaması barındırma
-- Visual Studio ile Azure’da bir web uygulaması yayımlama
-- App Service dağıtım yuvalarını kullanarak test etmek ve geri almak için bir web uygulaması dağıtımı hazırlama
-- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
-
-## [Azure’da kaynakları yönetme](https://docs.microsoft.com/tr-tr/learn/paths/manage-resources-in-azure)
-#### Öğrenme Yolu - 4 sa 15 dk - Modül sayısı: 5
-Bulut tabanlı kaynakları oluşturmak, yönetmek ve denetlemek için Azure komut satırı ve web portalıyla çalışmayı öğrenin.
-
-Modules:
-- Azure’da gereksinimleri bulut türleri ve hizmet modelleriyle uyumlu hale getirme
-- CLI ile Azure hizmetlerini denetleme
-- PowerShell ile betikleri kullanarak Azure görevlerini otomatikleştirme
-- Azure için maliyetleri tahmin etme ve harcamaları iyileştirme
-- Azure Resource Manager ile Azure kaynaklarınızı denetleme ve düzenleme
-
 ## [Azure sanal makineleriyle bir web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-virtual-machines)
 #### Öğrenme Yolu - 4 sa 18 dk - Modül sayısı: 4
 Web barındırma gereksinimleriniz Azure Web uygulaması platformu tarafından doğrudan desteklenmiyorsa, web sunucusunu tüm yönleriyle özelleştirmek ve denetlemek için sanal makinelerden yararlanabilirsiniz. Linux ve Windows’da web uygulamaları barındıran sanal makineler oluşturmayı, yapılandırmayı ve yönetmeyi öğrenin.
@@ -499,6 +508,32 @@ Modules:
 - Azure'da Linux sanal makinesi oluşturma
 - Azure'da Windows sanal makinesi oluşturma
 - Azure Linux sanal makinesinde MEAN yığınıyla web uygulaması derleme ve çalıştırma
+
+## [Azure App Service ile Azure’a web sitesi dağıtma](https://docs.microsoft.com/tr-tr/learn/paths/deploy-a-website-with-azure-app-service)
+#### Öğrenme Yolu - 4 sa 36 dk - Modül sayısı: 6
+Azure’da web uygulamaları, web sitenizi temel alınan sunucular, depolama veya ağ varlıkları ile çalışmanıza gerek olmadan yayımlamanıza ve yönetmenize olanak sağlar. Bunun yerine, web sitenizin özelliklerine odaklanabilir ve sitenize güvenli erişim sağlamak için güçlü Azure platformundan yararlanabilirsiniz.
+
+Modules:
+- Azure geliştirme için geliştirme ortamınızı hazırlama
+- Azure App Service ile web uygulaması barındırma
+- Visual Studio ile Azure’da bir web uygulaması yayımlama
+- App Service dağıtım yuvalarını kullanarak test etmek ve geri almak için bir web uygulaması dağıtımı hazırlama
+- App Service ölçeği artırma ve ölçeği genişletme özellikleri ile talepleri verimli bir şekilde karşılamak için bir App Service web uygulamasını ölçeklendirme
+- Azure App Service ile kapsayıcılı bir web uygulamasını dağıtma ve çalıştırma
+
+## [Bulut verilerinizi güvenli hale getirme](https://docs.microsoft.com/tr-tr/learn/paths/secure-your-cloud-data)
+#### Öğrenme Yolu - 6 sa 45 dk - Modül sayısı: 8
+Azure güvenlik ve uyumluluk için tasarlanmıştır. Uygulama verilerinizi verilere yalnızca yetkili hizmetler ve istemcilerin erişiminin olduğundan emin olmak üzere güvenli bir şekilde depolamak için yerleşik hizmetlerden yararlanın.
+
+Modules:
+- Azure’da güvenlik için tasarlama
+- Üretime göndermeden önce dikkate alınması gereken en önemli 5 güvenlik öğesi
+- Azure Depolama hesabınızı güvenli hale getirme
+- Azure Key Vault ile sunucu uygulamalarınızdaki gizli dizileri yönetme
+- Azure App Service ile tarayıcı tabanlı uygulamaların kimliğini doğrulama
+- Koşullu erişim ile Azure kaynaklarınızın güvenliğini sağlama
+- Rol tabanlı erişim denetimiyle (RBAC) Azure kaynaklarınızın güvenliğini sağlama
+- Azure SQL Veritabanınızın güvenliğini sağlama
 
 ## [Azure Cosmos DB’de NoSQL verileriyle çalışma](https://docs.microsoft.com/tr-tr/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
 #### Öğrenme Yolu - 5 sa 55 dk - Modül sayısı: 8
@@ -514,6 +549,27 @@ Modules:
 - Bölümleme ve dizin oluşturma stratejilerini kullanarak Azure Cosmos DB'nin performansını iyileştirme
 - Azure Cosmos DB ile verilerinizi küresel ölçekte dağıtma
 
+## [Hizmetlerinizi birbirine bağlama](https://docs.microsoft.com/tr-tr/learn/paths/connect-your-services-together)
+#### Öğrenme Yolu - 3 sa 31 dk - Modül sayısı: 4
+Azure web sitesi ön uçları, arka uç hizmetleri ve isteğe bağlı bilgi işlem hizmetleri gerçekleştiren tetiklenebilen hizmetleri içeren çeşitli bileşenlerden oluşan uygulamalar oluşturmanıza olanak sağlar. Azure ayrıca bu bileşenlerin birbirine veri iletmesine olanak sağlayan çeşitli iletişim stratejilerini de içerir. Test edilebilir bileşenler ile ölçeklenebilir, etkili çözümler oluşturmak için bu iletişim hizmetlerini kullanmayı öğrenin.
+
+Modules:
+- Hizmetlerinizi gevşek bir şekilde bağlamak için bir mesajlaşma modeli seçme
+- Azure Service Bus ile ileti tabanlı iletişim iş akışları uygulama
+- Azure Kuyruk depolamayla uygulamalar arasında iletişim kurma
+- Azure Event Hubs’ı kullanarak Büyük Veri uygulamaları için güvenilir mesajlaşmayı etkinleştirme
+
+## [Azure’da harika çözümlerin mimarisini oluşturma](https://docs.microsoft.com/tr-tr/learn/paths/architect-great-solutions-in-azure)
+#### Öğrenme Yolu - 4 sa 17 dk - Modül sayısı: 5
+Her iyi mimaride bulunan temel ilkeleri inceleyerek Azure’da güvenli, ölçeklenebilir, yüksek performanslı çözümler tasarlamayı ve oluşturmayı öğrenin.
+
+Modules:
+- Harika bir Azure mimarisinin yapı taşları
+- Azure’da güvenlik için tasarlama
+- Azure’da performans ve ölçeklenebilirlik için tasarlama
+- Azure’da verimlilik ve işlem için tasarlama
+- Azure’da kullanılabilirlik ve kurtarılabilirlik için tasarlama
+
 ## [Azure'da verileri depolama](https://docs.microsoft.com/tr-tr/learn/paths/store-data-in-azure)
 #### Öğrenme Yolu - 3 sa 50 dk - Modül sayısı: 5
 Azure, verileri depolamak için yapılandırılmamış, arşivleme, ilişkisel ve daha fazlasını içeren çeşitli yollar sağlar. Azure’da depolama yönetimi, Depolaa Hesabı oluşturma ve bulutta depolamak istediğiniz veriler için doğru modeli seçme hakkındaki temel bilgileri öğrenin.
@@ -524,6 +580,36 @@ Modules:
 - Bir uygulamayı Azure Depolama'ya bağlama
 - Azure Depolama hesabınızı güvenli hale getirme
 - Azure Blob depolama ile uygulama verilerini depolama
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/tr-tr/learn/paths/use-journals-dynamics-365-business-central)
+#### Öğrenme Yolu - 2 sa 1 dk - Modül sayısı: 3
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/tr-tr/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### Öğrenme Yolu - 3 sa 13 dk - Modül sayısı: 4
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Create reports with Power BI](https://docs.microsoft.com/tr-tr/learn/paths/create-reports-power-bi)
+#### Öğrenme Yolu - 5 sa 34 dk - Modül sayısı: 5
+Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+
+Modules:
+- Get data with Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Explore data in Power BI
+- Publish and share in Power BI
 
 ## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/build-dynamics-365-finance-operations)
 #### Öğrenme Yolu - 8 sa 30 dk - Modül sayısı: 12
@@ -542,6 +628,45 @@ Modules:
 - Build workspaces in Dynamics 365 for Finance and Operations
 - Implement role-based security in Dynamics 365 for Finance and Operations
 - Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/tr-tr/learn/paths/create-relationships-common-data-service)
+#### Öğrenme Yolu - 2 sa 21 dk - Modül sayısı: 3
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/connect-to-dynamics-365-finance-operations)
+#### Öğrenme Yolu - 4 sa 1 dk - Modül sayısı: 8
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/tr-tr/learn/paths/manage-permissions-administration-common-data-service)
+#### Öğrenme Yolu - 1 sa 23 dk - Modül sayısı: 2
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/tr-tr/learn/paths/extend-power-platform-common-data-service)
+#### Öğrenme Yolu - 2 sa 3 dk - Modül sayısı: 2
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
 
 ## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/introduction-develop-dynamics-365-finance-operations)
 #### Öğrenme Yolu - 3 sa 52 dk - Modül sayısı: 8
@@ -597,7 +722,7 @@ Modules:
 - Introduction to extending the Microsoft Power Platform
 
 ## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/tr-tr/learn/paths/m365-getmodern)
-#### Öğrenme Yolu - 2 sa 33 dk - Modül sayısı: 9
+#### Öğrenme Yolu - 3 sa 17 dk - Modül sayısı: 9
 Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
 
 Modules:
@@ -620,20 +745,6 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/tr-tr/learn/paths/customize-your-xamarin-forms-apps)
-#### Öğrenme Yolu - 7 sa 25 dk - Modül sayısı: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps by using ListView
-- Customize a Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
-
 ## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/tr-tr/learn/paths/build-mobile-apps-with-xamarin-forms)
 #### Öğrenme Yolu - 9 sa 34 dk - Modül sayısı: 10
 Use C# and Visual Studio to create apps that run on iOS and Android devices.
@@ -650,15 +761,19 @@ Modules:
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Öğrenme Yolu - 6 sa 10 dk - Modül sayısı: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/tr-tr/learn/paths/customize-your-xamarin-forms-apps)
+#### Öğrenme Yolu - 7 sa 25 dk - Modül sayısı: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
+- Explore cross-platform design patterns for Xamarin apps
+- Separate your UI and code with Xamarin.Forms data binding
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
+- Design an MVVM viewmodel for Xamarin.Forms
+- Display relationships in Xamarin.Forms with master-detail navigation
+- Create custom controls with Xamarin.Forms renderers
+- Use effects in Xamarin.Forms
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### Öğrenme Yolu - 5 sa 56 dk - Modül sayısı: 4
@@ -670,6 +785,16 @@ Modules:
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Öğrenme Yolu - 6 sa 10 dk - Modül sayısı: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
+Modules:
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
+
 ## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-work-warehouse-management-d365-finance-ops)
 #### Öğrenme Yolu - 4 sa 57 dk - Modül sayısı: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
@@ -677,6 +802,18 @@ Warehouse management in Dynamics 365 for Finance and Operations helps optimize a
 Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Öğrenme Yolu - 6 sa 23 dk - Modül sayısı: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
 #### Öğrenme Yolu - 9 sa 8 dk - Modül sayısı: 6
@@ -698,18 +835,6 @@ Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Öğrenme Yolu - 6 sa 23 dk - Modül sayısı: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/tr-tr/learn/paths/get-started-with-marketing)
 #### Öğrenme Yolu - 1 sa 20 dk - Modül sayısı: 2
@@ -735,36 +860,6 @@ Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/tr-tr/learn/paths/understand-advanced-topics)
-#### Öğrenme Yolu - 2 sa 30 dk - Modül sayısı: 4
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
-
-Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
-
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/tr-tr/learn/paths/advanced-data-options-and-connectors)
-#### Öğrenme Yolu - 2 sa 21 dk - Modül sayısı: 4
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
-
-Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Öğrenme Yolu - 3 sa 9 dk - Modül sayısı: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### Öğrenme Yolu - 5 sa 25 dk - Modül sayısı: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -785,6 +880,16 @@ Modules:
 - Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
 - Configure credit and collections in Dynamics 365 for Finance and Operations
 - Process credit and collections in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Öğrenme Yolu - 3 sa 9 dk - Modül sayısı: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/tr-tr/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Öğrenme Yolu - 2 sa 50 dk - Modül sayısı: 9
@@ -813,15 +918,6 @@ Modules:
 - Introduction to the Power Platform - fundamentals
 - Explore licensing, onboarding, and support Options - fundamentals
 
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/tr-tr/learn/paths/ui-controls-canvas-app-powerapps)
-#### Öğrenme Yolu - 1 sa 58 dk - Modül sayısı: 3
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
-
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
-
 ## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/tr-tr/learn/paths/configure-use-general-ledger-dynamics-365-finance-ops)
 #### Öğrenme Yolu - 8 sa 15 dk - Modül sayısı: 8
 Financial management in Dynamics 365 Finance and Operations empowers business users to control finances and manage funds with accurate information at any time for financial planning and forecasting, and stay up to date with analytics. Since finance is the heart of the business, and the General ledger module is the heart of financial management, this learning path shows you how to set up functionality in the General ledger module.
@@ -837,7 +933,7 @@ Modules:
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
 ## [Microsoft 365 Fundamentals](https://docs.microsoft.com/tr-tr/learn/paths/m365-fundamentals)
-#### Öğrenme Yolu - 3 sa 10 dk - Modül sayısı: 9
+#### Öğrenme Yolu - 3 sa 42 dk - Modül sayısı: 9
 Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
 
 Modules:
@@ -947,15 +1043,6 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/tr-tr/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
-#### Öğrenme Yolu - 2 sa 57 dk - Modül sayısı: 3
-This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
-
-Modules:
-- Get started with Dynamics 365 for Customer Service
-- Managing cases with Microsoft Dynamics 365 for Customer Service
-- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
-
 ## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/tr-tr/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### Öğrenme Yolu - 2 sa 8 dk - Modül sayısı: 2
 This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
@@ -964,16 +1051,14 @@ Modules:
 - Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
 - Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
-## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/tr-tr/learn/paths/working-with-connected-field-service-iot)
-#### Öğrenme Yolu - 5 sa 56 dk - Modül sayısı: 5
-This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/tr-tr/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
+#### Öğrenme Yolu - 2 sa 57 dk - Modül sayısı: 3
+This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
 
 Modules:
-- Get started with Connected Field Service for Dynamics 365 and Azure IoT
-- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
-- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
-- Using IoT Central with Connected Field Service for Dynamics 365
-- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
+- Get started with Dynamics 365 for Customer Service
+- Managing cases with Microsoft Dynamics 365 for Customer Service
+- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/tr-tr/learn/paths/universal-resource-scheduling)
 #### Öğrenme Yolu - 5 sa 9 dk - Modül sayısı: 5
@@ -986,26 +1071,16 @@ Modules:
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
-## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Öğrenme Yolu - 6 sa 56 dk - Modül sayısı: 15
-Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
+## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/tr-tr/learn/paths/working-with-connected-field-service-iot)
+#### Öğrenme Yolu - 5 sa 56 dk - Modül sayısı: 5
+This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
 
 Modules:
-- Welcome to Microsoft Business Applications
-- Introduction to Microsoft Business Applications
-- Enabling digital transformation
-- Achieve business transformation with Microsoft Catalyst
-- Dynamics 365 applications and Power Platform
-- Dynamics 365 for Sales
-- Dynamics 365 for Marketing
-- Dynamics 365 for Customer Service
-- Dynamics 365 for Field Service
-- Dynamics 365 for Finance and Operations
-- Dynamics 365 for Retail
-- Dynamics 365 for Talent
-- Dynamics 365 Business Central
-- Power Platform—Introduction, business value, and demos
-- Dynamics 365 AI - Insights-driven business applications
+- Get started with Connected Field Service for Dynamics 365 and Azure IoT
+- Remotely Monitor and Service Customer Equipment with Connected Field Service for Dynamics 365 and Azure IoT
+- Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
+- Using IoT Central with Connected Field Service for Dynamics 365
+- Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/tr-tr/learn/paths/working-with-dynamics-365-sales)
 #### Öğrenme Yolu - 6 sa 42 dk - Modül sayısı: 7
@@ -1028,6 +1103,27 @@ Modules:
 - Introduction to Dynamics 365 for Finance and Operations
 - Navigate Dynamics 365 for Finance and Operations
 - Get help and learn more about Dynamics 365 for Finance and Operations
+
+## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/tr-tr/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
+#### Öğrenme Yolu - 6 sa 56 dk - Modül sayısı: 15
+Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
+
+Modules:
+- Welcome to Microsoft Business Applications
+- Introduction to Microsoft Business Applications
+- Enabling digital transformation
+- Achieve business transformation with Microsoft Catalyst
+- Dynamics 365 applications and the Power Platform
+- Dynamics 365 for Sales
+- Dynamics 365 for Marketing
+- Dynamics 365 for Customer Service
+- Dynamics 365 for Field Service
+- Dynamics 365 for Finance and Operations
+- Dynamics 365 for Retail
+- Dynamics 365 for Talent
+- Dynamics 365 Business Central
+- Power Platform—Introduction, business value, and demos
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/tr-tr/learn/paths/implementing-dyn365-field-service)
 #### Öğrenme Yolu - 4 sa 14 dk - Modül sayısı: 4

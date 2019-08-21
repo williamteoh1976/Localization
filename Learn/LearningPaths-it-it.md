@@ -1,5 +1,48 @@
 # Summary of Learning Paths (it-it)
-last updated: 2019-07-20
+last updated: 2019-08-20
+## [SQL Server in Linux](https://docs.microsoft.com/it-it/learn/paths/sql-server-2017-on-linux)
+#### Percorso di apprendimento - 2 h 28 min - Numero di moduli: 4
+SQL Server ora viene eseguito nel sistema operativo scelto. In questo percorso di apprendimento si apprenderanno le nozioni di base di SQL Server in Linux e quindi si apprenderà come eseguire SQL Server nei contenitori Linux e come distribuire SQL Server in Linux. Si apprenderà come ottimizzare automaticamente la distribuzione di SQL Server in Linux.
+
+Modules:
+- Introduction to SQL Server on Linux
+- Deploy SQL Server on Linux
+- Automatically tune SQL Server on Linux
+- Run SQL Server 2017 on Linux containers
+
+## [Aggiornamenti di SQL Server](https://docs.microsoft.com/it-it/learn/paths/sql-server-2017-upgrades)
+#### Percorso di apprendimento - 3 h 18 min - Numero di moduli: 5
+L'esecuzione della versione più recente di SQL Server offre numerosi vantaggi in termini prestazioni e funzionalità, espandendo anche il supporto della piattaforma di database. Questo percorso di apprendimento illustra come eseguire un inventario delle distribuzioni di SQL Server usando Microsoft Assessment and Planning Toolkit, come aggiornare i database SQL Server usando Data Migration Assistant e come ottimizzare il sistema aggiornato usando sia Data Experimentation Assistant sia l'Assistente ottimizzazione query.
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
+## [Creare e usare report di analisi con Power BI](https://docs.microsoft.com/it-it/learn/paths/create-use-analytics-reports-power-bi)
+#### Percorso di apprendimento - 6 h 23 min - Numero di moduli: 6
+Questo percorso di apprendimento presenta Power BI e insegna come usare e creare i report di business intelligence.
+
+Modules:
+- Introduzione alla compilazione con Power BI
+- Recuperare dati con Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Esplorare i dati in Power BI
+- Publish and share in Power BI
+
+## [Usare opzioni avanzate per i dati e connettori in PowerApps](https://docs.microsoft.com/it-it/learn/paths/advanced-data-options-and-connectors)
+#### Percorso di apprendimento - 2 h 21 min - Numero di moduli: 4
+Si vuole migliorare l'esperienza dell'utente nell'app canvas? Si vogliono usare connettori personalizzati per connettersi ai dati? Questo percorso di apprendimento offre informazioni utili per entrambe queste esigenze. Sarà anche incentrato su come tenere conto dei limiti dell'origine dati.
+
+Modules:
+- Usare dati relazionali in un'app canvas di PowerApps
+- Lavorare con i limiti dell'origine dati (limiti di delega) in un'app canvas di PowerApps
+- Connessione ad altri dati in un'app canvas di PowerApps
+- Usare connettori personalizzati in un'app canvas di PowerApps
+
 ## [Amministrare i contenitori in Azure](https://docs.microsoft.com/it-it/learn/paths/administer-containers-in-azure)
 #### Percorso di apprendimento - 3 h 45 min - Numero di moduli: 5
 Istanze di Azure Container è il modo più rapido e semplice per eseguire i contenitori in Azure. Questo percorso di apprendimento ti spiegherà come creare e gestire i contenitori e usare ACI per offrire scalabilità elastica per Kubernetes.
@@ -9,7 +52,7 @@ Modules:
 - Compilare e archiviare immagini del contenitore con il Registro contenitori di Azure
 - Eseguire i contenitori Docker con Istanze di Azure Container
 - Distribuire ed eseguire un'app Web in contenitori con il Servizio app di Azure
-- Introduction to Azure Kubernetes Service
+- Introduzione al servizio Azure Kubernetes
 
 ## [Compilare applicazioni tramite Azure DevOps](https://docs.microsoft.com/it-it/learn/paths/build-applications-with-azure-devops)
 #### Percorso di apprendimento - 6 h 10 min - Numero di moduli: 7
@@ -17,8 +60,8 @@ Informazioni su come configurare pipeline di compilazione in grado di compilare,
 
 Modules:
 - Create a build pipeline with Azure Pipelines
-- Implement a code workflow in your build pipeline using Git and GitHub
-- Run quality tests in your build pipeline using Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
 - Scan code for vulnerabilities in Azure Pipelines
 - Scan open source components for vulnerabilities and license ratings in Azure Pipelines
 - Manage build dependencies with Azure Artifacts
@@ -98,6 +141,53 @@ Modules:
 - Creare controlli personalizzati con i renderer di Xamarin.Forms
 - Usare gli effetti in Xamarin.Forms
 
+## [Utilizzare dati con Power BI](https://docs.microsoft.com/it-it/learn/paths/consume-data-with-power-bi)
+#### Percorso di apprendimento - 2 h 35 min - Numero di moduli: 2
+Si desidera adottare decisioni aziendali supportate da dati? È possibile imparare a farlo con Power BI. In questo percorso di apprendimento viene descritto come usare Power BI per esaminare e interagire con questo contenuto per prendere decisioni aziendali.
+
+Modules:
+- Scoprire i vantaggi di Power BI
+- Analizzare dati con Power BI
+
+## [Business school di intelligenza artificiale per il manufacturing](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-manufacturing)
+#### Percorso di apprendimento - 7 h 38 min - Numero di moduli: 10
+I responsabili manufacturing devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. Questo percorso di apprendimento è progettato per i decision maker del settore manufacturing e illustra l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in manufacturing
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Business school di intelligenza artificiale per i servizi finanziari](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-financial-services)
+#### Percorso di apprendimento - 7 h 42 min - Numero di moduli: 10
+I responsabili dei servizi finanziari devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. È essenziale comprendere gli elementi di una strategia che assisterà il settore dei servizi finanziari nella creazione di valore tramite l'intelligenza artificiale.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Identificare i principi per un'implementazione responsabile dell'intelligenza artificiale nell'azienda](https://docs.microsoft.com/it-it/learn/paths/responsible-ai-business-principles)
+#### Percorso di apprendimento - 1 h - 1 modulo
+È fondamentale riflettere sulle implicazioni dell'intelligenza artificiale nell'ambito dell'azienda. Questo percorso di apprendimento include linee guida che favoriscono la configurazione di principi base e di un modello di governance nell'organizzazione, nonché le risorse, le procedure consigliate e gli strumenti necessari.
+
+Modules:
+- Identify guiding principles for responsible AI in your business
+
 ## [Metodi per la promozione di una cultura aziendale orientata all'intelligenza artificiale (IA)](https://docs.microsoft.com/it-it/learn/paths/foster-ai-ready-culture)
 #### Percorso di apprendimento - 3 h 22 min - Numero di moduli: 5
 In questo percorso di apprendimento, varie figure chiave di Microsoft illustrano un framework per la promozione di modifiche essenziali destinate a preparare l'organizzazione per l'intelligenza artificiale. Si apprenderà a identificare le implementazioni ottimali dell'intelligenza artificiale e a descrivere in modo articolato gli scenari pertinenti. Si apprenderà ad analizzare casi line-of-business specifici e casi d'uso corrispondenti nei campi della finanza, del marketing, delle vendite e del servizio clienti. Infine si sarà in grado di identificare le soluzioni di intelligenza artificiale implementabili nella propria organizzazione in base al livello di maturità dell'organizzazione stessa.
@@ -125,38 +215,6 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Business school di intelligenza artificiale per i servizi finanziari](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-financial-services)
-#### Percorso di apprendimento - 7 h 42 min - Numero di moduli: 10
-I responsabili dei servizi finanziari devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. È essenziale comprendere gli elementi di una strategia che assisterà il settore dei servizi finanziari nella creazione di valore tramite l'intelligenza artificiale.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
-## [Business school di intelligenza artificiale per il manufacturing](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-manufacturing)
-#### Percorso di apprendimento - 7 h 38 min - Numero di moduli: 10
-I responsabili manufacturing devono analizzare gli aspetti specifici del settore, per comprendere l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione. Questo percorso di apprendimento è progettato per i decision maker del settore manufacturing e illustra l'effetto di trasformazione reale dell'intelligenza artificiale nell'organizzazione.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
 ## [Introduzione alla tecnologia di intelligenza artificiale per business leader](https://docs.microsoft.com/it-it/learn/paths/ai-technology-for-business-leaders)
 #### Percorso di apprendimento - 1 h 25 min - Numero di moduli: 2
 Questo percorso di apprendimento offre una panoramica generale dei concetti principali dell'intelligenza artificiale. Si apprenderà a descrivere che cos'è l'intelligenza artificiale e quali sono le tecnologie che la supportano. Si apprenderà come Microsoft sta trasformando le più recenti innovazioni nel campo dell'intelligenza artificiale in strumenti, prodotti e servizi che offrono vantaggi alle organizzazioni.
@@ -164,21 +222,6 @@ Questo percorso di apprendimento offre una panoramica generale dei concetti prin
 Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
-
-## [Utilizzare dati con Power BI](https://docs.microsoft.com/it-it/learn/paths/consume-data-with-power-bi)
-#### Percorso di apprendimento - 2 h 35 min - Numero di moduli: 2
-Si desidera adottare decisioni aziendali supportate da dati? È possibile imparare a farlo con Power BI. In questo percorso di apprendimento viene descritto come usare Power BI per esaminare e interagire con questo contenuto per prendere decisioni aziendali.
-
-Modules:
-- Scoprire i vantaggi di Power BI
-- Analizzare dati con Power BI
-
-## [Identificare i principi per un'implementazione responsabile dell'intelligenza artificiale nell'azienda](https://docs.microsoft.com/it-it/learn/paths/responsible-ai-business-principles)
-#### Percorso di apprendimento - 1 h - 1 modulo
-È fondamentale riflettere sulle implicazioni dell'intelligenza artificiale nell'ambito dell'azienda. Questo percorso di apprendimento include linee guida che favoriscono la configurazione di principi base e di un modello di governance nell'organizzazione, nonché le risorse, le procedure consigliate e gli strumenti necessari.
-
-Modules:
-- Identify guiding principles for responsible AI in your business
 
 ## [Business school di intelligenza artificiale per il settore sanitario](https://docs.microsoft.com/it-it/learn/paths/ai-business-school-healthcare)
 #### Percorso di apprendimento - 7 h 37 min - Numero di moduli: 10
@@ -208,6 +251,25 @@ Modules:
 - Define an AI strategy to create business value in manufacturing
 - Define an AI strategy to create business value in healthcare
 
+## [Usare tecniche avanzate per le app canvas di PowerApps](https://docs.microsoft.com/it-it/learn/paths/understand-advanced-topics)
+#### Percorso di apprendimento - 2 h 30 min - Numero di moduli: 4
+Si vuole essere certi di realizzare la migliore app possibile? Questo percorso di apprendimento sarà utile per usare formule avanzate ed eseguire aggiornamenti personalizzati, con indicazioni specifiche anche per controlli e test delle prestazioni.
+
+Modules:
+- Usare tecniche di sviluppo imperativo per le app canvas in PowerApps
+- Creare una formula avanzata che usa tabelle, record e raccolte in un'app canvas di PowerApps
+- Eseguire aggiornamenti personalizzati in un'app canvas di PowerApps
+- Completare i test e i controlli delle prestazioni in un'app canvas di PowerApps
+
+## [Usare l'interfaccia utente e i controlli in un'app canvas in PowerApps](https://docs.microsoft.com/it-it/learn/paths/ui-controls-canvas-app-powerapps)
+#### Percorso di apprendimento - 1 h 58 min - Numero di moduli: 3
+Il successo di un'app dipende spesso dall'esperienza utente per l'app. Questo percorso di apprendimento si concentra su come offrire un'esperienza di spostamento ottimale all'interno dell'app e realizzare l'interfaccia utente migliore usando temi, icone, immagini, elementi di personalizzazione, fattori di forma diversi e controlli.
+
+Modules:
+- Navigazione in un'app canvas di PowerApps
+- Come creare l'interfaccia utente in un'app canvas di PowerApps
+- Usare e comprendere i controlli in un'app canvas di PowerApps
+
 ## [Usare formule di base per migliorare le app canvas in PowerApps](https://docs.microsoft.com/it-it/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Percorso di apprendimento - 2 h 16 min - Numero di moduli: 3
 Si vogliono usare formule per migliorare le funzionalità e modificare un comportamento nell'app canvas in PowerApps? Questo è il percorso di apprendimento adatto per raggiungere l'obiettivo.
@@ -226,15 +288,6 @@ Modules:
 - Modellare dati in un'app canvas di PowerApps
 - Scrivere dati in un'app canvas di PowerApps
 
-## [Introduzione a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/it-it/learn/paths/get-started-with-azure-dsvm)
-#### Percorso di apprendimento - 1 h 43 min - Numero di moduli: 3
-Azure include un servizio macchina virtuale preconfigurato per l'esecuzione di attività di data science. Di seguito viene descritto come usare Azure Data Science Virtual Machine per eseguire attività comuni di analisi dei dati e Machine Learning.
-
-Modules:
-- Introduzione a Data Science Virtual Machine di Azure
-- Esplorare i tipi di Data Science Virtual Machine di Azure
-- Effettuare il provisioning di un'istanza di Data Science Virtual Machine di Azure e usare la macchina
-
 ## [Esplorare lo sviluppo di soluzioni di intelligenza artificiale con i servizi di data science in Azure](https://docs.microsoft.com/it-it/learn/paths/explore-data-science-tools-in-azure)
 #### Percorso di apprendimento - 1 h 40 min - Numero di moduli: 2
 Informazioni sugli strumenti disponibili in Azure per i data scientist, per esplorare, analizzare ed elaborare dati con tecniche di Machine Learning.
@@ -242,15 +295,6 @@ Informazioni sugli strumenti disponibili in Azure per i data scientist, per espl
 Modules:
 - Introduzione alla data science in Azure
 - Scegliere un servizio di data science in Azure
-
-## [Introduzione a Machine Learning con Python e Azure Notebooks](https://docs.microsoft.com/it-it/learn/paths/intro-to-ml-with-python)
-#### Percorso di apprendimento - 2 h 11 min - Numero di moduli: 3
-Python è diventato il linguaggio più usato per eseguire l'analisi dei dati con Machine Learning. Di seguito viene descritto come usare Python e le librerie associate in Jupyter Notebook eseguiti in Azure Notebooks per prevedere i criteri e identificare le tendenze.
-
-Modules:
-- Analizzare dati sul clima con Azure Notebooks
-- Prevedere i ritardi dei voli tramite la creazione di un modello di Machine Learning in Python
-- Analizzare la valutazione delle revisioni con Keras
 
 ## [Creare soluzioni di intelligenza artificiale con il servizio Azure Machine Learning](https://docs.microsoft.com/it-it/learn/paths/build-ai-solutions-with-azure-ml-service)
 #### Percorso di apprendimento - 3 h 17 min - Numero di moduli: 4
@@ -262,6 +306,24 @@ Modules:
 - Automatizzare la selezione del modello di Machine Learning con il servizio Azure Machine Learning
 - Registrare e distribuire modelli di ML con il servizio Azure Machine Learning
 
+## [Introduzione a Machine Learning con Python e Azure Notebooks](https://docs.microsoft.com/it-it/learn/paths/intro-to-ml-with-python)
+#### Percorso di apprendimento - 2 h 11 min - Numero di moduli: 3
+Python è diventato il linguaggio più usato per eseguire l'analisi dei dati con Machine Learning. Di seguito viene descritto come usare Python e le librerie associate in Jupyter Notebook eseguiti in Azure Notebooks per prevedere i criteri e identificare le tendenze.
+
+Modules:
+- Analizzare dati sul clima con Azure Notebooks
+- Prevedere i ritardi dei voli tramite la creazione di un modello di Machine Learning in Python
+- Analizzare la valutazione delle revisioni con Keras
+
+## [Introduzione a Machine Learning con Azure Data Science Virtual Machine](https://docs.microsoft.com/it-it/learn/paths/get-started-with-azure-dsvm)
+#### Percorso di apprendimento - 1 h 43 min - Numero di moduli: 3
+Azure include un servizio macchina virtuale preconfigurato per l'esecuzione di attività di data science. Di seguito viene descritto come usare Azure Data Science Virtual Machine per eseguire attività comuni di analisi dei dati e Machine Learning.
+
+Modules:
+- Introduzione a Data Science Virtual Machine di Azure
+- Esplorare i tipi di Data Science Virtual Machine di Azure
+- Effettuare il provisioning di un'istanza di Data Science Virtual Machine di Azure e usare la macchina
+
 ## [Elaborare e tradurre il parlato con i servizi di riconoscimento vocale dei servizi cognitivi di Azure](https://docs.microsoft.com/it-it/learn/paths/translate-speech-with-speech-services)
 #### Percorso di apprendimento - 1 h 34 min - Numero di moduli: 2
 Informazioni su come convertire la voce in testo e riconoscere parlanti specifici nelle applicazioni grazie all'integrazione dei servizi di riconoscimento vocale dei servizi cognitivi.
@@ -270,22 +332,13 @@ Modules:
 - Tradurre il parlato in tempo reale con Servizi cognitivi di Azure
 - Riconoscere voci specifiche con le API Riconoscimento del parlante in Servizi cognitivi di Azure
 
-## [Valutare il testo con i servizi per la lingua dei servizi cognitivi di Azure](https://docs.microsoft.com/it-it/learn/paths/evaluate-text-with-language-services)
-#### Percorso di apprendimento - 2 h 13 min - Numero di moduli: 3
-Informazioni su come usare i servizi della lingua dei servizi cognitivi per analizzare il testo, determinare la finalità, rilevare i temi per soli adulti ed elaborare gli input in linguaggio naturale.
+## [Elaborare e tradurre il parlato con i servizi di riconoscimento vocale dei servizi cognitivi di Azure](https://docs.microsoft.com/it-it/learn/paths/translate-speech-with-speech-services)
+#### Percorso di apprendimento - 1 h 34 min - Numero di moduli: 2
+Informazioni su come convertire la voce in testo e riconoscere parlanti specifici nelle applicazioni grazie all'integrazione dei servizi di riconoscimento vocale dei servizi cognitivi.
 
 Modules:
-- Classificare e moderare il testo con Content Moderator di Azure
-- Aggiungere i meccanismi mentali del linguaggio alle app tramite Language Understanding Intelligent Service (LUIS)
-- Rilevare la valutazione nel testo con l'API Analisi del testo
-
-## [Creare bot intelligenti con il servizio Azure Bot](https://docs.microsoft.com/it-it/learn/paths/create-bots-with-the-azure-bot-service)
-#### Percorso di apprendimento - 2 h 38 min - Numero di moduli: 2
-Informazioni su come compilare un chat bot e aggiungere intelligenza al bot integrando QnA Maker e LUIS.
-
-Modules:
-- Creare un chatbot di domande frequenti con QnA Maker e il servizio Azure Bot
-- Creare un chatbot con il servizio Azure Bot
+- Tradurre il parlato in tempo reale con Servizi cognitivi di Azure
+- Riconoscere voci specifiche con le API Riconoscimento del parlante in Servizi cognitivi di Azure
 
 ## [Pubblicare un esperimento di Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/it-it/learn/paths/publish-experiment-with-ml-studio)
 #### Percorso di apprendimento - 1 h 6 min - Numero di moduli: 2
@@ -296,13 +349,22 @@ Modules:
 - Creare un esperimento in Azure Machine Learning Studio
 
 ## [Elaborare e classificare le immagini con i servizi di visione dei servizi cognitivi di Azure](https://docs.microsoft.com/it-it/learn/paths/classify-images-with-vision-services)
-#### Percorso di apprendimento - 1 h 59 min - Numero di moduli: 3
+#### Percorso di apprendimento - 2 h 45 min - Numero di moduli: 4
 Servizi cognitivi Microsoft offre funzionalità predefinite per abilitare le funzionalità di visione artificiale nelle applicazioni.  Informazioni su come usare i servizi di visione dei servizi cognitivi per rilevare i visi, aggiungere tag alle immagini e classificarle e identificare gli oggetti.
 
 Modules:
 - Identificare visi ed espressioni usando l'API Visione artificiale in Servizi cognitivi di Azure
 - Elaborare le immagini con il servizio Visione artificiale
 - Classificare le immagini con il Servizio visione artificiale personalizzato Microsoft
+- Valutare i requisiti per l'implementazione delle API Visione personalizzata
+
+## [Creare bot intelligenti con il servizio Azure Bot](https://docs.microsoft.com/it-it/learn/paths/create-bots-with-the-azure-bot-service)
+#### Percorso di apprendimento - 2 h 38 min - Numero di moduli: 2
+Informazioni su come compilare un chat bot e aggiungere intelligenza al bot integrando QnA Maker e LUIS.
+
+Modules:
+- Creare un chatbot di domande frequenti con QnA Maker e il servizio Azure Bot
+- Creare un chatbot con il servizio Azure Bot
 
 ## [Ingegneria dei dati con Azure Databricks](https://docs.microsoft.com/it-it/learn/paths/data-engineering-with-databricks)
 #### Percorso di apprendimento - 7 h 49 min - Numero di moduli: 9
@@ -328,14 +390,6 @@ Modules:
 - Creare flussi più complessi con Microsoft Flow
 - Usare l'interfaccia di amministrazione per gestire ambienti e criteri dati in Microsoft Flow
 
-## [Creare e usare report di analisi con Power BI](https://docs.microsoft.com/it-it/learn/paths/create-use-analytics-reports-power-bi)
-#### Percorso di apprendimento - 1 h 42 min - Numero di moduli: 2
-Questo percorso di apprendimento presenta Power BI e insegna come usare e creare i report di business intelligence.
-
-Modules:
-- Introduzione alla compilazione con Power BI
-- Creare e condividere il primo report di Power BI
-
 ## [Creare un'applicazione basata su modello in PowerApps](https://docs.microsoft.com/it-it/learn/paths/create-app-models-business-processes)
 #### Percorso di apprendimento - 1 h 40 min - Numero di moduli: 2
 Questo percorso di apprendimento illustra come creare un'applicazione PowerApps basata su modello che usa Common Data Service.
@@ -343,45 +397,6 @@ Questo percorso di apprendimento illustra come creare un'applicazione PowerApps 
 Modules:
 - Introduzione alle app basate su modello in PowerApps
 - Iniziare a usare Common Data Service
-
-## [Elaborazione dati su larga scala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/it-it/learn/paths/data-processing-with-azure-adls)
-#### Percorso di apprendimento - 2 h 5 min - Numero di moduli: 3
-In questo percorso di apprendimento si vedrà in che modo Azure Data Lake Storage può rendere più efficiente l'elaborazione di soluzioni di analisi dei Big Data. Si vedrà anche quanto sia facile configurare Azure Data Lake Storage. Verrà anche analizzata la modalità di integrazione di Azure Data Lake Storage con architetture comuni e verranno descritti i diversi metodi di caricamento dei dati nell'archivio dati. Si esaminerà infine la miriade di funzionalità di sicurezza che assicurano la protezione dei dati.
-
-Modules:
-- Introduzione ad Azure Data Lake Storage
-- Caricare i dati in Azure Data Lake Storage
-- Proteggere l'account di archiviazione di Azure
-
-## [Estrarre conoscenze e informazioni dettagliate dai dati con Azure Databricks](https://docs.microsoft.com/it-it/learn/paths/data-science)
-#### Percorso di apprendimento - 4 h 21 min - Numero di moduli: 6
-Informazioni su come usare Azure Databricks per applicare tecniche di data science predittive e analitiche, ad esempio analisi dati sperimentali, training dei modelli, analisi del testo e Deep Learning.
-
-Modules:
-- Introduzione ad Azure Databricks
-- Leggere e scrivere dati con Azure Databricks
-- Eseguire l'analisi esplorativa dei dati con Azure Databricks
-- Eseguire il training, valutare e selezionare modelli di Machine Learning con Azure Databricks
-- Deep Learning con Azure Databricks
-- Eseguire analisi del testo con Azure Databricks
-
-## [Implementare un data warehouse con Azure SQL Data Warehouse](https://docs.microsoft.com/it-it/learn/paths/implement-sql-data-warehouse)
-#### Percorso di apprendimento - 3 h 21 min - Numero di moduli: 4
-Azure SQL Data Warehouse offre un archivio relazionale di Big Data ridimensionabile fino al livello di petabyte. In questo percorso di apprendimento si apprenderà in che modo Azure SQL Data Warehouse è in grado di ottenere un tale ridimensionamento tramite l'architettura MPP (Massively Parallel Processing, elaborazione parallela elevata). Creare un data warehouse in pochi minuti e usare un linguaggio di query familiare per creare report. Caricare grandi quantità di dati in pochi minuti e garantire la sicurezza del data warehouse.
-
-Modules:
-- Progettare un data warehouse con Azure SQL Data Warehouse
-- Eseguire query sui dati in Azure SQL Data Warehouse
-- Importare dati in Azure SQL Data Warehouse usando PolyBase
-- Sicurezza del data warehouse
-
-## [Implementare una soluzione di streaming di dati con Analisi di flusso di Azure](https://docs.microsoft.com/it-it/learn/paths/implement-data-streaming-with-asa)
-#### Percorso di apprendimento - 1 h 14 min - Numero di moduli: 2
-Apprendere i concetti di elaborazione di eventi e di flusso dei dati e la loro applicazione ad Analisi di flusso di Azure. Si configurerà quindi un processo di analisi di flusso per la trasmissione dei dati e si apprenderà come gestire e monitorare un processo in esecuzione.
-
-Modules:
-- Usare i flussi dei dati con Analisi di flusso di Azure
-- Trasformare i dati usando Analisi di flusso di Azure
 
 ## [Azure per Data Engineer](https://docs.microsoft.com/it-it/learn/paths/azure-for-the-data-engineer)
 #### Percorso di apprendimento - 1 h 51 min - Numero di moduli: 3
@@ -403,9 +418,48 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- See Azure in Action
+- See Azure in action
 - Microsoft Cloud Adoption Framework for Azure
 - Microsoft runs on trust
+
+## [Implementare una soluzione di streaming di dati con Analisi di flusso di Azure](https://docs.microsoft.com/it-it/learn/paths/implement-data-streaming-with-asa)
+#### Percorso di apprendimento - 1 h 14 min - Numero di moduli: 2
+Apprendere i concetti di elaborazione di eventi e di flusso dei dati e la loro applicazione ad Analisi di flusso di Azure. Si configurerà quindi un processo di analisi di flusso per la trasmissione dei dati e si apprenderà come gestire e monitorare un processo in esecuzione.
+
+Modules:
+- Usare i flussi dei dati con Analisi di flusso di Azure
+- Trasformare i dati usando Analisi di flusso di Azure
+
+## [Elaborazione dati su larga scala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/it-it/learn/paths/data-processing-with-azure-adls)
+#### Percorso di apprendimento - 2 h 5 min - Numero di moduli: 3
+In questo percorso di apprendimento si vedrà in che modo Azure Data Lake Storage può rendere più efficiente l'elaborazione di soluzioni di analisi dei Big Data. Si vedrà anche quanto sia facile configurare Azure Data Lake Storage. Verrà anche analizzata la modalità di integrazione di Azure Data Lake Storage con architetture comuni e verranno descritti i diversi metodi di caricamento dei dati nell'archivio dati. Si esaminerà infine la miriade di funzionalità di sicurezza che assicurano la protezione dei dati.
+
+Modules:
+- Introduzione ad Azure Data Lake Storage
+- Caricare i dati in Azure Data Lake Storage
+- Proteggere l'account di archiviazione di Azure
+
+## [Implementare un data warehouse con Azure SQL Data Warehouse](https://docs.microsoft.com/it-it/learn/paths/implement-sql-data-warehouse)
+#### Percorso di apprendimento - 3 h 21 min - Numero di moduli: 4
+Azure SQL Data Warehouse offre un archivio relazionale di Big Data ridimensionabile fino al livello di petabyte. In questo percorso di apprendimento si apprenderà in che modo Azure SQL Data Warehouse è in grado di ottenere un tale ridimensionamento tramite l'architettura MPP (Massively Parallel Processing, elaborazione parallela elevata). Creare un data warehouse in pochi minuti e usare un linguaggio di query familiare per creare report. Caricare grandi quantità di dati in pochi minuti e garantire la sicurezza del data warehouse.
+
+Modules:
+- Progettare un data warehouse con Azure SQL Data Warehouse
+- Eseguire query sui dati in Azure SQL Data Warehouse
+- Importare dati in Azure SQL Data Warehouse usando PolyBase
+- Sicurezza del data warehouse
+
+## [Estrarre conoscenze e informazioni dettagliate dai dati con Azure Databricks](https://docs.microsoft.com/it-it/learn/paths/data-science)
+#### Percorso di apprendimento - 4 h 21 min - Numero di moduli: 6
+Informazioni su come usare Azure Databricks per applicare tecniche di data science predittive e analitiche, ad esempio analisi dati sperimentali, training dei modelli, analisi del testo e Deep Learning.
+
+Modules:
+- Introduzione ad Azure Databricks
+- Leggere e scrivere dati con Azure Databricks
+- Eseguire l'analisi esplorativa dei dati con Azure Databricks
+- Eseguire il training, valutare e selezionare modelli di Machine Learning con Azure Databricks
+- Deep Learning con Azure Databricks
+- Eseguire analisi del testo con Azure Databricks
 
 ## [Concetti fondamentali su Azure](https://docs.microsoft.com/it-it/learn/paths/azure-fundamentals)
 #### Percorso di apprendimento - 8 h 59 min - Numero di moduli: 11
@@ -434,6 +488,88 @@ Modules:
 - Scrivere la prima applicazione per Windows 10
 - Scrivere app di Windows connesse a Internet
 
+## [Collegare i servizi tra loro](https://docs.microsoft.com/it-it/learn/paths/connect-your-services-together)
+#### Percorso di apprendimento - 3 h 31 min - Numero di moduli: 4
+Azure consente di creare applicazioni costituite da diversi componenti: front-end del sito Web, servizi di back-end e funzioni attivate che eseguono servizi di calcolo on demand. Azure include anche diverse strategie di comunicazione che consentono ai vari componenti di passarsi i dati tra di loro. Informazioni su come usare questi servizi di comunicazione per creare delle soluzioni scalabili ed efficienti dai componenti testabili.
+
+Modules:
+- Scegliere un modello di messaggistica in Azure per la connessione efficiente dei servizi
+- Implementare flussi di lavoro di comunicazione basati sui messaggi con il bus di servizio di Azure
+- Comunicare tra applicazioni con l'archiviazione code di Azure
+- Abilitare una messaggistica affidabile per applicazioni di Big Data tramite Hub eventi di Azure
+
+## [Proteggere i dati cloud](https://docs.microsoft.com/it-it/learn/paths/secure-your-cloud-data)
+#### Percorso di apprendimento - 6 h 45 min - Numero di moduli: 8
+Azure è stato progettato per offrire sicurezza e conformità. Verrà illustrato come sfruttare i servizi predefiniti per archiviare i dati delle app in modo sicuro e garantire che siano accessibili solo ai client e ai servizi autorizzati.
+
+Modules:
+- Progettare per la sicurezza in Azure
+- 5 elementi di sicurezza fondamentali da considerare prima di passare in produzione
+- Proteggere l'account di archiviazione di Azure
+- Gestire i segreti nelle app server con Azure Key Vault
+- Autenticare le app basate su browser con i servizi app di Azure
+- Proteggere le risorse di Azure con l'accesso condizionale
+- Proteggere le risorse di Azure con il controllo degli accessi in base al ruolo
+- Proteggere il database SQL di Azure
+
+## [Utilizzare i dati NoSQL in Azure Cosmos DB](https://docs.microsoft.com/it-it/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
+#### Percorso di apprendimento - 5 h 55 min - Numero di moduli: 8
+I dati NoSQL sono un modo efficiente per archiviare informazioni che non soddisfano i requisiti di un database SQL relazionale. Scoprire come usare il portale di Azure, l'estensione Azure Cosmos DB per Visual Studio Code e Azure Cosmos DB .NET Core SDK per utilizzare i dati NoSQL dove si preferisce e offrire agli utenti disponibilità elevata, ovunque si trovino.
+
+Modules:
+- Creare un database di Azure Cosmos DB per il ridimensionamento
+- Scegliere l'API appropriata per l'archiviazione di Azure Cosmos DB
+- Inserire ed eseguire query sui dati nel database di Azure Cosmos DB
+- Archiviare e accedere ai dati del grafo in Azure Cosmos DB con l'API Graph
+- Archiviare e accedere ai dati NoSQL con Azure Cosmos DB e l'API Tabella
+- Creare un'app .NET Core per Azure Cosmos DB in Visual Studio Code
+- Ottimizzare le prestazioni di Azure Cosmos DB usando strategie di partizionamento e indicizzazione
+- Distribuire i dati a livello globale con Azure Cosmos DB
+
+## [Gestire le risorse in Azure](https://docs.microsoft.com/it-it/learn/paths/manage-resources-in-azure)
+#### Percorso di apprendimento - 4 h 15 min - Numero di moduli: 5
+Informazioni su come usare la riga di comando di Azure e il portale Web per creare, gestire e controllare le risorse basate su cloud.
+
+Modules:
+- Allineare i requisiti ai tipi di cloud e ai modelli di servizio in Azure
+- Controllare i servizi di Azure con l'interfaccia della riga di comando
+- Automatizzare le attività di Azure usando gli script con PowerShell
+- Stimare i costi e ottimizzare la spesa per Azure
+- Controllare e organizzare le risorse di Azure con Azure Resource Manager
+
+## [Distribuire un sito Web in Azure con il servizio app di Azure](https://docs.microsoft.com/it-it/learn/paths/deploy-a-website-with-azure-app-service)
+#### Percorso di apprendimento - 4 h 36 min - Numero di moduli: 6
+Le app Web in Azure consentono di pubblicare e gestire facilmente un sito Web senza doversi occupare dei server, degli archivi o delle risorse di rete sottostanti. In alternativa, è possibile concentrarsi sulle funzionalità del sito Web e affidarsi alla solida piattaforma di Azure per garantire l'accesso sicuro al sito.
+
+Modules:
+- Preparare l'ambiente di sviluppo per lo sviluppo in Azure
+- Ospitare un'applicazione Web con Servizio app di Azure
+- Pubblicare un'app Web in Azure con Visual Studio
+- Gestire temporaneamente la distribuzione di un'app Web per il test e il rollback usando gli slot di distribuzione del servizio app
+- Ridimensionare un'app Web del servizio app per soddisfare in modo efficiente la domanda tramite l'ampliamento e l'aumento delle prestazioni del servizio App
+- Distribuire ed eseguire un'app Web in contenitori con il Servizio app di Azure
+
+## [Usare i dati relazionali in Azure](https://docs.microsoft.com/it-it/learn/paths/work-with-relational-data-in-azure)
+#### Percorso di apprendimento - 3 h 20 min - Numero di moduli: 4
+Azure supporta diverse soluzioni comuni di database basato su SQL tra cui SQL Server, PostgreSQL e MySQL. Scopri altre informazioni sulle modalità di utilizzo di tali soluzioni di dati aziendali in Azure per archiviare e recuperare i dati dell'app nel cloud.
+
+Modules:
+- Effettuare il provisioning di un database SQL di Azure per archiviare i dati dell'applicazione
+- Creare un server di Database di Azure per PostgreSQL
+- Ridimensionare più database SQL di Azure con i pool di database elastici
+- Proteggere il database SQL di Azure
+
+## [Progettare grandi soluzioni in Azure](https://docs.microsoft.com/it-it/learn/paths/architect-great-solutions-in-azure)
+#### Percorso di apprendimento - 4 h 17 min - Numero di moduli: 5
+Informazioni su come progettare e creare soluzioni sicure, scalabili ed efficienti in Azure esaminando i principi di base di ogni solida architettura.
+
+Modules:
+- Elementi principali per un'architettura ottimale di Azure
+- Progettare per la sicurezza in Azure
+- Progettare per prestazioni e scalabilità in Azure
+- Progettare per l'efficienza e le operazioni in Azure
+- Progettare per la disponibilità e la capacità di ripristino in Azure
+
 ## [Amministrare le risorse di infrastruttura in Azure](https://docs.microsoft.com/it-it/learn/paths/administer-infrastructure-resources-in-azure)
 #### Percorso di apprendimento - 9 h 34 min - Numero di moduli: 10
 Informazioni su come creare, gestire e scalare le risorse delle macchine virtuali.
@@ -450,37 +586,15 @@ Modules:
 - Memorizzazione nella cache e prestazioni dei dischi di archiviazione di Azure
 - Proteggere i dischi delle macchine virtuali di Azure
 
-## [Gestire le risorse in Azure](https://docs.microsoft.com/it-it/learn/paths/manage-resources-in-azure)
-#### Percorso di apprendimento - 4 h 15 min - Numero di moduli: 5
-Informazioni su come usare la riga di comando di Azure e il portale Web per creare, gestire e controllare le risorse basate su cloud.
+## [Distribuire un sito Web con macchine virtuali di Azure](https://docs.microsoft.com/it-it/learn/paths/deploy-a-website-with-azure-virtual-machines)
+#### Percorso di apprendimento - 4 h 18 min - Numero di moduli: 4
+Se i propri requisiti di hosting Web non sono supportati direttamente dalla piattaforma per app Web di Azure, è possibile usare le macchine virtuali per personalizzare e controllare tutti gli aspetti del server Web. Informazioni su come creare, configurare e gestire macchine virtuali in Linux e Windows che ospitano app Web.
 
 Modules:
-- Allineare i requisiti ai tipi di cloud e ai modelli di servizio in Azure
-- Controllare i servizi di Azure con l'interfaccia della riga di comando
-- Automatizzare le attività di Azure usando gli script con PowerShell
-- Stimare i costi e ottimizzare la spesa per Azure
-- Controllare e organizzare le risorse di Azure con Azure Resource Manager
-
-## [Collegare i servizi tra loro](https://docs.microsoft.com/it-it/learn/paths/connect-your-services-together)
-#### Percorso di apprendimento - 3 h 31 min - Numero di moduli: 4
-Azure consente di creare applicazioni costituite da diversi componenti: front-end del sito Web, servizi di back-end e funzioni attivate che eseguono servizi di calcolo on demand. Azure include anche diverse strategie di comunicazione che consentono ai vari componenti di passarsi i dati tra di loro. Informazioni su come usare questi servizi di comunicazione per creare delle soluzioni scalabili ed efficienti dai componenti testabili.
-
-Modules:
-- Scegliere un modello di messaggistica in Azure per la connessione efficiente dei servizi
-- Implementare flussi di lavoro di comunicazione basati sui messaggi con il bus di servizio di Azure
-- Comunicare tra applicazioni con l'archiviazione code di Azure
-- Abilitare una messaggistica affidabile per applicazioni di Big Data tramite Hub eventi di Azure
-
-## [Distribuire un sito Web in Azure con il servizio app di Azure](https://docs.microsoft.com/it-it/learn/paths/deploy-a-website-with-azure-app-service)
-#### Percorso di apprendimento - 3 h 50 min - Numero di moduli: 5
-Le app Web in Azure consentono di pubblicare e gestire facilmente un sito Web senza doversi occupare dei server, degli archivi o delle risorse di rete sottostanti. In alternativa, è possibile concentrarsi sulle funzionalità del sito Web e affidarsi alla solida piattaforma di Azure per garantire l'accesso sicuro al sito.
-
-Modules:
-- Preparare l'ambiente di sviluppo per lo sviluppo in Azure
-- Ospitare un'applicazione Web con Servizio app di Azure
-- Pubblicare un'app Web in Azure con Visual Studio
-- Gestire temporaneamente la distribuzione di un'app Web per il test e il rollback usando gli slot di distribuzione del servizio app
-- Distribuire ed eseguire un'app Web in contenitori con il Servizio app di Azure
+- Introduzione alle macchine virtuali di Azure
+- Creare una macchina virtuale Linux in Azure
+- Creare una macchina virtuale Windows in Azure
+- Compilare ed eseguire un'applicazione Web con lo stack MEAN in una macchina virtuale Linux in Azure
 
 ## [Creare applicazioni serverless](https://docs.microsoft.com/it-it/learn/paths/create-serverless-applications)
 #### Percorso di apprendimento - 6 h 15 min - Numero di moduli: 7
@@ -495,65 +609,6 @@ Modules:
 - Sviluppare, testare e distribuire una funzione di Azure con Visual Studio
 - Monitorare gli eventi GitHub con una funzione di Azure attivata da un webhook
 
-## [Proteggere i dati cloud](https://docs.microsoft.com/it-it/learn/paths/secure-your-cloud-data)
-#### Percorso di apprendimento - 6 h 45 min - Numero di moduli: 8
-Azure è stato progettato per offrire sicurezza e conformità. Verrà illustrato come sfruttare i servizi predefiniti per archiviare i dati delle app in modo sicuro e garantire che siano accessibili solo ai client e ai servizi autorizzati.
-
-Modules:
-- Progettare per la sicurezza in Azure
-- 5 elementi di sicurezza fondamentali da considerare prima di passare in produzione
-- Proteggere l'account di archiviazione di Azure
-- Gestire i segreti nelle app server con Azure Key Vault
-- Autenticare le app basate su browser con i servizi app di Azure
-- Proteggere le risorse di Azure con l'accesso condizionale
-- Proteggere le risorse di Azure con il controllo degli accessi in base al ruolo
-- Proteggere il database SQL di Azure
-
-## [Progettare grandi soluzioni in Azure](https://docs.microsoft.com/it-it/learn/paths/architect-great-solutions-in-azure)
-#### Percorso di apprendimento - 4 h 17 min - Numero di moduli: 5
-Informazioni su come progettare e creare soluzioni sicure, scalabili ed efficienti in Azure esaminando i principi di base di ogni solida architettura.
-
-Modules:
-- Elementi principali per un'architettura ottimale di Azure
-- Progettare per la sicurezza in Azure
-- Progettare per prestazioni e scalabilità in Azure
-- Progettare per l'efficienza e le operazioni in Azure
-- Progettare per la disponibilità e la capacità di ripristino in Azure
-
-## [Usare i dati relazionali in Azure](https://docs.microsoft.com/it-it/learn/paths/work-with-relational-data-in-azure)
-#### Percorso di apprendimento - 3 h 20 min - Numero di moduli: 4
-Azure supporta diverse soluzioni comuni di database basato su SQL tra cui SQL Server, PostgreSQL e MySQL. Scopri altre informazioni sulle modalità di utilizzo di tali soluzioni di dati aziendali in Azure per archiviare e recuperare i dati dell'app nel cloud.
-
-Modules:
-- Effettuare il provisioning di un database SQL di Azure per archiviare i dati dell'applicazione
-- Creare un server di Database di Azure per PostgreSQL
-- Ridimensionare più database SQL di Azure con i pool di database elastici
-- Proteggere il database SQL di Azure
-
-## [Distribuire un sito Web con macchine virtuali di Azure](https://docs.microsoft.com/it-it/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### Percorso di apprendimento - 4 h 18 min - Numero di moduli: 4
-Se i propri requisiti di hosting Web non sono supportati direttamente dalla piattaforma per app Web di Azure, è possibile usare le macchine virtuali per personalizzare e controllare tutti gli aspetti del server Web. Informazioni su come creare, configurare e gestire macchine virtuali in Linux e Windows che ospitano app Web.
-
-Modules:
-- Introduzione alle macchine virtuali di Azure
-- Creare una macchina virtuale Linux in Azure
-- Creare una macchina virtuale Windows in Azure
-- Compilare ed eseguire un'applicazione Web con lo stack MEAN in una macchina virtuale Linux in Azure
-
-## [Utilizzare i dati NoSQL in Azure Cosmos DB](https://docs.microsoft.com/it-it/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Percorso di apprendimento - 5 h 55 min - Numero di moduli: 8
-I dati NoSQL sono un modo efficiente per archiviare informazioni che non soddisfano i requisiti di un database SQL relazionale. Scoprire come usare il portale di Azure, l'estensione Azure Cosmos DB per Visual Studio Code e Azure Cosmos DB .NET Core SDK per utilizzare i dati NoSQL dove si preferisce e offrire agli utenti disponibilità elevata, ovunque si trovino.
-
-Modules:
-- Creare un database di Azure Cosmos DB per il ridimensionamento
-- Scegliere l'API appropriata per l'archiviazione di Azure Cosmos DB
-- Inserire ed eseguire query sui dati nel database di Azure Cosmos DB
-- Archiviare e accedere ai dati del grafo in Azure Cosmos DB con l'API Graph
-- Archiviare e accedere ai dati NoSQL con Azure Cosmos DB e l'API Tabella
-- Creare un'app .NET Core per Azure Cosmos DB in Visual Studio Code
-- Ottimizzare le prestazioni di Azure Cosmos DB usando strategie di partizionamento e indicizzazione
-- Distribuire i dati a livello globale con Azure Cosmos DB
-
 ## [Archiviare i dati in Azure](https://docs.microsoft.com/it-it/learn/paths/store-data-in-azure)
 #### Percorso di apprendimento - 3 h 50 min - Numero di moduli: 5
 Azure offre vari modi per archiviare i dati: non strutturati, archiviazione, relazionali e altro ancora. Informazioni sulle nozioni di base sulla gestione automatica in Azure, su come creare un account di archiviazione e su come scegliere il modello adatto per i dati da archiviare nel cloud.
@@ -564,6 +619,75 @@ Modules:
 - Connettere un'app ad Archiviazione di Azure
 - Proteggere l'account di archiviazione di Azure
 - Archiviare dati dell'applicazione con l'archiviazione BLOB di Azure
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/it-it/learn/paths/use-journals-dynamics-365-business-central)
+#### Percorso di apprendimento - 2 h 1 min - Numero di moduli: 3
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/it-it/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### Percorso di apprendimento - 3 h 13 min - Numero di moduli: 4
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Create reports with Power BI](https://docs.microsoft.com/it-it/learn/paths/create-reports-power-bi)
+#### Percorso di apprendimento - 5 h 34 min - Numero di moduli: 5
+Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+
+Modules:
+- Get data with Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Explore data in Power BI
+- Publish and share in Power BI
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/it-it/learn/paths/extend-power-platform-common-data-service)
+#### Percorso di apprendimento - 2 h 3 min - Numero di moduli: 2
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/it-it/learn/paths/manage-permissions-administration-common-data-service)
+#### Percorso di apprendimento - 1 h 23 min - Numero di moduli: 2
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/connect-to-dynamics-365-finance-operations)
+#### Percorso di apprendimento - 4 h 1 min - Numero di moduli: 8
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/it-it/learn/paths/create-relationships-common-data-service)
+#### Percorso di apprendimento - 2 h 21 min - Numero di moduli: 3
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
 
 ## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/build-dynamics-365-finance-operations)
 #### Percorso di apprendimento - 8 h 30 min - Numero di moduli: 12
@@ -637,7 +761,7 @@ Modules:
 - Introduction to extending the Microsoft Power Platform
 
 ## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/it-it/learn/paths/m365-getmodern)
-#### Percorso di apprendimento - 2 h 33 min - Numero di moduli: 9
+#### Percorso di apprendimento - 3 h 17 min - Numero di moduli: 9
 Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
 
 Modules:
@@ -660,16 +784,6 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 4
-Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
-
-Modules:
-- Configure and work with inventory management in Dynamics 365 for Finance and Operations
-- Use inventory reports in Finance and Operations
-- Create products and product masters in in Dynamics 365 for Finance and Operations
-- Create bill of materials in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
 #### Percorso di apprendimento - 6 h 10 min - Numero di moduli: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
@@ -688,17 +802,15 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Percorso di apprendimento - 6 h 23 min - Numero di moduli: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+#### Percorso di apprendimento - 5 h 56 min - Numero di moduli: 4
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
 Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+- Configure and work with inventory management in Dynamics 365 for Finance and Operations
+- Use inventory reports in Finance and Operations
+- Create products and product masters in in Dynamics 365 for Finance and Operations
+- Create bill of materials in Dynamics 365 for Finance and Operations
 
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### Percorso di apprendimento - 5 h 53 min - Numero di moduli: 3
@@ -708,6 +820,18 @@ Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Percorso di apprendimento - 6 h 23 min - Numero di moduli: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
 #### Percorso di apprendimento - 9 h 8 min - Numero di moduli: 6
@@ -729,14 +853,6 @@ Modules:
 - Set up and manage Dynamics 365 for Marketing
 - Advanced configuration for Dynamics 365 for Marketing
 
-## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-use-budgeting-d365-finance-ops)
-#### Percorso di apprendimento - 2 h 28 min - Numero di moduli: 2
-Every organization, whether it is private or public, sets financial and operational goals by creating budgets. With the collaborative and process-driven nature of budget planning, you can make your budget process more efficient.
-
-Modules:
-- Configure and use basic budgeting and budget control in Dynamics 365 for Finance and Operations
-- Configure and use budget planning in Dynamics 365 for Finance and Operations
-
 ## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-manage-fixed-assets-d365-finance-ops)
 #### Percorso di apprendimento - 3 h 51 min - Numero di moduli: 2
 You can set up and enter acquisition information for fixed assets, and then manage them by depreciating them and setting a capitalization threshold. The way in which fixed assets are handled must correspond with both international accounting standards and the accounting legislation in each country or region.
@@ -745,25 +861,13 @@ Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/it-it/learn/paths/understand-advanced-topics)
-#### Percorso di apprendimento - 2 h 30 min - Numero di moduli: 4
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-use-budgeting-d365-finance-ops)
+#### Percorso di apprendimento - 2 h 28 min - Numero di moduli: 2
+Every organization, whether it is private or public, sets financial and operational goals by creating budgets. With the collaborative and process-driven nature of budget planning, you can make your budget process more efficient.
 
 Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
-
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/it-it/learn/paths/advanced-data-options-and-connectors)
-#### Percorso di apprendimento - 2 h 21 min - Numero di moduli: 4
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
-
-Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
+- Configure and use basic budgeting and budget control in Dynamics 365 for Finance and Operations
+- Configure and use budget planning in Dynamics 365 for Finance and Operations
 
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Percorso di apprendimento - 5 h 26 min - Numero di moduli: 4
@@ -775,16 +879,6 @@ Modules:
 - Configure credit and collections in Dynamics 365 for Finance and Operations
 - Process credit and collections in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Percorso di apprendimento - 3 h 9 min - Numero di moduli: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### Percorso di apprendimento - 5 h 25 min - Numero di moduli: 5
 You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
@@ -795,6 +889,16 @@ Modules:
 - Configure letters of credit and guarantees in Finance and Operations
 - Configure and process postdated checks in Dynamics 365 for Finance and Operations
 - Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Percorso di apprendimento - 3 h 9 min - Numero di moduli: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+
+Modules:
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/it-it/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Percorso di apprendimento - 2 h 50 min - Numero di moduli: 9
@@ -810,15 +914,6 @@ Modules:
 - Secure your organization with built-in, intelligent security from Microsoft 365
 - Meet the growing demand for transparency, privacy, and compliance with Microsoft 365
 - Accelerate deployment and improve adoption of Microsoft 365 with FastTrack
-
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/it-it/learn/paths/ui-controls-canvas-app-powerapps)
-#### Percorso di apprendimento - 1 h 58 min - Numero di moduli: 3
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
-
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/it-it/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### Percorso di apprendimento - 5 h 36 min - Numero di moduli: 6
@@ -949,14 +1044,13 @@ Modules:
 - Define and track individual goals in Dynamics 365 Customer Engagement
 - Use goal metrics in Dynamics 365 Customer Engagement
 
-## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
-#### Percorso di apprendimento - 2 h 57 min - Numero di moduli: 3
-This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Percorso di apprendimento - 2 h 8 min - Numero di moduli: 2
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
 
 Modules:
-- Get started with Dynamics 365 for Customer Service
-- Managing cases with Microsoft Dynamics 365 for Customer Service
-- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
 #### Percorso di apprendimento - 2 h - Numero di moduli: 2
@@ -966,13 +1060,14 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Percorso di apprendimento - 2 h 8 min - Numero di moduli: 2
-This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/it-it/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
+#### Percorso di apprendimento - 2 h 57 min - Numero di moduli: 3
+This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
 
 Modules:
-- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
-- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
+- Get started with Dynamics 365 for Customer Service
+- Managing cases with Microsoft Dynamics 365 for Customer Service
+- Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
 
 ## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/it-it/learn/paths/universal-resource-scheduling)
 #### Percorso di apprendimento - 5 h 9 min - Numero di moduli: 5
@@ -1009,15 +1104,6 @@ Modules:
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
 
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Percorso di apprendimento - 1 h 15 min - Numero di moduli: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
-
-Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
-
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/it-it/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### Percorso di apprendimento - 6 h 56 min - Numero di moduli: 15
 Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
@@ -1027,7 +1113,7 @@ Modules:
 - Introduction to Microsoft Business Applications
 - Enabling digital transformation
 - Achieve business transformation with Microsoft Catalyst
-- Dynamics 365 applications and Power Platform
+- Dynamics 365 applications and the Power Platform
 - Dynamics 365 for Sales
 - Dynamics 365 for Marketing
 - Dynamics 365 for Customer Service
@@ -1038,6 +1124,15 @@ Modules:
 - Dynamics 365 Business Central
 - Power Platform—Introduction, business value, and demos
 - Dynamics 365 AI - Insights-driven business applications
+
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/it-it/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
+#### Percorso di apprendimento - 1 h 15 min - Numero di moduli: 3
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/it-it/learn/paths/implementing-dyn365-field-service)
 #### Percorso di apprendimento - 4 h 14 min - Numero di moduli: 4

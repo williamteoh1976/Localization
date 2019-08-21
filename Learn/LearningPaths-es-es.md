@@ -1,5 +1,48 @@
 # Summary of Learning Paths (es-es)
-last updated: 2019-07-20
+last updated: 2019-08-20
+## [SQL Server en Linux](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-on-linux)
+#### Ruta de aprendizaje - 2 h 28 min - Número de módulos: 4
+SQL Server ahora se ejecuta en el sistema operativo que elija. En esta ruta de aprendizaje descubrirá los aspectos básicos de SQL Server en Linux, antes de descubrir cómo ejecutar SQL Server en contenedores Linux e implementar SQL Server en Linux. Después, aprenderá a ajustar automáticamente la implementación de SQL Server en Linux.
+
+Modules:
+- Introduction to SQL Server on Linux
+- Deploy SQL Server on Linux
+- Automatically tune SQL Server on Linux
+- Run SQL Server 2017 on Linux containers
+
+## [Actualizaciones de SQL Server](https://docs.microsoft.com/es-es/learn/paths/sql-server-2017-upgrades)
+#### Ruta de aprendizaje - 3 h 18 min - Número de módulos: 5
+La ejecución de la versión más reciente de SQL Server le proporciona numerosas ventajas de rendimiento y funcionalidad, a la vez que amplía el soporte técnico de la plataforma de base de datos. En esta ruta de aprendizaje aprenderá cómo hacer un inventario de las implementaciones de SQL Server mediante el kit de herramientas de Microsoft Assessment and Planning, cómo actualizar las bases de datos de SQL Server con Data Migration Assistant y cómo optimizar el sistema actualizado mediante Data Experimentation Assistant y Query Tuning Assistant.
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
+## [Creación y uso de informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi)
+#### Ruta de aprendizaje - 5 h 53 min - Número de módulos: 6
+Esta ruta de aprendizaje es una introducción a Power BI y le enseña a usar y crear informes de inteligencia empresarial.
+
+Modules:
+- Introducción a la compilación con Power BI
+- Obtención de datos con Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Exploración de datos en Power BI
+- Publish and share in Power BI
+
+## [Uso de conectores y opciones de datos avanzados en PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors)
+#### Ruta de aprendizaje - 2 h 21 min - Número de módulos: 4
+¿Desea mejorar la experiencia de los usuarios en su aplicación de lienzo? ¿Desea usar conectores personalizados para conectarse a los datos? Esta ruta de aprendizaje le ayudará a hacer ambas cosas. También se centrará en el trabajo con límites de orígenes de datos.
+
+Modules:
+- Uso de datos relacionales en una aplicación de lienzo de PowerApps
+- Trabajo con límites de orígenes de datos (límites de delegación) en una aplicación de lienzo de PowerApps
+- Conexión con otros datos en la aplicación de lienzo de PowerApps
+- Uso de conectores personalizados en la aplicación de lienzo de PowerApps
+
 ## [Administración de contenedores en Azure](https://docs.microsoft.com/es-es/learn/paths/administer-containers-in-azure)
 #### Ruta de aprendizaje - 3 h 45 min - Número de módulos: 5
 Azure Container Instances es la manera más rápida y sencilla de ejecutar contenedores en Azure. Esta ruta de aprendizaje le enseñará a crear y administrar los contenedores, y cómo se puede usar ACI para proporcionar escala elástica para Kubernetes.
@@ -9,7 +52,7 @@ Modules:
 - Compilación y almacenamiento de imágenes de contenedor con Azure Container Registry
 - Ejecutar contenedores de Docker con Azure Container Instances
 - Implementación y ejecución de una aplicación web en contenedor con Azure App Service
-- Introduction to Azure Kubernetes Service
+- Introducción a Azure Kubernetes Service
 
 ## [Creación de aplicaciones con Azure DevOps](https://docs.microsoft.com/es-es/learn/paths/build-applications-with-azure-devops)
 #### Ruta de aprendizaje - 6 h 10 min - Número de módulos: 7
@@ -17,8 +60,8 @@ Obtenga más información sobre cómo configurar las canalizaciones de compilaci
 
 Modules:
 - Create a build pipeline with Azure Pipelines
-- Implement a code workflow in your build pipeline using Git and GitHub
-- Run quality tests in your build pipeline using Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
 - Scan code for vulnerabilities in Azure Pipelines
 - Scan open source components for vulnerabilities and license ratings in Azure Pipelines
 - Manage build dependencies with Azure Artifacts
@@ -68,6 +111,20 @@ Modules:
 - Personalización de una aplicación de lienzo en PowerApps
 - Administrar aplicaciones en PowerApps
 
+## [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps)
+#### Ruta de aprendizaje - 7 h 25 min - Número de módulos: 8
+Aplique toques y técnicas de desarrollo profesionales para conseguir aplicaciones más bonitas y fáciles de mantener.
+
+Modules:
+- Exploración de patrones de diseño multiplataforma para aplicaciones Xamarin
+- Separación de la interfaz de usuario y el código con enlaces de datos de Xamarin.Forms
+- Representación de colecciones en aplicaciones de Xamarin.Forms con ListView
+- Personalización de una ListView de Xamarin.Forms
+- Diseño de un modelo de vista MVVM para Xamarin.Forms
+- Mostrar relaciones en Xamarin.Forms con navegación de maestro y detalles
+- Creación de controles personalizados con los representadores de Xamarin.Forms
+- Usar efectos en Xamarin.Forms
+
 ## [Compilación de aplicaciones móviles con Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/build-mobile-apps-with-xamarin-forms)
 #### Ruta de aprendizaje - 9 h 34 min - Número de módulos: 10
 Use C# y Visual Studio para crear aplicaciones para dispositivos iOS y Android.
@@ -84,79 +141,13 @@ Modules:
 - Almacenamiento de datos locales con SQLite en una aplicación de Xamarin.Forms
 - Creación de aplicaciones de Xamarin.Forms de varias páginas con navegación de pila y pestaña
 
-## [Personalización e incorporación de características avanzadas en aplicaciones de Xamarin.Forms](https://docs.microsoft.com/es-es/learn/paths/customize-your-xamarin-forms-apps)
-#### Ruta de aprendizaje - 7 h 25 min - Número de módulos: 8
-Aplique toques y técnicas de desarrollo profesionales para conseguir aplicaciones más bonitas y fáciles de mantener.
-
-Modules:
-- Exploración de patrones de diseño multiplataforma para aplicaciones Xamarin
-- Separación de la interfaz de usuario y el código con enlaces de datos de Xamarin.Forms
-- Representación de colecciones en aplicaciones de Xamarin.Forms con ListView
-- Personalización de una ListView de Xamarin.Forms
-- Diseño de un modelo de vista MVVM para Xamarin.Forms
-- Mostrar relaciones en Xamarin.Forms con navegación de maestro y detalles
-- Creación de controles personalizados con los representadores de Xamarin.Forms
-- Usar efectos en Xamarin.Forms
-
-## [Escuela de negocios de inteligencia artificial para servicios financieros](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-financial-services)
-#### Ruta de aprendizaje - 7 h 42 min - Número de módulos: 10
-Los encargados de tomar decisiones en la esfera de servicios financieros deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Es esencial que comprendan los componentes de una estrategia que ayude al sector de servicios financieros a crear valor empresarial con inteligencia artificial.
-
-Modules:
-- Definición de una estrategia de IA para crear valor empresarial
-- Definición de una estrategia de inteligencia artificial para crear valor empresarial en los servicios financieros
-- Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
-- Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
-- Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
-- Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
-- Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
-- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
-- Introducción a la tecnología de IA
-- Examen del enfoque de Microsoft a la inteligencia artificial
-
-## [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi)
-#### Ruta de aprendizaje - 2 h 35 min - Número de módulos: 2
-¿Quiere tomar decisiones empresariales respaldadas por datos? Obtenga información sobre cómo hacerlo en Power BI. Aprenda a trabajar en Power BI para revisar e interactuar con este contenido para tomar decisiones empresariales.
-
-Modules:
-- Explore lo que Power BI puede hacer por usted
-- Análisis de datos con Power BI
-
-## [Escuela de negocios de inteligencia artificial para el sector minorista](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-retail)
+## [Escuela de negocios de inteligencia artificial para el sector sanitario](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-healthcare)
 #### Ruta de aprendizaje - 7 h 37 min - Número de módulos: 10
-Los encargados de tomar decisiones en la esfera del comercio minorista deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa.
+Los encargados de tomar decisiones en el sector sanitario deben de tener en cuenta ciertos aspectos relativos a su industria que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
 
 Modules:
 - Definición de una estrategia de IA para crear valor empresarial
-- Definición de una estrategia de inteligencia artificial para crear valor empresarial en el sector minorista
-- Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
-- Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
-- Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
-- Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
-- Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
-- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
-- Introducción a la tecnología de IA
-- Examen del enfoque de Microsoft a la inteligencia artificial
-
-## [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value)
-#### Ruta de aprendizaje - 4 h 43 min - Número de módulos: 6
-En esta ruta de aprendizaje, escuchará a Peter Zemsky, que preside la cátedra Eli Lilly de Estrategia e innovación del INSEAD, hablar acerca de cómo la inteligencia artificial está impulsando el valor empresarial entre las industrias y empresas, así como entre los clientes y asociados de Microsoft. Se analizará cómo los equipos técnicos están llevando la inteligencia artificial a las aplicaciones de negocios y qué piensan los líderes empresariales de diferentes sectores sobre la inteligencia artificial para sus propias actividades de negocios.
-
-Modules:
-- Definición de una estrategia de IA para crear valor empresarial
-- Definición de una estrategia de inteligencia artificial para crear valor empresarial en los servicios financieros
-- Definición de una estrategia de inteligencia artificial para crear valor en el sector gubernamental
-- Definición de una estrategia de inteligencia artificial para crear valor empresarial en el sector minorista
-- Definición de una estrategia de IA para crear valor empresarial en el sector de fabricación
 - Definición de una estrategia de IA para crear valor empresarial en el sector sanitario
-
-## [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing)
-#### Ruta de aprendizaje - 7 h 38 min - Número de módulos: 10
-En el sector de fabricación, los encargados de tomar decisiones deben tener en cuenta aspectos específicos que les ayuden a darse cuenta del verdadero poder transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
-
-Modules:
-- Definición de una estrategia de IA para crear valor empresarial
-- Definición de una estrategia de IA para crear valor empresarial en el sector de fabricación
 - Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
 - Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
 - Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
@@ -174,20 +165,29 @@ Modules:
 - Introducción a la tecnología de IA
 - Examen del enfoque de Microsoft a la inteligencia artificial
 
-## [Identificación de principios rectores para el uso responsable de la inteligencia artificial en la empresa](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-business-principles)
-#### Ruta de aprendizaje - 1 h - 1 Módulo
-Resulta fundamental para reflejar las implicaciones de la inteligencia artificial en el negocio. En esta ruta de aprendizaje, se le proporcionarán instrucciones para ayudarle a establecer los principios y un modelo de gobierno en su organización, así como los recursos, los procedimientos recomendados y las herramientas.
-
-Modules:
-- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
-
-## [Escuela de negocios de inteligencia artificial para el sector sanitario](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-healthcare)
-#### Ruta de aprendizaje - 7 h 37 min - Número de módulos: 10
-Los encargados de tomar decisiones en el sector sanitario deben de tener en cuenta ciertos aspectos relativos a su industria que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
+## [Escuela de negocios de inteligencia artificial para el sector de fabricación](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-manufacturing)
+#### Ruta de aprendizaje - 7 h 38 min - Número de módulos: 10
+En el sector de fabricación, los encargados de tomar decisiones deben tener en cuenta aspectos específicos que les ayuden a darse cuenta del verdadero poder transformacional de la inteligencia artificial en la empresa. Esta ruta de aprendizaje está diseñada para ilustrárselo.
 
 Modules:
 - Definición de una estrategia de IA para crear valor empresarial
-- Definición de una estrategia de IA para crear valor empresarial en el sector sanitario
+- Definición de una estrategia de IA para crear valor empresarial en el sector de fabricación
+- Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
+- Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
+- Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
+- Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
+- Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
+- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
+- Introducción a la tecnología de IA
+- Examen del enfoque de Microsoft a la inteligencia artificial
+
+## [Escuela de negocios de inteligencia artificial para el sector minorista](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-retail)
+#### Ruta de aprendizaje - 7 h 37 min - Número de módulos: 10
+Los encargados de tomar decisiones en la esfera del comercio minorista deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa.
+
+Modules:
+- Definición de una estrategia de IA para crear valor empresarial
+- Definición de una estrategia de inteligencia artificial para crear valor empresarial en el sector minorista
 - Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
 - Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
 - Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
@@ -208,6 +208,68 @@ Modules:
 - Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
 - Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
 
+## [Definición de una estrategia de inteligencia artificial para crear valor empresarial](https://docs.microsoft.com/es-es/learn/paths/ai-strategy-for-business-value)
+#### Ruta de aprendizaje - 4 h 43 min - Número de módulos: 6
+En esta ruta de aprendizaje, escuchará a Peter Zemsky, que preside la cátedra Eli Lilly de Estrategia e innovación del INSEAD, hablar acerca de cómo la inteligencia artificial está impulsando el valor empresarial entre las industrias y empresas, así como entre los clientes y asociados de Microsoft. Se analizará cómo los equipos técnicos están llevando la inteligencia artificial a las aplicaciones de negocios y qué piensan los líderes empresariales de diferentes sectores sobre la inteligencia artificial para sus propias actividades de negocios.
+
+Modules:
+- Definición de una estrategia de IA para crear valor empresarial
+- Definición de una estrategia de inteligencia artificial para crear valor empresarial en los servicios financieros
+- Definición de una estrategia de inteligencia artificial para crear valor en el sector gubernamental
+- Definición de una estrategia de inteligencia artificial para crear valor empresarial en el sector minorista
+- Definición de una estrategia de IA para crear valor empresarial en el sector de fabricación
+- Definición de una estrategia de IA para crear valor empresarial en el sector sanitario
+
+## [Identificación de principios rectores para el uso responsable de la inteligencia artificial en la empresa](https://docs.microsoft.com/es-es/learn/paths/responsible-ai-business-principles)
+#### Ruta de aprendizaje - 1 h - 1 Módulo
+Resulta fundamental para reflejar las implicaciones de la inteligencia artificial en el negocio. En esta ruta de aprendizaje, se le proporcionarán instrucciones para ayudarle a establecer los principios y un modelo de gobierno en su organización, así como los recursos, los procedimientos recomendados y las herramientas.
+
+Modules:
+- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
+
+## [Consumo de datos con Power BI](https://docs.microsoft.com/es-es/learn/paths/consume-data-with-power-bi)
+#### Ruta de aprendizaje - 2 h 35 min - Número de módulos: 2
+¿Quiere tomar decisiones empresariales respaldadas por datos? Obtenga información sobre cómo hacerlo en Power BI. Aprenda a trabajar en Power BI para revisar e interactuar con este contenido para tomar decisiones empresariales.
+
+Modules:
+- Explore lo que Power BI puede hacer por usted
+- Análisis de datos con Power BI
+
+## [Escuela de negocios de inteligencia artificial para servicios financieros](https://docs.microsoft.com/es-es/learn/paths/ai-business-school-financial-services)
+#### Ruta de aprendizaje - 7 h 42 min - Número de módulos: 10
+Los encargados de tomar decisiones en la esfera de servicios financieros deben de tener en cuenta ciertos aspectos relativos a su sector que les ayuden a darse cuenta del verdadero impacto transformacional de la inteligencia artificial en la empresa. Es esencial que comprendan los componentes de una estrategia que ayude al sector de servicios financieros a crear valor empresarial con inteligencia artificial.
+
+Modules:
+- Definición de una estrategia de IA para crear valor empresarial
+- Definición de una estrategia de inteligencia artificial para crear valor empresarial en los servicios financieros
+- Compresión de la importancia de crear una cultura preparada para la inteligencia artificial
+- Cómo fomentar una cultura lista para la inteligencia artificial en el departamento financiero
+- Cómo fomentar una cultura de inteligencia artificial en el departamento de marketing
+- Cómo fomentar una cultura de inteligencia artificial en el ámbito de las ventas
+- Cómo fomentar una cultura lista para la inteligencia artificial en el ámbito del servicio al cliente
+- Identificación de los principios rectores para un manejo responsable de la inteligencia artificial en la empresa
+- Introducción a la tecnología de IA
+- Examen del enfoque de Microsoft a la inteligencia artificial
+
+## [Dominio de técnicas avanzadas para aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics)
+#### Ruta de aprendizaje - 2 h 30 min - Número de módulos: 4
+¿Desea que su aplicación sea inmejorable? Con esta ruta de aprendizaje, aprenderá a usar fórmulas avanzadas y a realizar actualizaciones personalizadas. También se centrará en las comprobaciones y pruebas de rendimiento.
+
+Modules:
+- Uso de técnicas de desarrollo imperativo en aplicaciones de lienzo en PowerApps
+- Creación de una fórmula avanzada en la que se usan tablas, registros y colecciones en una aplicación de lienzo de PowerApps
+- Realización de actualizaciones personalizadas en una aplicación de lienzo de PowerApps
+- Realización de pruebas y comprobaciones de rendimiento en una aplicación de lienzo de PowerApps
+
+## [Uso de la interfaz de usuario y controles en una aplicación de lienzo en PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps)
+#### Ruta de aprendizaje - 1 h 58 min - Número de módulos: 3
+La experiencia del usuario de la aplicación suele definir el éxito de la aplicación. Esta ruta de aprendizaje se centrará en cómo proporcionar la mejor navegación para la aplicación y en cómo compilar la mejor interfaz de usuario con temas, iconos, imágenes, personalización, factores de forma diferentes y controles.
+
+Modules:
+- Navegación en una aplicación de lienzo en PowerApps
+- Creación de la IU en una aplicación de lienzo en PowerApps
+- Uso y descripción de controles en una aplicación de lienzo en PowerApps
+
 ## [Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### Ruta de aprendizaje - 2 h 16 min - Número de módulos: 3
 ¿Quiere usar fórmulas para mejorar la funcionalidad y cambiar el comportamiento de una aplicación de lienzo de PowerApps? Esta ruta de aprendizaje puede ayudarle a hacerlo.
@@ -227,6 +289,15 @@ Modules:
 - Automatización de la selección de modelos de ML con Azure Machine Learning Service
 - Registro e implementación de modelos de ML con Azure Machine Learning Service
 
+## [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python)
+#### Ruta de aprendizaje - 2 h 11 min - Número de módulos: 3
+Python se ha convertido en un lenguaje dominante para llevar a cabo análisis de datos con Machine Learning. Obtenga información sobre cómo usar Python y las bibliotecas asociadas en cuadernos de Jupyter Notebooks ejecutados en Azure Notebooks para predecir patrones e identificar tendencias.
+
+Modules:
+- Análisis de datos climatológicos con Azure Notebooks
+- Predicción de retrasos de vuelos mediante la creación de un modelo de Machine Learning en Python
+- Análisis de sentimiento de las reseñas con Keras
+
 ## [Desarrollo de soluciones de IA con los servicios de ciencia de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/explore-data-science-tools-in-azure)
 #### Ruta de aprendizaje - 1 h 40 min - Número de módulos: 2
 Obtenga más información sobre las herramientas que Azure pone a disposición de los expertos en ciencia de datos para explorar, analizar y procesar datos con el aprendizaje automático.
@@ -244,15 +315,6 @@ Modules:
 - Explorar los tipos de instancias de Azure Data Science Virtual Machine
 - Aprovisionamiento y uso de una Data Science Virtual Machine de Azure
 
-## [Introducción a la solución Machine Learning con Python y Azure Notebooks](https://docs.microsoft.com/es-es/learn/paths/intro-to-ml-with-python)
-#### Ruta de aprendizaje - 2 h 11 min - Número de módulos: 3
-Python se ha convertido en un lenguaje dominante para llevar a cabo análisis de datos con Machine Learning. Obtenga información sobre cómo usar Python y las bibliotecas asociadas en cuadernos de Jupyter Notebooks ejecutados en Azure Notebooks para predecir patrones e identificar tendencias.
-
-Modules:
-- Análisis de datos climatológicos con Azure Notebooks
-- Predicción de retrasos de vuelos mediante la creación de un modelo de Machine Learning en Python
-- Análisis de sentimiento de las reseñas con Keras
-
 ## [Trabajo con datos en una aplicación de lienzo de PowerApps](https://docs.microsoft.com/es-es/learn/paths/work-with-data-in-a-canvas-app)
 #### Ruta de aprendizaje - 2 h 14 min - Número de módulos: 3
 ¿Necesita conectar una aplicación para acceder a los datos? Entonces esta ruta de aprendizaje le será muy útil. En ella se explica cómo conectarse a los orígenes de datos. También se detalla cómo usar el filtrado, las condiciones y otras funciones para dar forma a los datos y escribirlos en un origen de datos.
@@ -262,14 +324,6 @@ Modules:
 - Modelado de los datos en una aplicación de lienzo de PowerApps
 - Escritura de los datos en una aplicación de lienzo de PowerApps
 
-## [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services)
-#### Ruta de aprendizaje - 1 h 34 min - Número de módulos: 2
-Obtenga información sobre cómo convertir voz en texto y reconocer hablantes específicos en las aplicaciones mediante la integración de Cognitive Speech Services.
-
-Modules:
-- Traducción de voz en tiempo real con Azure Cognitive Services
-- Reconocimiento de voces específicas con Speaker Recognition API de Azure Cognitive Services
-
 ## [Creación de bots inteligentes con Azure Bot Service](https://docs.microsoft.com/es-es/learn/paths/create-bots-with-the-azure-bot-service)
 #### Ruta de aprendizaje - 2 h 38 min - Número de módulos: 2
 Obtenga información sobre cómo crear un bot de chat y agregarle inteligencia mediante la integración de QnA Maker y LUIS.
@@ -278,14 +332,13 @@ Modules:
 - Compilación de un bot de chat de Preguntas más frecuentes con QnA Maker y Azure Bot Service
 - Compilación de un bot de chat con Azure Bot Service
 
-## [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services)
-#### Ruta de aprendizaje - 1 h 59 min - Número de módulos: 3
-Microsoft Cognitive Services ofrece funciones pregeneradas para habilitar la funcionalidad de Computer Vision en las aplicaciones.  Obtenga información sobre cómo usar los servicios de Cognitive Vision para detectar caras, etiquetar y clasificar imágenes, e identificar objetos.
+## [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio)
+#### Ruta de aprendizaje - 1 h 6 min - Número de módulos: 2
+Obtenga información sobre cómo crear una cuenta en Azure Machine Learning Studio, crear un experimento de ejemplo y, después, publicarlo e implementarlo para usarlo como un servicio web.
 
 Modules:
-- Identificación de caras y expresiones con Computer Vision API en Azure Cognitive Services
-- Procesamiento de imágenes con el servicio Computer Vision
-- Clasificar imágenes con Microsoft Custom Vision Service
+- Creación de una cuenta de Azure Machine Learning Studio
+- Creación de un experimento en Azure Machine Learning Studio
 
 ## [Evaluación de texto con Azure Cognitive Language Services](https://docs.microsoft.com/es-es/learn/paths/evaluate-text-with-language-services)
 #### Ruta de aprendizaje - 2 h 13 min - Número de módulos: 3
@@ -296,13 +349,23 @@ Modules:
 - Incorporación de inteligencia conversacional a las aplicaciones mediante Language Understanding Intelligent Service (LUIS)
 - Detección de opiniones en texto con Text Analytics API
 
-## [Publicación de un experimento de Machine Learning con Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/es-es/learn/paths/publish-experiment-with-ml-studio)
-#### Ruta de aprendizaje - 1 h 6 min - Número de módulos: 2
-Obtenga información sobre cómo crear una cuenta en Azure Machine Learning Studio, crear un experimento de ejemplo y, después, publicarlo e implementarlo para usarlo como un servicio web.
+## [Procesamiento y traducción de voz con Azure Cognitive Speech Services](https://docs.microsoft.com/es-es/learn/paths/translate-speech-with-speech-services)
+#### Ruta de aprendizaje - 1 h 34 min - Número de módulos: 2
+Obtenga información sobre cómo convertir voz en texto y reconocer hablantes específicos en las aplicaciones mediante la integración de Cognitive Speech Services.
 
 Modules:
-- Creación de una cuenta de Azure Machine Learning Studio
-- Creación de un experimento en Azure Machine Learning Studio
+- Traducción de voz en tiempo real con Azure Cognitive Services
+- Reconocimiento de voces específicas con Speaker Recognition API de Azure Cognitive Services
+
+## [Procesamiento y clasificación de imágenes con los servicios de Azure Cognitive Vision](https://docs.microsoft.com/es-es/learn/paths/classify-images-with-vision-services)
+#### Ruta de aprendizaje - 2 h 45 min - Número de módulos: 4
+Microsoft Cognitive Services ofrece funciones pregeneradas para habilitar la funcionalidad de Computer Vision en las aplicaciones.  Obtenga información sobre cómo usar los servicios de Cognitive Vision para detectar caras, etiquetar y clasificar imágenes, e identificar objetos.
+
+Modules:
+- Identificación de caras y expresiones con Computer Vision API en Azure Cognitive Services
+- Procesamiento de imágenes con el servicio Computer Vision
+- Clasificar imágenes con Microsoft Custom Vision Service
+- Evaluación de los requisitos para implementar las API de Custom Vision
 
 ## [Ingeniería de datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-engineering-with-databricks)
 #### Ruta de aprendizaje - 7 h 49 min - Número de módulos: 9
@@ -328,14 +391,6 @@ Modules:
 - Creación de flujos más complejos con Microsoft Flow
 - Uso del Centro de administración para administrar entornos y directivas de datos en Microsoft Flow
 
-## [Crear y usar informes de análisis con Power BI](https://docs.microsoft.com/es-es/learn/paths/create-use-analytics-reports-power-bi)
-#### Ruta de aprendizaje - 1 h 42 min - Número de módulos: 2
-Esta ruta de aprendizaje es una introducción a Power BI y le enseña a usar y crear informes de inteligencia empresarial.
-
-Modules:
-- Introducción a la compilación con Power BI
-- Creación y uso compartido de su primer informe de Power BI
-
 ## [Creación de una aplicación controlada por modelos en PowerApps](https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes)
 #### Ruta de aprendizaje - 1 h 40 min - Número de módulos: 2
 Esta ruta de aprendizaje es una introducción a la creación de una aplicación de PowerApps basada en modelos que usa Common Data Service.
@@ -355,9 +410,28 @@ Modules:
 - Microsoft data estate migration and modernization
 - Microsoft Azure Artificial Intelligence (AI) strategy and solutions
 - Microsoft Azure IoT strategy and solutions
-- See Azure in Action
+- See Azure in action
 - Microsoft Cloud Adoption Framework for Azure
 - Microsoft runs on trust
+
+## [Procesamiento de datos de gran escala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/es-es/learn/paths/data-processing-with-azure-adls)
+#### Ruta de aprendizaje - 2 h 5 min - Número de módulos: 3
+En esta ruta de aprendizaje, verá cómo Azure Data Lake Storage permite aumentar la eficacia del procesamiento de soluciones analíticas de macrodatos y lo sencillo que es de configurar. También explorará cómo encaja en arquitecturas comunes, así como los distintos métodos de cargar los datos al almacén de datos. Por último, examinará la gran variedad de características de seguridad que garantizarán la seguridad de los datos.
+
+Modules:
+- Introducción a Azure Data Lake Storage
+- Carga de datos en Azure Data Lake Storage
+- Protección de la cuenta de Azure Storage
+
+## [Implementación de un almacenamiento de datos con Azure SQL Data Warehouse](https://docs.microsoft.com/es-es/learn/paths/implement-sql-data-warehouse)
+#### Ruta de aprendizaje - 3 h 21 min - Número de módulos: 4
+Azure SQL Data Warehouse proporciona un almacén de datos relacionales de gran tamaño que se puede escalar hasta petabytes de datos. En esta ruta de aprendizaje, obtendrá información sobre cómo Azure SQL Data Warehouse puede lograr esta escala con su arquitectura de procesamiento paralelo masivo (MPP). Cree un almacén de datos en cuestión de minutos y use lenguajes de consulta familiares para generar informes. Cargue grandes cantidades de datos en cuestión de minutos y asegúrese de que el almacenamiento de datos es seguro.
+
+Modules:
+- Diseño de un almacenamiento de datos con Azure SQL Data Warehouse
+- Consulta de datos en Azure SQL Data Warehouse
+- Importación de datos en Azure SQL Data Warehouse con PolyBase
+- Seguridad de almacenamiento de datos
 
 ## [Azure para ingenieros de datos](https://docs.microsoft.com/es-es/learn/paths/azure-for-the-data-engineer)
 #### Ruta de aprendizaje - 1 h 51 min - Número de módulos: 3
@@ -367,6 +441,14 @@ Modules:
 - Descripción del mundo cambiante de los datos
 - Encuesta de los servicios en la plataforma de datos de Azure
 - Identificación de las tareas de un ingeniero de datos en una arquitectura hospedada en la nube
+
+## [Implementación de una solución de streaming de datos con Azure Stream Analytics](https://docs.microsoft.com/es-es/learn/paths/implement-data-streaming-with-asa)
+#### Ruta de aprendizaje - 1 h 14 min - Número de módulos: 2
+Obtenga información sobre los conceptos de procesamiento de eventos y datos de streaming, y cómo se aplica a Azure Stream Analytics. Después, configurará un trabajo de Stream Analytics para transmitir datos y obtendrá información sobre cómo administrar y supervisar un trabajo en ejecución.
+
+Modules:
+- Trabajo con secuencias de datos mediante Azure Stream Analytics
+- Transformación de datos con Azure Stream Analytics
 
 ## [Información y conclusiones de los datos con Azure Databricks](https://docs.microsoft.com/es-es/learn/paths/data-science)
 #### Ruta de aprendizaje - 4 h 21 min - Número de módulos: 6
@@ -379,33 +461,6 @@ Modules:
 - Entrenamiento, evaluación y selección de modelos de Machine Learning con Azure Databricks
 - Aprendizaje profundo con Azure Databricks
 - Realización de análisis de textos con Azure Databricks
-
-## [Implementación de un almacenamiento de datos con Azure SQL Data Warehouse](https://docs.microsoft.com/es-es/learn/paths/implement-sql-data-warehouse)
-#### Ruta de aprendizaje - 3 h 21 min - Número de módulos: 4
-Azure SQL Data Warehouse proporciona un almacén de datos relacionales de gran tamaño que se puede escalar hasta petabytes de datos. En esta ruta de aprendizaje, obtendrá información sobre cómo Azure SQL Data Warehouse puede lograr esta escala con su arquitectura de procesamiento paralelo masivo (MPP). Cree un almacén de datos en cuestión de minutos y use lenguajes de consulta familiares para generar informes. Cargue grandes cantidades de datos en cuestión de minutos y asegúrese de que el almacenamiento de datos es seguro.
-
-Modules:
-- Diseño de un almacenamiento de datos con Azure SQL Data Warehouse
-- Consulta de datos en Azure SQL Data Warehouse
-- Importación de datos en Azure SQL Data Warehouse con PolyBase
-- Seguridad de almacenamiento de datos
-
-## [Implementación de una solución de streaming de datos con Azure Stream Analytics](https://docs.microsoft.com/es-es/learn/paths/implement-data-streaming-with-asa)
-#### Ruta de aprendizaje - 1 h 14 min - Número de módulos: 2
-Obtenga información sobre los conceptos de procesamiento de eventos y datos de streaming, y cómo se aplica a Azure Stream Analytics. Después, configurará un trabajo de Stream Analytics para transmitir datos y obtendrá información sobre cómo administrar y supervisar un trabajo en ejecución.
-
-Modules:
-- Trabajo con secuencias de datos mediante Azure Stream Analytics
-- Transformación de datos con Azure Stream Analytics
-
-## [Procesamiento de datos de gran escala con Azure Data Lake Storage Gen2](https://docs.microsoft.com/es-es/learn/paths/data-processing-with-azure-adls)
-#### Ruta de aprendizaje - 2 h 5 min - Número de módulos: 3
-En esta ruta de aprendizaje, verá cómo Azure Data Lake Storage permite aumentar la eficacia del procesamiento de soluciones analíticas de macrodatos y lo sencillo que es de configurar. También explorará cómo encaja en arquitecturas comunes, así como los distintos métodos de cargar los datos al almacén de datos. Por último, examinará la gran variedad de características de seguridad que garantizarán la seguridad de los datos.
-
-Modules:
-- Introducción a Azure Data Lake Storage
-- Carga de datos en Azure Data Lake Storage
-- Protección de la cuenta de Azure Storage
 
 ## [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/azure-fundamentals)
 #### Ruta de aprendizaje - 8 h 59 min - Número de módulos: 11
@@ -434,8 +489,21 @@ Modules:
 - Cómo escribir la primera aplicación de Windows 10
 - Escritura de aplicaciones de Windows conectadas a Internet
 
+## [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications)
+#### Ruta de aprendizaje - 6 h 15 min - Número de módulos: 7
+Azure Functions permite crear sistemas de procesos a petición orientados a eventos que se pueden desencadenar por varios eventos externos. Obtenga información sobre cómo aprovechar Functions para ejecutar la lógica del lado servidor y crear arquitecturas sin servidor.
+
+Modules:
+- Selección del servicio de Azure adecuado para integrar y automatizar procesos empresariales
+- Creación de lógica sin servidor con Azure Functions
+- Ejecución de una función de Azure con desencadenadores
+- Encadenamiento de funciones de Azure mediante enlaces de entrada y salida
+- Creación de un flujo de trabajo sin servidor de larga duración con Durable Functions
+- Desarrollo, prueba e implementación de una función de Azure con Visual Studio
+- Supervisión de eventos de GitHub con una función de Azure Functions desencadenada por un webhook
+
 ## [Implementación de un sitio web en Azure con Azure App Service](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-app-service)
-#### Ruta de aprendizaje - 3 h 50 min - Número de módulos: 5
+#### Ruta de aprendizaje - 4 h 36 min - Número de módulos: 6
 Las aplicaciones web de Azure le permiten publicar y administrar su sitio web fácilmente sin tener que trabajar con los servidores subyacentes, el almacenamiento o los recursos de red. En su lugar, puede centrarse en las características del sitio web y confiar en la sólida plataforma de Azure para proporcionar acceso seguro al sitio.
 
 Modules:
@@ -443,21 +511,8 @@ Modules:
 - Hospedaje de una aplicación web con Azure App Service
 - Publicación de una aplicación web en Azure con Visual Studio
 - Ensayo de la implementación de una aplicación web para pruebas y reversión mediante ranuras de implementación de App Service
+- Realice el escalado de una aplicación web de App Service para satisfacer la demanda de forma eficaz con el escalado vertical y horizontal de App Service
 - Implementación y ejecución de una aplicación web en contenedor con Azure App Service
-
-## [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Ruta de aprendizaje - 5 h 55 min - Número de módulos: 8
-Los datos NoSQL son una manera eficaz de almacenar información que no se asigna a los requisitos de una base de datos SQL relacional. Obtenga información sobre cómo usar Azure Portal, la extensión de Azure Cosmos DB para Visual Studio Code y el SDK de .NET Core de Azure Cosmos DB para trabajar con los datos NoSQL allí donde quiera, y proporcionar a los usuarios alta disponibilidad, sin importar en qué parte del mundo se encuentren.
-
-Modules:
-- Creación de una base de datos de Azure Cosmos DB para escalar
-- Elección de la API apropiada para el almacenamiento de Azure Cosmos DB
-- Adición y consulta de datos en una base de datos de Azure Cosmos DB
-- Almacenamiento de los datos de grafo y acceso a ellos en Azure Cosmos DB con Graph API
-- Almacenamiento de datos NoSQL y acceso con Azure Cosmos DB y Table API
-- Compilación de una aplicación de .NET Core para Azure Cosmos DB en Visual Studio Code
-- Optimización del rendimiento de Azure Cosmos DB mediante el uso de estrategias de creación de particiones e indexación
-- Distribución global de los datos con Azure Cosmos DB
 
 ## [Diseño de soluciones excelentes en Azure](https://docs.microsoft.com/es-es/learn/paths/architect-great-solutions-in-azure)
 #### Ruta de aprendizaje - 4 h 17 min - Número de módulos: 5
@@ -481,15 +536,29 @@ Modules:
 - Predicción de los costos y optimización del gasto en Azure
 - Control y organización de los recursos de Azure con Azure Resource Manager
 
-## [Implementación de un sitio web con Azure Virtual Machines](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### Ruta de aprendizaje - 4 h 18 min - Número de módulos: 4
-Si sus requisitos de hospedaje web no son compatibles directamente con la plataforma de aplicaciones web de Azure, puede aprovechar las máquinas virtuales para personalizar y controlar todos los aspectos del servidor web. Obtenga información sobre cómo crear, configurar y administrar las máquinas virtuales en Linux y Windows que hospedan aplicaciones web.
+## [Uso de datos NoSQL en Azure Cosmos DB](https://docs.microsoft.com/es-es/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
+#### Ruta de aprendizaje - 5 h 55 min - Número de módulos: 8
+Los datos NoSQL son una manera eficaz de almacenar información que no se asigna a los requisitos de una base de datos SQL relacional. Obtenga información sobre cómo usar Azure Portal, la extensión de Azure Cosmos DB para Visual Studio Code y el SDK de .NET Core de Azure Cosmos DB para trabajar con los datos NoSQL allí donde quiera, y proporcionar a los usuarios alta disponibilidad, sin importar en qué parte del mundo se encuentren.
 
 Modules:
-- Introducción a Azure Virtual Machines
-- Creación de una máquina virtual Linux en Azure
-- Creación de una máquina virtual Windows en Azure
-- Compilación y ejecución de una aplicación web con la pila MEAN en una máquina virtual Linux de Azure
+- Creación de una base de datos de Azure Cosmos DB para escalar
+- Elección de la API apropiada para el almacenamiento de Azure Cosmos DB
+- Adición y consulta de datos en una base de datos de Azure Cosmos DB
+- Almacenamiento de los datos de grafo y acceso a ellos en Azure Cosmos DB con Graph API
+- Almacenamiento de datos NoSQL y acceso con Azure Cosmos DB y Table API
+- Compilación de una aplicación de .NET Core para Azure Cosmos DB en Visual Studio Code
+- Optimización del rendimiento de Azure Cosmos DB mediante el uso de estrategias de creación de particiones e indexación
+- Distribución global de los datos con Azure Cosmos DB
+
+## [Uso de datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/work-with-relational-data-in-azure)
+#### Ruta de aprendizaje - 3 h 20 min - Número de módulos: 4
+Azure admite varias soluciones de base de datos populares basadas en SQL, como SQL Server, PostgreSQL y MySQL. Obtenga información sobre cómo usar estas soluciones de datos empresariales en Azure para almacenar y recuperar datos de la aplicación en la nube.
+
+Modules:
+- Aprovisionar una instancia de Azure SQL Database para almacenar datos de aplicación
+- Creación de un servidor de Azure Database for PostgreSQL
+- Escalado de varias instancias de Azure SQL Database con grupos elásticos de SQL
+- Protección de Azure SQL Database
 
 ## [Conexión de los servicios](https://docs.microsoft.com/es-es/learn/paths/connect-your-services-together)
 #### Ruta de aprendizaje - 3 h 31 min - Número de módulos: 4
@@ -517,15 +586,15 @@ Modules:
 - Almacenamiento en caché y rendimiento en los discos de almacenamiento de Azure
 - Protección de los discos de máquina virtual de Azure
 
-## [Uso de datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/work-with-relational-data-in-azure)
-#### Ruta de aprendizaje - 3 h 20 min - Número de módulos: 4
-Azure admite varias soluciones de base de datos populares basadas en SQL, como SQL Server, PostgreSQL y MySQL. Obtenga información sobre cómo usar estas soluciones de datos empresariales en Azure para almacenar y recuperar datos de la aplicación en la nube.
+## [Implementación de un sitio web con Azure Virtual Machines](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-virtual-machines)
+#### Ruta de aprendizaje - 4 h 18 min - Número de módulos: 4
+Si sus requisitos de hospedaje web no son compatibles directamente con la plataforma de aplicaciones web de Azure, puede aprovechar las máquinas virtuales para personalizar y controlar todos los aspectos del servidor web. Obtenga información sobre cómo crear, configurar y administrar las máquinas virtuales en Linux y Windows que hospedan aplicaciones web.
 
 Modules:
-- Aprovisionar una instancia de Azure SQL Database para almacenar datos de aplicación
-- Creación de un servidor de Azure Database for PostgreSQL
-- Escalado de varias instancias de Azure SQL Database con grupos elásticos de SQL
-- Protección de Azure SQL Database
+- Introducción a Azure Virtual Machines
+- Creación de una máquina virtual Linux en Azure
+- Creación de una máquina virtual Windows en Azure
+- Compilación y ejecución de una aplicación web con la pila MEAN en una máquina virtual Linux de Azure
 
 ## [Protección de los datos en la nube](https://docs.microsoft.com/es-es/learn/paths/secure-your-cloud-data)
 #### Ruta de aprendizaje - 6 h 45 min - Número de módulos: 8
@@ -541,19 +610,6 @@ Modules:
 - Protección de los recursos de Azure con el control de acceso basado en rol (RBAC)
 - Protección de Azure SQL Database
 
-## [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications)
-#### Ruta de aprendizaje - 6 h 15 min - Número de módulos: 7
-Azure Functions permite crear sistemas de procesos a petición orientados a eventos que se pueden desencadenar por varios eventos externos. Obtenga información sobre cómo aprovechar Functions para ejecutar la lógica del lado servidor y crear arquitecturas sin servidor.
-
-Modules:
-- Selección del servicio de Azure adecuado para integrar y automatizar procesos empresariales
-- Creación de lógica sin servidor con Azure Functions
-- Ejecución de una función de Azure con desencadenadores
-- Encadenamiento de funciones de Azure mediante enlaces de entrada y salida
-- Creación de un flujo de trabajo sin servidor de larga duración con Durable Functions
-- Desarrollo, prueba e implementación de una función de Azure con Visual Studio
-- Supervisión de eventos de GitHub con una función de Azure Functions desencadenada por un webhook
-
 ## [Almacenamiento de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/store-data-in-azure)
 #### Ruta de aprendizaje - 3 h 50 min - Número de módulos: 5
 Azure proporciona una variedad de formas de almacenar datos: no estructurados, archivados, relacionales, etc. Obtenga información sobre los conceptos básicos de la administración del almacenamiento en Azure, cómo crear una cuenta de Storage y cómo elegir el modelo adecuado para los datos que quiere almacenar en la nube.
@@ -564,6 +620,67 @@ Modules:
 - Conexión de una aplicación a Azure Storage
 - Protección de la cuenta de Azure Storage
 - Almacenamiento de datos de aplicaciones con Azure Blob Storage
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/es-es/learn/paths/use-journals-dynamics-365-business-central)
+#### Ruta de aprendizaje - 2 h 1 min - Número de módulos: 3
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/es-es/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### Ruta de aprendizaje - 3 h 13 min - Número de módulos: 4
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Create reports with Power BI](https://docs.microsoft.com/es-es/learn/paths/create-reports-power-bi)
+#### Ruta de aprendizaje - 5 h 34 min - Número de módulos: 5
+Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+
+Modules:
+- Get data with Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Explore data in Power BI
+- Publish and share in Power BI
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/connect-to-dynamics-365-finance-operations)
+#### Ruta de aprendizaje - 4 h 1 min - Número de módulos: 8
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/es-es/learn/paths/extend-power-platform-common-data-service)
+#### Ruta de aprendizaje - 2 h 3 min - Número de módulos: 2
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/es-es/learn/paths/create-relationships-common-data-service)
+#### Ruta de aprendizaje - 2 h 21 min - Número de módulos: 3
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
 
 ## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/build-dynamics-365-finance-operations)
 #### Ruta de aprendizaje - 8 h 30 min - Número de módulos: 12
@@ -582,6 +699,14 @@ Modules:
 - Build workspaces in Dynamics 365 for Finance and Operations
 - Implement role-based security in Dynamics 365 for Finance and Operations
 - Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/es-es/learn/paths/manage-permissions-administration-common-data-service)
+#### Ruta de aprendizaje - 1 h 23 min - Número de módulos: 2
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
 
 ## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/introduction-develop-dynamics-365-finance-operations)
 #### Ruta de aprendizaje - 3 h 52 min - Número de módulos: 8
@@ -637,7 +762,7 @@ Modules:
 - Introduction to extending the Microsoft Power Platform
 
 ## [Microsoft 365 - Modernize your enterprise deployment with Windows 10 and Office 365 ProPlus](https://docs.microsoft.com/es-es/learn/paths/m365-getmodern)
-#### Ruta de aprendizaje - 2 h 33 min - Número de módulos: 9
+#### Ruta de aprendizaje - 3 h 17 min - Número de módulos: 9
 Microsoft 365 helps you create a secure, always-up-to-date environment by using Windows 10 devices that run Office 365 ProPlus apps and are managed by Microsoft Enterprise Mobility + Security. Learn the recommended steps to upgrade your organization to Windows 10 and Office 365 ProPlus, including how to leverage your existing tools and processes while adopting modern management technology and approaches along the way.
 
 Modules:
@@ -660,13 +785,15 @@ Modules:
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-work-warehouse-management-d365-finance-ops)
-#### Ruta de aprendizaje - 4 h 57 min - Número de módulos: 2
-Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+#### Ruta de aprendizaje - 6 h 10 min - Número de módulos: 4
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
 Modules:
-- Configure warehouse management in Dynamics 365 for Finance and Operations
-- Work with warehouse management in Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
 ## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-manage-products-inventory-d365-finance-ops)
 #### Ruta de aprendizaje - 5 h 56 min - Número de módulos: 4
@@ -678,36 +805,13 @@ Modules:
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Ruta de aprendizaje - 6 h 10 min - Número de módulos: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-work-warehouse-management-d365-finance-ops)
+#### Ruta de aprendizaje - 4 h 57 min - Número de módulos: 2
+Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
 Modules:
-- Configure and perform the procure-to-purchase process in Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Ruta de aprendizaje - 6 h 23 min - Número de módulos: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Ruta de aprendizaje - 5 h 53 min - Número de módulos: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
-Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+- Configure warehouse management in Dynamics 365 for Finance and Operations
+- Work with warehouse management in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
 #### Ruta de aprendizaje - 9 h 8 min - Número de módulos: 6
@@ -720,6 +824,27 @@ Modules:
 - Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### Ruta de aprendizaje - 6 h 23 min - Número de módulos: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
+
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
+#### Ruta de aprendizaje - 5 h 53 min - Número de módulos: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
+Modules:
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
 
 ## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/es-es/learn/paths/get-started-with-marketing)
 #### Ruta de aprendizaje - 1 h 20 min - Número de módulos: 2
@@ -745,36 +870,15 @@ Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/es-es/learn/paths/understand-advanced-topics)
-#### Ruta de aprendizaje - 2 h 30 min - Número de módulos: 4
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### Ruta de aprendizaje - 3 h 9 min - Número de módulos: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
 Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
-
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/es-es/learn/paths/advanced-data-options-and-connectors)
-#### Ruta de aprendizaje - 2 h 21 min - Número de módulos: 4
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
-
-Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
-
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### Ruta de aprendizaje - 5 h 25 min - Número de módulos: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
 ## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/work-accounts-receivable-d365-finance-ops)
 #### Ruta de aprendizaje - 5 h 26 min - Número de módulos: 4
@@ -786,15 +890,16 @@ Modules:
 - Configure credit and collections in Dynamics 365 for Finance and Operations
 - Process credit and collections in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Ruta de aprendizaje - 3 h 9 min - Número de módulos: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
+#### Ruta de aprendizaje - 5 h 25 min - Número de módulos: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
 
 Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/es-es/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Ruta de aprendizaje - 2 h 50 min - Número de módulos: 9
@@ -822,15 +927,6 @@ Modules:
 - Managing Deployments and Releases - fundamentals
 - Introduction to the Power Platform - fundamentals
 - Explore licensing, onboarding, and support Options - fundamentals
-
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps)
-#### Ruta de aprendizaje - 1 h 58 min - Número de módulos: 3
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
-
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
 
 ## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/es-es/learn/paths/configure-use-general-ledger-dynamics-365-finance-ops)
 #### Ruta de aprendizaje - 8 h 15 min - Número de módulos: 8
@@ -949,14 +1045,6 @@ Modules:
 - Define and track individual goals in Dynamics 365 Customer Engagement
 - Use goal metrics in Dynamics 365 Customer Engagement
 
-## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Ruta de aprendizaje - 2 h 8 min - Número de módulos: 2
-This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
-
-Modules:
-- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
-- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
-
 ## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### Ruta de aprendizaje - 2 h 57 min - Número de módulos: 3
 This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
@@ -974,16 +1062,13 @@ Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
-## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/es-es/learn/paths/universal-resource-scheduling)
-#### Ruta de aprendizaje - 5 h 9 min - Número de módulos: 5
-Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
+## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/es-es/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
+#### Ruta de aprendizaje - 2 h 8 min - Número de módulos: 2
+This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
 
 Modules:
-- Configure bookable resources in Microsoft Dynamics 365 for Field Service
-- Manage scheduling options in Dynamics 365 for Field Service
-- Customize the schedule board in Microsoft Dynamics 365 for Field Service
-- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
-- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
+- Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
+- Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/es-es/learn/paths/working-with-connected-field-service-iot)
 #### Ruta de aprendizaje - 5 h 56 min - Número de módulos: 5
@@ -995,6 +1080,17 @@ Modules:
 - Register and Manage Customer Devices with Connected Field Service for Dynamics 365 and Azure IoT
 - Using IoT Central with Connected Field Service for Dynamics 365
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
+
+## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/es-es/learn/paths/universal-resource-scheduling)
+#### Ruta de aprendizaje - 5 h 9 min - Número de módulos: 5
+Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
+
+Modules:
+- Configure bookable resources in Microsoft Dynamics 365 for Field Service
+- Manage scheduling options in Dynamics 365 for Field Service
+- Customize the schedule board in Microsoft Dynamics 365 for Field Service
+- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
+- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/es-es/learn/paths/working-with-dynamics-365-sales)
 #### Ruta de aprendizaje - 6 h 42 min - Número de módulos: 7
@@ -1027,7 +1123,7 @@ Modules:
 - Introduction to Microsoft Business Applications
 - Enabling digital transformation
 - Achieve business transformation with Microsoft Catalyst
-- Dynamics 365 applications and Power Platform
+- Dynamics 365 applications and the Power Platform
 - Dynamics 365 for Sales
 - Dynamics 365 for Marketing
 - Dynamics 365 for Customer Service

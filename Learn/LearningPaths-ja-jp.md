@@ -1,5 +1,48 @@
 # Summary of Learning Paths (ja-jp)
-last updated: 2019-07-20
+last updated: 2019-08-19
+## [SQL Server on Linux](https://docs.microsoft.com/ja-jp/learn/paths/sql-server-2017-on-linux)
+#### ラーニング パス - 2 時間 28 分 - モジュール数: 4
+SQL Server は、好みのオペレーティング システム上で稼働できるようになりました。 このラーニング パスでは、SQL Server on Linux の基礎について説明してから、SQL Server on Linux のコンテナーの実行と、SQL Server on Linux のデプロイを行う方法について説明します。 その後、SQL Server on Linux のデプロイを自動的に調整する方法について説明します。
+
+Modules:
+- Introduction to SQL Server on Linux
+- Deploy SQL Server on Linux
+- Automatically tune SQL Server on Linux
+- Run SQL Server 2017 on Linux containers
+
+## [SQL Server のアップグレード](https://docs.microsoft.com/ja-jp/learn/paths/sql-server-2017-upgrades)
+#### ラーニング パス - 3 時間 18 分 - モジュール数: 5
+最新バージョンの SQL Server を稼働すれば、パフォーマンスと機能に関するさまざまな利点が得られ、お客様のデータベース プラットフォームに対するサポートも拡張されます。 このラーニング パスでは、Microsoft Assessment and Planning Toolkit を使ってお客様の SQL Server のデプロイを総点検する方法、Data Migration Assistant を使って SQL Server データベースをアップグレードする方法、および Data Experimentation Assistant と Query Tuning Assistant の両方を使って更新されたシステムを最適化する方法について説明します。
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
+## [Power BI で分析レポートを作成して使用する](https://docs.microsoft.com/ja-jp/learn/paths/create-use-analytics-reports-power-bi)
+#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
+このラーニング パスでは、Power BI の概要と、ビジネス インテリジェンス レポートの使用および作成について説明します。
+
+Modules:
+- Power BI を使用してビルドを開始する
+- Power BI Desktop でデータを取得する
+- Model data in Power BI
+- Use visuals in Power BI
+- Power BI でデータを探索する
+- Publish and share in Power BI
+
+## [PowerApps の高度なデータ オプションおよびコネクタを使用する](https://docs.microsoft.com/ja-jp/learn/paths/advanced-data-options-and-connectors)
+#### ラーニング パス - 2 時間 21 分 - モジュール数: 4
+開発するキャンバス アプリでのユーザー エクスペリエンスを向上したいと考えていますか? 独自のコネクタを使用してデータに接続したいと考えていますか? このラーニング パスは、この両方を行うのに役立ちます。 また、データ ソースの制限の扱いにも焦点を当てます。
+
+Modules:
+- PowerApps のキャンバス アプリでリレーショナル データを操作する
+- PowerApps のキャンバス アプリで、データ ソースの制限 (委任制限) を操作する
+- PowerApps のキャンバス アプリで他のデータに接続する
+- PowerApps のキャンパス アプリでカスタム コネクタを使用する
+
 ## [Azure でコンテナーを管理する](https://docs.microsoft.com/ja-jp/learn/paths/administer-containers-in-azure)
 #### ラーニング パス - 3 時間 45 分 - モジュール数: 5
 Azure Container Instances は、Azure でコンテナーを実行する方法として最も簡単で迅速な方法です。 このラーニング パスでは、コンテナーを作成して管理する方法、ACI を利用して Kubernetes に柔軟なスケールを与える方法を紹介します。
@@ -9,7 +52,7 @@ Modules:
 - Azure Container Registry を使用してコンテナー イメージをビルドして保存する
 - Azure Container Instances で Docker コンテナーを実行する
 - Azure App Service を使ってコンテナー化された Web アプリをデプロイして実行する
-- Introduction to Azure Kubernetes Service
+- Azure Kubernetes Service の概要
 
 ## [Azure DevOps でアプリケーションをビルドする](https://docs.microsoft.com/ja-jp/learn/paths/build-applications-with-azure-devops)
 #### ラーニング パス - 6 時間 10 分 - モジュール数: 7
@@ -17,8 +60,8 @@ Modules:
 
 Modules:
 - Create a build pipeline with Azure Pipelines
-- Implement a code workflow in your build pipeline using Git and GitHub
-- Run quality tests in your build pipeline using Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
 - Scan code for vulnerabilities in Azure Pipelines
 - Scan open source components for vulnerabilities and license ratings in Azure Pipelines
 - Manage build dependencies with Azure Artifacts
@@ -44,7 +87,7 @@ Modules:
 - Azure Resource Manager テンプレートを使用して Logic Apps を作成してデプロイする
 
 ## [Microsoft 365 - Windows 10 および Office 365 ProPlus でエンタープライズ展開をモダン化します。](https://docs.microsoft.com/ja-jp/learn/paths/m365-getmodern)
-#### ラーニング パス - 2 時間 33 分 - モジュール数: 9
+#### ラーニング パス - 3 時間 17 分 - モジュール数: 9
 Microsoft 365 では、Office 365 ProPlus アプリを実行し、Microsoft Enterprise Mobility + Security によって管理されている Windows 10 デバイスを使用して、常に最新の安全な環境を構築することができます。 組織を Windows 10 および Office 365 ProPlus にアップグレードするための推奨手順について説明します。これには、最新の管理技術と方法を導入しながら既存のツールとプロセスを活用する方法も含まれています。
 
 Modules:
@@ -113,29 +156,25 @@ Modules:
 - Xamarin.Forms のレンダラーを使用してカスタム コントロールを作成する
 - Xamarin.Forms でエフェクトを使用する
 
-## [金融サービスのための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-financial-services)
-#### ラーニング パス - 7 時間 42 分 - モジュール数: 10
-金融サービスの意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を企業で現実化するために役立ちます。 戦略の各構成要素は、金融サービス部門が AI を使ってビジネスの価値を生み出すために役立つため、これを理解することが重要です。
+## [AI 戦略を定義してビジネスの価値を生み出す](https://docs.microsoft.com/ja-jp/learn/paths/ai-strategy-for-business-value)
+#### ラーニング パス - 4 時間 43 分 - モジュール数: 6
+このラーニング パスでは INSEAD で Eli Lilly の戦略とイノベーションの主任教授を務める Peter Zemsky 氏に、AI が Microsoft の顧客やパートナーだけでなく、さまざまな業種や企業でどのようにしてビジネスの価値を生み出すかを伺います。 技術チームがどのようにして AI をビジネス アプリケーションに取り入れるのか、そしてさまざまな業種のビジネス リーダーが自社向けの AI についてどのように考えているのかを説明できるようになります。
 
 Modules:
 - AI 戦略を定義してビジネスの価値を生み出す
 - AI 戦略を定義して金融サービスでビジネスの価値を生み出す
-- AI-ready な文化を築く重要性を理解する
-- 財務で AI を受け入れる文化を育てる方法を見つける
-- マーケティングにおいて AI-ready な文化を育てる方法を見つける
-- 販売において AI 対応の文化を育てる方法を見つける
-- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
-- ビジネスを担う AI に関する基本原則を特定する
-- AI テクノロジの概要
-- 人工知能に対する Microsoft のアプローチを調べる
+- 官公庁/自治体において価値を生み出す AI 戦略を定義する
+- 小売でのビジネス価値を生み出すための AI 戦略を定義する
+- AI 戦略を定義して製造業でビジネスの価値を生み出す
+- AI 戦略を定義して医療分野でビジネスの価値を生み出す
 
-## [小売業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-retail)
+## [ヘルスケア業界のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-healthcare)
 #### ラーニング パス - 7 時間 37 分 - モジュール数: 10
-小売業の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。
+ヘルスケア業界の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。 このラーニング パスは、AI の真の変革の影響を説明する、ヘルスケア業界の企業の意思決定者向けに設計されています。
 
 Modules:
 - AI 戦略を定義してビジネスの価値を生み出す
-- 小売でのビジネス価値を生み出すための AI 戦略を定義する
+- AI 戦略を定義して医療分野でビジネスの価値を生み出す
 - AI-ready な文化を築く重要性を理解する
 - 財務で AI を受け入れる文化を育てる方法を見つける
 - マーケティングにおいて AI-ready な文化を育てる方法を見つける
@@ -161,25 +200,48 @@ Modules:
 - AI テクノロジの概要
 - 人工知能に対する Microsoft のアプローチを調べる
 
-## [Power BI でデータを使用する](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
-#### ラーニング パス - 2 時間 35 分 - モジュール数: 2
-データに裏付けられたビジネスの意思決定をしますか。 Power BI で実行する方法をについて説明します。 Power BI を使用して、このコンテンツをレビューし、対話して、ビジネスの意思決定を行う方法について説明します。
+## [ビジネスで AI に対応するカルチャを促進するための方法を考える](https://docs.microsoft.com/ja-jp/learn/paths/foster-ai-ready-culture)
+#### ラーニング パス - 3 時間 22 分 - モジュール数: 5
+このラーニング パスでは、AI に対応する組織となるために必要な、大きな変更を促進するためのフレームワークについて Microsoft の経営陣トップの話を聞きます。 AI の適切な実装を見極め、関連するシナリオについて説明できるようになります。 金融、マーケティング、販売、顧客サービスの基幹業務に固有で関連するユース ケースについて説明できるようになります。 最後に、組織の成熟度に基づいて、実装する AI ソリューションを識別できるようになります。
 
 Modules:
-- Power BI で何ができるかを調べる
-- Power BI を使用したデータ分析
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
 
-## [AI 戦略を定義してビジネスの価値を生み出す](https://docs.microsoft.com/ja-jp/learn/paths/ai-strategy-for-business-value)
-#### ラーニング パス - 4 時間 43 分 - モジュール数: 6
-このラーニング パスでは INSEAD で Eli Lilly の戦略とイノベーションの主任教授を務める Peter Zemsky 氏に、AI が Microsoft の顧客やパートナーだけでなく、さまざまな業種や企業でどのようにしてビジネスの価値を生み出すかを伺います。 技術チームがどのようにして AI をビジネス アプリケーションに取り入れるのか、そしてさまざまな業種のビジネス リーダーが自社向けの AI についてどのように考えているのかを説明できるようになります。
+## [小売業のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-retail)
+#### ラーニング パス - 7 時間 37 分 - モジュール数: 10
+小売業の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。
+
+Modules:
+- AI 戦略を定義してビジネスの価値を生み出す
+- 小売でのビジネス価値を生み出すための AI 戦略を定義する
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
+
+## [金融サービスのための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-financial-services)
+#### ラーニング パス - 7 時間 42 分 - モジュール数: 10
+金融サービスの意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を企業で現実化するために役立ちます。 戦略の各構成要素は、金融サービス部門が AI を使ってビジネスの価値を生み出すために役立つため、これを理解することが重要です。
 
 Modules:
 - AI 戦略を定義してビジネスの価値を生み出す
 - AI 戦略を定義して金融サービスでビジネスの価値を生み出す
-- 官公庁/自治体において価値を生み出す AI 戦略を定義する
-- 小売でのビジネス価値を生み出すための AI 戦略を定義する
-- AI 戦略を定義して製造業でビジネスの価値を生み出す
-- AI 戦略を定義して医療分野でビジネスの価値を生み出す
+- AI-ready な文化を築く重要性を理解する
+- 財務で AI を受け入れる文化を育てる方法を見つける
+- マーケティングにおいて AI-ready な文化を育てる方法を見つける
+- 販売において AI 対応の文化を育てる方法を見つける
+- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- ビジネスを担う AI に関する基本原則を特定する
+- AI テクノロジの概要
+- 人工知能に対する Microsoft のアプローチを調べる
 
 ## [ビジネス リーダー向けの AI テクノロジの概要](https://docs.microsoft.com/ja-jp/learn/paths/ai-technology-for-business-leaders)
 #### ラーニング パス - 1 時間 25 分 - モジュール数: 2
@@ -196,32 +258,23 @@ Modules:
 Modules:
 - ビジネスを担う AI に関する基本原則を特定する
 
-## [ヘルスケア業界のための AI ビジネス スクール](https://docs.microsoft.com/ja-jp/learn/paths/ai-business-school-healthcare)
-#### ラーニング パス - 7 時間 37 分 - モジュール数: 10
-ヘルスケア業界の企業の意思決定者には業種独自の考慮事項があり、これが AI の真の変革の影響を現実化するために役立ちます。 このラーニング パスは、AI の真の変革の影響を説明する、ヘルスケア業界の企業の意思決定者向けに設計されています。
+## [Power BI でデータを使用する](https://docs.microsoft.com/ja-jp/learn/paths/consume-data-with-power-bi)
+#### ラーニング パス - 2 時間 35 分 - モジュール数: 2
+データに裏付けられたビジネスの意思決定をしますか。 Power BI で実行する方法をについて説明します。 Power BI を使用して、このコンテンツをレビューし、対話して、ビジネスの意思決定を行う方法について説明します。
 
 Modules:
-- AI 戦略を定義してビジネスの価値を生み出す
-- AI 戦略を定義して医療分野でビジネスの価値を生み出す
-- AI-ready な文化を築く重要性を理解する
-- 財務で AI を受け入れる文化を育てる方法を見つける
-- マーケティングにおいて AI-ready な文化を育てる方法を見つける
-- 販売において AI 対応の文化を育てる方法を見つける
-- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
-- ビジネスを担う AI に関する基本原則を特定する
-- AI テクノロジの概要
-- 人工知能に対する Microsoft のアプローチを調べる
+- Power BI で何ができるかを調べる
+- Power BI を使用したデータ分析
 
-## [ビジネスで AI に対応するカルチャを促進するための方法を考える](https://docs.microsoft.com/ja-jp/learn/paths/foster-ai-ready-culture)
-#### ラーニング パス - 3 時間 22 分 - モジュール数: 5
-このラーニング パスでは、AI に対応する組織となるために必要な、大きな変更を促進するためのフレームワークについて Microsoft の経営陣トップの話を聞きます。 AI の適切な実装を見極め、関連するシナリオについて説明できるようになります。 金融、マーケティング、販売、顧客サービスの基幹業務に固有で関連するユース ケースについて説明できるようになります。 最後に、組織の成熟度に基づいて、実装する AI ソリューションを識別できるようになります。
+## [PowerApps キャンバス アプリの高度な技法を習得する](https://docs.microsoft.com/ja-jp/learn/paths/understand-advanced-topics)
+#### ラーニング パス - 2 時間 30 分 - モジュール数: 4
+可能な限り最高のアプリを作りたいと考えていますか? このラーニング パスは、高度な数式を使用したり、カスタムの更新を実行したりするのに役立ちます。 また、パフォーマンスの確認とテストにも焦点を当てます。
 
 Modules:
-- AI-ready な文化を築く重要性を理解する
-- 財務で AI を受け入れる文化を育てる方法を見つける
-- マーケティングにおいて AI-ready な文化を育てる方法を見つける
-- 販売において AI 対応の文化を育てる方法を見つける
-- 顧客サービスにおいて AI を受け入れる文化を育てる方法を見つける
+- PowerApps のキャンバス アプリに命令型の開発手法を利用する
+- PowerApps のキャンバス アプリでテーブル、レコード、コレクションを使用する高度な数式を作成する
+- PowerApps キャンパス アプリでカスタムの更新を実行する
+- PowerApps キャンバス アプリでテストしてパフォーマンスを確認する
 
 ## [Microsoft 365 と Surface for Business で職場を最新化する](https://docs.microsoft.com/ja-jp/learn/paths/modernize-workplace-with-m365-and-surface)
 #### ラーニング パス - 2 時間 50 分 - モジュール数: 9
@@ -237,6 +290,15 @@ Modules:
 - Microsoft 365 が提供する組み込みのインテリジェント セキュリティを用いて組織を保護する
 - Microsoft 365 を使用して透明性、プライバシー、およびコンプライアンスへの高まる需要を満たす
 - FastTrack を使用して Microsoft 365 の展開を加速して導入を促進する
+
+## [PowerApps のキャンバス アプリで UI とコントロールを使用する](https://docs.microsoft.com/ja-jp/learn/paths/ui-controls-canvas-app-powerapps)
+#### ラーニング パス - 1 時間 58 分 - モジュール数: 3
+アプリのユーザー エクスペリエンスがアプリの成功を左右することは、よくあります。 このラーニング パスでは、最良のアプリ ナビゲーションを用意する方法に焦点を当て、最良の UI をテーマ、アイコン、画像、パーソナル化、さまざまなフォーム ファクター、およびコントロールを使用して構築します。
+
+Modules:
+- PowerApps のキャンバス アプリのナビゲーション
+- PowerApps のキャンバス アプリの UI を構築する方法
+- PowerApps のキャンバス アプリのコントロールを使用および理解する
 
 ## [基本的な数式を使用してより優れた PowerApps のキャンバス アプリを作成する](https://docs.microsoft.com/ja-jp/learn/paths/use-basic-formulas-powerapps-canvas-app)
 #### ラーニング パス - 2 時間 16 分 - モジュール数: 3
@@ -262,23 +324,14 @@ Modules:
 - Microsoft 365 サブスクリプションの管理
 - クラウド展開モデルを選択する
 
-## [PowerApps のキャンバス アプリのデータを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-data-in-a-canvas-app)
-#### ラーニング パス - 2 時間 14 分 - モジュール数: 3
-データにアクセスするためにアプリを接続する必要がありますか。 このラーニング パスでは、以下について説明します。 データ ソースに接続する方法を示します。 フィルター処理、条件、およびその他の関数を使用してデータを整形し、データ ソースにデータを書き込む方法も示します。
+## [Python と Azure Notebooks での機械学習の概要](https://docs.microsoft.com/ja-jp/learn/paths/intro-to-ml-with-python)
+#### ラーニング パス - 2 時間 11 分 - モジュール数: 3
+Python は、機械学習によるデータ分析を行うための主要な言語になっています。 パターンを予測し、傾向を特定するため、Python と Azure Notebooks 上で実行する Jupyter Notebooks で関連付けられているライブラリを活用する方法について説明します。
 
 Modules:
-- PowerApps のキャンバス アプリで外部データを使用する
-- PowerApps キャンバス アプリのデータを成形する
-- PowerApps のキャンバス アプリにデータを書き込む
-
-## [Machine Learning と Azure Data Science Virtual Machine について説明する](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-azure-dsvm)
-#### ラーニング パス - 1 時間 43 分 - モジュール数: 3
-Azure には、データ サイエンス タスクを実行するための事前構成済みの仮想マシン サービスが含まれています。 Azure Data Science Virtual Machine を使用して一般的なデータ分析と機械学習タスクを行う方法について説明します。
-
-Modules:
-- Azure Data Science Virtual Machine の概要
-- Azure Data Science Virtual Machine の種類を調査する
-- Azure Data Science Virtual Machine のプロビジョニングと使用
+- Azure Notebooks を使用して気候データを分析する
+- Python で機械学習モデルを作成してフライトの遅延を予測する
+- Keras でレビューのセンチメントを分析する
 
 ## [Azure Machine Learning service を使用した AI ソリューションの構築](https://docs.microsoft.com/ja-jp/learn/paths/build-ai-solutions-with-azure-ml-service)
 #### ラーニング パス - 3 時間 17 分 - モジュール数: 4
@@ -298,14 +351,39 @@ Modules:
 - Azure でのデータ サイエンスの概要
 - 必要な Azure データ サイエンス サービスを選択する
 
-## [Python と Azure Notebooks での機械学習の概要](https://docs.microsoft.com/ja-jp/learn/paths/intro-to-ml-with-python)
-#### ラーニング パス - 2 時間 11 分 - モジュール数: 3
-Python は、機械学習によるデータ分析を行うための主要な言語になっています。 パターンを予測し、傾向を特定するため、Python と Azure Notebooks 上で実行する Jupyter Notebooks で関連付けられているライブラリを活用する方法について説明します。
+## [Machine Learning と Azure Data Science Virtual Machine について説明する](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-azure-dsvm)
+#### ラーニング パス - 1 時間 43 分 - モジュール数: 3
+Azure には、データ サイエンス タスクを実行するための事前構成済みの仮想マシン サービスが含まれています。 Azure Data Science Virtual Machine を使用して一般的なデータ分析と機械学習タスクを行う方法について説明します。
 
 Modules:
-- Azure Notebooks を使用して気候データを分析する
-- Python で機械学習モデルを作成してフライトの遅延を予測する
-- Keras でレビューのセンチメントを分析する
+- Azure Data Science Virtual Machine の概要
+- Azure Data Science Virtual Machine の種類を調査する
+- Azure Data Science Virtual Machine のプロビジョニングと使用
+
+## [PowerApps のキャンバス アプリのデータを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-data-in-a-canvas-app)
+#### ラーニング パス - 2 時間 14 分 - モジュール数: 3
+データにアクセスするためにアプリを接続する必要がありますか。 このラーニング パスでは、以下について説明します。 データ ソースに接続する方法を示します。 フィルター処理、条件、およびその他の関数を使用してデータを整形し、データ ソースにデータを書き込む方法も示します。
+
+Modules:
+- PowerApps のキャンバス アプリで外部データを使用する
+- PowerApps キャンバス アプリのデータを成形する
+- PowerApps のキャンバス アプリにデータを書き込む
+
+## [Azure Cognitive Speech Services を使用し、音声を処理して翻訳する](https://docs.microsoft.com/ja-jp/learn/paths/translate-speech-with-speech-services)
+#### ラーニング パス - 1 時間 34 分 - モジュール数: 2
+Cognitive Speech Services を統合することによって、ご利用のアプリケーション内で音声をテキストに変換し、特定の話者を認識する方法について説明します。
+
+Modules:
+- Azure Cognitive Speech Services を使用して音声をリアルタイムに翻訳する
+- Azure Cognitive Services で Speaker Recognition API を使用して特定の声を認識する
+
+## [Microsoft Azure Machine Learning Studio を使用して Machine Learning の実験を公開する](https://docs.microsoft.com/ja-jp/learn/paths/publish-experiment-with-ml-studio)
+#### ラーニング パス - 1 時間 6 分 - モジュール数: 2
+Azure Machine Learning Studio 上でアカウントを作成して、サンプルの実験を作成し、Web サービスとして従量課金の実験を公開してデプロイする方法について説明します。
+
+Modules:
+- Azure Machine Learning Studio アカウントを作成する
+- Azure Machine Learning Studio で実験を作成する
 
 ## [Azure Cognitive Language Services を使用してテキストに評価する](https://docs.microsoft.com/ja-jp/learn/paths/evaluate-text-with-language-services)
 #### ラーニング パス - 2 時間 13 分 - モジュール数: 3
@@ -325,29 +403,14 @@ Modules:
 - Azure Bot Service を使用してチャット ボットを構築する
 
 ## [Azure Cognitive Vision Services を使用してイメージを処理して分類する](https://docs.microsoft.com/ja-jp/learn/paths/classify-images-with-vision-services)
-#### ラーニング パス - 1 時間 59 分 - モジュール数: 3
+#### ラーニング パス - 2 時間 45 分 - モジュール数: 4
 Microsoft Cognitive Services では、ご利用のアプリケーションで Computer Vision 機能を有効にできる事前に作成した機能を提供します。  Cognitive Vision Services を使用して、顔を検出し、イメージをタグ付けして分類し、オブジェクトを特定する方法について説明します。
 
 Modules:
 - Azure Cognitive Services の Computer Vision API を使用した顔と表情の識別
 - Computer Vision サービスを使用した画像処理
 - Microsoft Custom Vision Service を使用して画像を分類する
-
-## [Microsoft Azure Machine Learning Studio を使用して Machine Learning の実験を公開する](https://docs.microsoft.com/ja-jp/learn/paths/publish-experiment-with-ml-studio)
-#### ラーニング パス - 1 時間 6 分 - モジュール数: 2
-Azure Machine Learning Studio 上でアカウントを作成して、サンプルの実験を作成し、Web サービスとして従量課金の実験を公開してデプロイする方法について説明します。
-
-Modules:
-- Azure Machine Learning Studio アカウントを作成する
-- Azure Machine Learning Studio で実験を作成する
-
-## [Azure Cognitive Speech Services を使用し、音声を処理して翻訳する](https://docs.microsoft.com/ja-jp/learn/paths/translate-speech-with-speech-services)
-#### ラーニング パス - 1 時間 34 分 - モジュール数: 2
-Cognitive Speech Services を統合することによって、ご利用のアプリケーション内で音声をテキストに変換し、特定の話者を認識する方法について説明します。
-
-Modules:
-- Azure Cognitive Speech Services を使用して音声をリアルタイムに翻訳する
-- Azure Cognitive Services で Speaker Recognition API を使用して特定の声を認識する
+- Custom Vision API を実装するための要件を評価する
 
 ## [Azure Databricks を使用して Data Engineering を実行する](https://docs.microsoft.com/ja-jp/learn/paths/data-engineering-with-databricks)
 #### ラーニング パス - 7 時間 49 分 - モジュール数: 9
@@ -373,14 +436,6 @@ Modules:
 - Microsoft Flow でより複雑なフローを構築する
 - 管理センターを使用し、Microsoft Flow で環境とデータ ポリシーを管理する
 
-## [Power BI で分析レポートを作成して使用する](https://docs.microsoft.com/ja-jp/learn/paths/create-use-analytics-reports-power-bi)
-#### ラーニング パス - 1 時間 42 分 - モジュール数: 2
-このラーニング パスでは、Power BI の概要と、ビジネス インテリジェンス レポートの使用および作成について説明します。
-
-Modules:
-- Power BI を使用してビルドを開始する
-- 最初の Power BI レポートを作成して共有する
-
 ## [PowerApps でモデル駆動型アプリケーションを作成する](https://docs.microsoft.com/ja-jp/learn/paths/create-app-models-business-processes)
 #### ラーニング パス - 1 時間 40 分 - モジュール数: 2
 このラーニング パスでは、Common Data Service を使用するモデル駆動型 PowerApp の作成について説明します。
@@ -388,6 +443,59 @@ Modules:
 Modules:
 - PowerApps のモデル駆動型アプリの概要
 - Common Data Service の概要
+
+## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
+#### ラーニング パス - 4 時間 58 分 - モジュール数: 9
+クラウドについて理解しやすい方法で学習することに関心がありますか? あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
+
+Modules:
+- Microsoft Azure へようこそ
+- Azure ソリューションの概要
+- アプリケーションとインフラストラクチャの移行とモダン化
+- Microsoft のデータ資産の移行と最新化
+- Microsoft Azure 人工知能 (AI) の戦略とソリューション
+- Microsoft Azure IoT の戦略とソリューション
+- Azure の作業を確認する
+- Azure 向けの Microsoft Cloud 導入フレームワーク
+- Microsoft runs on trust
+
+## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
+#### ラーニング パス - 1 時間 51 分 - モジュール数: 3
+データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
+
+Modules:
+- 進化するデータの世界について理解する
+- Azure データ プラットフォームのサービスを調べる
+- クラウド ホスト型アーキテクチャでデータ エンジニアのタスクを確認する
+
+## [Azure Stream Analytics を使用してデータ ストリーミング ソリューションを実装する](https://docs.microsoft.com/ja-jp/learn/paths/implement-data-streaming-with-asa)
+#### ラーニング パス - 1 時間 14 分 - モジュール数: 2
+イベント処理およびストリーミング データの概念と、それが Azure Stream Analytics にどのように適用されるかについて学習します。 その後、ストリーム データにストリーム分析ジョブを設定し、実行中のジョブを管理および監視する方法について学習します。
+
+Modules:
+- Azure Stream Analytics を使用したデータ ストリームの処理
+- Azure Stream Analytics を使用してデータを変換する
+
+## [Microsoft Dynamics 365 と Power Platform のビジネス バリューについて学ぶ](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
+#### ラーニング パス - 5 時間 2 分 - モジュール数: 15
+ビジネス アプリケーションについて学ぶことに興味がありますか? または、Microsoft Dynamics 365 アプリケーションと Power Platform アプリケーションについて、どこから学び始めればよいかわからないこともあるでしょう。 このラーニング パスの学習過程は、ビジネス アプリケーションの活用とデジタル トランスフォーメーションによってビジネスをどのように変革できるかを学ぶことから始まります。 Dynamics 365 と Power Platform が、組織のニーズと目標に応じて情報に基づいた決定を行うためにどのように役立つかについて説明します。
+
+Modules:
+- Microsoft Business Applications へようこそ
+- Microsoft Business Applications の概要
+- デジタル環境の変革の実現
+- Microsoft Catalyst を使用して業務を変革する
+- Dynamics 365 アプリケーションおよび Power Platform
+- Dynamics 365 for Sales
+- Dynamics 365 for Marketing
+- Dynamics 365 for Customer Service
+- Dynamics 365 for Field Service
+- Dynamics 365 for Finance and Operations
+- Dynamics 365 for Retail
+- Dynamics 365 for Talent
+- Dynamics 365 Business Central
+- Power Platform - 概要、ビジネス バリュー、デモ
+- Microsoft は信頼を原動力としています
 
 ## [Azure Data Lake Storage Gen2 を使用した大規模なデータ処理](https://docs.microsoft.com/ja-jp/learn/paths/data-processing-with-azure-adls)
 #### ラーニング パス - 2 時間 5 分 - モジュール数: 3
@@ -420,59 +528,6 @@ Modules:
 - Azure Databricks でのディープ ラーニング
 - Azure Databricks でテキスト分析を実行する
 
-## [データ エンジニア向け Azure](https://docs.microsoft.com/ja-jp/learn/paths/azure-for-the-data-engineer)
-#### ラーニング パス - 1 時間 51 分 - モジュール数: 3
-データの世界がどのように進化してきたか、およびクラウド テクノロジの登場によってビジネスに対して探索の新たな機会がどのように提供されているかを見ていきます。 使用可能なさまざまなデータ プラットフォーム テクノロジと、データ エンジニアがこのテクノロジを利用して組織にどのような利益をもたらすことができるかについて学習します。
-
-Modules:
-- 進化するデータの世界について理解する
-- Azure データ プラットフォームのサービスを調べる
-- クラウド ホスト型アーキテクチャでデータ エンジニアのタスクを確認する
-
-## [Microsoft Azure のビジネス価値について学習する](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-azure)
-#### ラーニング パス - 4 時間 58 分 - モジュール数: 9
-クラウドについて理解しやすい方法で学習することに関心がありますか? あるいは、クラウド技術のどこから始めたらよいのか困惑しているのではないですか? このラーニング エクスペリエンスでは順を追って学習していただきます。まず、デジタル変革およびクラウドの機能によってビジネスがどのように変革されるかについて示します。
-
-Modules:
-- Microsoft Azure へようこそ
-- Azure ソリューションの概要
-- アプリケーションとインフラストラクチャの移行とモダン化
-- Microsoft のデータ資産の移行と最新化
-- Microsoft Azure 人工知能 (AI) の戦略とソリューション
-- Microsoft Azure IoT の戦略とソリューション
-- Azure の作業を確認する
-- Azure 向けの Microsoft Cloud 導入フレームワーク
-- Microsoft runs on trust
-
-## [Microsoft Dynamics 365 と Power Platform のビジネス バリューについて学ぶ](https://docs.microsoft.com/ja-jp/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### ラーニング パス - 5 時間 2 分 - モジュール数: 15
-ビジネス アプリケーションについて学ぶことに興味がありますか? または、Microsoft Dynamics 365 アプリケーションと Power Platform アプリケーションについて、どこから学び始めればよいかわからないこともあるでしょう。 このラーニング パスの学習過程は、ビジネス アプリケーションの活用とデジタル トランスフォーメーションによってビジネスをどのように変革できるかを学ぶことから始まります。 Dynamics 365 と Power Platform が、組織のニーズと目標に応じて情報に基づいた決定を行うためにどのように役立つかについて説明します。
-
-Modules:
-- Microsoft Business Applications へようこそ
-- Microsoft Business Applications の概要
-- デジタル環境の変革の実現
-- Microsoft Catalyst を使用して業務を変革する
-- Dynamics 365 アプリケーションおよび Power Platform
-- Dynamics 365 for Sales
-- Dynamics 365 for Marketing
-- Dynamics 365 for Customer Service
-- Dynamics 365 for Field Service
-- Dynamics 365 for Finance and Operations
-- Dynamics 365 for Retail
-- Dynamics 365 for Talent
-- Dynamics 365 Business Central
-- Power Platform - 概要、ビジネス バリュー、デモ
-- Microsoft は信頼を原動力としています
-
-## [Azure Stream Analytics を使用してデータ ストリーミング ソリューションを実装する](https://docs.microsoft.com/ja-jp/learn/paths/implement-data-streaming-with-asa)
-#### ラーニング パス - 1 時間 14 分 - モジュール数: 2
-イベント処理およびストリーミング データの概念と、それが Azure Stream Analytics にどのように適用されるかについて学習します。 その後、ストリーム データにストリーム分析ジョブを設定し、実行中のジョブを管理および監視する方法について学習します。
-
-Modules:
-- Azure Stream Analytics を使用したデータ ストリームの処理
-- Azure Stream Analytics を使用してデータを変換する
-
 ## [Azure の基礎](https://docs.microsoft.com/ja-jp/learn/paths/azure-fundamentals)
 #### ラーニング パス - 8 時間 59 分 - モジュール数: 11
 クラウドに関心があっても、クラウドで何ができるかについては、はっきりしていない方もいます。 このパスは出発点です。
@@ -500,6 +555,55 @@ Modules:
 - 最初の Windows 10 アプリケーションを作成する
 - インターネットに接続する Windows アプリを作成する
 
+## [クラウド データのセキュリティ保護](https://docs.microsoft.com/ja-jp/learn/paths/secure-your-cloud-data)
+#### ラーニング パス - 6 時間 45 分 - モジュール数: 8
+Azure はセキュリティとコンプライアンスを重視した設計になっています。 組み込みのサービスを活用してご利用の Web データを安全に格納することで、承認されたサービスおよびクライアントからのみ、それらのデータに確実にアクセスできるようにする方法について説明します。
+
+Modules:
+- Azure でのセキュリティのための設計
+- 運用環境に移行する前にセキュリティ面で考慮すべき項目上位 5
+- Azure Storage アカウントをセキュリティで保護する
+- Azure Key Vault を使用してサーバー アプリのシークレットを管理する
+- Azure App Services でブラウザー ベースのアプリを認証する
+- 条件付きアクセスによる Azure リソースのセキュリティ保護
+- ロールベースのアクセス制御 (RBAC) で Azure リソースをセキュリティ保護する
+- Azure SQL Database のセキュリティ保護
+
+## [サービスの接続](https://docs.microsoft.com/ja-jp/learn/paths/connect-your-services-together)
+#### ラーニング パス - 3 時間 31 分 - モジュール数: 4
+Azure では、さまざまなコンポーネント (Web サイトのフロントエンド、バックエンド サービス、およびオンデマンド コンピューティング サービスを実行するトリガーされた関数) で構成されたアプリケーションを作成することができます。 Azure には、これらさまざまなコンポーネントが相互にデータを渡せるようにするためのさまざまな通信方法も含まれています。 これらの通信サービスを活用して、テスト可能なコンポーネントから拡張性の高い、効率的なソリューションを作成する方法について説明します。
+
+Modules:
+- ご自分のサービスにゆるく接続するために Azure でメッセージング モデルを選ぶ
+- Azure Service Bus を使用してメッセージ ベースの通信ワークフローを実装する
+- アプリケーションと Azure Queue Storage の間で通信する
+- Azure Event Hubs を使用してビッグ データ アプリケーションの信頼性の高いメッセージングの有効にする
+
+## [Azure で最適なソリューションを設計する](https://docs.microsoft.com/ja-jp/learn/paths/architect-great-solutions-in-azure)
+#### ラーニング パス - 4 時間 17 分 - モジュール数: 5
+すべての適切なアーキテクチャで見つかった核となる原則を調べることによって、Azure 上でセキュリティで保護され、スケーラブルかつパフォーマンスが良いソリューションを設計および構築する方法について説明します。
+
+Modules:
+- 優れた Azure アーキテクチャの中心要素
+- Azure でのセキュリティのための設計
+- Azure でのパフォーマンスとスケーラビリティを高める設計
+- Azure での効率性と運用を考慮した設計
+- Azure での可用性と回復性のための設計
+
+## [Azure Cosmos DB の NoSQL データを扱う](https://docs.microsoft.com/ja-jp/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
+#### ラーニング パス - 5 時間 55 分 - モジュール数: 8
+NoSQL データは、リレーショナル SQL Database の要件に対応していない情報を格納する効率的な方法です。 Azure portal、Visual Studio Code 用の Azure Cosmos DB 拡張機能、および Azure Cosmos DB .NET Core SDK を使用して、目的の場所で NoSQL データを使用する方法、および世界のどこにいてもユーザーに高可用性を提供する方法について学習します。
+
+Modules:
+- スケーリングするようにビルドされた Azure Cosmos DB データベースを作成する
+- Azure Cosmos DB ストレージに適した API を選ぶ
+- Azure Cosmos DB データベースにデータを挿入し、クエリを実行する
+- Graph API を使って Azure Cosmos DB にグラフ データを格納し、アクセスする
+- Azure Cosmos DB と Table API を使用して NoSQL データを保存し、アクセスする
+- Visual Studio Code で Azure Cosmos DB 向けの .NET Core アプリを構築する
+- パーティション分割とインデックス作成の戦略を使用して Azure Cosmos DB のパフォーマンスを最適化する
+- Azure Cosmos DB を使用してデータをグローバルに分散させる
+
 ## [Azure でインフラストラクチャ リソースを管理する](https://docs.microsoft.com/ja-jp/learn/paths/administer-infrastructure-resources-in-azure)
 #### ラーニング パス - 9 時間 34 分 - モジュール数: 10
 仮想マシンのリソースを作成、管理、セキュリティ保護、スケーリングする方法について説明します。
@@ -516,52 +620,6 @@ Modules:
 - Azure Storage ディスクのキャッシュとパフォーマンス
 - Azure 仮想マシンのディスクをセキュリティで保護する
 
-## [Azure でのリソースの管理](https://docs.microsoft.com/ja-jp/learn/paths/manage-resources-in-azure)
-#### ラーニング パス - 4 時間 15 分 - モジュール数: 5
-Azure コマンド ラインと Web ポータルを使用して、クラウド ベースのリソースを作成、管理、制御する方法について説明します。
-
-Modules:
-- Azure でクラウドの種類とサービス モデルに合わせて要件を調整する
-- CLI を使用した Azure サービスの制御
-- PowerShell でスクリプトを使用して Azure タスクを自動化する
-- Azure のコストを予測して支出を最適化する
-- Azure Resource Manager での Azure リソースの管理と整理
-
-## [Azure Cosmos DB の NoSQL データを扱う](https://docs.microsoft.com/ja-jp/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### ラーニング パス - 5 時間 55 分 - モジュール数: 8
-NoSQL データは、リレーショナル SQL Database の要件に対応していない情報を格納する効率的な方法です。 Azure portal、Visual Studio Code 用の Azure Cosmos DB 拡張機能、および Azure Cosmos DB .NET Core SDK を使用して、目的の場所で NoSQL データを使用する方法、および世界のどこにいてもユーザーに高可用性を提供する方法について学習します。
-
-Modules:
-- スケーリングするようにビルドされた Azure Cosmos DB データベースを作成する
-- Azure Cosmos DB ストレージに適した API を選ぶ
-- Azure Cosmos DB データベースにデータを挿入し、クエリを実行する
-- Graph API を使って Azure Cosmos DB にグラフ データを格納し、アクセスする
-- Azure Cosmos DB と Table API を使用して NoSQL データを保存し、アクセスする
-- Visual Studio Code で Azure Cosmos DB 向けの .NET Core アプリを構築する
-- パーティション分割とインデックス作成の戦略を使用して Azure Cosmos DB のパフォーマンスを最適化する
-- Azure Cosmos DB を使用してデータをグローバルに分散させる
-
-## [Azure App Service を使用して Web サイトを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/paths/deploy-a-website-with-azure-app-service)
-#### ラーニング パス - 3 時間 50 分 - モジュール数: 5
-Azure 内の Web アプリでは、基になるサーバー、ストレージ、またはネットワークの資産を使用することなく、簡単にご自分の Web サイトを発行および管理することができます。 代わりに、Web サイトの機能に集中することができ、堅牢な Azure プラットフォームを使用して、ご自分のサイトに対するアクセスをセキュリティで保護できます。
-
-Modules:
-- Azure 開発用の開発環境を準備する
-- Azure App Service で Web アプリケーションをホストする
-- Visual Studio で Azure に Web アプリを発行する
-- App Service のデプロイ スロットを使ってテストとロールバック用に Web アプリのデプロイをステージングする
-- Azure App Service を使ってコンテナー化された Web アプリをデプロイして実行する
-
-## [Azure Virtual Machines を使用して Web サイトをデプロイする](https://docs.microsoft.com/ja-jp/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### ラーニング パス - 4 時間 18 分 - モジュール数: 4
-Web ホスティングの要件が Azure Web アプリ プラットフォームによって直接サポートされない場合は、仮想マシンを活用して、Web サーバーのすべての側面をカスタマイズおよび制御することができます。 Web アプリをホストする Linux および Windows 上の仮想マシンを作成、構成、および管理する方法について説明します。
-
-Modules:
-- Azure Virtual Machines の概要
-- Azure で Linux 仮想マシンを作成する
-- Azure で Windows 仮想マシンを作成する
-- Azure Linux 仮想マシン上の MEAN スタックで Web アプリケーションを構築して実行する
-
 ## [Azure でリレーショナル データを操作する](https://docs.microsoft.com/ja-jp/learn/paths/work-with-relational-data-in-azure)
 #### ラーニング パス - 3 時間 20 分 - モジュール数: 4
 Azure では、SQL Server、PostgreSQL、MySQL など、いくつかの一般的な SQL ベースのデータベース ソリューションがサポートされています。 Azure でこれらのエンタープライズ データ ソリューションを使用して、クラウドでアプリのデータを格納および取得する方法について説明します。
@@ -572,19 +630,15 @@ Modules:
 - SQL エラスティック プールを利用した複数の Azure SQL データベースのスケーリング
 - Azure SQL Database のセキュリティ保護
 
-## [クラウド データのセキュリティ保護](https://docs.microsoft.com/ja-jp/learn/paths/secure-your-cloud-data)
-#### ラーニング パス - 6 時間 45 分 - モジュール数: 8
-Azure はセキュリティとコンプライアンスを重視した設計になっています。 組み込みのサービスを活用してご利用の Web データを安全に格納することで、承認されたサービスおよびクライアントからのみ、それらのデータに確実にアクセスできるようにする方法について説明します。
+## [Azure Virtual Machines を使用して Web サイトをデプロイする](https://docs.microsoft.com/ja-jp/learn/paths/deploy-a-website-with-azure-virtual-machines)
+#### ラーニング パス - 4 時間 18 分 - モジュール数: 4
+Web ホスティングの要件が Azure Web アプリ プラットフォームによって直接サポートされない場合は、仮想マシンを活用して、Web サーバーのすべての側面をカスタマイズおよび制御することができます。 Web アプリをホストする Linux および Windows 上の仮想マシンを作成、構成、および管理する方法について説明します。
 
 Modules:
-- Azure でのセキュリティのための設計
-- 運用環境に移行する前にセキュリティ面で考慮すべき項目上位 5
-- Azure Storage アカウントをセキュリティで保護する
-- Azure Key Vault を使用してサーバー アプリのシークレットを管理する
-- Azure App Services でブラウザー ベースのアプリを認証する
-- 条件付きアクセスによる Azure リソースのセキュリティ保護
-- ロールベースのアクセス制御 (RBAC) で Azure リソースをセキュリティ保護する
-- Azure SQL Database のセキュリティ保護
+- Azure Virtual Machines の概要
+- Azure で Linux 仮想マシンを作成する
+- Azure で Windows 仮想マシンを作成する
+- Azure Linux 仮想マシン上の MEAN スタックで Web アプリケーションを構築して実行する
 
 ## [サーバーレス アプリケーションの作成](https://docs.microsoft.com/ja-jp/learn/paths/create-serverless-applications)
 #### ラーニング パス - 6 時間 15 分 - モジュール数: 7
@@ -599,26 +653,28 @@ Modules:
 - Visual Studio で Azure 関数を開発、テスト、デプロイする
 - Azure 関数で Webhook によってトリガーされた GitHub イベントを監視する
 
-## [Azure で最適なソリューションを設計する](https://docs.microsoft.com/ja-jp/learn/paths/architect-great-solutions-in-azure)
-#### ラーニング パス - 4 時間 17 分 - モジュール数: 5
-すべての適切なアーキテクチャで見つかった核となる原則を調べることによって、Azure 上でセキュリティで保護され、スケーラブルかつパフォーマンスが良いソリューションを設計および構築する方法について説明します。
+## [Azure でのリソースの管理](https://docs.microsoft.com/ja-jp/learn/paths/manage-resources-in-azure)
+#### ラーニング パス - 4 時間 15 分 - モジュール数: 5
+Azure コマンド ラインと Web ポータルを使用して、クラウド ベースのリソースを作成、管理、制御する方法について説明します。
 
 Modules:
-- 優れた Azure アーキテクチャの中心要素
-- Azure でのセキュリティのための設計
-- Azure でのパフォーマンスとスケーラビリティを高める設計
-- Azure での効率性と運用を考慮した設計
-- Azure での可用性と回復性のための設計
+- Azure でクラウドの種類とサービス モデルに合わせて要件を調整する
+- CLI を使用した Azure サービスの制御
+- PowerShell でスクリプトを使用して Azure タスクを自動化する
+- Azure のコストを予測して支出を最適化する
+- Azure Resource Manager での Azure リソースの管理と整理
 
-## [サービスの接続](https://docs.microsoft.com/ja-jp/learn/paths/connect-your-services-together)
-#### ラーニング パス - 3 時間 31 分 - モジュール数: 4
-Azure では、さまざまなコンポーネント (Web サイトのフロントエンド、バックエンド サービス、およびオンデマンド コンピューティング サービスを実行するトリガーされた関数) で構成されたアプリケーションを作成することができます。 Azure には、これらさまざまなコンポーネントが相互にデータを渡せるようにするためのさまざまな通信方法も含まれています。 これらの通信サービスを活用して、テスト可能なコンポーネントから拡張性の高い、効率的なソリューションを作成する方法について説明します。
+## [Azure App Service を使用して Web サイトを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/paths/deploy-a-website-with-azure-app-service)
+#### ラーニング パス - 4 時間 36 分 - モジュール数: 6
+Azure 内の Web アプリでは、基になるサーバー、ストレージ、またはネットワークの資産を使用することなく、簡単にご自分の Web サイトを発行および管理することができます。 代わりに、Web サイトの機能に集中することができ、堅牢な Azure プラットフォームを使用して、ご自分のサイトに対するアクセスをセキュリティで保護できます。
 
 Modules:
-- ご自分のサービスにゆるく接続するために Azure でメッセージング モデルを選ぶ
-- Azure Service Bus を使用してメッセージ ベースの通信ワークフローを実装する
-- アプリケーションと Azure Queue Storage の間で通信する
-- Azure Event Hubs を使用してビッグ データ アプリケーションの信頼性の高いメッセージングの有効にする
+- Azure 開発用の開発環境を準備する
+- Azure App Service で Web アプリケーションをホストする
+- Visual Studio で Azure に Web アプリを発行する
+- App Service のデプロイ スロットを使ってテストとロールバック用に Web アプリのデプロイをステージングする
+- App Service のスケール アップとスケール アウトにより、効率的に需要に対応するために App Service Web アプリをスケーリングする
+- Azure App Service を使ってコンテナー化された Web アプリをデプロイして実行する
 
 ## [Azure にデータを格納する](https://docs.microsoft.com/ja-jp/learn/paths/store-data-in-azure)
 #### ラーニング パス - 3 時間 50 分 - モジュール数: 5
@@ -630,6 +686,66 @@ Modules:
 - Azure Storage へのアプリの接続
 - Azure Storage アカウントをセキュリティで保護する
 - Azure Blob ストレージを使用してアプリケーション データを格納する
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ja-jp/learn/paths/use-journals-dynamics-365-business-central)
+#### ラーニング パス - 2 時間 1 分 - モジュール数: 3
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ja-jp/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### ラーニング パス - 3 時間 13 分 - モジュール数: 4
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Create reports with Power BI](https://docs.microsoft.com/ja-jp/learn/paths/create-reports-power-bi)
+#### ラーニング パス - 5 時間 34 分 - モジュール数: 5
+Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+
+Modules:
+- Get data with Power BI Desktop
+- Model data in Power BI
+- Use visuals in Power BI
+- Explore data in Power BI
+- Publish and share in Power BI
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/ja-jp/learn/paths/manage-permissions-administration-common-data-service)
+#### ラーニング パス - 1 時間 23 分 - モジュール数: 2
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/connect-to-dynamics-365-finance-operations)
+#### ラーニング パス - 4 時間 1 分 - モジュール数: 8
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/ja-jp/learn/paths/extend-power-platform-common-data-service)
+#### ラーニング パス - 2 時間 3 分 - モジュール数: 2
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
 
 ## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/build-dynamics-365-finance-operations)
 #### ラーニング パス - 8 時間 30 分 - モジュール数: 12
@@ -648,6 +764,15 @@ Modules:
 - Build workspaces in Dynamics 365 for Finance and Operations
 - Implement role-based security in Dynamics 365 for Finance and Operations
 - Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/ja-jp/learn/paths/create-relationships-common-data-service)
+#### ラーニング パス - 2 時間 21 分 - モジュール数: 3
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
 
 ## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/introduction-develop-dynamics-365-finance-operations)
 #### ラーニング パス - 3 時間 52 分 - モジュール数: 8
@@ -739,18 +864,6 @@ Modules:
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
-
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
-
 ## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
 #### ラーニング パス - 5 時間 53 分 - モジュール数: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
@@ -759,6 +872,18 @@ Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
+
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+#### ラーニング パス - 6 時間 23 分 - モジュール数: 6
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
+Modules:
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
 ## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
 #### ラーニング パス - 9 時間 8 分 - モジュール数: 6
@@ -796,25 +921,25 @@ Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/ja-jp/learn/paths/understand-advanced-topics)
-#### ラーニング パス - 2 時間 30 分 - モジュール数: 4
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+#### ラーニング パス - 3 時間 9 分 - モジュール数: 4
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
 Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/ja-jp/learn/paths/advanced-data-options-and-connectors)
-#### ラーニング パス - 2 時間 21 分 - モジュール数: 4
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/work-accounts-receivable-d365-finance-ops)
+#### ラーニング パス - 5 時間 26 分 - モジュール数: 4
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
 Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
 
 ## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
 #### ラーニング パス - 5 時間 25 分 - モジュール数: 5
@@ -827,26 +952,6 @@ Modules:
 - Configure and process postdated checks in Dynamics 365 for Finance and Operations
 - Configure the Tax module in Dynamics 365 for Finance and Operations
 
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### ラーニング パス - 5 時間 26 分 - モジュール数: 4
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
-
-Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
-
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### ラーニング パス - 3 時間 9 分 - モジュール数: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
-
-Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
-
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ja-jp/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### ラーニング パス - 5 時間 36 分 - モジュール数: 6
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
@@ -858,15 +963,6 @@ Modules:
 - Managing Deployments and Releases - fundamentals
 - Introduction to the Power Platform - fundamentals
 - Explore licensing, onboarding, and support Options - fundamentals
-
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/ja-jp/learn/paths/ui-controls-canvas-app-powerapps)
-#### ラーニング パス - 1 時間 58 分 - モジュール数: 3
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
-
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
 
 ## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/configure-use-general-ledger-dynamics-365-finance-ops)
 #### ラーニング パス - 8 時間 15 分 - モジュール数: 8
@@ -970,14 +1066,6 @@ Modules:
 - Define and track individual goals in Dynamics 365 Customer Engagement
 - Use goal metrics in Dynamics 365 Customer Engagement
 
-## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
-#### ラーニング パス - 2 時間 - モジュール数: 2
-This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
-
-Modules:
-- Create and design knowledge management solutions in Dynamics 365 for Customer Service
-- Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
-
 ## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
 #### ラーニング パス - 2 時間 57 分 - モジュール数: 3
 This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
@@ -987,6 +1075,14 @@ Modules:
 - Managing cases with Microsoft Dynamics 365 for Customer Service
 - Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
 
+## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
+#### ラーニング パス - 2 時間 - モジュール数: 2
+This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
+
+Modules:
+- Create and design knowledge management solutions in Dynamics 365 for Customer Service
+- Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
+
 ## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ja-jp/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### ラーニング パス - 2 時間 8 分 - モジュール数: 2
 This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
@@ -994,17 +1090,6 @@ This learning path focuses on working with entitlements and service level agreem
 Modules:
 - Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
 - Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
-
-## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ja-jp/learn/paths/universal-resource-scheduling)
-#### ラーニング パス - 5 時間 9 分 - モジュール数: 5
-Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
-
-Modules:
-- Configure bookable resources in Microsoft Dynamics 365 for Field Service
-- Manage scheduling options in Dynamics 365 for Field Service
-- Customize the schedule board in Microsoft Dynamics 365 for Field Service
-- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
-- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ja-jp/learn/paths/working-with-connected-field-service-iot)
 #### ラーニング パス - 5 時間 56 分 - モジュール数: 5
@@ -1017,14 +1102,16 @@ Modules:
 - Using IoT Central with Connected Field Service for Dynamics 365
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### ラーニング パス - 1 時間 15 分 - モジュール数: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ja-jp/learn/paths/universal-resource-scheduling)
+#### ラーニング パス - 5 時間 9 分 - モジュール数: 5
+Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
 
 Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
+- Configure bookable resources in Microsoft Dynamics 365 for Field Service
+- Manage scheduling options in Dynamics 365 for Field Service
+- Customize the schedule board in Microsoft Dynamics 365 for Field Service
+- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
+- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/ja-jp/learn/paths/working-with-dynamics-365-sales)
 #### ラーニング パス - 6 時間 42 分 - モジュール数: 7
@@ -1038,6 +1125,15 @@ Modules:
 - Process sales orders with Dynamics 365 for Sales
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
+
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ja-jp/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
+#### ラーニング パス - 1 時間 15 分 - モジュール数: 3
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ja-jp/learn/paths/implementing-dyn365-field-service)
 #### ラーニング パス - 4 時間 14 分 - モジュール数: 4
