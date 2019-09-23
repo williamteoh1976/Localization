@@ -1,15 +1,14 @@
 # Summary of Learning Paths (nl-nl)
-last updated: 2019-08-20
-## [Upgrades voor SQL Server](https://docs.microsoft.com/nl-nl/learn/paths/sql-server-2017-upgrades)
-#### Leertraject - 3 uur 18 min. - Aantal modules: 5
-De nieuwste versie van SQL Server biedt diverse voordelen op het gebied van prestaties en functionaliteit en zorgt ook voor uitbreiding van de ondersteuning voor uw databaseplatform. In dit leertraject leert u hoe u een inventarisatie van uw SQL Server-implementaties kunt maken met behulp van de Microsoft Assessment and Planning Toolkit, hoe u SQL Server-databases bijwerkt met behulp van de Data Migration Assistant en hoe u uw bijgewerkte systeem optimaliseert met behulp van de Data Experimentation Assistant en de Query Tuning Assistant.
+last updated: 2019-09-22
+## [Geavanceerde opties voor gegevens en connectors in PowerApps gebruiken](https://docs.microsoft.com/nl-nl/learn/paths/advanced-data-options-and-connectors)
+#### Leertraject - 2 uur 21 min. - Aantal modules: 4
+Wilt u de ervaring van de gebruiker in uw canvas-app verbeteren? Wilt u aangepaste connectors gebruiken om verbinding te maken met gegevens? Dit leertraject helpt u beide dingen uit te voeren. Er wordt ook aandacht besteed aan het werken met gegevensbronlimieten.
 
 Modules:
-- Introduction to upgrading SQL Server
-- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
-- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
-- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
-- Use the SQL Server Query Tuning Assistant
+- Werken met relationele gegevens in een PowerApps-canvas-app
+- Werken met gegevensbronlimieten (delegatielimieten) in een PowerApps-canvas-app
+- Verbinding maken met andere gegevens in een PowerApps-canvas-app
+- Aangepaste connectoren gebruiken in een PowerApps-canvas-app
 
 ## [SQL Server on Linux](https://docs.microsoft.com/nl-nl/learn/paths/sql-server-2017-on-linux)
 #### Leertraject - 2 uur 28 min. - Aantal modules: 4
@@ -21,27 +20,28 @@ Modules:
 - Automatically tune SQL Server on Linux
 - Run SQL Server 2017 on Linux containers
 
+## [Upgrades voor SQL Server](https://docs.microsoft.com/nl-nl/learn/paths/sql-server-2017-upgrades)
+#### Leertraject - 3 uur 18 min. - Aantal modules: 5
+De nieuwste versie van SQL Server biedt diverse voordelen op het gebied van prestaties en functionaliteit en zorgt ook voor uitbreiding van de ondersteuning voor uw databaseplatform. In dit leertraject leert u hoe u een inventarisatie van uw SQL Server-implementaties kunt maken met behulp van de Microsoft Assessment and Planning Toolkit, hoe u SQL Server-databases bijwerkt met behulp van de Data Migration Assistant en hoe u uw bijgewerkte systeem optimaliseert met behulp van de Data Experimentation Assistant en de Query Tuning Assistant.
+
+Modules:
+- Introduction to upgrading SQL Server
+- SQL Server Discovery using the Microsoft Assessment and Planning (MAP) toolkit
+- Assess and convert SQL Server Databases using the Data Migration Assistant (DMA)
+- Test and optimize SQL Server databases using the Data Experimentation Assistant (DEA)
+- Use the SQL Server Query Tuning Assistant
+
 ## [Analytics-rapporten maken en gebruiken met Power BI](https://docs.microsoft.com/nl-nl/learn/paths/create-use-analytics-reports-power-bi)
-#### Leertraject - 5 uur 53 min. - Aantal modules: 6
+#### Leertraject - 5 uur 27 min. - Aantal modules: 6
 In dit leertraject maakt u kennis met Power BI en leert u hoe u business intelligence-rapporten maakt en gebruikt.
 
 Modules:
 - Aan de slag met bouwen met Power BI
 - Gegevens ophalen met Power BI Desktop
-- Model data in Power BI
-- Use visuals in Power BI
+- Gegevens in Power BI modelleren
+- Visuals gebruiken in Power BI
 - Gegevens in Power BI verkennen
-- Publish and share in Power BI
-
-## [Geavanceerde opties voor gegevens en connectors in PowerApps gebruiken](https://docs.microsoft.com/nl-nl/learn/paths/advanced-data-options-and-connectors)
-#### Leertraject - 2 uur 21 min. - Aantal modules: 4
-Wilt u de ervaring van de gebruiker in uw canvas-app verbeteren? Wilt u aangepaste connectors gebruiken om verbinding te maken met gegevens? Dit leertraject helpt u beide dingen uit te voeren. Er wordt ook aandacht besteed aan het werken met gegevensbronlimieten.
-
-Modules:
-- Werken met relationele gegevens in een PowerApps-canvas-app
-- Werken met gegevensbronlimieten (delegatielimieten) in een PowerApps-canvas-app
-- Verbinding maken met andere gegevens in een PowerApps-canvas-app
-- Aangepaste connectoren gebruiken in een PowerApps-canvas-app
+- Publiceren en delen in Power BI
 
 ## [Containers beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/administer-containers-in-azure)
 #### Leertraject - 3 uur 45 min. - Aantal modules: 5
@@ -111,6 +111,25 @@ Modules:
 - Een canvas-app aanpassen in PowerApps
 - Apps beheren in PowerApps
 
+## [Leidende principes voor verantwoorde AI identificeren in uw bedrijf](https://docs.microsoft.com/nl-nl/learn/paths/responsible-ai-business-principles)
+#### Leertraject - 1 uur - 1 module
+Het is belangrijk om na te denken over de implicaties van AI in bedrijven. In dit leertraject krijgt u richtlijnen om u te helpen bij het opstellen van principes en een bestuursmodel in uw organisatie, evenals resources, best practices en hulpprogramma's.
+
+Modules:
+- Identify guiding principles for responsible AI in your business
+
+## [Een AI-strategie definiëren om bedrijfswaarde te creëren](https://docs.microsoft.com/nl-nl/learn/paths/ai-strategy-for-business-value)
+#### Leertraject - 4 uur 43 min. - Aantal modules: 6
+In dit leertraject hoort u van Peter Zemsky, INSEAD's Eli Lilly hoogleraar Strategie en innovatie, over hoe AI de waarde van bedrijven in verschillende sectoren en ondernemingen en de waarde van Microsoft-klanten en -partners verhoogt. U kunt bespreken hoe technische teams AI op bedrijfstoepassingen toepassen en hoe bedrijfsleiders uit verschillende sectoren denken over AI voor hun eigen bedrijf.
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
+- Define an AI strategy to create business value in retail
+- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in healthcare
+
 ## [Ontdek manieren om te zorgen voor een cultuur binnen uw bedrijf die gereed is voor AI](https://docs.microsoft.com/nl-nl/learn/paths/foster-ai-ready-culture)
 #### Leertraject - 3 uur 22 min. - Aantal modules: 5
 In dit leertraject hoort u van topmanagers van Microsoft over een framework om de belangrijkste veranderingen aan te sturen die nodig zijn om een organisatie te worden die gereed is voor AI. U kunt de geslaagde implementaties van AI identificeren en relevante scenario's formuleren. U kunt verschillende bedrijfsspecifieke en relevante use cases bespreken op het gebied van financiën, marketing, verkoop en klantenservice. En tot slot zult u in staat zijn om AI-oplossingen te identificeren die u in uw organisatie kunt implementeren op basis van de volwassenheid ervan.
@@ -138,13 +157,13 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [AI-bedrijfsopleiding voor de detailhandel](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-retail)
+## [AI-bedrijfsopleiding voor de gezondheidszorg](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-healthcare)
 #### Leertraject - 7 uur 37 min. - Aantal modules: 10
-Beslissers in de detailhandel hebben overwegingen die specifiek zijn voor hun sector om ze te helpen de werkelijke transformerende impact van AI in de onderneming te realiseren.
+Beslissers in de gezondheidszorg hebben overwegingen die specifiek zijn voor hun sector om ze te helpen de werkelijke transformerende impact van AI in de onderneming te realiseren. Dit leertraject is ontworpen voor beslissers in de gezondheidszorg ter illustratie van de echte transformationele impact van AI in de onderneming.
 
 Modules:
 - Define an AI strategy to create business value
-- Define an AI strategy to create business value in retail
+- Define an AI strategy to create business value in healthcare
 - Understand the importance of building an AI-ready culture
 - Discover how to foster an AI-ready culture in finance
 - Discover how to foster an AI-ready culture in marketing
@@ -162,42 +181,6 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [AI-bedrijfsopleiding voor de gezondheidszorg](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-healthcare)
-#### Leertraject - 7 uur 37 min. - Aantal modules: 10
-Beslissers in de gezondheidszorg hebben overwegingen die specifiek zijn voor hun sector om ze te helpen de werkelijke transformerende impact van AI in de onderneming te realiseren. Dit leertraject is ontworpen voor beslissers in de gezondheidszorg ter illustratie van de echte transformationele impact van AI in de onderneming.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
-## [Een AI-strategie definiëren om bedrijfswaarde te creëren](https://docs.microsoft.com/nl-nl/learn/paths/ai-strategy-for-business-value)
-#### Leertraject - 4 uur 43 min. - Aantal modules: 6
-In dit leertraject hoort u van Peter Zemsky, INSEAD's Eli Lilly hoogleraar Strategie en innovatie, over hoe AI de waarde van bedrijven in verschillende sectoren en ondernemingen en de waarde van Microsoft-klanten en -partners verhoogt. U kunt bespreken hoe technische teams AI op bedrijfstoepassingen toepassen en hoe bedrijfsleiders uit verschillende sectoren denken over AI voor hun eigen bedrijf.
-
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Define an AI strategy to create value in government
-- Define an AI strategy to create business value in retail
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
-
-## [Gegevens verbruiken met Power BI](https://docs.microsoft.com/nl-nl/learn/paths/consume-data-with-power-bi)
-#### Leertraject - 2 uur 35 min. - Aantal modules: 2
-Wilt u zakelijke beslissingen nemen die worden ondersteund door de gegevens? Leer hoe u dat doen in Power BI. Leer hoe u in Power BI deze inhoud kunt controleren en gebruiken om zakelijke beslissingen te nemen.
-
-Modules:
-- Ontdek wat Power BI voor u kan betekenen
-- Gegevens analyseren met Power BI
-
 ## [AI-bedrijfsopleiding voor de financiële dienstverlening](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-financial-services)
 #### Leertraject - 7 uur 42 min. - Aantal modules: 10
 Beslissers in de financiële dienstverlening hebben overwegingen die specifiek zijn voor hun sector om ze te helpen de werkelijke transformerende impact van AI in de onderneming te realiseren. Het is essentieel om de onderdelen van een strategie te begrijpen waarmee de sector voor financiële dienstverlening bedrijfswaarde kan creëren met AI.
@@ -214,12 +197,29 @@ Modules:
 - Introduction to AI technology
 - Examine the Microsoft approach to Artificial Intelligence
 
-## [Leidende principes voor verantwoorde AI identificeren in uw bedrijf](https://docs.microsoft.com/nl-nl/learn/paths/responsible-ai-business-principles)
-#### Leertraject - 1 uur - 1 module
-Het is belangrijk om na te denken over de implicaties van AI in bedrijven. In dit leertraject krijgt u richtlijnen om u te helpen bij het opstellen van principes en een bestuursmodel in uw organisatie, evenals resources, best practices en hulpprogramma's.
+## [AI-bedrijfsopleiding voor de detailhandel](https://docs.microsoft.com/nl-nl/learn/paths/ai-business-school-retail)
+#### Leertraject - 7 uur 37 min. - Aantal modules: 10
+Beslissers in de detailhandel hebben overwegingen die specifiek zijn voor hun sector om ze te helpen de werkelijke transformerende impact van AI in de onderneming te realiseren.
 
 Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in retail
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
 - Identify guiding principles for responsible AI in your business
+- Introduction to AI technology
+- Examine the Microsoft approach to Artificial Intelligence
+
+## [Gegevens verbruiken met Power BI](https://docs.microsoft.com/nl-nl/learn/paths/consume-data-with-power-bi)
+#### Leertraject - 2 uur 35 min. - Aantal modules: 2
+Wilt u zakelijke beslissingen nemen die worden ondersteund door de gegevens? Leer hoe u dat doen in Power BI. Leer hoe u in Power BI deze inhoud kunt controleren en gebruiken om zakelijke beslissingen te nemen.
+
+Modules:
+- Ontdek wat Power BI voor u kan betekenen
+- Gegevens analyseren met Power BI
 
 ## [Geavanceerde technieken voor PowerApps-canvas-apps leren beheersen](https://docs.microsoft.com/nl-nl/learn/paths/understand-advanced-topics)
 #### Leertraject - 2 uur 30 min. - Aantal modules: 4
@@ -249,15 +249,6 @@ Modules:
 - Maak een eenvoudige formule om het gedrag in een PowerApps-canvas-app te wijzigen
 - Een eenvoudige formule opstellen die gebruikmaakt van tabellen en records in een PowerApps-canvas-app
 
-## [Werken met gegevens in een PowerApps-canvas-app](https://docs.microsoft.com/nl-nl/learn/paths/work-with-data-in-a-canvas-app)
-#### Leertraject - 2 uur 14 min. - Aantal modules: 3
-Moet u een app koppelen om gegevens te kunnen openen? Dan is dit leertraject geschikt voor u. Het is gericht op verbinding maken met gegevensbronnen. Ook laat dit zien hoe u filteren, voorwaarden en andere functies gebruikt om uw gegevens vorm te geven en gegevens te schrijven naar uw gegevensbron.
-
-Modules:
-- Werken met externe gegevens in een PowerApps-canvas-app
-- Gegevens vormgeven in een PowerApps-canvas-app
-- Gegevens schrijven in een PowerApps-canvas-app
-
 ## [AI-oplossingen bouwen met Azure Machine Learning-service](https://docs.microsoft.com/nl-nl/learn/paths/build-ai-solutions-with-azure-ml-service)
 #### Leertraject - 3 uur 17 min. - Aantal modules: 4
 Azure bevat diverse services voor het ontwerpen en implementeren van machine learning-modellen. Leer hoe u deze services kunt gebruiken in uw gegevensanalyse
@@ -268,14 +259,6 @@ Modules:
 - ML-modelselectie automatiseren met de Azure Machine Learning Service
 - ML-modellen registreren en implementeren met Azure Machine Learning Service
 
-## [De ontwikkeling van AI-oplossingen met data science-services in Azure verkennen](https://docs.microsoft.com/nl-nl/learn/paths/explore-data-science-tools-in-azure)
-#### Leertraject - 1 uur 40 min. - Aantal modules: 2
-Ontdek welke hulpprogramma's beschikbaar zijn in Azure waarmee data scientists gegevens kunnen verkennen, analyseren en verwerken met machine learning.
-
-Modules:
-- Inleiding tot data science in Azure
-- In Azure de data science-service kiezen die u nodig hebt
-
 ## [Inleiding tot machine learning met Python en Azure Notebooks](https://docs.microsoft.com/nl-nl/learn/paths/intro-to-ml-with-python)
 #### Leertraject - 2 uur 11 min. - Aantal modules: 3
 Python is een dominante taal geworden voor het uitvoeren van gegevensanalyse met machine learning. Leer hoe u Python kunt gebruiken en de bijbehorende bibliotheken in Jupyter Notebooks kunt uitvoeren op Azure Notebooks om patronen te voorspellen en trends te identificeren.
@@ -284,6 +267,23 @@ Modules:
 - Klimaatgegevens analyseren met Azure Notebooks
 - Vluchtvertragingen voorspellen door een Machine Learning-model in Python te maken
 - Het gevoel van beoordelingen analyseren met Keras
+
+## [Werken met gegevens in een PowerApps-canvas-app](https://docs.microsoft.com/nl-nl/learn/paths/work-with-data-in-a-canvas-app)
+#### Leertraject - 2 uur 14 min. - Aantal modules: 3
+Moet u een app koppelen om gegevens te kunnen openen? Dan is dit leertraject geschikt voor u. Het is gericht op verbinding maken met gegevensbronnen. Ook laat dit zien hoe u filteren, voorwaarden en andere functies gebruikt om uw gegevens vorm te geven en gegevens te schrijven naar uw gegevensbron.
+
+Modules:
+- Werken met externe gegevens in een PowerApps-canvas-app
+- Gegevens vormgeven in een PowerApps-canvas-app
+- Gegevens schrijven in een PowerApps-canvas-app
+
+## [De ontwikkeling van AI-oplossingen met data science-services in Azure verkennen](https://docs.microsoft.com/nl-nl/learn/paths/explore-data-science-tools-in-azure)
+#### Leertraject - 1 uur 40 min. - Aantal modules: 2
+Ontdek welke hulpprogramma's beschikbaar zijn in Azure waarmee data scientists gegevens kunnen verkennen, analyseren en verwerken met machine learning.
+
+Modules:
+- Inleiding tot data science in Azure
+- In Azure de data science-service kiezen die u nodig hebt
 
 ## [Aan de slag gaan met Machine Learning met een Azure Data Science Virtual Machine](https://docs.microsoft.com/nl-nl/learn/paths/get-started-with-azure-dsvm)
 #### Leertraject - 1 uur 43 min. - Aantal modules: 3
@@ -302,6 +302,14 @@ Modules:
 - Spraak in realtime omzetten met Azure Cognitive Services
 - Specifieke stemmen herkennen met de Speaker Recognition-API's in Azure Cognitive Services
 
+## [Intelligente bots maken met de Azure Bot Service](https://docs.microsoft.com/nl-nl/learn/paths/create-bots-with-the-azure-bot-service)
+#### Leertraject - 2 uur 38 min. - Aantal modules: 2
+Leer hoe u een chatbot kunt bouwen en intelligentie kunt toevoegen aan de bot door QnA Maker en LUIS te integreren.
+
+Modules:
+- Een FAQ-chatbot maken met QnA Maker en Azure Bot Service
+- Een chatbot maken met de Azure Bot Service
+
 ## [Tekst evalueren met Azure Cognitive Language Services](https://docs.microsoft.com/nl-nl/learn/paths/evaluate-text-with-language-services)
 #### Leertraject - 2 uur 13 min. - Aantal modules: 3
 Leer hoe u Cognitive Language Services kunt gebruiken om tekst te analyseren, intentie te bepalen, onderwerpen voor volwassenen te detecteren en natuurlijke taalinvoer te verwerken.
@@ -318,14 +326,6 @@ Leer hoe u een account kunt maken in Azure Machine Learning Studio, een voorbeel
 Modules:
 - Azure Machine Learning Studio-account maken
 - Een experiment in Azure Machine Learning Studio maken
-
-## [Intelligente bots maken met de Azure Bot Service](https://docs.microsoft.com/nl-nl/learn/paths/create-bots-with-the-azure-bot-service)
-#### Leertraject - 2 uur 38 min. - Aantal modules: 2
-Leer hoe u een chatbot kunt bouwen en intelligentie kunt toevoegen aan de bot door QnA Maker en LUIS te integreren.
-
-Modules:
-- Een FAQ-chatbot maken met QnA Maker en Azure Bot Service
-- Een chatbot maken met de Azure Bot Service
 
 ## [Afbeeldingen verwerken en classificeren met Azure Cognitive Vision Services](https://docs.microsoft.com/nl-nl/learn/paths/classify-images-with-vision-services)
 #### Leertraject - 2 uur 45 min. - Aantal modules: 4
@@ -369,6 +369,15 @@ Modules:
 - Aan de slag met modelgestuurde apps in PowerApps
 - Aan de slag met Common Data Service
 
+## [Grootschalige gegevensverwerking met Azure Data Lake Storage Gen2](https://docs.microsoft.com/nl-nl/learn/paths/data-processing-with-azure-adls)
+#### Leertraject - 2 uur 5 min. - Aantal modules: 3
+In dit leertraject ziet u hoe u met Azure Data Lake Storage analytische oplossingen voor het verwerken van Big Data efficiënter kunt maken en hoe eenvoudig het is om dit in te stellen. U ziet tevens hoe u dit in veelvoorkomende architecturen kunt inpassen en we kijken naar verschillende methoden voor het uploaden van gegevens naar het gegevensarchief. Ten slotte maakt u kennis met het veelvoud aan beveiligingsfuncties waarmee u ervoor zorgt dat uw gegevens goed worden beveiligd.
+
+Modules:
+- Inleiding tot Azure Data Lake Storage
+- Gegevens uploaden naar Azure Data Lake Storage
+- Uw Azure Storage-account beveiligen
+
 ## [Een oplossing voor gegevensstromen implementeren met Azure Stream Analytics](https://docs.microsoft.com/nl-nl/learn/paths/implement-data-streaming-with-asa)
 #### Leertraject - 1 uur 14 min. - Aantal modules: 2
 Kom meer te weten over de concepten van gebeurtenisverwerking en het streamen van gegevens, en hoe dit van toepassing is op Azure Stream Analytics. Vervolgens stelt u een Stream Analytics-taak op om gegevens te streamen en komt u meer te weten over het beheren en controleren van een taak.
@@ -376,6 +385,15 @@ Kom meer te weten over de concepten van gebeurtenisverwerking en het streamen va
 Modules:
 - Werken met gegevensstromen door Azure Stream Analytics te gebruiken
 - Gegevens transformeren door Azure Stream Analytics te gebruiken
+
+## [Azure voor data engineers](https://docs.microsoft.com/nl-nl/learn/paths/azure-for-the-data-engineer)
+#### Leertraject - 1 uur 51 min. - Aantal modules: 3
+Ontdek hoe de wereld van gegevens zich heeft ontwikkeld en hoe de opkomst van cloudtechnologieën nieuwe mogelijkheden biedt die bedrijven kunnen verkennen. U leert over de verschillende gegevensplatformtechnologieën die beschikbaar zijn en hoe een data engineer, en daarmee zijn organisatie, kan profiteren van deze technologie.
+
+Modules:
+- Meer informatie over de veranderende wereld van gegevens
+- Een overzicht van de services in het Azure-gegevensplatform verkrijgen
+- De taken van een data engineer in een in de cloud gehoste architectuur identificeren
 
 ## [Kennis en inzichten verkrijgen uit uw gegevens met Azure Databricks](https://docs.microsoft.com/nl-nl/learn/paths/data-science)
 #### Leertraject - 4 uur 21 min. - Aantal modules: 6
@@ -388,34 +406,6 @@ Modules:
 - Machine Learning-modellen trainen, evalueren en selecteren met Azure Databricks
 - Deep Learning met Azure Databricks
 - Tekstanalyse uitvoeren met Azure Databricks
-
-## [Azure voor data engineers](https://docs.microsoft.com/nl-nl/learn/paths/azure-for-the-data-engineer)
-#### Leertraject - 1 uur 51 min. - Aantal modules: 3
-Ontdek hoe de wereld van gegevens zich heeft ontwikkeld en hoe de opkomst van cloudtechnologieën nieuwe mogelijkheden biedt die bedrijven kunnen verkennen. U leert over de verschillende gegevensplatformtechnologieën die beschikbaar zijn en hoe een data engineer, en daarmee zijn organisatie, kan profiteren van deze technologie.
-
-Modules:
-- Meer informatie over de veranderende wereld van gegevens
-- Een overzicht van de services in het Azure-gegevensplatform verkrijgen
-- De taken van een data engineer in een in de cloud gehoste architectuur identificeren
-
-## [Grootschalige gegevensverwerking met Azure Data Lake Storage Gen2](https://docs.microsoft.com/nl-nl/learn/paths/data-processing-with-azure-adls)
-#### Leertraject - 2 uur 5 min. - Aantal modules: 3
-In dit leertraject ziet u hoe u met Azure Data Lake Storage analytische oplossingen voor het verwerken van Big Data efficiënter kunt maken en hoe eenvoudig het is om dit in te stellen. U ziet tevens hoe u dit in veelvoorkomende architecturen kunt inpassen en we kijken naar verschillende methoden voor het uploaden van gegevens naar het gegevensarchief. Ten slotte maakt u kennis met het veelvoud aan beveiligingsfuncties waarmee u ervoor zorgt dat uw gegevens goed worden beveiligd.
-
-Modules:
-- Inleiding tot Azure Data Lake Storage
-- Gegevens uploaden naar Azure Data Lake Storage
-- Uw Azure Storage-account beveiligen
-
-## [Een datawarehouse implementeren met Azure SQL Data Warehouse](https://docs.microsoft.com/nl-nl/learn/paths/implement-sql-data-warehouse)
-#### Leertraject - 3 uur 21 min. - Aantal modules: 4
-Azure SQL Data Warehouse biedt een relationeel big data-archief met de mogelijkheid op te schalen tot petabytes aan gegevens. In dit leertraject leert u hoe Azure SQL Data Warehouse deze schaalmogelijkheid kan bereiken met de MPP-architectuur (Massively Parallel Processing). Maak binnen enkele minuten een datawarehouse en gebruik een bekende zoektaal om rapporten te genereren. Laad in slechts minuten enorme hoeveelheden aan gegevens en zorgen ervoor dat uw datawarehouse beveiligd is.
-
-Modules:
-- Een datawarehouse ontwerpen met Azure SQL Data Warehouse
-- Een query uitvoeren naar gegevens in Azure SQL Data Warehouse
-- Met Polybase gegevens importeren in Azure SQL Data Warehouse
-- Datawarehousebeveiliging
 
 ## [Kennismaken met de zakelijke waarde van Microsoft Azure](https://docs.microsoft.com/nl-nl/learn/paths/learn-business-value-of-azure)
 #### Leertraject - 4 uur 58 min. - Aantal modules: 9
@@ -432,12 +422,23 @@ Modules:
 - Microsoft Cloud Adoption Framework for Azure
 - Microsoft runs on trust
 
+## [Een datawarehouse implementeren met Azure SQL Data Warehouse](https://docs.microsoft.com/nl-nl/learn/paths/implement-sql-data-warehouse)
+#### Leertraject - 3 uur 21 min. - Aantal modules: 4
+Azure SQL Data Warehouse biedt een relationeel big data-archief met de mogelijkheid op te schalen tot petabytes aan gegevens. In dit leertraject leert u hoe Azure SQL Data Warehouse deze schaalmogelijkheid kan bereiken met de MPP-architectuur (Massively Parallel Processing). Maak binnen enkele minuten een datawarehouse en gebruik een bekende zoektaal om rapporten te genereren. Laad in slechts minuten enorme hoeveelheden aan gegevens en zorgen ervoor dat uw datawarehouse beveiligd is.
+
+Modules:
+- Een datawarehouse ontwerpen met Azure SQL Data Warehouse
+- Een query uitvoeren naar gegevens in Azure SQL Data Warehouse
+- Met Polybase gegevens importeren in Azure SQL Data Warehouse
+- Datawarehousebeveiliging
+
 ## [Basisinformatie over Azure](https://docs.microsoft.com/nl-nl/learn/paths/azure-fundamentals)
-#### Leertraject - 8 uur 59 min. - Aantal modules: 11
+#### Leertraject - 9 uur 35 min. - Aantal modules: 12
 Bent u geïnteresseerd in de cloud, maar weet u niet goed wat u eraan hebt? Dit traject is de juiste plek om te beginnen.
 
 Modules:
 - Cloudconcepten - Beginselen van cloudcomputing
+- Essentiële cloudservices - Inleiding tot Azure
 - Essentiële cloudservices - Azure-architectuur en servicegaranties
 - Een Azure-account maken
 - Essentiële cloudservices - services beheren met Azure Portal
@@ -449,8 +450,20 @@ Modules:
 - Azure-resources beheren en organiseren met Azure Resource Manager
 - Kosten voorspellen en uitgaven optimaliseren voor Azure
 
+## [Een website implementeren met Azure App Service](https://docs.microsoft.com/nl-nl/learn/paths/deploy-a-website-with-azure-app-service)
+#### Leertraject - 4 uur 36 min. - Aantal modules: 6
+Met behulp van web-apps in Azure kunt u uw website eenvoudig publiceren en beheren zonder dat u hoeft te werken met de onderliggende servers, opslag of netwerkassets. In plaats daarvan kunt u zich richten op uw websitefuncties en vertrouwen op het krachtige Azure-platform voor beveiligde toegang tot uw site.
+
+Modules:
+- Uw ontwikkelomgeving voorbereiden voor Azure-ontwikkeling
+- Een webtoepassing hosten met Azure App Service
+- Een web-app publiceren in Azure met Visual Studio
+- Een implementatie van een web-app klaarzetten voor testen en terugdraaien met behulp van implementatiesites voor App Service
+- Een App Service-web-app omhoog schalen en uitbreiden om efficiënt aan de vraag te voldoen
+- Een web-app in een container implementeren en uitvoeren met App Service
+
 ## [Een website implementeren met virtuele Azure-machines](https://docs.microsoft.com/nl-nl/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### Leertraject - 4 uur 18 min. - Aantal modules: 4
+#### Leertraject - 4 uur 6 min. - Aantal modules: 4
 Als uw vereisten voor webhosting niet rechtstreeks worden ondersteund door het Azure Web App-platform, kunt u gebruikmaken van virtuele machines om elk aspect van de webserver aan te passen en te beheren. Leer hoe u virtuele machines in Linux en Windows die als host fungeren voor web-apps, maakt, configureert en beheert.
 
 Modules:
@@ -460,7 +473,7 @@ Modules:
 - Een webtoepassing maken en uitvoeren met de MEAN-stack op een virtuele Linux-machine in Azure
 
 ## [Infrastructuurresources beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/administer-infrastructure-resources-in-azure)
-#### Leertraject - 9 uur 34 min. - Aantal modules: 10
+#### Leertraject - 9 uur 22 min. - Aantal modules: 10
 Informatie over het maken, beheren, beveiligen en schalen van resources van de virtuele machine.
 
 Modules:
@@ -475,73 +488,6 @@ Modules:
 - Opslaan in de cache en prestaties van Azure Storage-schijven
 - De schijven voor virtuele machines van Azure-beveiligen
 
-## [Serverloze toepassingen maken](https://docs.microsoft.com/nl-nl/learn/paths/create-serverless-applications)
-#### Leertraject - 6 uur 15 min. - Aantal modules: 7
-Met Azure Functions kunt u op gebeurtenissen gebaseerde, compute-on-demand-systemen maken die door verschillende externe evenementen kunnen worden geactiveerd. Leer hoe u gebruikmaakt van functies om logica op de server uit te voeren en serverloze architecturen te bouwen.
-
-Modules:
-- De juiste Azure-service kiezen om bedrijfsprocessen te integreren en te automatiseren
-- Serverloze logica maken met Azure Functions
-- Een Azure-functie uitvoeren met triggers
-- Combineer Azure-functies met elkaar, met behulp van in- en uitvoerbindingen
-- Een langlopende serverloze werkstroom maken met Durable Functions
-- Een Azure-functie ontwikkelen, testen en implementeren met Visual Studio
-- GitHub-gebeurtenissen bijhouden met een Azure-functie geactiveerd door een webhook
-
-## [Een website implementeren met Azure App Service](https://docs.microsoft.com/nl-nl/learn/paths/deploy-a-website-with-azure-app-service)
-#### Leertraject - 4 uur 36 min. - Aantal modules: 6
-Met behulp van web-apps in Azure kunt u uw website eenvoudig publiceren en beheren zonder dat u hoeft te werken met de onderliggende servers, opslag of netwerkassets. In plaats daarvan kunt u zich richten op uw websitefuncties en vertrouwen op het krachtige Azure-platform voor beveiligde toegang tot uw site.
-
-Modules:
-- Uw ontwikkelomgeving voorbereiden voor Azure-ontwikkeling
-- Een webtoepassing hosten met Azure App Service
-- Een web-app publiceren in Azure met Visual Studio
-- Een implementatie van een web-app klaarzetten voor testen en terugdraaien met behulp van implementatiesites voor App Service
-- Een App Service-web-app omhoog schalen en uitbreiden om efficiënt aan de vraag te voldoen
-- Een web-app in een container implementeren en uitvoeren met App Service
-
-## [Werken met relationele gegevens in Azure](https://docs.microsoft.com/nl-nl/learn/paths/work-with-relational-data-in-azure)
-#### Leertraject - 3 uur 20 min. - Aantal modules: 4
-Azure ondersteunt verschillende populaire, op SQL gebaseerde database-oplossingen, inclusief SQL Server, PostgreSQL en MySQL. Ontdek hoe u deze gegevensoplossingen voor ondernemingen in Azure gebruikt voor het opslaan en ophalen van gegevens van uw app in de cloud.
-
-Modules:
-- Een Azure SQL Database inrichten om toepassingsgegevens in op te slaan
-- Een Azure-database voor PostgreSQL-server maken
-- De schaal van meerdere Azure SQL-databases aanpassen met elastische SQL-pools
-- Uw Azure SQL-database beveiligen
-
-## [Resources beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/manage-resources-in-azure)
-#### Leertraject - 4 uur 15 min. - Aantal modules: 5
-Informatie over het werken met de Azure-opdrachtregel en de web-portal voor het maken, beheren en besturen van resources op cloudbasis.
-
-Modules:
-- Vereisten afstemmen met cloudtypen en servicemodellen in Azure
-- Badge Azure-services beheren met de CLI
-- Azure-taken automatiseren met PowerShell-scripts
-- Kosten voorspellen en uitgaven optimaliseren voor Azure
-- Azure-resources beheren en organiseren met Azure Resource Manager
-
-## [Geweldige oplossingen ontwerpen in Azure](https://docs.microsoft.com/nl-nl/learn/paths/architect-great-solutions-in-azure)
-#### Leertraject - 4 uur 17 min. - Aantal modules: 5
-Informatie over het ontwerpen en maken van veilige, schaalbare, hoogwaardige oplossingen in Azure door uit te gaan van de kernprincipes van alle goede architectuur.
-
-Modules:
-- Pijlers van een geweldige Azure-architectuur
-- Ontwerpen voor beveiliging in Azure
-- Ontwerpen voor prestaties en schaalbaarheid in Azure
-- Ontwerpen voor efficiëntie en operaties in Azure
-- Ontwerpen voor beschikbaarheid en herstelmogelijkheden in Azure
-
-## [Uw services met elkaar verbinden](https://docs.microsoft.com/nl-nl/learn/paths/connect-your-services-together)
-#### Leertraject - 3 uur 31 min. - Aantal modules: 4
-Met Azure kunt u toepassingen maken die bestaan uit verschillende onderdelen: website-front-ends, back-end-services en geactiveerde functies die compute-on-demand services uitvoeren. Azure bevat ook verschillende communicatiestrategieën zodat deze verschillende onderdelen gegevens aan elkaar doorgeven. Leer hoe u deze communicatieservices gebruikt voor het maken van schaalbare, efficiënte oplossingen buiten testbare onderdelen.
-
-Modules:
-- Kies een berichtenmodel in Azure om uw services losjes te koppelen
-- Op berichten gebaseerde communicatiewerkstromen implementeren met Azure Service Bus
-- Communicatie tussen toepassingen met Azure Queue Storage
-- Betrouwbare berichten inschakelen voor Big Data-toepassingen met Azure Event Hubs
-
 ## [Werken met NoSQL-gegevens in Azure Cosmos DB](https://docs.microsoft.com/nl-nl/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
 #### Leertraject - 5 uur 55 min. - Aantal modules: 8
 NoSQL-gegevens vormen een efficiënte manier om gegevens op te slaan die niet voldoen aan de vereisten van een relationele SQL-database. Lees hoe u Azure Portal, de Azure Cosmos DB-extensie voor Visual Studio Code en de Azure Cosmos DB .NET Core SDK gebruikt om te werken met uw NoSQL-gegevens waar u dat wilt en uw gebruikers een hoge beschikbaarheid te bieden, waar ter wereld ze zich ook bevinden.
@@ -555,6 +501,63 @@ Modules:
 - Een .NET Core-app voor Azure Cosmos DB maken in Visual Studio Code
 - De prestaties van Azure Cosmos DB optimaliseren door gebruik te maken van partitionerings- en indexeringsstrategieën
 - Gegevens wereldwijd distribueren met Azure Cosmos DB
+
+## [Serverloze toepassingen maken](https://docs.microsoft.com/nl-nl/learn/paths/create-serverless-applications)
+#### Leertraject - 7 uur 10 min. - Aantal modules: 8
+Met Azure Functions kunt u op gebeurtenissen gebaseerde, compute-on-demand-systemen maken die door verschillende externe evenementen kunnen worden geactiveerd. Leer hoe u gebruikmaakt van functies om logica op de server uit te voeren en serverloze architecturen te bouwen.
+
+Modules:
+- De beste Azure-service kiezen om uw bedrijfsprocessen te automatiseren
+- Serverloze logica maken met Azure Functions
+- Een Azure-functie uitvoeren met triggers
+- Azure Functions met elkaar combineren met in- en uitvoerbindingen
+- Een langlopende serverloze werkstroom maken met Durable Functions
+- Een Azure-functie ontwikkelen, testen en implementeren met Visual Studio
+- GitHub-gebeurtenissen controleren met een webhook met Azure Functions
+- Automatische updates in een webtoepassing inschakelen met behulp van Azure Functions en SignalR Service
+
+## [Werken met relationele gegevens in Azure](https://docs.microsoft.com/nl-nl/learn/paths/work-with-relational-data-in-azure)
+#### Leertraject - 4 uur 10 min. - Aantal modules: 5
+Azure ondersteunt verschillende populaire, op SQL gebaseerde database-oplossingen, inclusief SQL Server, PostgreSQL en MySQL. Ontdek hoe u deze gegevensoplossingen voor ondernemingen in Azure gebruikt voor het opslaan en ophalen van gegevens van uw app in de cloud.
+
+Modules:
+- Een Azure SQL Database inrichten om toepassingsgegevens in op te slaan
+- Een Azure-database voor PostgreSQL-server maken
+- De schaal van meerdere Azure SQL-databases aanpassen met elastische SQL-pools
+- Uw Azure SQL-database beveiligen
+- Een ASP.NET-toepassing ontwikkelen en configureren waarmee query's kunnen worden uitgevoerd op een Azure SQL-database
+
+## [Geweldige oplossingen ontwerpen in Azure](https://docs.microsoft.com/nl-nl/learn/paths/architect-great-solutions-in-azure)
+#### Leertraject - 4 uur 17 min. - Aantal modules: 5
+Informatie over het ontwerpen en maken van veilige, schaalbare, hoogwaardige oplossingen in Azure door uit te gaan van de kernprincipes van alle goede architectuur.
+
+Modules:
+- Pijlers van een geweldige Azure-architectuur
+- Ontwerpen voor beveiliging in Azure
+- Ontwerpen voor prestaties en schaalbaarheid in Azure
+- Ontwerpen voor efficiëntie en operaties in Azure
+- Ontwerpen voor beschikbaarheid en herstelmogelijkheden in Azure
+
+## [Resources beheren in Azure](https://docs.microsoft.com/nl-nl/learn/paths/manage-resources-in-azure)
+#### Leertraject - 4 uur 15 min. - Aantal modules: 5
+Informatie over het werken met de Azure-opdrachtregel en de web-portal voor het maken, beheren en besturen van resources op cloudbasis.
+
+Modules:
+- Vereisten afstemmen met cloudtypen en servicemodellen in Azure
+- Badge Azure-services beheren met de CLI
+- Azure-taken automatiseren met PowerShell-scripts
+- Kosten voorspellen en uitgaven optimaliseren voor Azure
+- Azure-resources beheren en organiseren met Azure Resource Manager
+
+## [Uw services met elkaar verbinden](https://docs.microsoft.com/nl-nl/learn/paths/connect-your-services-together)
+#### Leertraject - 3 uur 31 min. - Aantal modules: 4
+Met Azure kunt u toepassingen maken die bestaan uit verschillende onderdelen: website-front-ends, back-end-services en geactiveerde functies die compute-on-demand services uitvoeren. Azure bevat ook verschillende communicatiestrategieën zodat deze verschillende onderdelen gegevens aan elkaar doorgeven. Leer hoe u deze communicatieservices gebruikt voor het maken van schaalbare, efficiënte oplossingen buiten testbare onderdelen.
+
+Modules:
+- Kies een berichtenmodel in Azure om uw services losjes te koppelen
+- Op berichten gebaseerde communicatiewerkstromen implementeren met Azure Service Bus
+- Communicatie tussen toepassingen met Azure Queue Storage
+- Betrouwbare berichten inschakelen voor Big Data-toepassingen met Azure Event Hubs
 
 ## [Uw cloudgegevens beveiligen](https://docs.microsoft.com/nl-nl/learn/paths/secure-your-cloud-data)
 #### Leertraject - 6 uur 45 min. - Aantal modules: 8
@@ -581,6 +584,97 @@ Modules:
 - Uw Azure Storage-account beveiligen
 - Gegevens van toepassingen opslaan met Azure Blob Storage
 
+## [Process financial periodic activities in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/process-financial-periodic-activities-dynamics-365-business-central)
+#### Leertraject - 3 uur 3 min. - Aantal modules: 4
+Are you responsible for period and year-end closing processes? Complete this module, which discusses how to send reminders and finance charge memos to customers. It also discusses Intrastat processing and reporting, and closing a fiscal year.
+
+Modules:
+- Send reminders to customers in Dynamics 365 Business Central
+- Send finance charge memos to customers in Dynamics 365 Business Central
+- Process Intrastat in Dynamics 365 Business Central
+- Close a fiscal year in Dynamics 365 Business Central
+
+## [Use multiple currencies in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/use-multiple-currencies-dynamics-365-business-central)
+#### Leertraject - 3 uur 4 min. - Aantal modules: 5
+Do you work with multiple currencies? If you do, this path will help you understand the steps you need to complete to set up and use multiple currencies, process payments and invoices in different currencies, and adjust exchange rates when necessary.
+
+Modules:
+- Set up currencies and exchange rates in Dynamics 365 Business Central
+- Process sales and purchases in foreign currencies in Dynamics 365 Business Central
+- Adjust exchange rates in Dynamics 365 Business Central
+- Process foreign currency payments in Dynamics 365 Business Central
+- Set up an additional reporting currency in Dynamics 365 Business Central
+
+## [Post sales and purchase invoices in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/post-sales-purchase-invoices-dynamics-365-business-central)
+#### Leertraject - 3 uur 44 min. - Aantal modules: 5
+Do you need to process and post customer sales invoices? Do you need to enter vendor purchase invoices? This learning path addresses both, and also discusses how to process prepayments to customers and vendors.  It also discusses using electronic documents in your business with Business Central.
+
+Modules:
+- Invoicing customers in Dynamics 365 Business Central
+- Processing vendor invoices in Dynamics 365 Business Central
+- Posting prepayment invoices for sales and purchase orders in Dynamics 365 Business Central
+- Process incoming documents in Dynamics 365 Business Central
+- Send and receive electronic documents in Dynamics 365 Business Central
+
+## [Deliver remote desktops and apps from Azure with Windows Virtual Desktop](https://docs.microsoft.com/nl-nl/learn/paths/m365-wvd)
+#### Leertraject - 1 uur 47 min. - Aantal modules: 4
+Windows Virtual Desktop on Microsoft Azure is a desktop and app virtualization service that runs on the cloud. Windows Virtual Desktop works across devices – including Windows, Mac, iOS, and Android – with full-featured apps that you can use to access remote desktops and apps.
+
+Modules:
+- Introduction to Windows Virtual Desktop in Microsoft Azure
+- Prepare for Windows Virtual Desktop in Microsoft Azure
+- Deploy Windows Virtual Desktop in Microsoft Azure
+- Optimize Windows Virtual Desktop in Microsoft Azure
+
+## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/nl-nl/learn/paths/get-started-with-marketing)
+#### Leertraject - 1 uur 20 min. - Aantal modules: 2
+Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
+
+Modules:
+- Set up and manage Dynamics 365 for Marketing
+- Advanced configuration for Dynamics 365 for Marketing
+
+## [Process customer and vendor payments in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/process-customer-vendor-payments-dynamics-365-business-central)
+#### Leertraject - 2 uur 36 min. - Aantal modules: 4
+Do you receive payments from customers and pay vendors? This module will help you track both in cash management and process those transactions as necessary in Business Central.
+
+Modules:
+- Set up cash management in Dynamics 365 Business Central
+- Enter payments in the cash receipt journal and the payment journal in Dynamics 365 Business Central
+- Suggest vendor payments in Dynamics 365 Business Central
+- Use checks to pay vendors in Dynamics 365 Business Central
+
+## [Use cost accounting in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/use-cost-accounting-dynamics-365-business-central)
+#### Leertraject - 3 uur 16 min. - Aantal modules: 5
+Do you need to use cost accounting in your company? This learning path can help get you started with cost accounting in Business Central. It explains cost accounting setup, how to create master data for cost accounting, how to transfer transactions, and allocate costs to a group of accounts.
+
+Modules:
+- Get started with cost accounting in Dynamics 365 Business Central
+- Create cost accounting master data in Dynamics 365 Business Central
+- Transfer general ledger entries to cost accounting in Dynamics 365 Business Central
+- Allocate costs in Dynamics 365 Business Central
+- Create cost accounting reports in Dynamics 365 Business Central
+
+## [Create financial reports in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/create-financial-reports-dynamics-365-business-central)
+#### Leertraject - 3 uur 44 min. - Aantal modules: 5
+Are you responsible for generating financial reports from Business Central? This learning path discusses creating budgets, and using account schedules, dimensions, and eXtensible business reporting language (XBRL) to generate the financial reports that are typically needed for most businesses.
+
+Modules:
+- Create budgets in Dynamics 365 Business Central
+- Configure financial reports by using account schedules in Dynamics 365 Business Central
+- Use dimensions in your financial reports in Dynamics 365 Business Central
+- Forecast your cash flow in Dynamics 365 Business Central
+- Set up XBRL reports in Dynamics 365 Business Central
+
+## [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/reconcile-bank-accounts-dynamics-365-business-central)
+#### Leertraject - 1 uur 38 min. - Aantal modules: 3
+Do you want to find out how to reconcile bank accounts in Business Central? The bank reconciliation feature and reconciliation journals are discussed in this learning path.
+
+Modules:
+- Perform a bank reconciliation in Dynamics 365 Business Central
+- Set up payment reconciliation journals in Dynamics 365 Business Central
+- Use the payment reconciliation journal in Dynamics 365 Business Central
+
 ## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/nl-nl/learn/paths/use-journals-dynamics-365-business-central)
 #### Leertraject - 2 uur 1 min. - Aantal modules: 3
 Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
@@ -600,27 +694,35 @@ Modules:
 - Set up dimensions in Dynamics 365 Business Central
 - Set up the chart of accounts in Dynamics 365 Business Central
 
-## [Create reports with Power BI](https://docs.microsoft.com/nl-nl/learn/paths/create-reports-power-bi)
-#### Leertraject - 5 uur 34 min. - Aantal modules: 5
-Do you want to make business decisions backed by data? With Power BI you can create compelling visuals and reports. In this learning path, you learn how to use Power BI Desktop to connect to data, build visuals, and create reports that you can share with others in your organization.
+## [Manage team collaboration with Microsoft Teams](https://docs.microsoft.com/nl-nl/learn/paths/m365-manage-team-collaboration)
+#### Leertraject - 2 uur 17 min. - Aantal modules: 5
+Manage team collaboration with Microsoft Teams introduces you to the features and capabilities of Microsoft Teams, the central hub for team collaboration in Microsoft 365. You’ll learn how you can use Teams to facilitate teamwork and communication within your organization, both on and off premises, on a wide range of devices—from desktops to tablets to phones—while taking advantage of all the rich functionality of Office 365 applications. You’ll gain an understanding of how Teams provides a comprehensive and flexible environment for collaboration across applications and devices.
 
 Modules:
-- Get data with Power BI Desktop
-- Model data in Power BI
-- Use visuals in Power BI
-- Explore data in Power BI
-- Publish and share in Power BI
+- Prepare for a Teams deployment with Microsoft 365
+- Deploy Microsoft Teams clients
+- Manage Microsoft Teams
+- Manage apps, bots, and connectors in Microsoft Teams
+- Manage meetings, conferences, and events with Microsoft Teams
 
 ## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/nl-nl/learn/paths/create-relationships-common-data-service)
 #### Leertraject - 2 uur 21 min. - Aantal modules: 3
-Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization’s needs, and how to add calculations and rollup fields.
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.
 
 Modules:
 - Create a relationship between entities in Common Data Service
 - Define and create business rules in Common Data Service
 - Create and define calculation or rollup fields in Common Data Service
 
-## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/connect-to-dynamics-365-finance-operations)
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/nl-nl/learn/paths/extend-power-platform-common-data-service)
+#### Leertraject - 2 uur 3 min. - Aantal modules: 2
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/connect-finance-operations)
 #### Leertraject - 4 uur 1 min. - Aantal modules: 8
 Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
 
@@ -634,15 +736,15 @@ Modules:
 - Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
 - Connecting to Power Platform services with Dynamics 365 for Finance and Operations
 
-## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/nl-nl/learn/paths/extend-power-platform-common-data-service)
-#### Leertraject - 2 uur 3 min. - Aantal modules: 2
-Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/nl-nl/learn/paths/manage-permissions-administration-common-data-service)
+#### Leertraject - 1 uur 23 min. - Aantal modules: 2
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
 
 Modules:
-- Introduction to Common Data Service for developers
-- Extend plug-ins
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
 
-## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/build-dynamics-365-finance-operations)
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/build-finance-operations)
 #### Leertraject - 8 uur 30 min. - Aantal modules: 12
 Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
 
@@ -660,17 +762,9 @@ Modules:
 - Implement role-based security in Dynamics 365 for Finance and Operations
 - Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
 
-## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/nl-nl/learn/paths/manage-permissions-administration-common-data-service)
-#### Leertraject - 1 uur 23 min. - Aantal modules: 2
-Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
-
-Modules:
-- Get started with security roles in Common Data Service
-- Use administration options for Common Data Service
-
-## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/introduction-develop-dynamics-365-finance-operations)
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/introduction-develop-finance-operations)
 #### Leertraject - 3 uur 52 min. - Aantal modules: 8
-As a developer working with Dynamics 365 for Finance and Operations, it’s important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+As a developer working with Dynamics 365 for Finance and Operations, it's important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
 
 Modules:
 - Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
@@ -691,7 +785,7 @@ Modules:
 - Performing common actions with client script
 - Automate Business Process Flows with client script
 
-## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/extending-dynamics-365-finance-operations)
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/extending-finance-operations)
 #### Leertraject - 1 uur 27 min. - Aantal modules: 3
 Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
 
@@ -717,7 +811,7 @@ Modules:
 So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
 
 Modules:
-- Introduction to developing the Power Platform
+- Introduction to Power Platform developer resources
 - Use developer tools to extend the Power Platform
 - Introduction to extending the Microsoft Power Platform
 
@@ -736,7 +830,7 @@ Modules:
 - Learn about Windows and Office 365 ProPlus servicing in Microsoft 365
 - Train users on the new Windows and Office 365 ProPlus features
 
-## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/use-warehouse-manufacturing-dyn365-supply-chain-mgmt)
 #### Leertraject - 5 uur 43 min. - Aantal modules: 3
 Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
 
@@ -744,20 +838,6 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
-
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/nl-nl/learn/paths/customize-your-xamarin-forms-apps)
-#### Leertraject - 7 uur 25 min. - Aantal modules: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
-
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps by using ListView
-- Customize a Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
 
 ## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/nl-nl/learn/paths/build-mobile-apps-with-xamarin-forms)
 #### Leertraject - 9 uur 34 min. - Aantal modules: 10
@@ -775,7 +855,21 @@ Modules:
 - Store local data with SQLite in a Xamarin.Forms app
 - Create multi-page Xamarin.Forms apps with stack and tab navigation
 
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-products-inventory-d365-finance-ops)
+## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/nl-nl/learn/paths/customize-your-xamarin-forms-apps)
+#### Leertraject - 7 uur 25 min. - Aantal modules: 8
+Add professional touches and development techniques for more beautiful and maintainable apps.
+
+Modules:
+- Explore cross-platform design patterns for Xamarin apps
+- Separate your UI and code with Xamarin.Forms data binding
+- Display collections in Xamarin.Forms apps by using ListView
+- Customize a Xamarin.Forms ListView
+- Design an MVVM viewmodel for Xamarin.Forms
+- Display relationships in Xamarin.Forms with master-detail navigation
+- Create custom controls with Xamarin.Forms renderers
+- Use effects in Xamarin.Forms
+
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-products-inventory-dyn365-supply-chain-mgmt)
 #### Leertraject - 5 uur 56 min. - Aantal modules: 4
 Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
 
@@ -785,7 +879,7 @@ Modules:
 - Create products and product masters in in Dynamics 365 for Finance and Operations
 - Create bill of materials in Dynamics 365 for Finance and Operations
 
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-procurement-vendors-dyn365-supply-chain-mgmt)
 #### Leertraject - 6 uur 10 min. - Aantal modules: 4
 The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
 
@@ -795,7 +889,7 @@ Modules:
 - Process purchase orders in Dynamics 365 for Finance and Operations
 - Configure and work with quality control in Dynamics 365 for Finance and Operations
 
-## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-work-warehouse-management-d365-finance-ops)
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt)
 #### Leertraject - 4 uur 57 min. - Aantal modules: 2
 Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
 
@@ -803,28 +897,7 @@ Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Leertraject - 5 uur 53 min. - Aantal modules: 3
-Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
-
-Modules:
-- Configure process manufacturing in Dynamics 365 for Finance and Operations
-- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
-- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
-
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Leertraject - 9 uur 8 min. - Aantal modules: 6
-If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
-
-Modules:
-- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
-- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with the costing sheet in Dynamics 365 for Finance and Operations
-- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
-- Work with manufacturing execution in Dynamics 365 for Finance and Operations
-- Get started with product configuration in Dynamics 365 for Finance and Operations
-
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-lean-manufacturing-dyn365-supply-chain-mgmt)
 #### Leertraject - 6 uur 23 min. - Aantal modules: 6
 Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
 
@@ -836,15 +909,28 @@ Modules:
 - Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
 - Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
-## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/nl-nl/learn/paths/get-started-with-marketing)
-#### Leertraject - 1 uur 20 min. - Aantal modules: 2
-Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-process-manufacturing-dyn365-supply-chain-mgmt)
+#### Leertraject - 5 uur 53 min. - Aantal modules: 3
+Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
 
 Modules:
-- Set up and manage Dynamics 365 for Marketing
-- Advanced configuration for Dynamics 365 for Marketing
+- Configure process manufacturing in Dynamics 365 for Finance and Operations
+- Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
+- Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
 
-## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-fixed-assets-d365-finance-ops)
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-discrete-manufacturing-dyn365-supply-chain-mgmt)
+#### Leertraject - 9 uur 8 min. - Aantal modules: 6
+If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
+Modules:
+- Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
+- Configure discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with the costing sheet in Dynamics 365 for Finance and Operations
+- Work with capacity planning and scheduling in discrete manufacturing in Dynamics 365 for Finance and Operations
+- Work with manufacturing execution in Dynamics 365 for Finance and Operations
+- Get started with product configuration in Dynamics 365 for Finance and Operations
+
+## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-manage-fixed-assets-dyn365-finance)
 #### Leertraject - 3 uur 51 min. - Aantal modules: 2
 You can set up and enter acquisition information for fixed assets, and then manage them by depreciating them and setting a capitalization threshold. The way in which fixed assets are handled must correspond with both international accounting standards and the accounting legislation in each country or region.
 
@@ -852,7 +938,7 @@ Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-budgeting-d365-finance-ops)
+## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-budgeting-dyn365-finance)
 #### Leertraject - 2 uur 28 min. - Aantal modules: 2
 Every organization, whether it is private or public, sets financial and operational goals by creating budgets. With the collaborative and process-driven nature of budget planning, you can make your budget process more efficient.
 
@@ -860,7 +946,7 @@ Modules:
 - Configure and use basic budgeting and budget control in Dynamics 365 for Finance and Operations
 - Configure and use budget planning in Dynamics 365 for Finance and Operations
 
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/work-accounts-receivable-d365-finance-ops)
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/work-accounts-receivable-dyn365-finance)
 #### Leertraject - 5 uur 26 min. - Aantal modules: 4
 You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
 
@@ -870,7 +956,18 @@ Modules:
 - Configure credit and collections in Dynamics 365 for Finance and Operations
 - Process credit and collections in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-cash-bank-management-tax-dyn365-finance)
+#### Leertraject - 5 uur 25 min. - Aantal modules: 5
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization's bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
+Modules:
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
+
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/migrate-data-go-live-finance-operations)
 #### Leertraject - 3 uur 9 min. - Aantal modules: 4
 As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
@@ -879,17 +976,6 @@ Modules:
 - Work with data management in Dynamics 365 for Finance and Operations
 - Perform user acceptance testing in Dynamics 365 for Finance and Operations
 - Prepare to go-live with Dynamics 365 for Finance and Operations
-
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### Leertraject - 5 uur 25 min. - Aantal modules: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
-
-Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/nl-nl/learn/paths/modernize-workplace-with-m365-and-surface)
 #### Leertraject - 2 uur 50 min. - Aantal modules: 9
@@ -908,19 +994,19 @@ Modules:
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/nl-nl/learn/paths/dyn-power-plat-bus-app-fundamentals)
 #### Leertraject - 5 uur 36 min. - Aantal modules: 6
-Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
+|Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
 Modules:
-- Introduction to Customer Engagement Products - fundamentals
+- Introduction to Dynamics 365 Customer Engagement apps - fundamentals
 - Introduction to Unified Operations Products - fundamentals
 - Cloud Concepts - Principles of cloud computing
 - Managing Deployments and Releases - fundamentals
 - Introduction to the Power Platform - fundamentals
 - Explore licensing, onboarding, and support Options - fundamentals
 
-## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-general-ledger-dynamics-365-finance-ops)
+## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-use-general-ledger-dyn365-finance)
 #### Leertraject - 8 uur 15 min. - Aantal modules: 8
-Financial management in Dynamics 365 Finance and Operations empowers business users to control finances and manage funds with accurate information at any time for financial planning and forecasting, and stay up to date with analytics. Since finance is the heart of the business, and the General ledger module is the heart of financial management, this learning path shows you how to set up functionality in the General ledger module.
+Financial management in Dynamics 365 Finance and Operations empowers business users to control finances and manage funds with accurate information at any time for financial planning and forecasting, and stay up-to-date with analytics. Since finance is the heart of the business, and the General ledger module is the heart of financial management, this learning path shows you how to set up functionality in the General ledger module.
 
 Modules:
 - Get started with financial management in Finance and Operations
@@ -947,7 +1033,7 @@ Modules:
 - Manage your Microsoft 365 subscription
 - Select a cloud deployment model
 
-## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-your-organization-in-finance-and-ops)
+## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/configure-your-organization-finance-ops)
 #### Leertraject - 8 uur 52 min. - Aantal modules: 8
 As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
@@ -961,7 +1047,7 @@ Modules:
 - Personalize Dynamics 365 for Finance and Operations
 - Implement common integration features in Dynamics 365 for Finance and Operations
 
-## [Work with accounts payable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/work-with-accounts-payable-in-dynamics-365-for-finance-and-ops)
+## [Work with accounts payable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/work-accounts-payable-dyn365-finance)
 #### Leertraject - 4 uur 28 min. - Aantal modules: 3
 Accounts payable is a liability due to a creditor when you order goods or services without paying in cash up front, which means that you buy goods on credit. Learn how to configure accounts payable in Dynamics 365 for Finance and Operations, record vendor invoices, and distribute expenses, tax and charges across accounts.
 
@@ -1000,7 +1086,7 @@ Modules:
 - Create content in Dynamics 365 portals
 - Secure Dynamics 365 portals content
 
-## [Use Lifecycle Services (LCS) to design and plan an implementation of Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/use-lcs-to-design-and-plan-an-implementation-of-f-and-o)
+## [Use Lifecycle Services (LCS) to design and plan an implementation of Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/use-lcs-design-plan-implementation-finance-operations)
 #### Leertraject - 2 uur 11 min. - Aantal modules: 2
 Lifecycle Services (LCS) is a collaborative workspace that customers and their partners use to manage Microsoft Dynamics 365 for Finance and Operations projects from pre-sales to the implementation phase and finally to the production environment, either on the cloud or on-premises. It provides checklists and tools that help you manage the project, including pre-build methodologies to help with implementation and regularly updated services.
 
@@ -1008,7 +1094,7 @@ Modules:
 - Get started with Lifecycle Services for Dynamics 365 for Finance and Operations
 - Design and plan an implementation of Dynamics 365 for Finance and Operations
 
-## [Implementing Dynamics 365 Customer Engagement Online](https://docs.microsoft.com/nl-nl/learn/paths/implementing-customer-engagement-online)
+## [Implementing Dynamics 365 Customer Engagement Online](https://docs.microsoft.com/nl-nl/learn/paths/implementing-customer-engagement-apps)
 #### Leertraject - 5 uur 5 min. - Aantal modules: 4
 Create, design, and administer Microsoft Dynamics 365 Customer Engagement tenants and instances including planning for multi-instance deployments, managing authentication methods, managing updates, backup and restore instances, install and manage Microsoft Dynamics 365 clients for end-users, and authorizing access to different features for all users in the organization.
 
@@ -1032,8 +1118,8 @@ Modules:
 Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
 
 Modules:
-- Define and track individual goals in Dynamics 365 Customer Engagement
-- Use goal metrics in Dynamics 365 Customer Engagement
+- Define and track individual goals in Dynamics 365 Customer Engagement apps
+- Use goal metrics in Dynamics 365 Customer Engagement apps
 
 ## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/nl-nl/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
 #### Leertraject - 2 uur 8 min. - Aantal modules: 2
@@ -1082,9 +1168,31 @@ Modules:
 - Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
 - Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/get-started-finance-operations)
+#### Leertraject - 1 uur 15 min. - Aantal modules: 3
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
+
+## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/nl-nl/learn/paths/working-with-dynamics-365-sales)
+#### Leertraject - 6 uur 42 min. - Aantal modules: 7
+Generate leads, create opportunities, and utilize embedded intelligence with Microsoft Dynamics 365 for Sales. This learning path covers the key elements of the Sales app.
+
+Modules:
+- Manage leads with Dynamics 365 for Sales
+- Manage opportunities with Dynamics 365 for Sales
+- Leverage Embedded Intelligence in Dynamics 365 for Sales
+- Manage and organize your product catalog with Dynamics 365 for Sales
+- Process sales orders with Dynamics 365 for Sales
+- Manage relationships with social selling in Dynamics 365 for Sales
+- Analyze Dynamics 365 sales data
+
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/nl-nl/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
 #### Leertraject - 6 uur 56 min. - Aantal modules: 15
-Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
+Are you interested in learning about business applications? Or perhaps you don't know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization's needs and goals.
 
 Modules:
 - Welcome to Microsoft Business Applications
@@ -1100,30 +1208,8 @@ Modules:
 - Dynamics 365 for Retail
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
-- Power Platform—Introduction, business value, and demos
+- Power Platform - Introduction, business value, and demos
 - Dynamics 365 AI - Insights-driven business applications
-
-## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/nl-nl/learn/paths/working-with-dynamics-365-sales)
-#### Leertraject - 6 uur 42 min. - Aantal modules: 7
-Generate leads, create opportunities, and utilize embedded intelligence with Microsoft Dynamics 365 for Sales. This learning path covers the key elements of the Sales app.
-
-Modules:
-- Manage leads with Dynamics 365 for Sales
-- Manage opportunities with Dynamics 365 for Sales
-- Leverage Embedded Intelligence in Dynamics 365 for Sales
-- Manage and organize your product catalog with Dynamics 365 for Sales
-- Process sales orders with Dynamics 365 for Sales
-- Manage relationships with social selling in Dynamics 365 for Sales
-- Analyze Dynamics 365 sales data
-
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/nl-nl/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Leertraject - 1 uur 15 min. - Aantal modules: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
-
-Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
 
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/nl-nl/learn/paths/implementing-dyn365-field-service)
 #### Leertraject - 4 uur 14 min. - Aantal modules: 4
