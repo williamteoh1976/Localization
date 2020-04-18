@@ -1,145 +1,425 @@
 # Summary of Learning Paths (ru-ru)
-last updated: 2019-05-10
-## [Узнайте, как стимулировать использование искусственного интеллекта в вашем бизнесе](https://docs.microsoft.com/ru-ru/learn/paths/foster-ai-ready-culture)
-#### Схема обучения - 3 ч 22 мин - Число модулей: 5
-В этой схеме обучения вы узнаете от топ-менеджеров Майкрософт о ключевых изменениях, необходимых для подготовки организации к использованию искусственного интеллекта. Вы сможете идентифицировать успешные реализации решений искусственного интеллекта и формулировать соответствующие сценарии. Вы сможете обсуждать подходящие для конкретной отрасли сценарии использования ИИ в области финансов, маркетинга, продаж и обслуживания клиентов. И наконец, вы сможете определять, какие решения искусственного интеллекта можно реализовать в вашей организации в зависимости от степени ее готовности к использованию ИИ.
+last updated: 2019-10-01
+## [Использование расширенных параметров и соединителей данных в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/advanced-data-options-and-connectors)
+#### Схема обучения - 2 ч 21 мин - 4 Модули
+
+Хотите сделать свое приложение на основе холста более удобным для пользователей? Хотите использовать настраиваемые соединители для подключения к данным? Эта схема обучения поможет вам выполнить обе задачи. Кроме того, основное внимание уделяется работе с ограничениями источников данных.
+
 
 Modules:
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
+- Работа с реляционными данными в приложении на основе холста PowerApps
+- Работа с ограничениями источника данных (ограничениями делегирования) в приложении на основе холста PowerApps
+- Подключение к другим данным в приложении на основе холста PowerApps
+- Использование настраиваемых соединителей в приложении на основе холста PowerApps
 
-## [Бизнес-школа ИИ для отрасли финансовых услуг](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-financial-services)
-#### Схема обучения - 7 ч 27 мин - Число модулей: 10
-Лица, отвечающие за принятие решений в отрасли финансовых услуг, получат специализированные рекомендации, которые помогут составить представление о воздействии ИИ на преобразование рабочих процессов предприятия. Крайне важно определить компоненты стратегии, которые позволят повысить рентабельность в отрасли финансовых услуг с использованием средств ИИ.
+## [Доставка удаленных рабочих столов и приложений из Azure с помощью Виртуального рабочего стола Windows](https://docs.microsoft.com/ru-ru/learn/paths/m365-wvd)
+#### Схема обучения - 1 ч 47 мин - 4 Модули
+Виртуальный рабочий стол Windows в Microsoft Azure — это служба виртуализации рабочего стола и приложений, работающая в облаке. Виртуальный рабочий стол Windows поддерживается на разных устройствах, включая устройства с Windows, Mac, iOS и Android, с полнофункциональными приложениями, которые можно использовать для доступа к удаленным рабочим столам и приложениям.
 
-Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
-## [Бизнес-школа ИИ для производственного сектора](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-manufacturing)
-#### Схема обучения - 7 ч 23 мин - Число модулей: 10
-Лицам, отвечающим за принятие решений в производственном секторе, важно учитывать специализированные требования при оценке влияния ИИ на преобразование рабочих процессов предприятия. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в производственном секторе. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов предприятия.
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in manufacturing
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Общие сведения о виртуальном рабочем столе Windows в Microsoft Azure
+- Подготовка к виртуальному рабочему столу Windows в Microsoft Azure
+- Разверните виртуальный рабочий стол Windows в Microsoft Azure
+- Оптимизируйте виртуальный рабочий стол Windows в Microsoft Azure
 
-## [Бизнес-школа ИИ для сферы розничной торговли](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-retail)
-#### Схема обучения - 7 ч 22 мин - Число модулей: 10
-Лица, отвечающие за принятие решений в сфере розничной торговли, получат специализированные рекомендации, которые помогут составить представление о воздействии ИИ на преобразование рабочих процессов предприятия.
+## [Управление совместной работой команды с помощью Microsoft Teams](https://docs.microsoft.com/ru-ru/learn/paths/m365-manage-team-collaboration)
+#### Схема обучения - 2 ч 17 мин - 5 Модули
+Управляя совместной работой команды с помощью Microsoft Teams, вы ознакомитесь с функциями и возможностями Microsoft Teams, центра совместной работы в Microsoft 365. Вы узнаете, как использовать Teams для упрощения совместной работы и связи в организации, локально и за ее пределами, на различных устройствах (настольных компьютерах, планшетах, телефонах), применяя все разнообразие функций приложений Office 365. Вы поймете, каким образом Teams обеспечивает комплексную и гибкую среду для совместной работы в разных приложениях и на разных устройствах.
+
 
 Modules:
-- Define an AI strategy to create business value
-- Transform business processes in retail with AI
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Подготовка к развертыванию Teams с помощью Microsoft 365
+- Развертывание клиентов Microsoft Teams
+- Управление Microsoft Teams
+- Управление приложениями, ботами и соединителями в Microsoft Teams
+- Управление собраниями, конференциями и трансляциями в Microsoft Teams
 
-## [Определение стратегии внедрения ИИ для повышения рентабельности](https://docs.microsoft.com/ru-ru/learn/paths/ai-strategy-for-business-value)
-#### Схема обучения - 3 ч 52 мин - Число модулей: 5
-В рамках этой схемы обучения вы узнаете от Питера Земски (Peter Zemsky), главного специалиста INSEAD Eli Lilly в области стратегии и инноваций, о том, как ИИ повышает рентабельность для организаций в различных отраслях, а также для клиентов и партнеров корпорации Майкрософт. Вы сможете поучаствовать в обсуждении того, как технические команды внедряют ИИ в бизнес-приложения, а руководители предприятий в различных отраслях планируют применять ИИ в своих компаниях.
+## [SQL Server на Linux](https://docs.microsoft.com/ru-ru/learn/paths/sql-server-2017-on-linux)
+#### Схема обучения - 2 ч 28 мин - 4 Модули
+SQL Server теперь работает в выбранной операционной системе. Эта схема обучения поможет получить базовое представление об SQL Server на Linux. Затем вы научитесь запускать контейнеры SQL Server на Linux и развертывать SQL Server на Linux. После этого вы узнаете, как автоматически настроить развертывание SQL Server на Linux.
+
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in financial services
-- Transform business processes in retail with AI
-- Define an AI strategy to create business value in manufacturing
-- Define an AI strategy to create business value in healthcare
+- Введение в SQL Server на Linux
+- Развертывание SQL Server на Linux
+- Автоматическая настройка SQL Server на Linux
+- Выполнение SQL Server 2017 в контейнерах Linux
 
-## [Общие сведения о технологии ИИ для руководителей предприятий](https://docs.microsoft.com/ru-ru/learn/paths/ai-technology-for-business-leaders)
-#### Схема обучения - 1 ч 14 мин - Число модулей: 2
-В этой схеме обучения представлен обзор основных понятий в сфере ИИ. Вы получите представление об искусственном интеллекте и технологиях, которые лежат в его основе. Вы сможете рассказать, как корпорация Майкрософт применяет инновации в сфере ИИ, чтобы создавать средства, продукты и службы для организаций.
+## [Обновления SQL Server](https://docs.microsoft.com/ru-ru/learn/paths/sql-server-2017-upgrades)
+#### Схема обучения - 3 ч 18 мин - 5 Модули
+Последняя версия SQL Server предоставляет множество преимуществ для повышения производительности и функциональности, а также расширенную поддержку платформы базы данных. Из этой схемы обучения вы узнаете, как выполнять инвентаризацию развертываний SQL Server с помощью набора средств оценки и планирования Майкрософт. Кроме того, вы научитесь обновлять базы данных SQL Server с использованием Помощника по миграции данных и оптимизировать обновленную систему с применением помощника по экспериментированию с данными и помощника по настройке запросов.
 
-Modules:
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
-
-## [Определение ключевых принципов ответственного подхода к использованию ИИ в организации](https://docs.microsoft.com/ru-ru/learn/paths/responsible-ai-business-principles)
-#### Схема обучения - 1 ч - 1 модуль
-Крайне важно осознавать последствия внедрения ИИ в организации. В рамках этой схемы обучения вы получите указания по реализации принципов и модели управления в организации, а также другие рекомендации, ресурсы и средства.
 
 Modules:
-- Identify guiding principles for responsible AI in your business
+- Введение в обновление SQL Server
+- Обнаружение SQL Server с помощью набора средств оценки и планирования Майкрософт (MAP)
+- Оценка и преобразование баз данных SQL Server с использованием Помощника по миграции данных (DMA)
+- Тестирование и оптимизация баз данных SQL Server с использованием Database Experimentation Assistant (DEA)
+- Использование помощника по настройке запросов SQL Server
 
-## [Бизнес-школа ИИ для сферы здравоохранения](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-healthcare)
-#### Схема обучения - 7 ч 22 мин - Число модулей: 10
-Лица, отвечающие за принятие решений в сфере здравоохранения, руководствуются специализированными требованиями при оценке воздействия ИИ на преобразование рабочих процессов предприятия. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в сфере здравоохранения. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов предприятия.
+## [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi)
+#### Схема обучения - 6 ч 22 мин - 6 Модули
+
+Эта схема обучения познакомит вас с Power BI и научит использовать и создавать отчеты бизнес-аналитики.
+
 
 Modules:
-- Define an AI strategy to create business value
-- Define an AI strategy to create business value in healthcare
-- Understand the importance of building an AI-ready culture
-- Discover how to foster an AI-ready culture in finance
-- Discover how to foster an AI-ready culture in marketing
-- Discover how to foster an AI-ready culture in sales
-- Discover how to foster an AI-ready culture in customer service
-- Identify guiding principles for responsible AI in your business
-- Introduction to AI technology
-- Examine the Microsoft approach to Artificial Intelligence
+- Начало работы с Power BI
+- Получение данных с помощью Power BI Desktop
+- Моделирование данных в Power BI
+- Использование визуальных элементов в Power BI
+- Изучение данных в Power BI
+- Публикация и совместное использование в Power BI
 
 ## [Администрирование контейнеров в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-containers-in-azure)
-#### Схема обучения - 2 ч 23 мин - Число модулей: 3
+#### Схема обучения - 3 ч 45 мин - 5 Модули
 Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
 
+
 Modules:
+- Создание контейнерного веб-приложения с помощью Docker
 - Создание и хранение образов контейнеров с помощью службы "Реестр контейнеров Azure"
 - Запуск контейнеров Docker с помощью службы "Экземпляры контейнеров Azure"
 - Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
+- Общие сведения о Службе Azure Kubernetes
+
+## [Создание приложений с Azure DevOps](https://docs.microsoft.com/ru-ru/learn/paths/build-applications-with-azure-devops)
+#### Схема обучения - 6 ч 10 мин - 7 Модули
+Azure DevOps позволяет создавать, тестировать и разворачивать любые приложения в облаке или в локальной среде. Узнайте, как настроить конвейеры сборки, которые непрерывно собирают, тестируют и проверяют приложения.
+В этой схеме обучения рассматриваются следующие темы.
+
+Совместная работа над созданием приложений с помощью Azure Pipelines и GitHub
+Запуск автоматических тестов в конвейере для проверки качества кода
+Сканирование исходного кода и сторонних компонентов на предмет потенциальных уязвимостей
+Определение нескольких конвейеров, работающих совместно для сборки приложения
+Создание приложений с помощью агентов, размещенных в Майкрософт, и ваших агентов сборки
+
+
+
+Modules:
+- Create a build pipeline with Azure Pipelines
+- Implement a code workflow in your build pipeline by using Git and GitHub
+- Run quality tests in your build pipeline by using Azure Pipelines
+- Scan code for vulnerabilities in Azure Pipelines
+- Scan open source components for vulnerabilities and license ratings in Azure Pipelines
+- Manage build dependencies with Azure Artifacts
+- Host your own build agent in Azure Pipelines
+
+## [Развитие практик DevOps](https://docs.microsoft.com/ru-ru/learn/paths/evolve-your-devops-practices)
+#### Схема обучения - 1 ч 17 мин - 3 Модули
+DevOps — это объединение людей, процессов и продуктов для непрерывной поставки ценности конечным пользователям. Azure DevOps — это набор служб, обеспечивающий такую возможность. С помощью Azure DevOps можно создавать, тестировать и развертывать любые приложения в облаке или в локальной среде. Практики DevOps, обеспечивающие прозрачность, сотрудничество, непрерывную поставку и непрерывное развертывание, интегрируются в ваш цикл разработки программного обеспечения.
+С помощью этой схемы обучения вы начнете переход на DevOps. Вы узнаете:
+
+как схемы потока создания ценности могут помочь вам оценить текущие процессы и технологии;
+как зарегистрировать бесплатную учетную запись Azure DevOps;
+как планировать и отслеживать рабочие элементы с помощью Azure Boards.
+
+
+
+Modules:
+- Assess your existing software development process
+- Get started with Azure DevOps
+- Choose an Agile approach to software development
+
+## [Создание автоматизированных рабочих процессов для интеграции данных и приложений с Azure Logic Apps](https://docs.microsoft.com/ru-ru/learn/paths/build-workflows-with-logic-apps)
+#### Схема обучения - 2 ч 49 мин - 4 Модули
+Azure Logic Apps — это облачная служба, которая позволяет автоматизировать выполнение бизнес-процессов. Узнайте, как использовать приложения логики для создания бессерверных рабочих процессов, которые запускаются автоматически при появлении доступных данных.
+
+
+Modules:
+- Введение в Azure Logic Apps
+- Автоматическая маршрутизация и обработка данных с помощью приложений логики
+- Вызов API из рабочего процесса Logic Apps с помощью пользовательского соединителя
+- Создание и развертывание Logic Apps с помощью шаблонов Azure Resource Manager
+
+## [Microsoft 365: модернизация корпоративного развертывания с использованием Windows 10 и Office 365 профессиональный плюс](https://docs.microsoft.com/ru-ru/learn/paths/m365-getmodern)
+#### Схема обучения - 3 ч 17 мин - 9 Модули
+Microsoft 365 помогает создать безопасную и обновляемую среду благодаря использованию устройств с Windows 10, на которых установлены приложения Office 365 профессиональный плюс и управление которыми выполняется с помощью Microsoft Enterprise Mobility + Security. Ознакомьтесь с рекомендациями по переходу организации на Windows 10 и Office 365 профессиональный плюс, в том числе о том, как использовать существующие инструменты и процессы во время реализации современной технологии управления, и необходимых подходах.
+
+
+Modules:
+- Начало работы с Microsoft 365
+- Анализ готовности устройств и приложений к Windows 10
+- Анализ готовности каталога и сети для Microsoft 365
+- Доставка бизнес-приложений Office 365 профессиональный плюс
+- Перенос файлов и параметров пользователей в Microsoft 365
+- Обновление настройки безопасности и соответствия требованиям — Windows 10 и Office 365 профессиональный плюс
+- Развертывание, обновление и переход на Windows 10
+- Сведения об обслуживании Windows и Office 365 профессиональный плюс в Microsoft 365
+- Обучение пользователей работе с новыми возможностями Windows и Office 365 профессиональный плюс
+
+## [Бизнес-школа ИИ для государственных организаций](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-government)
+#### Схема обучения - 8 ч 40 мин - 12 Модули
+Лицам, отвечающим за принятие решений в государственных организациях, важно учитывать специализированные требования государственного сектора при оценке влияния ИИ на преобразование рабочих процессов. Крайне важно определить компоненты стратегии, которые позволят повысить эффективность государственных организаций с использованием средств ИИ. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в государственном секторе. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов государственных организаций.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in government
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI in government
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Создание приложения на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-powerapps)
+#### Схема обучения - 2 ч 11 мин - 3 Модули
+
+Хотите создавать приложения, которые помогут повысить эффективность вашего бизнеса? Тогда воспользуйтесь этой схемой обучения. В рамках этой схемы обучения вы познакомитесь с PowerApps, научитесь создавать, настраивать, администрировать и распространять приложения.
+
+
+Modules:
+- Начало работы с PowerApps
+- Настройка приложения на основе холста в PowerApps
+- Управление приложениями в PowerApps
+
+## [Создание мобильных приложений с помощью Xamarin.Forms](https://docs.microsoft.com/ru-ru/learn/paths/build-mobile-apps-with-xamarin-forms)
+#### Схема обучения - 9 ч 34 мин - 10 Модули
+Использование C# и Visual Studio для создания приложений, выполняемых на устройствах iOS и Android.
+
+
+Modules:
+- Создание мобильного приложения с помощью Xamarin.Forms
+- Введение в Xamarin.Android
+- Введение в Xamarin.iOS
+- Создание пользовательского интерфейса в приложениях Xamarin.Forms с помощью XAML
+- Настройка макета на страницах XAML в Xamarin.Forms
+- Проектирование согласованных страниц XAML Xamarin.Forms с помощью общих ресурсов и стилей
+- Подготовка приложения Xamarin к публикации
+- Использование веб-служб REST в приложениях Xamarin
+- Хранение локальных данных с помощью SQLite в приложении Xamarin.Forms
+- Создание многостраничных приложений Xamarin.Forms с навигацией на основе стека и вкладок
+
+## [Настройка и добавление расширенных функций в приложениях Xamarin.Forms](https://docs.microsoft.com/ru-ru/learn/paths/customize-your-xamarin-forms-apps)
+#### Схема обучения - 7 ч 25 мин - 8 Модули
+Вы можете добавить профессиональные функции и методики разработки, чтобы сделать приложения более привлекательными и удобными в обслуживании.
+
+
+Modules:
+- Кроссплатформенные конструктивные шаблоны для приложений Xamarin
+- Разделение пользовательского интерфейса и кода с помощью привязки данных в Xamarin.Forms
+- Отображение коллекций в приложениях Xamarin.Forms с помощью ListView
+- Настройка ListView в Xamarin.Forms
+- Проектирование модели представления MVVM для Xamarin.Forms
+- Отображение связей в Xamarin.Forms при навигации по основным/подробным данным
+- Создание пользовательских элементов управления с помощью отрисовщиков Xamarin.Forms
+- Использование эффектов в Xamarin.Forms
+
+## [Бизнес-школа ИИ для сферы здравоохранения](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-healthcare)
+#### Схема обучения - 8 ч 26 мин - 12 Модули
+Лица, отвечающие за принятие решений в сфере здравоохранения, руководствуются специализированными требованиями при оценке воздействия ИИ на преобразование рабочих процессов предприятия. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в сфере здравоохранения. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов предприятия.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in healthcare
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Бизнес-школа ИИ для сферы розничной торговли](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-retail)
+#### Схема обучения - 8 ч 26 мин - 12 Модули
+Лица, отвечающие за принятие решений в сфере розничной торговли, получат специализированные рекомендации, которые помогут составить представление о воздействии ИИ на преобразование рабочих процессов предприятия.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in retail
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Общие сведения о технологии ИИ для руководителей предприятий](https://docs.microsoft.com/ru-ru/learn/paths/ai-technology-for-business-leaders)
+#### Схема обучения - 1 ч 25 мин - 2 Модули
+В этой схеме обучения представлен обзор основных понятий в сфере ИИ. Вы получите представление об искусственном интеллекте и технологиях, которые лежат в его основе. Вы сможете рассказать, как корпорация Майкрософт применяет инновации в сфере ИИ, чтобы создавать средства, продукты и службы для организаций.
+
+
+Modules:
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Определение ключевых принципов ответственного подхода к использованию ИИ в организации](https://docs.microsoft.com/ru-ru/learn/paths/responsible-ai-business-principles)
+#### Схема обучения - 41 мин - 1 Модули
+Крайне важно осознавать последствия внедрения ИИ в организации. В рамках этой схемы обучения вы получите указания по реализации принципов и модели управления в организации, а также другие рекомендации, ресурсы и средства.
+
+
+Modules:
+- Identify guiding principles for responsible AI
+
+## [Бизнес-школа ИИ для производственного сектора](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-manufacturing)
+#### Схема обучения - 8 ч 27 мин - 12 Модули
+Лицам, отвечающим за принятие решений в производственном секторе, важно учитывать специализированные требования при оценке влияния ИИ на преобразование рабочих процессов предприятия. Эта схема обучения предназначена для лиц, отвечающих за принятие решений в производственном секторе. С ее помощью они составят представление о воздействии ИИ на преобразование рабочих процессов предприятия.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in manufacturing
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Узнайте, как стимулировать использование искусственного интеллекта в вашем бизнесе](https://docs.microsoft.com/ru-ru/learn/paths/foster-ai-ready-culture)
+#### Схема обучения - 3 ч 22 мин - 5 Модули
+В этой схеме обучения вы узнаете от топ-менеджеров Майкрософт о ключевых изменениях, необходимых для подготовки организации к использованию искусственного интеллекта. Вы сможете идентифицировать успешные реализации решений искусственного интеллекта и формулировать соответствующие сценарии. Вы сможете обсуждать подходящие для конкретной отрасли сценарии использования ИИ в области финансов, маркетинга, продаж и обслуживания клиентов. И наконец, вы сможете определять, какие решения искусственного интеллекта можно реализовать в вашей организации в зависимости от степени ее готовности к использованию ИИ.
+
+
+Modules:
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+
+## [Определение стратегии внедрения ИИ для повышения рентабельности](https://docs.microsoft.com/ru-ru/learn/paths/ai-strategy-for-business-value)
+#### Схема обучения - 4 ч 43 мин - 6 Модули
+В рамках этой схемы обучения вы узнаете от Питера Земски (Peter Zemsky), главного специалиста INSEAD Eli Lilly в области стратегии и инноваций, о том, как ИИ повышает рентабельность для организаций в различных отраслях, а также для клиентов и партнеров корпорации Майкрософт. Вы сможете поучаствовать в обсуждении того, как технические команды внедряют ИИ в бизнес-приложения, а руководители предприятий в различных отраслях планируют применять ИИ в своих компаниях.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Define an AI strategy to create value in government
+- Define an AI strategy to create business value in retail
+- Define an AI strategy to create business value in manufacturing
+- Define an AI strategy to create business value in healthcare
+
+## [Бизнес-школа ИИ для отрасли финансовых услуг](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-financial-services)
+#### Схема обучения - 8 ч 31 мин - 12 Модули
+Лица, отвечающие за принятие решений в отрасли финансовых услуг, получат специализированные рекомендации, которые помогут составить представление о воздействии ИИ на преобразование рабочих процессов предприятия. Крайне важно определить компоненты стратегии, которые позволят повысить рентабельность в отрасли финансовых услуг с использованием средств ИИ.
+
+
+Modules:
+- Define an AI strategy to create business value
+- Define an AI strategy to create business value in financial services
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
+
+## [Использование данных с помощью Power BI](https://docs.microsoft.com/ru-ru/learn/paths/consume-data-with-power-bi)
+#### Схема обучения - 2 ч 9 мин - 2 Модули
+
+Вы хотите принимать важные бизнес-решения на основе данных? Узнайте, как это сделать в Power BI. Узнайте, как просматривать и использовать содержимое в Power BI для принятия важных бизнес-решений.
+
+
+Modules:
+- Изучение возможностей Power BI
+- Анализ данных с помощью Power BI
+
+## [Расширенные методики работы с приложениями PowerApps на основе холста](https://docs.microsoft.com/ru-ru/learn/paths/understand-advanced-topics)
+#### Схема обучения - 2 ч 30 мин - 4 Модули
+
+Хотите убедиться, что ваше приложение лучше всех других? Эта схема обучения поможет вам использовать расширенные формулы и выполнять настраиваемые обновления. Кроме того, упор в ней будет делаться на проверку производительности.
+
+
+Modules:
+- Использование методов императивной разработки для приложений на основе холста в PowerApps
+- Создание расширенной формулы, которая использует таблицы, записи и коллекции, в приложении на основе холста в PowerApps
+- Использование пользовательских обновлений в приложении на основе холста PowerApps
+- Полное тестирование и проверка производительности приложения на основе холста PowerApps
+
+## [Модернизация рабочего места с помощью Microsoft 365 и Surface для бизнеса](https://docs.microsoft.com/ru-ru/learn/paths/modernize-workplace-with-m365-and-surface)
+#### Схема обучения - 2 ч 50 мин - 9 Модули
+Вы хотите узнать о современном рабочем месте понятным способом? Хотите узнать, как корпорация Майкрософт может помочь вам в создании современного рабочего места?В этой схеме обучения вы узнаете, что означает современное рабочее место для пользователей и ИТ-специалистов, и как Microsoft 365 может помочь с его созданием.
+
+
+Modules:
+- Узнайте, как с помощью Microsoft 365 можно перейти на современные рабочие места в организации.
+- Решения для современных рабочих мест: Microsoft 365 и Surface для бизнеса
+- Упрощение работы в команде для повышения эффективности труда с помощью Microsoft 365
+- Поддержка современного взаимодействия и совместной работы с помощью Microsoft Teams
+- Узнайте, как повысить эффективность работы своей организации с помощью Surface для бизнеса и Microsoft 365
+- Согласование потребностей ИТ-отделов и пользователей с помощью Windows 10 и Office 365 профессиональный плюс
+- Защита организации с помощью встроенной интеллектуальной системы безопасности от Microsoft 365
+- Удовлетворение растущего спроса на прозрачность, конфиденциальность и соответствие требованиям с помощью Microsoft 365
+- Ускорение развертывания и увеличение степени принятия Microsoft 365 с помощью FastTrack
+
+## [Использование пользовательского интерфейса и элементов управления в приложении на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/ui-controls-canvas-app-powerapps)
+#### Схема обучения - 1 ч 58 мин - 3 Модули
+
+Пользовательский интерфейс приложения часто определяет его успех. В этой схеме обучения содержатся сведения о том, как обеспечить лучшую навигацию по приложениям и создать лучший пользовательский интерфейс с помощью тем, значков, изображений, персонализации, различных форм-факторов и элементов управления.
+
+
+Modules:
+- Навигация в приложении на основе холста в PowerApps
+- Создание пользовательского интерфейса в приложении на основе холста в PowerApps
+- Общие сведения об элементах управления в приложении на основе холста и их использовании в PowerApps
 
 ## [Использование базовых формул для создания эффективных приложений на основе холста PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/use-basic-formulas-powerapps-canvas-app)
-#### Схема обучения - 2 ч 16 мин - Число модулей: 3
+#### Схема обучения - 2 ч 16 мин - 3 Модули
+
 Вы хотите использовать формулы для улучшения функциональности и изменения поведения в приложении на основе холста PowerApps? Эта схема обучения поможет добиться поставленной задачи.
+
 
 Modules:
 - Создание базовой формулы для изменения свойств в приложении на основе холста PowerApps
 - Создание базовой формулы для изменения поведения в приложении на основе холста PowerApps
 - Создание основной формулы, которая использует таблицы и записи приложения на основе холста PowerApps
 
+## [Основы Microsoft 365](https://docs.microsoft.com/ru-ru/learn/paths/m365-fundamentals)
+#### Схема обучения - 3 ч 42 мин - 9 Модули
+Microsoft 365 — это интеллектуальное решение, включающее Office 365, Windows 10 и Enterprise Mobility + Security, которое позволяет креативно сотрудничать в безопасной среде. Узнайте, как оно поддерживает цифровую трансформацию вашей организации.
+
+
+Modules:
+- Что такое Microsoft 365?
+- Общие сведения об основных службах и возможностях Microsoft 365
+- Общие сведения о командной работе в Microsoft 365
+- Переход на современные компьютеры с помощью Microsoft 365
+- Общие сведения об объединенном управлении конечными точками в Microsoft 365
+- Общие сведения о безопасности в Microsoft 365
+- Введение в средства для обеспечения соответствия требованиям в Microsoft 365
+- Управление подпиской Microsoft 365
+- Выбор модели облачного развертывания
+
 ## [Работа с данными в приложении на основе холста PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/work-with-data-in-a-canvas-app)
-#### Схема обучения - 2 ч 14 мин - Число модулей: 3
+#### Схема обучения - 2 ч 14 мин - 3 Модули
+
 Вам нужно подключить приложение для доступа к данным? Тогда воспользуйтесь этой схемой обучения. В ней основное внимание уделяется подключению к источникам данных. Здесь также рассматривается использование фильтрации, условий и других функций для формирования данных и их записи в источник данных.
+
 
 Modules:
 - Работа с внешними данными в приложении на основе холста PowerApps
 - Формирование данных в приложении на основе холста PowerApps
 - Запись данных в приложение на основе холста PowerApps
 
-## [Начало работы с машинным обучением с помощью виртуальной машины для обработки и анализа данных Azure](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-azure-dsvm)
-#### Схема обучения - 1 ч 43 мин - Число модулей: 3
-Azure включает в себя предварительно настроенную службу виртуальных машин для выполнения задач обработки и анализа данных. Узнайте, как использовать виртуальную машину для обработки и анализа данных Azure для выполнения распространенных задач анализа данных и машинного обучения.
-
-Modules:
-- Общие сведения о виртуальных машинах для обработки и анализа данных Azure
-- Обзор типов виртуальных машин для обработки и анализа данных Azure
-- Подготовка и использование виртуальной машины для обработки и анализа данных Azure
-
 ## [Создавать решения искусственного интеллекта с помощью Службы машинного обучения Azure](https://docs.microsoft.com/ru-ru/learn/paths/build-ai-solutions-with-azure-ml-service)
-#### Схема обучения - 3 ч 17 мин - Число модулей: 4
+#### Схема обучения - 3 ч 17 мин - 4 Модули
 Azure предлагает широкий набор служб для разработки и развертывания моделей машинного обучения. Узнайте, как использовать эти службы для анализа данных
+
 
 Modules:
 - Введение в службу машинного обучения Azure
@@ -147,68 +427,87 @@ Modules:
 - Автоматизация выбора модели машинного обучения с помощью службы машинного обучения Azure
 - Регистрация и развертывание моделей ML с помощью службы машинного обучения Azure
 
-## [Разработка решения искусственного интеллекта с помощью служб обработки и анализа данных в Azure](https://docs.microsoft.com/ru-ru/learn/paths/explore-data-science-tools-in-azure)
-#### Схема обучения - 1 ч 40 мин - Число модулей: 2
-Изучайте средства Azure для специалистов по анализу данных, позволяющие исследовать, анализировать и обрабатывать данные с помощью Машинного обучения.
-
-Modules:
-- Введение в обработку и анализ данных в Azure
-- Выбор подходящей службы обработки и анализа данных в Azure
-
 ## [Введение в машинное обучение с использованием Python и Записных книжек Azure](https://docs.microsoft.com/ru-ru/learn/paths/intro-to-ml-with-python)
-#### Схема обучения - 2 ч 11 мин - Число модулей: 3
+#### Схема обучения - 2 ч 11 мин - 3 Модули
 Python стал основным языком, использующимся для анализа данных в ходе машинного обучения. Узнайте, как использовать Python и связанные библиотеки в записных книжках Jupyter, запущенных в Записных книжках Azure, для прогнозирования шаблонов и выявления тенденций.
+
 
 Modules:
 - Анализ данных климата с записными книжками Azure
 - Прогнозирование задержки рейсов путем создания модели машинного обучения в Python
 - Анализ тональности отзывов с Keras
 
-## [Обработка и перевод речи с помощью Azure Cognitive Speech Services](https://docs.microsoft.com/ru-ru/learn/paths/translate-speech-with-speech-services)
-#### Схема обучения - 1 ч 34 мин - Число модулей: 2
-Узнайте, как преобразовать речь в текст и распознать отдельных говорящих в приложениях, интегрировав службы Cognitive Speech Services.
+## [Разработка решения искусственного интеллекта с помощью служб обработки и анализа данных в Azure](https://docs.microsoft.com/ru-ru/learn/paths/explore-data-science-tools-in-azure)
+#### Схема обучения - 1 ч 40 мин - 2 Модули
+Изучайте средства Azure для специалистов по анализу данных, позволяющие исследовать, анализировать и обрабатывать данные с помощью Машинного обучения.
+
 
 Modules:
-- Перевод речи в режиме реального времени с помощью Azure Cognitive Services
-- Распознавание голосов с помощью API распознавания говорящего в Azure Cognitive Services
+- Введение в обработку и анализ данных в Azure
+- Выбор подходящей службы обработки и анализа данных в Azure
+
+## [Начало работы с машинным обучением с помощью виртуальной машины для обработки и анализа данных Azure](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-azure-dsvm)
+#### Схема обучения - 1 ч 43 мин - 3 Модули
+Azure включает в себя предварительно настроенную службу виртуальных машин для выполнения задач обработки и анализа данных. Узнайте, как использовать виртуальную машину для обработки и анализа данных Azure для выполнения распространенных задач анализа данных и машинного обучения.
+
+
+Modules:
+- Общие сведения о виртуальных машинах для обработки и анализа данных Azure
+- Обзор типов виртуальных машин для обработки и анализа данных Azure
+- Подготовка и использование виртуальной машины для обработки и анализа данных Azure
+
+## [Создание интеллектуальных ботов с помощью службы Azure Bot](https://docs.microsoft.com/ru-ru/learn/paths/create-bots-with-the-azure-bot-service)
+#### Схема обучения - 2 ч 38 мин - 2 Модули
+Взаимодействие клиентов с компьютерными приложениями через беседу с использованием текста, рисунков или речи можно реализовать с помощью ботов. Это может быть простой диалог "вопрос — ответ" или сложный бот, который позволяет людям взаимодействовать со службами разумным образом, используя сопоставление шаблонов, отслеживание состояния и методы искусственного интеллекта, которые хорошо интегрированы с существующими бизнес-службами.  Узнайте, как создать интеллектуального чат-бота с помощью интеграции QnA Maker и LUIS.
+
+
+Modules:
+- Создание чат-бота вопросов и ответов с помощью службы QnA Maker и Azure Bot
+- Создание чат-бота с помощью службы Azure Bot
+
+## [Публикация эксперимента машинного обучения с помощью Студии машинного обучения Microsoft Azure](https://docs.microsoft.com/ru-ru/learn/paths/publish-experiment-with-ml-studio)
+#### Схема обучения - 1 ч 6 мин - 2 Модули
+Машинное обучение играет важную роль в приложениях, использующих искусственный интеллект. Студия машинного обучения и службы машинного обучения Майкрософт предоставляют готовые модели машинного обучения и позволяют создать собственные. Узнайте, как создать учетную запись в студии машинного обучения Azure, создать пример эксперимента, а затем опубликовать и развернуть его для использования в качестве веб-службы.
+
+
+Modules:
+- Создание учетной записи студии машинного обучения Azure
+- Создание эксперимента в студии машинного обучения Azure
 
 ## [Оценка текста с помощью Azure Cognitive Language Services](https://docs.microsoft.com/ru-ru/learn/paths/evaluate-text-with-language-services)
-#### Схема обучения - 2 ч 13 мин - Число модулей: 3
+#### Схема обучения - 2 ч 13 мин - 3 Модули
 Узнайте, как использовать Cognitive Language Services для анализа текста, определения намерений, обнаружения тем взрослой тематики и обработки запросов на естественном языке.
+
 
 Modules:
 - Классификация и модерация текста с помощью Azure Content Moderator
 - как добавить логику диалога в приложения с помощью интеллектуальной службы распознавания речи (LUIS).
 - Обнаружение тональности в тексте с помощью API анализа текста
 
-## [Создание интеллектуальных ботов с помощью службы Azure Bot](https://docs.microsoft.com/ru-ru/learn/paths/create-bots-with-the-azure-bot-service)
-#### Схема обучения - 2 ч 38 мин - Число модулей: 2
-Узнайте, как создать интеллектуального чат-бота с помощью интеграции QnA Maker и LUIS.
-
-Modules:
-- Создание чат-бота вопросов и ответов с помощью службы QnA Maker и Azure Bot
-- Создание чат-бота с помощью службы Azure Bot
-
 ## [Обработка и классификация изображений с помощью Azure Cognitive Vision Services](https://docs.microsoft.com/ru-ru/learn/paths/classify-images-with-vision-services)
-#### Схема обучения - 2 ч 5 мин - Число модулей: 3
+#### Схема обучения - 2 ч 45 мин - 4 Модули
 Microsoft Cognitive Services предлагает встроенные функции включения компьютерного зрения в приложениях.  Узнайте, как использовать службы Cognitive Vision Services для обнаружения лиц, пометки и классификации изображений, а также идентификации объектов.
+
 
 Modules:
 - Определение лиц и выражений с помощью API компьютерного зрения в Azure Cognitive Services
 - Обработка изображений с помощью службы компьютерного зрения
 - Классификация изображений с помощью пользовательской службы визуального распознавания Майкрософт
+- Оценка требований к реализации API Пользовательского визуального распознавания
 
-## [Публикация эксперимента машинного обучения с помощью Студии машинного обучения Microsoft Azure](https://docs.microsoft.com/ru-ru/learn/paths/publish-experiment-with-ml-studio)
-#### Схема обучения - 1 ч 6 мин - Число модулей: 2
-Узнайте, как создать учетную запись в студии машинного обучения Azure, создать пример эксперимента, а затем опубликовать и развернуть его для использования в качестве веб-службы.
+## [Обработка и перевод речи с помощью Azure Cognitive Speech Services](https://docs.microsoft.com/ru-ru/learn/paths/translate-speech-with-speech-services)
+#### Схема обучения - 1 ч 34 мин - 2 Модули
+Microsoft Cognitive Services предоставляет функции включения речевых служб в ваших приложениях. Узнайте, как преобразовать речь в текст и распознать отдельных говорящих в приложениях, интегрировав службы Cognitive Speech Services.
+
 
 Modules:
-- Создание учетной записи студии машинного обучения Azure
-- Создание эксперимента в студии машинного обучения Azure
+- Перевод речи в режиме реального времени с помощью Azure Cognitive Services
+- Распознавание голосов с помощью API распознавания говорящего в Azure Cognitive Services
 
 ## [Инжиниринг данных с Azure Databricks](https://docs.microsoft.com/ru-ru/learn/paths/data-engineering-with-databricks)
-#### Схема обучения - 10 ч 23 мин - Число модулей: 9
-Познакомьтесь с инструментами и методами инжиниринга данных, поддерживаемыми Azure Databricks.
+#### Схема обучения - 7 ч 49 мин - 9 Модули
+Узнайте, как правильно работать с Azure Databricks и ускорить настройку решения. Работа с данными в хранилище данных SQL Azure с помощью встроенных служб соединителя. Обзор служб данных, доступных в Фабрике данных Azure. Создание оптимизированных рабочих процессов и работа с интерактивной рабочей областью аналитики на базе Apache Spark.
+
 
 Modules:
 - Общие сведения об Azure Databricks
@@ -222,42 +521,37 @@ Modules:
 - Создание визуализаций данных с помощью Azure Databricks и Power BI
 
 ## [Автоматизация бизнес-процесса с помощью Microsoft Flow](https://docs.microsoft.com/ru-ru/learn/paths/automate-process-using-flow)
-#### Схема обучения - 3 ч 11 мин - Число модулей: 3
+#### Схема обучения - 3 ч 11 мин - 3 Модули
+
 Эта схема обучения познакомит вас с Microsoft Flow, научит создавать рабочие процессы и администрировать потоки.
+
 
 Modules:
 - Начало работы с Microsoft Flow
 - Создание более сложных потоков с помощью Microsoft Flow
 - Управление средами и политиками данных в Microsoft Flow с помощью Центра администрирования
 
-## [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi)
-#### Схема обучения - 1 ч 42 мин - Число модулей: 2
-Эта схема обучения познакомит вас с Power BI и научит использовать и создавать отчеты бизнес-аналитики.
-
-Modules:
-- Начало работы с Power BI
-- Создание первого отчета Power BI и предоставление общего доступа к нему
-
 ## [Создание приложения на основе модели в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-app-models-business-processes)
-#### Схема обучения - 1 ч 40 мин - Число модулей: 2
+#### Схема обучения - 1 ч 40 мин - 2 Модули
+
 Эта схема обучения познакомит вас с созданием приложения PowerApps, управляемого моделью, которое использует Common Data Service.
+
 
 Modules:
 - Начало работы с приложениями на основе моделей в PowerApps
 - Начало работы с Common Data Service
 
-## [Создание приложения на основе холста в PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/create-powerapps)
-#### Схема обучения - 2 ч 16 мин - Число модулей: 3
-В рамках этой схемы обучения вы познакомитесь с PowerApps и научитесь создавать, настраивать, администрировать и распространять приложения.
-
-Modules:
-- Get started with PowerApps
-- Настройка приложения в PowerApps
-- Управление приложениями в PowerApps
-
 ## [Реализация хранилища данных с Хранилищем данных SQL Azure](https://docs.microsoft.com/ru-ru/learn/paths/implement-sql-data-warehouse)
-#### Схема обучения - 3 ч 21 мин - Число модулей: 4
+#### Схема обучения - 3 ч 21 мин - 4 Модули
 Хранилище данных SQL Azure предоставляет реляционное хранилище больших данных, которое можно масштабировать до нескольких петабайт данных. Из этой схемы обучения вы узнаете, как Хранилище данных SQL Azure может достичь такого масштаба с помощью архитектуры массовой параллельной обработки (MPP). Создайте хранилище данных за несколько минут и используйте знакомый язык запросов для построения отчетов. Загрузите большой объем данных за несколько минут и убедитесь, что хранилище данных является безопасным.
+В этой схеме обучения рассматриваются следующие темы.
+
+Сведения о создании Хранилища данных SQL Azure
+Выполнение запросов и визуализация данных из Хранилища данных SQL Azure
+Импорт данных в Хранилище данных SQL с помощью Polybase
+Сведения об элементах управления безопасностью, предоставляемых Службой хранилища Azure и Хранилищем данных SQL Azure
+
+
 
 Modules:
 - Разработка хранилища данных с помощью хранилища данных SQL Azure
@@ -265,22 +559,39 @@ Modules:
 - Импорт данных в хранилище данных SQL Azure с помощью PolyBase
 - Безопасность хранилища данных
 
-## [Узнайте о ценности Microsoft Azure для бизнеса](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-azure)
-#### Схема обучения - 3 ч 47 мин - Число модулей: 7
-Хотите узнать больше об облаке простым для понимания способом? Или, возможно, вы не знаете, с чего начать изучение облачных технологий? С помощью этой схемы обучения вы увидите, как цифровые преобразования и возможности облака могут изменить ваш бизнес.
+## [Azure для инженеров данных](https://docs.microsoft.com/ru-ru/learn/paths/azure-for-the-data-engineer)
+#### Схема обучения - 1 ч 51 мин - 3 Модули
+Узнайте, как развивается мир данных и как появление облачных технологий предоставляет новые возможности для бизнеса. Вы узнаете о различных доступных технологиях платформ данных и о том, и как инженер данных может воспользоваться преимуществами этих технологий во благо организации.
+
 
 Modules:
-- Welcome to Microsoft Azure
-- Introduction to Azure solutions
-- Applications and infrastructure migration and modernization
-- Microsoft data estate migration and modernization
-- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
-- Microsoft Azure IoT strategy and solutions
-- Overview of the Microsoft Cloud Operating Model
+- Развивающийся мир данных
+- Обзор служб платформы данных Azure
+- Определение задач специалиста по инжинирингу данных в архитектуре, размещенной в облаке
+
+## [Обработка данных в большом объеме с Azure Data Lake Storage 2-го поколения](https://docs.microsoft.com/ru-ru/learn/paths/data-processing-with-azure-adls)
+#### Схема обучения - 2 ч 5 мин - 3 Модули
+В этой схеме обучения вы увидите, как Azure Data Lake Storage может повысить эффективность аналитических решений для обработки больших данных и как легко его настроить. Вы узнаете, как он вписывается в общие архитектуры, а также познакомитесь с различными методами передачи данных в хранилище данных. Наконец, вы исследуете множество функций безопасности, которые гарантируют безопасность ваших данных.
+
+
+Modules:
+- Общие сведения об Azure Data Lake Storage
+- Отправка данных в Azure Data Lake Storage
+- Защита учетной записи хранения Azure
+
+## [Реализация решения для потока данных с помощью Azure Streaming Analytics](https://docs.microsoft.com/ru-ru/learn/paths/implement-data-streaming-with-asa)
+#### Схема обучения - 1 ч 14 мин - 2 Модули
+Изучите принципы обработки событий и потоковой передачи данных и узнайте, как это применяется к Azure Stream Analytics. Затем настройте задание Stream Analytics для потоковой передачи данных и узнайте, как контролировать и отслеживать выполнение заданий.
+
+
+Modules:
+- Работа с потоками данных с помощью Azure Stream Analytics
+- Преобразование данных с помощью Azure Stream Analytics
 
 ## [Извлечение знаний и аналитических сведений из данных с помощью Azure Databricks](https://docs.microsoft.com/ru-ru/learn/paths/data-science)
-#### Схема обучения - 5 ч 31 мин - Число модулей: 6
+#### Схема обучения - 4 ч 21 мин - 6 Модули
 Узнайте, как применить Azure Databricks для реализации методов прогнозной и аналитической обработки данных, таких как исследовательский анализ данных, обучение моделей, анализ текста и глубокое обучение.
+
 
 Modules:
 - Общие сведения об Azure Databricks
@@ -290,35 +601,42 @@ Modules:
 - Глубокое обучение с помощью Azure Databricks
 - Выполнение анализа текста с помощью Azure Databricks
 
-## [Реализация решения для потока данных с помощью Azure Streaming Analytics](https://docs.microsoft.com/ru-ru/learn/paths/implement-data-streaming-with-asa)
-#### Схема обучения - 1 ч 14 мин - Число модулей: 2
-Изучите принципы обработки событий и потоковой передачи данных и узнайте, как это применяется к Azure Stream Analytics. Затем настройте задание Stream Analytics для потоковой передачи данных и узнайте, как контролировать и отслеживать выполнение заданий.
+## [Узнайте о ценности Microsoft Azure для бизнеса](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-azure)
+#### Схема обучения - 4 ч 58 мин - 9 Модули
+Хотите узнать больше об облаке простым для понимания способом? Или, возможно, вы не знаете, с чего начать изучение облачных технологий?
+С помощью этой схемы обучения вы увидите, как цифровые преобразования и возможности облака могут изменить ваш бизнес. Мы рассмотрим, какие возможности могут дать облачные службы Microsoft Azure для вашей организации на надежной облачной платформе. Наконец, мы подведем итоги, продемонстрировав, как применить эту схему на практике в вашей организации.
+Из этой схемы обучения вы узнаете, как делать следующее.
+
+Включить цифровое преобразование.
+Определить способы миграции и модернизации приложений.
+Получить аналитические сведения о данных, искусственном интеллекте и Интернете вещей.
+Согласовать широкий набор нормативных стандартов и стандартов соответствия на надежной облачной платформе.
+
+
 
 Modules:
-- Работа с потоками данных с помощью Azure Stream Analytics
-- Преобразование данных с помощью Azure Stream Analytics
-
-## [Azure для инженеров данных](https://docs.microsoft.com/ru-ru/learn/paths/azure-for-the-data-engineer)
-#### Схема обучения - 1 ч 51 мин - Число модулей: 3
-Узнайте, как развивается мир данных и как появление облачных технологий предоставляет новые возможности для бизнеса. Вы узнаете о различных доступных технологиях платформ данных и о том, и как инженер данных может воспользоваться преимуществами этих технологий во благо организации.
-
-Modules:
-- Развивающийся мир данных
-- Обзор служб платформы данных Azure
-- Определение задач специалиста по инжинирингу данных в архитектуре, размещенной в облаке
-
-## [Обработка данных в большом объеме с Azure Data Lake Storage 2-го поколения](https://docs.microsoft.com/ru-ru/learn/paths/data-processing-with-azure-adls)
-#### Схема обучения - 2 ч 5 мин - Число модулей: 3
-В этой схеме обучения вы увидите, как Azure Data Lake Storage может повысить эффективность аналитических решений для обработки больших данных и как легко его настроить. Вы узнаете, как он вписывается в общие архитектуры, а также познакомитесь с различными методами передачи данных в хранилище данных. Наконец, вы исследуете множество функций безопасности, которые гарантируют безопасность ваших данных.
-
-Modules:
-- Общие сведения об Azure Data Lake Storage
-- Отправка данных в Azure Data Lake Storage
-- Защита учетной записи хранения Azure
+- Welcome to Microsoft Azure
+- Introduction to Azure solutions
+- Applications and infrastructure migration and modernization
+- Microsoft data estate migration and modernization
+- Microsoft Azure Artificial Intelligence (AI) strategy and solutions
+- Microsoft Azure IoT strategy and solutions
+- See Azure in action
+- Microsoft Cloud Adoption Framework for Azure
+- Microsoft runs on trust
 
 ## [Основные сведения об Azure](https://docs.microsoft.com/ru-ru/learn/paths/azure-fundamentals)
-#### Схема обучения - 9 ч 35 мин - Число модулей: 12
+#### Схема обучения - 9 ч 35 мин - 12 Модули
 Вы заинтересовались облаком, но не знаете, какую именно пользу оно может вам принести? Вам стоит начать с этой схемы обучения.
+В этой схеме обучения рассматриваются следующие темы.
+
+Основные понятия, связанные с облачными вычислениями: высокий уровень доступности, масштабируемость, эластичность, гибкость, отказоустойчивость и аварийное восстановление
+Преимущества облачных вычислений в Azure: как с их помощью можно сэкономить время и деньги
+Сравнение и сопоставление основных стратегий перехода на облачные службы Azure
+Службы доступные в Azure, в том числе службы вычислений, сетевые службы, службы хранения и безопасности
+
+Выполнив эту схему обучения, вы получите знания, необходимые для сдачи экзамена AZ900 Microsoft Azure Fundamentals.
+
 
 Modules:
 - Основные понятия, связанные с облачными вычислениями — принципы облачных вычислений
@@ -335,8 +653,9 @@ Modules:
 - Прогнозирование расходов и оптимизация затрат на Azure
 
 ## [Разработка приложений для Windows 10](https://docs.microsoft.com/ru-ru/learn/paths/develop-windows10-apps)
-#### Схема обучения - 4 ч 30 мин - Число модулей: 4
+#### Схема обучения - 4 ч 30 мин - 4 Модули
 Сведения о разработке, тестировании и развертывании приложений для Windows 10.
+
 
 Modules:
 - Введение в разработку приложений для Windows 10
@@ -344,20 +663,87 @@ Modules:
 - Создание приложения для Windows 10
 - Создание подключенных к Интернету приложений для Windows
 
-## [Развертывание веб-сайта в Azure с помощью службы приложений Azure](https://docs.microsoft.com/ru-ru/learn/paths/deploy-a-website-with-azure-app-service)
-#### Схема обучения - 4 ч 30 мин - Число модулей: 5
-Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
+## [Работа с данными NoSQL в Azure Cosmos DB](https://docs.microsoft.com/ru-ru/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
+#### Схема обучения - 5 ч 55 мин - 8 Модули
+Данные NoSQL представляют собой эффективный способ для хранения сведений, которые не соответствуют требованиям реляционной базы данных SQL. Узнайте, как с помощью портала Azure, расширения Azure Cosmos DB для Visual Studio Code и пакета SDK для .NET Core для Azure Cosmos DB работать с данными NoSQL в любом расположении, а также обеспечить пользователям высокий уровень доступности независимо от того, где они находятся.
+
 
 Modules:
-- Подготовка среды для разработки в Azure
-- Размещение веб-приложения с помощью Службы приложений Azure
-- Публикация веб-приложения в Azure с помощью Visual Studio
-- Подготовка развертывания веб-приложения для тестирования и отката с помощью слотов развертывания службы приложений
-- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
+- Создание масштабируемой базы данных Azure Cosmos DB
+- Выбор подходящего API для хранилища Azure Cosmos DB
+- Добавление данных в базу данных Azure Cosmos DB и их запрашивание
+- Хранение данных графа в Azure Cosmos DB и доступ к ним с помощью API Graph
+- Хранение данных NoSQL и доступ к ним с помощью Azure Cosmos DB и API таблиц
+- Создание приложения .NET Core для Azure Cosmos DB в Visual Studio Code
+- Оптимизация производительности Azure Cosmos DB с помощью стратегий секционирования и индексирования
+- Глобальное распределение данных в Azure с помощью Cosmos DB
+
+## [Подключение служб друг к другу](https://docs.microsoft.com/ru-ru/learn/paths/connect-your-services-together)
+#### Схема обучения - 3 ч 31 мин - 4 Модули
+Azure позволяет создавать приложения, состоящие из различных компонентов: внешних интерфейсов веб-сайтов, внутренних служб и активируемых функций, которые запускают службы вычислений по запросу. Azure также предоставляет различные стратегии обмена данными, которые позволяют этим различным компонентам передавать данные друг другу. Узнайте, как с помощью этих служб для обмена данными можно создавать масштабируемые, эффективные решения из тестируемых компонентов.
+
+
+Modules:
+- Выберите модель обмена сообщениями в Azure для свободного подключения служб
+- Реализация рабочих процессов обмена сообщениями со служебной шиной Azure
+- Обмен данными между приложениями с помощью хранилища очередей Azure
+- Организация надежного обмена сообщениями для приложений по обработке больших данных с помощью Центров событий Azure
+
+## [Разработка эффективных решений в Azure](https://docs.microsoft.com/ru-ru/learn/paths/architect-great-solutions-in-azure)
+#### Схема обучения - 4 ч 17 мин - 5 Модули
+Узнайте, как проектировать и разрабатывать надежные масштабируемые и высокопроизводительные решения в Azure, изучив основные характеристики эффективной архитектуры.
+
+
+Modules:
+- Основные критерии удачной архитектуры Azure
+- Проектирование для безопасности в Azure
+- Проектирование с акцентом на производительность и масштабирование в Azure
+- Проектирование для повышения эффективности работы в Azure
+- Проектирование с акцентом на доступность и возможность восстановления в Azure
+
+## [Управление ресурсами в Azure](https://docs.microsoft.com/ru-ru/learn/paths/manage-resources-in-azure)
+#### Схема обучения - 4 ч 15 мин - 5 Модули
+Узнайте, как с помощью командной строки Azure и веб-портала создавать и администрировать облачные ресурсы, а также контролировать их использование.
+
+
+Modules:
+- Соотнесение требований с типами облаков и моделями служб в Azure
+- Управление службами Azure с помощью CLI
+- Автоматизация задач Azure с помощью сценариев PowerShell
+- Прогнозирование расходов и оптимизация затрат на Azure
+- Контроль и организация ресурсов Azure с помощью Azure Resource Manager
+
+## [Защита данных в облаке](https://docs.microsoft.com/ru-ru/learn/paths/secure-your-cloud-data)
+#### Схема обучения - 6 ч 45 мин - 8 Модули
+Платформа Azure разработана для обеспечения безопасности и соответствия требованиям. Узнайте, как использовать встроенные службы для безопасного хранения данных приложения, чтобы доступ к этим данным получали только авторизованные службы и клиенты.
+
+
+Modules:
+- Проектирование для безопасности в Azure
+- Пять основных элементов безопасности, которые следует учесть перед внедрением
+- Защита учетной записи хранения Azure
+- Управление секретами в серверных приложениях с помощью Azure Key Vault
+- Проверка подлинности в браузерных приложениях с использованием Служб приложений Azure
+- Защита ресурсов Azure с помощью условного доступа
+- Защита ресурсов Azure с помощью управления доступом на основе ролей (RBAC)
+- Защита базы данных SQL Azure
+
+## [Работа с реляционными данными в Azure](https://docs.microsoft.com/ru-ru/learn/paths/work-with-relational-data-in-azure)
+#### Схема обучения - 4 ч 10 мин - 5 Модули
+Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
+
+
+Modules:
+- Подготовка базы данных SQL Azure для хранения данных приложения
+- Создание сервера Базы данных Azure для PostgreSQL
+- Масштабирование нескольких баз данных SQL Azure с помощью эластичных пулов SQL
+- Защита базы данных SQL Azure
+- Разработка и настройка приложения ASP.NET, обращающегося к базе данных SQL Azure
 
 ## [Администрирование ресурсов инфраструктуры в Azure](https://docs.microsoft.com/ru-ru/learn/paths/administer-infrastructure-resources-in-azure)
-#### Схема обучения - 9 ч 34 мин - Число модулей: 10
+#### Схема обучения - 9 ч 22 мин - 10 Модули
 Узнайте, как создать, администрировать, защитить и масштабировать ресурсы виртуальной машины.
+
 
 Modules:
 - Общие сведения о виртуальных машинах Azure
@@ -371,85 +757,37 @@ Modules:
 - Кэширование и производительность на дисках хранилища Azure
 - Защита дисков виртуальных машин Azure
 
-## [Работа с данными NoSQL в Azure Cosmos DB](https://docs.microsoft.com/ru-ru/learn/paths/work-with-nosql-data-in-azure-cosmos-db)
-#### Схема обучения - 3 ч 43 мин - Число модулей: 5
-Данные NoSQL представляют собой эффективный способ для хранения сведений, которые не соответствуют требованиям реляционной базы данных SQL. Узнайте, как с помощью портала Azure, расширения Azure Cosmos DB для Visual Studio Code и пакета SDK для .NET Core для Azure Cosmos DB работать с данными NoSQL в любом расположении, а также обеспечить пользователям высокий уровень доступности независимо от того, где они находятся.
-
-Modules:
-- Создание масштабируемой базы данных Azure Cosmos DB
-- Добавление данных в базу данных Azure Cosmos DB и их запрашивание
-- Создание приложения .NET Core для Azure Cosmos DB в Visual Studio Code
-- Оптимизация производительности Azure Cosmos DB с помощью стратегий секционирования и индексирования
-- Глобальное распределение данных в Azure с помощью Cosmos DB
-
-## [Управление ресурсами в Azure](https://docs.microsoft.com/ru-ru/learn/paths/manage-resources-in-azure)
-#### Схема обучения - 4 ч 15 мин - Число модулей: 5
-Узнайте, как с помощью командной строки Azure и веб-портала создавать и администрировать облачные ресурсы, а также контролировать их использование.
-
-Modules:
-- Соотнесение требований с типами облаков и моделями служб в Azure
-- Управление службами Azure с помощью CLI
-- Автоматизация задач Azure с помощью сценариев PowerShell
-- Прогнозирование расходов и оптимизация затрат на Azure
-- Контроль и организация ресурсов Azure с помощью Azure Resource Manager
-
 ## [Создание бессерверных приложений](https://docs.microsoft.com/ru-ru/learn/paths/create-serverless-applications)
-#### Схема обучения - 3 ч 9 мин - Число модулей: 3
+#### Схема обучения - 6 ч 15 мин - 7 Модули
 Функции Azure позволяют создавать системы вычислений по запросу, которые управляются событиями и запускаются при наступлении различных внешних событий. Узнайте, как использовать функции для выполнения логики на стороне сервера и создания бессерверных архитектур.
 
+
 Modules:
+- Выбор оптимальной службы Azure для автоматизации бизнес-процессов
 - Создание бессерверной логики с помощью Функций Azure
 - Выполнение функции Azure с помощью триггеров
 - Объединение функций Azure с использованием входных и выходных привязок
+- Создание длительного бессерверного рабочего процесса с помощью Устойчивых функций
+- Разработка, тестирование и развертывания функции Azure с помощью Visual Studio
+- Мониторинг событий GitHub с помощью веб-перехватчика в Функциях Azure
 
-## [Работа с реляционными данными в Azure](https://docs.microsoft.com/ru-ru/learn/paths/work-with-relational-data-in-azure)
-#### Схема обучения - 3 ч 20 мин - Число модулей: 4
-Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
+## [Развертывание веб-сайта в Azure с помощью службы приложений Azure](https://docs.microsoft.com/ru-ru/learn/paths/deploy-a-website-with-azure-app-service)
+#### Схема обучения - 4 ч 36 мин - 6 Модули
+Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
 
-Modules:
-- Подготовка базы данных SQL Azure для хранения данных приложения
-- Создание сервера Базы данных Azure для PostgreSQL
-- Масштабирование нескольких баз данных SQL Azure с помощью эластичных пулов SQL
-- Защита базы данных SQL Azure
-
-## [Защита данных в облаке](https://docs.microsoft.com/ru-ru/learn/paths/secure-your-cloud-data)
-#### Схема обучения - 6 ч 45 мин - Число модулей: 8
-Платформа Azure разработана для обеспечения безопасности и соответствия требованиям. Узнайте, как использовать встроенные службы для безопасного хранения данных приложения, чтобы доступ к этим данным получали только авторизованные службы и клиенты.
 
 Modules:
-- Проектирование для безопасности в Azure
-- Пять основных элементов безопасности, которые следует учесть перед внедрением
-- Защита учетной записи хранения Azure
-- Управление секретами в серверных приложениях с помощью Azure Key Vault
-- Проверка подлинности в браузерных приложениях с использованием Служб приложений Azure
-- Защита ресурсов Azure с помощью условного доступа
-- Защита ресурсов Azure с помощью управления доступом на основе ролей (RBAC)
-- Защита базы данных SQL Azure
-
-## [Разработка эффективных решений в Azure](https://docs.microsoft.com/ru-ru/learn/paths/architect-great-solutions-in-azure)
-#### Схема обучения - 4 ч 17 мин - Число модулей: 5
-Узнайте, как проектировать и разрабатывать надежные масштабируемые и высокопроизводительные решения в Azure, изучив основные характеристики эффективной архитектуры.
-
-Modules:
-- Основные критерии удачной архитектуры Azure
-- Проектирование для безопасности в Azure
-- Проектирование с акцентом на производительность и масштабирование в Azure
-- Проектирование для повышения эффективности работы в Azure
-- Проектирование с акцентом на доступность и возможность восстановления в Azure
-
-## [Подключение служб друг к другу](https://docs.microsoft.com/ru-ru/learn/paths/connect-your-services-together)
-#### Схема обучения - 3 ч 31 мин - Число модулей: 4
-Azure позволяет создавать приложения, состоящие из различных компонентов: внешних интерфейсов веб-сайтов, внутренних служб и активируемых функций, которые запускают службы вычислений по запросу. Azure также предоставляет различные стратегии обмена данными, которые позволяют этим различным компонентам передавать данные друг другу. Узнайте, как с помощью этих служб для обмена данными можно создавать масштабируемые, эффективные решения из тестируемых компонентов.
-
-Modules:
-- Выберите модель обмена сообщениями в Azure для свободного подключения служб
-- Реализация рабочих процессов обмена сообщениями со служебной шиной Azure
-- Обмен данными между приложениями с помощью хранилища очередей Azure
-- Организация надежного обмена сообщениями для приложений по обработке больших данных с помощью Центров событий Azure
+- Подготовка среды для разработки в Azure
+- Размещение веб-приложения с помощью Службы приложений Azure
+- Публикация веб-приложения в Azure с помощью Visual Studio
+- Подготовка развертывания веб-приложения для тестирования и отката с помощью слотов развертывания службы приложений
+- Масштабирование веб-приложения службы приложений для эффективного удовлетворения спроса с помощью вертикального и горизонтального масштабирования службы приложений Azure
+- Развертывание и запуск контейнерного веб-приложения с помощью Службы приложений Azure
 
 ## [Развертывание веб-сайта с виртуальными машинами Azure](https://docs.microsoft.com/ru-ru/learn/paths/deploy-a-website-with-azure-virtual-machines)
-#### Схема обучения - 4 ч 18 мин - Число модулей: 4
+#### Схема обучения - 4 ч 6 мин - 4 Модули
 Если платформа веб-приложений Azure прямо не поддерживает ваши требования к веб-хостингу, для настройки всех компонентов веб-сервера и управления ими можно использовать виртуальные машины. Узнайте, как создавать и настраивать виртуальные машины в операционных системах Linux и Windows, где размещаются веб-приложения, а также как управлять такими машинами.
+
 
 Modules:
 - Общие сведения о виртуальных машинах Azure
@@ -458,8 +796,9 @@ Modules:
 - Создание и запуск веб-приложения на основе стека MEAN на виртуальной машине Linux в Azure
 
 ## [Хранение данных в Azure](https://docs.microsoft.com/ru-ru/learn/paths/store-data-in-azure)
-#### Схема обучения - 3 ч 50 мин - Число модулей: 5
+#### Схема обучения - 3 ч 50 мин - 5 Модули
 Azure предоставляет множество способов для хранения данных: использование хранилища неструктурированных данных, хранилища архивов, реляционного хранилища и другое. Получите основные сведения о том, как управлять хранилищем в Azure, создать учетную запись хранения и выбрать подходящую модель для данных, которые нужно хранить в облаке.
+
 
 Modules:
 - Выбор подхода к хранению данных в Azure
@@ -468,49 +807,377 @@ Modules:
 - Защита учетной записи хранения Azure
 - Хранение данных приложения в хранилище BLOB-объектов Azure
 
-## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-warehouse-in-manufacturing-dyn365-fo)
-#### Схема обучения - 5 ч 43 мин - Число модулей: 3
+## [Identify guiding principles for responsible AI in government](https://docs.microsoft.com/ru-ru/learn/paths/responsible-ai-government-principles)
+#### Learning Path - 1 ч 56 мин - 3 Modules
+It is imperative to reflect on the implications of AI in government. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your government organization. You will also be provided with resources, best practices, and tools.
+
+
+Modules:
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI in government
+- Discuss practices for responsible AI at Microsoft
+
+## [Get started with Trade in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/modules/trade-get-started-dynamics-365-business-central)
+#### Learning Path - 1 ч 55 мин - 2 Modules
+Are you using Trade in Business Central? This learning path discusses the setup requirements and how to start using Trade in Business Central.
+
+
+Modules:
+- Work with Trade master data in Microsoft Dynamics 365 Business Central
+- Set up Trade in Microsoft Dynamics 365 Business Central
+
+## [Prepare to complete the Project Specialist Technical Achievement](https://docs.microsoft.com/ru-ru/learn/paths/project-specialist-technical-achievement)
+#### Learning Path - 6 ч 38 мин - 10 Modules
+This learning path, which provides introductory level information on Teams, Power Platform, Security, and Compliance, will provide learners with knowledge on adjacent technologies that can come into play when positioning secure, integrated work management solutions.
+
+
+Modules:
+- Introduction to teamwork in Microsoft 365
+- Facilitate teamwork to achieve more with Microsoft 365
+- Enable modern communication and collaboration with Microsoft Teams
+- Get data with Power BI Desktop
+- Get started with Microsoft Flow
+- Get started with PowerApps
+- Introduction to security in Microsoft 365
+- Introduction to compliance tools in Microsoft 365
+- Meet the growing demand for transparency, privacy, and compliance with Microsoft 365
+- Microsoft runs on trust
+
+## [Get started with Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/get-started-dynamics-365-business-central)
+#### Learning Path - 3 ч 5 мин - 3 Modules
+Are you interested in Business Central? If you are, this learning path provides a good introduction. It discusses how to set up a trial, provides some basic information about what's available, and shows some personalization options you can make to customize Business Central for your use.
+
+
+Modules:
+- Start your free Dynamics 365 Business Central trial
+- Introducing Microsoft Dynamics 365 Business Central
+- Customize Microsoft Dynamics 365 Business Central
+
+## [Process VAT in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/process-vat-dynamics-365-business-central)
+#### Learning Path - 2 ч 26 мин - 4 Modules
+Do you need to set up and calculate VAT for your company? Take this learning path that contains information about setting up VAT, processing VAT, calculating and posting settlements, and making a VAT rate change.
+
+
+Modules:
+- Set up VAT in Dynamics 365 Business Central
+- Process VAT in documents and journals in Dynamics 365 Business Central
+- Calculate and post VAT settlements in Dynamics 365 Business Central
+- Perform a VAT rate change in Dynamics 365 Business Central
+
+## [Process financial periodic activities in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/process-financial-periodic-activities-dynamics-365-business-central)
+#### Learning Path - 3 ч 3 мин - 4 Modules
+Are you responsible for period and year-end closing processes? Complete this module, which discusses how to send reminders and finance charge memos to customers. It also discusses Intrastat processing and reporting, and closing a fiscal year.
+
+
+Modules:
+- Send reminders to customers in Dynamics 365 Business Central
+- Send finance charge memos to customers in Dynamics 365 Business Central
+- Process Intrastat in Dynamics 365 Business Central
+- Close a fiscal year in Dynamics 365 Business Central
+
+## [Use multiple currencies in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/use-multiple-currencies-dynamics-365-business-central)
+#### Learning Path - 3 ч 4 мин - 5 Modules
+Do you work with multiple currencies? If you do, this path will help you understand the steps you need to complete to set up and use multiple currencies, process payments and invoices in different currencies, and adjust exchange rates when necessary.
+
+
+Modules:
+- Set up currencies and exchange rates in Dynamics 365 Business Central
+- Process sales and purchases in foreign currencies in Dynamics 365 Business Central
+- Adjust exchange rates in Dynamics 365 Business Central
+- Process foreign currency payments in Dynamics 365 Business Central
+- Set up an additional reporting currency in Dynamics 365 Business Central
+
+## [Post sales and purchase invoices in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/post-sales-purchase-invoices-dynamics-365-business-central)
+#### Learning Path - 3 ч 44 мин - 5 Modules
+Do you need to process and post customer sales invoices? Do you need to enter vendor purchase invoices? This learning path addresses both, and also discusses how to process prepayments to customers and vendors.  It also discusses using electronic documents in your business with Business Central.
+
+
+Modules:
+- Invoicing customers in Dynamics 365 Business Central
+- Processing vendor invoices in Dynamics 365 Business Central
+- Posting prepayment invoices for sales and purchase orders in Dynamics 365 Business Central
+- Process incoming documents in Dynamics 365 Business Central
+- Send and receive electronic documents in Dynamics 365 Business Central
+
+## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-marketing)
+#### Learning Path - 1 ч 20 мин - 2 Modules
+
+Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
+
+
+Modules:
+- Set up and manage Dynamics 365 for Marketing
+- Advanced configuration for Dynamics 365 for Marketing
+
+## [Process customer and vendor payments in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/process-customer-vendor-payments-dynamics-365-business-central)
+#### Learning Path - 2 ч 36 мин - 4 Modules
+Do you receive payments from customers and pay vendors? This module will help you track both in cash management and process those transactions as necessary in Business Central.
+
+
+Modules:
+- Set up cash management in Dynamics 365 Business Central
+- Enter payments in the cash receipt journal and the payment journal in Dynamics 365 Business Central
+- Suggest vendor payments in Dynamics 365 Business Central
+- Use checks to pay vendors in Dynamics 365 Business Central
+
+## [Use cost accounting in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/use-cost-accounting-dynamics-365-business-central)
+#### Learning Path - 3 ч 16 мин - 5 Modules
+Do you need to use cost accounting in your company? This learning path can help get you started with cost accounting in Business Central. It explains cost accounting setup, how to create master data for cost accounting, how to transfer transactions, and allocate costs to a group of accounts.
+
+
+Modules:
+- Get started with cost accounting in Dynamics 365 Business Central
+- Create cost accounting master data in Dynamics 365 Business Central
+- Transfer general ledger entries to cost accounting in Dynamics 365 Business Central
+- Allocate costs in Dynamics 365 Business Central
+- Create cost accounting reports in Dynamics 365 Business Central
+
+## [Create financial reports in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/create-financial-reports-dynamics-365-business-central)
+#### Learning Path - 3 ч 44 мин - 5 Modules
+
+Are you responsible for generating financial reports from Business Central? This learning path discusses creating budgets, and using account schedules, dimensions, and eXtensible business reporting language (XBRL) to generate the financial reports that are typically needed for most businesses.
+
+
+Modules:
+- Create budgets in Dynamics 365 Business Central
+- Configure financial reports by using account schedules in Dynamics 365 Business Central
+- Use dimensions in your financial reports in Dynamics 365 Business Central
+- Forecast your cash flow in Dynamics 365 Business Central
+- Set up XBRL reports in Dynamics 365 Business Central
+
+## [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/reconcile-bank-accounts-dynamics-365-business-central)
+#### Learning Path - 1 ч 38 мин - 3 Modules
+
+Do you want to find out how to reconcile bank accounts in Business Central? The bank reconciliation feature and reconciliation journals are discussed in this learning path.
+
+
+Modules:
+- Perform a bank reconciliation in Dynamics 365 Business Central
+- Set up payment reconciliation journals in Dynamics 365 Business Central
+- Use the payment reconciliation journal in Dynamics 365 Business Central
+
+## [Use journals in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/use-journals-dynamics-365-business-central)
+#### Learning Path - 2 ч 1 мин - 3 Modules
+
+Do you need to create and post journal entries in Business Central? Then this path is for you. Setting up general journal templates, creating journal transactions including recurring transactions, and posting transactions are all discussed in the modules of this learning path.
+
+
+Modules:
+- Set up general journal templates in Dynamics 365 Business Central
+- Create and process journal entries in Dynamics 365 Business Central
+- Post periodic journal entries in Dynamics 365 Business Central
+
+## [Set up financial management in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/ru-ru/learn/paths/set-up-financial-management-dynamics-365-business-central)
+#### Learning Path - 3 ч 13 мин - 4 Modules
+
+Do you want to use Business Central for financial management? Then, this learning path is for you. It discusses the setup of number series, audit trail codes, posting groups, dimensions and the chart of accounts.
+
+
+Modules:
+- Set up number series and trail codes in Dynamics 365 Business Central
+- Set up posting groups in Dynamics 365 Business Central
+- Set up dimensions in Dynamics 365 Business Central
+- Set up the chart of accounts in Dynamics 365 Business Central
+
+## [Extending the Power Platform Common Data Service](https://docs.microsoft.com/ru-ru/learn/paths/extend-power-platform-common-data-service)
+#### Learning Path - 2 ч 3 мин - 2 Modules
+
+Getting started with extending the Power Platform Common Data Service can be overwhelming. This learning path looks at the tools and resources needed for extending the Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+
+
+Modules:
+- Introduction to Common Data Service for developers
+- Extend plug-ins
+
+## [Manage permissions and administration for Common Data Service](https://docs.microsoft.com/ru-ru/learn/paths/manage-permissions-administration-common-data-service)
+#### Learning Path - 1 ч 23 мин - 2 Modules
+
+Do you need to manage user access rights? In this learning path, you will learn how to manage permissions associated with environments and entities.  You will also learn about different administrative portals and how to access each.
+
+
+Modules:
+- Get started with security roles in Common Data Service
+- Use administration options for Common Data Service
+
+## [Building Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/build-finance-operations)
+#### Learning Path - 8 ч 30 мин - 12 Modules
+
+Developing in Dynamics 365 for Finance and Operations requires a basic understanding of the tasks required to build new elements and customize Finance and Operations. The tasks  include understanding X++ code and Visual Studio, as well as being able to create and modify the basic elements of the system.
+
+
+Modules:
+- Get started with development using X++ in Dynamics 365 for Finance and Operations
+- Develop object-oriented code in Dynamics 365 for Finance and Operations
+- Customize Dynamics 365 for Finance and Operations by using Visual Studio
+- Implement application lifecycle management in Dynamics 365 for Finance and Operations
+- Build extended data types and enumerations for Dynamics 365 for Finance and Operations
+- Build tables in Dynamics 365 for Finance and Operations
+- Build forms and optimize form performance in Dynamics 365 for Finance and Operations
+- Create classes in Dynamics 365 for Finance and Operations
+- Build reports for Dynamics 365 for Finance and Operations
+- Build workspaces in Dynamics 365 for Finance and Operations
+- Implement role-based security in Dynamics 365 for Finance and Operations
+- Apply basic performance optimization techniques in Dynamics 365 for Finance and Operations
+
+## [Create relationships, business rules, calculations, and rollups in Common Data Service](https://docs.microsoft.com/ru-ru/learn/paths/create-relationships-common-data-service)
+#### Learning Path - 2 ч 21 мин - 3 Modules
+
+Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.
+
+
+Modules:
+- Create a relationship between entities in Common Data Service
+- Define and create business rules in Common Data Service
+- Create and define calculation or rollup fields in Common Data Service
+
+## [Connect to Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/connect-finance-operations)
+#### Learning Path - 4 ч 1 мин - 8 Modules
+
+Integration and the ability to access your data in Dynamics 365 for Finance and Operations are important capabilities. Developers who have learned to build and extend code in Finance and Operations can enhance their knowledge of development by learning about data integration and how connecting to data can have positive impacts on users.
+
+
+Modules:
+- Identify data integration patterns and scenarios in Dynamics 365 for Finance and Operations
+- Implement data integration concepts and solutions for Dynamics 365 for Finance and Operations
+- Implement the Data management package API for Dynamics 365 for Finance and Operations
+- Data integrations with Dynamics 365 for Finance and Operations
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Manage data sources with external data stores in Dynamics 365 for Finance and Operations
+- Integrate Dynamics 365 for Finance and Operations with Microsoft Azure
+- Connecting to Power Platform services with Dynamics 365 for Finance and Operations
+
+## [Introduction to developing with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/introduction-develop-finance-operations)
+#### Learning Path - 3 ч 52 мин - 8 Modules
+
+As a developer working with Dynamics 365 for Finance and Operations, it's important to have a firm grasp of the main architecture components of the Dynamics 365 ecosystem and Finance and Operations. Knowledge of core developer concepts, including technical capabilities, source code, testing frameworks, and reporting tools, will support your further efforts in building development skills that you can apply to Finance and Operations.
+
+
+Modules:
+- Explore the ecosystem and main components of Dynamics 365 for Finance and Operations
+- Explore the technical architecture of Dynamics 365 for Finance and Operations
+- Explore design and deployment considerations for Dynamics 365 for Finance and Operations
+- Manage Dynamics 365 for Finance and Operations implementations by using Lifecycle Services
+- Work with performance and monitoring tools in Dynamics 365 for Finance and Operations
+- Manage source code by using version control in Dynamics 365 for Finance and Operations
+- Explore the test framework and tools in Dynamics 365 for Finance and Operations
+- Explore reporting tools in Dynamics 365 for Finance and Operations
+
+## [Extending the Power Platform user experience Model Driven apps](https://docs.microsoft.com/ru-ru/learn/paths/extend-power-platform-model-driven-app)
+#### Learning Path - 3 ч 41 мин - 3 Modules
+
+Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script as well as when not to use client script.
+
+
+Modules:
+- Introduction to web resources
+- Performing common actions with client script
+- Automate Business Process Flows with client script
+
+## [Extending Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/extending-finance-operations)
+#### Learning Path - 1 ч 27 мин - 3 Modules
+
+Extensions allow developers to make changes to the user experience in Dynamics 365 for Finance and Operations by implementing modifications to the code that do not affect the base code. Among other benefits, this lets developers to update Finance and Operations to adhere to business processes and required changes.
+
+
+Modules:
+- Explore extensions and the extension framework in Dynamics 365 for Finance and Operations
+- Extend elements in Dynamics 365 for Finance and Operations
+- Consume business events in Dynamics 365 for Finance and Operations
+
+## [Get started using Common Data Service](https://docs.microsoft.com/ru-ru/learn/paths/get-started-cds)
+#### Learning Path - 4 ч 16 мин - 6 Modules
+
+Do you want to learn how to build solutions that can leverage a standardized data structure and work with other solutions sharing the same data model?  Do you want to extend the standard model to support custom solutions? This learning path will explain the concepts behind and benefits of Common Data Service. Creating an environment, entities, fields and options sets are also discussed.
+
+
+Modules:
+- Introduction to Common Data Service
+- Create and manage environments in Common Data Service
+- Create and manage entities in Common Data Service
+- Create and manage fields within an entity in Common Data Service
+- Working with option sets in Common Data Service
+- Load/export data and create data views in Common Data Service
+
+## [Introduction to developing with the Power Platform](https://docs.microsoft.com/ru-ru/learn/paths/intro-developing-power-platform)
+#### Learning Path - 2 ч 22 мин - 3 Modules
+
+So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of the Power Platform.
+
+
+Modules:
+- Introduction to Power Platform developer resources
+- Use developer tools to extend the Power Platform
+- Introduction to extending the Microsoft Power Platform
+
+## [Use warehouse management in manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-warehouse-manufacturing-dyn365-supply-chain-mgmt)
+#### Learning Path - 5 ч 43 мин - 3 Modules
+
 Using warehouse management in manufacturing processes in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes in your manufacturing environment, according to your company's needs.
+
 
 Modules:
 - Configure warehouse management in Dynamics 365 for Finance and Operations
 - Work with warehouse management in Dynamics 365 for Finance and Operations
 - Use warehouse management for manufacturing in Dynamics 365 for Finance and Operations
 
-## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/work-accounts-receivable-d365-finance-ops)
-#### Схема обучения - 5 ч 26 мин - Число модулей: 4
-You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+## [AI business school for education](https://docs.microsoft.com/ru-ru/learn/paths/ai-business-school-education)
+#### Learning Path - 8 ч 37 мин - 12 Modules
+Decision-makers in education have considerations that are particular to their sector to help them realize the true transformational impact of AI in education. It is critical to understand the components of a strategy that will help the education sector create value with AI. This learning path is designed for education decision-makers to illustrate the true transformational impact of AI in education.
+
 
 Modules:
-- Configure accounts receivable in Dynamics 365 for Finance and Operations
-- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
-- Configure credit and collections in Dynamics 365 for Finance and Operations
-- Process credit and collections in Dynamics 365 for Finance and Operations
+- Define an AI strategy to create business value
+- Define an AI strategy to create value in education
+- Understand the importance of building an AI-ready culture
+- Discover how to foster an AI-ready culture in finance
+- Discover how to foster an AI-ready culture in marketing
+- Discover how to foster an AI-ready culture in sales
+- Discover how to foster an AI-ready culture in customer service
+- Identify guiding principles for responsible AI
+- Identify governing practices for responsible AI
+- Discuss practices for responsible AI at Microsoft
+- Introduction to AI technology
+- Examine the Microsoft approach to artificial intelligence
 
-## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-cash-bank-management-tax-d365-finance-ops)
-#### Схема обучения - 5 ч 25 мин - Число модулей: 5
-You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization’s bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-work-warehouse-management-dyn365-supply-chain-mgmt)
+#### Learning Path - 4 ч 57 мин - 2 Modules
+
+Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
+
 
 Modules:
-- Configure cash and bank management in Dynamics 365 for Finance and Operations
-- Work with cash and bank management in Dynamics 365 for Finance and Operations
-- Configure letters of credit and guarantees in Finance and Operations
-- Configure and process postdated checks in Dynamics 365 for Finance and Operations
-- Configure the Tax module in Dynamics 365 for Finance and Operations
+- Configure warehouse management in Dynamics 365 for Finance and Operations
+- Work with warehouse management in Dynamics 365 for Finance and Operations
 
-## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/migrate-data-go-live-with-dynamics-365-finance-ops)
-#### Схема обучения - 3 ч 9 мин - Число модулей: 4
-As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
+## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-procurement-vendors-dyn365-supply-chain-mgmt)
+#### Learning Path - 6 ч 10 мин - 4 Modules
+
+The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
+
 
 Modules:
-- Prepare data for migration to Dynamics 365 for Finance and Operations
-- Work with data management in Dynamics 365 for Finance and Operations
-- Perform user acceptance testing (UAT) in Dynamics 365 for Finance and Operations
-- Prepare to go-live with Dynamics 365 for Finance and Operations
+- Configure and perform the procure-to-purchase process in Finance and Operations
+- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
+- Process purchase orders in Dynamics 365 for Finance and Operations
+- Configure and work with quality control in Dynamics 365 for Finance and Operations
 
-## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-discrete-manufacturing-in-d365-finance-ops)
-#### Схема обучения - 9 ч 3 мин - Число модулей: 6
+## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-products-inventory-dyn365-supply-chain-mgmt)
+#### Learning Path - 5 ч 56 мин - 4 Modules
+
+Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
+
+
+Modules:
+- Configure and work with inventory management in Dynamics 365 for Finance and Operations
+- Use inventory reports in Finance and Operations
+- Create products and product masters in in Dynamics 365 for Finance and Operations
+- Create bill of materials in Dynamics 365 for Finance and Operations
+
+## [Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-discrete-manufacturing-dyn365-supply-chain-mgmt)
+#### Learning Path - 9 ч 8 мин - 6 Modules
+
 If a company only produces simple products, production can be scheduled manually with the correct bill of materials (BOM) parts arriving on the production floor, at the correct time, and at the proper resource. As a functional consultant for manufacturing, you need to know how to configure Dynamics 365 for Finance and Operations for discrete manufacturing, so your customer can perform and control the production lifecycle.
+
 
 Modules:
 - Get started with discrete manufacturing in Dynamics 365 for Finance and Operations
@@ -520,185 +1187,108 @@ Modules:
 - Work with manufacturing execution in Dynamics 365 for Finance and Operations
 - Get started with product configuration in Dynamics 365 for Finance and Operations
 
-## [Build mobile apps with Xamarin.Forms](https://docs.microsoft.com/ru-ru/learn/paths/build-mobile-apps-with-xamarin-forms)
-#### Схема обучения - 9 ч 34 мин - Число модулей: 10
-Use C# and Visual Studio to create apps that run on iOS and Android devices.
+## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-lean-manufacturing-dyn365-supply-chain-mgmt)
+#### Learning Path - 6 ч 23 мин - 6 Modules
+
+Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+
 
 Modules:
-- Create a mobile app with Xamarin.Forms
-- Introduction to Xamarin.Android
-- Introduction to Xamarin.iOS
-- Create a UI in Xamarin.Forms apps by using XAML
-- Customize layout in Xamarin.Forms XAML pages
-- Design consistent Xamarin.Forms XAML pages with shared Resources and Styles
-- Prepare to publish your Xamarin application
-- Consume REST web services in Xamarin apps
-- Store local data with SQLite in a Xamarin.Forms app
-- Create multi-page Xamarin.Forms apps with stack and tab navigation
+- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
+- Configure lean manufacturing in Dynamics 365 for Finance and Operations
+- Create and process fixed kanbans in Dynamics 365 for Finance and Operations
+- Create and process event kanban rules in Dynamics 365 for Finance and Operations
+- Create and process scheduled kanbans in Dynamics 365 for Finance and Operations
+- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
 
-## [Customize and add advanced features to Xamarin.Forms apps](https://docs.microsoft.com/ru-ru/learn/paths/customize-your-xamarin-forms-apps)
-#### Схема обучения - 7 ч 25 мин - Число модулей: 8
-Add professional touches and development techniques for more beautiful and maintainable apps.
+## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-process-manufacturing-dyn365-supply-chain-mgmt)
+#### Learning Path - 5 ч 53 мин - 3 Modules
 
-Modules:
-- Explore cross-platform design patterns for Xamarin apps
-- Separate your UI and code with Xamarin.Forms data binding
-- Display collections in Xamarin.Forms apps with ListView
-- Customize Xamarin.Forms ListView
-- Design an MVVM viewmodel for Xamarin.Forms
-- Display relationships in Xamarin.Forms with master-detail navigation
-- Create custom controls with Xamarin.Forms renderers
-- Use effects in Xamarin.Forms
-
-## [Consume data with Power BI](https://docs.microsoft.com/ru-ru/learn/paths/consume-data-with-power-bi)
-#### Схема обучения - 2 ч 35 мин - Число модулей: 2
-Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.
-
-Modules:
-- Explore what Power BI can do for you
-- Analyze data with Power BI
-
-## [Configure and manage procurement and vendors in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-procurement-vendors-d365-finance-ops)
-#### Схема обучения - 5 ч 57 мин - Число модулей: 4
-The process of finding and working with vendors, purchasing products, and ensuring the quality of goods and services are all important factors that impact a company's reputation and success.
-
-Modules:
-- Configure and perform the procure-to-purchase process in Dynamics 365 for Finance and Operations
-- Configure and manage vendor collaboration in Dynamics 365 for Finance and Operations
-- Process purchase orders in Dynamics 365 for Finance and Operations
-- Configure and work with quality control in Dynamics 365 for Finance and Operations
-
-## [Configure and work with warehouse management in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-work-warehouse-management-d365-finance-ops)
-#### Схема обучения - 4 ч 57 мин - Число модулей: 2
-Warehouse management in Dynamics 365 for Finance and Operations helps optimize and streamline warehouse processes according to your individual needs and provides the insight into your inventory and the tools to help increase customer satisfaction and reduce costs.
-
-Modules:
-- Configure warehouse management in Dynamics 365 for Finance and Operations
-- Work with warehouse management in Dynamics 365 for Finance and Operations
-
-## [Configure and use process manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-process-manufacturing-in-d365-finance-ops)
-#### Схема обучения - 5 ч 53 мин - Число модулей: 3
 Process manufacturing is associated with formulas and manufacturing recipes, in contrast with discrete manufacturing, which uses discrete units, and bills of materials. Process manufacturing is used in manufacturing environments where production is completed in batch or semi-continuous processes.
+
 
 Modules:
 - Configure process manufacturing in Dynamics 365 for Finance and Operations
 - Identify and configure batch attributes for process manufacturing in Dynamics 365 for Finance and Operations
 - Work with commodity pricing, and compliance in Dynamics 365 for Finance and Operations
 
-## [Configure and use lean manufacturing in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-and-use-lean-manufacturing-in-d365-finance-ops)
-#### Схема обучения - 6 ч 23 мин - Число модулей: 6
-Lean manufacturing is a journey of continuous improvement. The goal is to produce exactly what the customer wants, when the customer wants it, and to do it economically. You can use lean manufacturing in a unified (mixed-mode) manufacturing environment that combines various supply, production, and sourcing strategies. These strategies include production orders, batch orders for process industries, purchase orders, and transfer orders. The lean manufacturing architecture in Dynamics 365 for Finance and Operations consists of production flows, activities, and Kanban rules.
+## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-budgeting-dyn365-finance)
+#### Learning Path - 2 ч 28 мин - 2 Modules
 
-Modules:
-- Get started with lean manufacturing in Dynamics 365 for Finance and Operations
-- Configure lean manufacturing in Dynamics 365 for Finance and Operations
-- Create and process fixed Kanbans in Dynamics 365 for Finance and Operations
-- Create and process event Kanban rules in Dynamics 365 for Finance and Operations
-- Create and process scheduled Kanbans in Dynamics 365 for Finance and Operations
-- Configure activity-based subcontracting and production flow costing in Dynamics 365 for Finance and Operations
-
-## [Configure and manage products and inventory in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-products-inventory-d365-finance-ops)
-#### Схема обучения - 5 ч 56 мин - Число модулей: 4
-Product information is the pillar of supply chain and retail applications across all industries. In the various modules of a business solution, product-specific information and configuration are required to manage the business processes that are related to products, product families, bill of materials, and product categories. Inventory reports will show how much inventory you have in variety of different ways, and will explain how to be more effective in your inventory investments.
-
-Modules:
-- Configure and work with inventory management in Dynamics 365 for Finance and Operations
-- Use inventory reports in Finance and Operations
-- Create products and product masters in in Dynamics 365 for Finance and Operations
-- Create bill of materials in Dynamics 365 for Finance and Operations
-
-## [Getting Started with Dynamics 365 for Marketing](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-marketing)
-#### Схема обучения - 1 ч 20 мин - Число модулей: 2
-Microsoft Dynamics 365 for Marketing is a marketing automation application that enables you to turn prospects into business relationships. You can find and nurture more sales-ready leads by moving beyond basic email marketing. Connect sales and marketing, automate processes, and make smarter decisions to maximize your marketing ROI.  Administrators use advanced settings to fine-tune application behavior, set defaults, manage users, enable webinars, check quotas, and more.
-
-Modules:
-- Set up and manage Dynamics 365 for Marketing
-- Advanced configuration for Dynamics 365 for Marketing
-
-## [Configure and use budgeting in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-budgeting-d365-finance-ops)
-#### Схема обучения - 2 ч 28 мин - Число модулей: 2
 Every organization, whether it is private or public, sets financial and operational goals by creating budgets. With the collaborative and process-driven nature of budget planning, you can make your budget process more efficient.
+
 
 Modules:
 - Configure and use basic budgeting and budget control in Dynamics 365 for Finance and Operations
 - Configure and use budget planning in Dynamics 365 for Finance and Operations
 
-## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-fixed-assets-d365-finance-ops)
-#### Схема обучения - 3 ч 51 мин - Число модулей: 2
+## [Configure and manage fixed assets in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-manage-fixed-assets-dyn365-finance)
+#### Learning Path - 3 ч 51 мин - 2 Modules
+
 You can set up and enter acquisition information for fixed assets, and then manage them by depreciating them and setting a capitalization threshold. The way in which fixed assets are handled must correspond with both international accounting standards and the accounting legislation in each country or region.
+
 
 Modules:
 - Configure fixed assets management in Dynamics 365 for Finance and Operations
 - Manage fixed assets in Dynamics 365 for Finance and Operations
 
-## [Master advanced techniques for PowerApps canvas apps](https://docs.microsoft.com/ru-ru/learn/paths/understand-advanced-topics)
-#### Схема обучения - 2 ч 30 мин - Число модулей: 4
-Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.
+## [Work with accounts receivable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/work-accounts-receivable-dyn365-finance)
+#### Learning Path - 5 ч 26 мин - 4 Modules
+
+You need to configure the Accounts receivable module in Dynamics 365 for Finance and Operations to create customer invoices, post packing slips, and use free text invoices that are not related to sales orders. In this learning path you will also learn how to perform daily tasks in accounts receivable.
+
 
 Modules:
-- Use imperative development techniques for canvas apps in PowerApps
-- Author an advanced formula that uses tables, records, and collections in a canvas app in PowerApps
-- Perform custom updates in a PowerApps canvas app
-- Complete testing and performance checks in a PowerApps canvas app
+- Configure accounts receivable in Dynamics 365 for Finance and Operations
+- Perform accounts receivable daily procedures in Dynamics 365 for Finance and Operations
+- Configure credit and collections in Dynamics 365 for Finance and Operations
+- Process credit and collections in Dynamics 365 for Finance and Operations
 
-## [Use advanced data options and connectors in PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/advanced-data-options-and-connectors)
-#### Схема обучения - 2 ч 21 мин - Число модулей: 4
-Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.
+## [Migrate data and go live with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/migrate-data-go-live-finance-operations)
+#### Learning Path - 3 ч 9 мин - 4 Modules
 
-Modules:
-- Work with relational data in a PowerApps canvas app
-- Work with data source limits (delegation limits) in a PowerApps canvas app
-- Connecting to other data in a PowerApps canvas app
-- Use custom connectors in a PowerApps canvas app
+As a functional consultant, you must understand how to prepare your customer's data for migration, work with data management, and perform user acceptance testing to go live with Dynamics 365 for Finance and Operations.
 
-## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ru-ru/learn/paths/get-started-dynamics-365-portals)
-#### Схема обучения - 2 ч 32 мин - Число модулей: 3
-Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
 
 Modules:
-- Introduction to Dynamics 365 portals
-- Configure Dynamics 365 portals
-- Provision and administer Dynamics 365 portals
+- Prepare data for migration to Dynamics 365 for Finance and Operations
+- Work with data management in Dynamics 365 for Finance and Operations
+- Perform user acceptance testing in Dynamics 365 for Finance and Operations
+- Prepare to go-live with Dynamics 365 for Finance and Operations
 
-## [Modernize your workplace with Microsoft 365 and Surface for Business](https://docs.microsoft.com/ru-ru/learn/paths/modernize-workplace-with-m365-and-surface)
-#### Схема обучения - 2 ч 50 мин - Число модулей: 9
-Are you interested in learning about the modern workplace in an easy to understand way? Would you like to know how Microsoft can help you create a modern workplace?  This learning path introduces you to what a modern workplace means for users and IT, and how Microsoft 365 can help you create it.
+## [Configure and use cash and bank management, and sales tax in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-cash-bank-management-tax-dyn365-finance)
+#### Learning Path - 5 ч 25 мин - 5 Modules
+
+You can use the Cash and bank management module in Dynamics 365 for Finance and Operations to maintain an organization's bank accounts and the financial instruments that are associated with those bank accounts. All businesses must collect and pay taxes to various tax authorities. In this learning path you will learn how to configure and use these areas of Dynamics 365 for Finance and Operations.
+
 
 Modules:
-- Welcome to Microsoft 365
-- Introducing Microsoft 365 and Surface for Business
-- Facilitate Teamwork with Microsoft 365
-- Modern Communications in Microsoft Teams
-- Get more from Microsoft 365 with Surface for Business
-- Deploy and manage Windows 10 and Office 365 ProPlus
-- Security with Microsoft 365
-- Compliance with Microsoft 365
-- Get started with Microsoft 365 using FastTrack
+- Configure cash and bank management in Dynamics 365 for Finance and Operations
+- Work with cash and bank management in Dynamics 365 for Finance and Operations
+- Configure letters of credit and guarantees in Finance and Operations
+- Configure and process postdated checks in Dynamics 365 for Finance and Operations
+- Configure the Tax module in Dynamics 365 for Finance and Operations
 
 ## [Dynamics 365 and Power Platform Fundamentals](https://docs.microsoft.com/ru-ru/learn/paths/dyn-power-plat-bus-app-fundamentals)
-#### Схема обучения - 5 ч 31 мин - Число модулей: 6
+#### Learning Path - 5 ч 36 мин - 6 Modules
+
+|
 Are you interested in learning about business applications? Start with this learning path to see how Dynamics 365 apps are used. Learn about cloud concepts, Power Platform, and how to get started with Dynamics 365 apps.
 
+
 Modules:
-- Introduction to Customer Engagement Products - fundamentals
+- Introduction to Dynamics 365 Customer Engagement apps - fundamentals
 - Introduction to Unified Operations Products - fundamentals
 - Cloud Concepts - Principles of cloud computing
 - Managing Deployments and Releases - fundamentals
 - Introduction to the Power Platform - fundamentals
 - Explore licensing, onboarding, and support Options - fundamentals
 
-## [Use the UI and controls in a canvas app in PowerApps](https://docs.microsoft.com/ru-ru/learn/paths/ui-controls-canvas-app-powerapps)
-#### Схема обучения - 1 ч 58 мин - Число модулей: 3
-The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
+## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-general-ledger-dyn365-finance)
+#### Learning Path - 8 ч 15 мин - 8 Modules
 
-Modules:
-- Navigation in a canvas app in PowerApps
-- How to build the UI in a canvas app in PowerApps
-- Use and understand Controls in a canvas app in PowerApps
+Financial management in Dynamics 365 Finance and Operations empowers business users to control finances and manage funds with accurate information at any time for financial planning and forecasting, and stay up-to-date with analytics. Since finance is the heart of the business, and the General ledger module is the heart of financial management, this learning path shows you how to set up functionality in the General ledger module.
 
-## [Configure and use the General ledger in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-use-general-ledger-dynamics-365-finance-ops)
-#### Схема обучения - 8 ч 15 мин - Число модулей: 8
-Financial management in Dynamics 365 Finance and Operations empowers business users to control finances and manage funds with accurate information at any time for financial planning and forecasting, and stay up to date with analytics. Since finance is the heart of the business, and the General ledger module is the heart of financial management, this learning path shows you how to set up functionality in the General ledger module.
 
 Modules:
 - Get started with financial management in Finance and Operations
@@ -710,24 +1300,11 @@ Modules:
 - Intercompany accounting in Dynamics 365 for Finance and Operations
 - Configure ledger allocations and accruals in Dynamics 365 for Finance and Operations
 
-## [Microsoft 365 Fundamentals](https://docs.microsoft.com/ru-ru/learn/paths/m365-fundamentals)
-#### Схема обучения - 3 ч 10 мин - Число модулей: 9
-Microsoft 365 is an intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security, and empowers everyone to be creative and work together, securely. Learn how it supports your org's digital transformation.
+## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-your-organization-finance-ops)
+#### Learning Path - 8 ч 52 мин - 8 Modules
 
-Modules:
-- What is Microsoft 365?
-- Introduction to Microsoft 365 core services and features
-- Introduction to teamwork in Microsoft 365
-- Move to a modern desktop with Microsoft 365
-- Introduction to Microsoft 365 unified endpoint management
-- Introduction to security in Microsoft 365
-- Introduction to compliance tools in Microsoft 365
-- Manage your Microsoft 365 subscription
-- Select a cloud deployment model
+As a functional consultant who works with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer. This learning path shows you, amongst other tasks, how to set up legal entities, implement security settings, personalize the user interface for users, design, and build mobile apps, and implement common integrations.
 
-## [Configure your organization in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/configure-your-organization-in-finance-and-ops)
-#### Схема обучения - 8 ч 52 мин - Число модулей: 8
-As a functional consultant working with Dynamics 365 for Finance and Operations, you must understand how to set up an organization for your customer.This learning path shows you, amongst other tasks, how to set up legal entities, implent security settings, personalize the user interface for users, design and build mobile apps, implement common integrations.
 
 Modules:
 - Plan and configure the global address book (GAB) in Dynamics 365 for Finance and Operations
@@ -739,9 +1316,11 @@ Modules:
 - Personalize Dynamics 365 for Finance and Operations
 - Implement common integration features in Dynamics 365 for Finance and Operations
 
-## [Work with accounts payable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/work-with-accounts-payable-in-dynamics-365-for-finance-and-ops)
-#### Схема обучения - 4 ч 28 мин - Число модулей: 3
+## [Work with accounts payable in Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/work-accounts-payable-dyn365-finance)
+#### Learning Path - 4 ч 28 мин - 3 Modules
+
 Accounts payable is a liability due to a creditor when you order goods or services without paying in cash up front, which means that you buy goods on credit. Learn how to configure accounts payable in Dynamics 365 for Finance and Operations, record vendor invoices, and distribute expenses, tax and charges across accounts.
+
 
 Modules:
 - Configure Accounts payable in Dynamics 365 for Finance and Operations
@@ -749,8 +1328,10 @@ Modules:
 - Work with accounting distributions, invoice validations and settlements in Dynamics 365 for Finance and Operations
 
 ## [Extend Dynamics 365 portals](https://docs.microsoft.com/ru-ru/learn/paths/extend-dynamics-365-portals)
-#### Схема обучения - 2 ч 42 мин - Число модулей: 3
+#### Learning Path - 2 ч 42 мин - 3 Modules
+
 The ability to easily surface and interact with Common Data Service data on an externally facing web site is the core benefit for implementing a Dynamics 365 portal. This learning path describes how to transform a content portal into a full web app interacting withCommon Data Service. We will explain how to secure data access based on the authenticated user role and relationship to the data. We will also cover the options available to customizers and developers to extend the portal functionality and integrate with Office 365 and Power platform components.
+
 
 Modules:
 - Access Common Data Service data in Dynamics 365 portals
@@ -758,17 +1339,23 @@ Modules:
 - Develop with Dynamics 365 portals
 
 ## [Work with Dynamics 365 for Sales Professional](https://docs.microsoft.com/ru-ru/learn/paths/working-with-dynamics-sales-professional)
-#### Схема обучения - 2 ч 35 мин - Число модулей: 3
+#### Learning Path - 4 ч 35 мин - 5 Modules
+
 Generate leads, create opportunities, realize easy setup and integration, and streamline your sales processes with Microsoft Dynamics 365 for Sales Professional.
 
+
 Modules:
+- Overview of Dynamics 365 for Sales Professional
+- Administer and configure Dynamics 365 for Sales Professional
 - Manage leads with Dynamics 365 for Sales
 - Manage opportunities with Dynamics 365 for Sales
 - Process sales orders with Dynamics 365 for Sales
 
 ## [Work with portals in Dynamics 365](https://docs.microsoft.com/ru-ru/learn/paths/work-with-portals-in-dynamics-365)
-#### Схема обучения - 3 ч 46 мин - Число модулей: 4
+#### Learning Path - 3 ч 46 мин - 4 Modules
+
 Dynamics 365 portals are designed for interaction with the internal and external audiences. There are additional requirements for content management and design, as well as the need to secure the content. This learning path describes how portal components work within context of Dynamics 365 to deliver the content and Common Data Service for Apps data to external and internal audiences. We will cover the topics of user authentication and how to secure access to different parts of the portal content based on the target audience and relationship to the content.
+
 
 Modules:
 - Work with Dynamics 365 portal components
@@ -776,17 +1363,21 @@ Modules:
 - Create content in Dynamics 365 portals
 - Secure Dynamics 365 portals content
 
-## [Use Lifecycle Services (LCS) to design and plan an implementation of Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-lcs-to-design-and-plan-an-implementation-of-f-and-o)
-#### Схема обучения - 2 ч 11 мин - Число модулей: 2
+## [Use Lifecycle Services (LCS) to design and plan an implementation of Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/use-lcs-design-plan-implementation-finance-operations)
+#### Learning Path - 2 ч 11 мин - 2 Modules
+
 Lifecycle Services (LCS) is a collaborative workspace that customers and their partners use to manage Microsoft Dynamics 365 for Finance and Operations projects from pre-sales to the implementation phase and finally to the production environment, either on the cloud or on-premises. It provides checklists and tools that help you manage the project, including pre-build methodologies to help with implementation and regularly updated services.
+
 
 Modules:
 - Get started with Lifecycle Services for Dynamics 365 for Finance and Operations
 - Design and plan an implementation of Dynamics 365 for Finance and Operations
 
-## [Implementing Dynamics 365 Customer Engagement Online](https://docs.microsoft.com/ru-ru/learn/paths/implementing-customer-engagement-online)
-#### Схема обучения - 5 ч 5 мин - Число модулей: 4
+## [Implementing Dynamics 365 Customer Engagement Online](https://docs.microsoft.com/ru-ru/learn/paths/implementing-customer-engagement-apps)
+#### Learning Path - 5 ч 5 мин - 4 Modules
+
 Create, design, and administer Microsoft Dynamics 365 Customer Engagement tenants and instances including planning for multi-instance deployments, managing authentication methods, managing updates, backup and restore instances, install and manage Microsoft Dynamics 365 clients for end-users, and authorizing access to different features for all users in the organization.
+
 
 Modules:
 - Design Microsoft Power Platform Dynamics 365 Deployments
@@ -794,25 +1385,42 @@ Modules:
 - Manage Dynamics 365 clients
 - Microsoft Power Platform Mobile management
 
-## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/ru-ru/learn/paths/apply-goal-management-dynamics-365)
-#### Схема обучения - 1 ч 20 мин - Число модулей: 2
-Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
+## [Get started with Dynamics 365 Portals](https://docs.microsoft.com/ru-ru/learn/paths/get-started-dynamics-365-portals)
+#### Learning Path - 2 ч 32 мин - 3 Modules
+
+Dynamics 365 Portals provide a great way to allow internal and external audiences to view and interact with data from Dynamics 365 and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to the Dynamics 365 Starter Portals that can be quickly provisioned to serve a variety of different audiences and workloads. We will also cover fundamentals of portal administration, maintenance, and troubleshooting..
+
 
 Modules:
-- Define and track individual goals in Dynamics 365 Customer Engagement
-- Use goal metrics in Dynamics 365 Customer Engagement
+- Introduction to Dynamics 365 portals
+- Configure Dynamics 365 portals
+- Provision and administer Dynamics 365 portals
+
+## [Apply goal management to Microsoft Dynamics 365 for Customer Engagement](https://docs.microsoft.com/ru-ru/learn/paths/apply-goal-management-dynamics-365)
+#### Learning Path - 1 ч 20 мин - 2 Modules
+
+Apply goal management to track your individual, parent, and child goals. Analyze the results of your goal management to make better business decisions.
+
+
+Modules:
+- Define and track individual goals in Dynamics 365 Customer Engagement apps
+- Use goal metrics in Dynamics 365 Customer Engagement apps
 
 ## [Work with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-knowledge-management-solutions-in-microsoft-dynamics-365-for-customer-service)
-#### Схема обучения - 2 ч - Число модулей: 2
+#### Learning Path - 2 ч - 2 Modules
+
 This learning path focuses on working with Knowledge Management Solutions in Microsoft Dynamics 365 for Customer Service.
+
 
 Modules:
 - Create and design knowledge management solutions in Dynamics 365 for Customer Service
 - Consuming Knowledge Articles for Case Resolutions in Dynamics 365 for Customer Service
 
 ## [Work with cases in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-cases-in-dynamics-365-for-customer-service)
-#### Схема обучения - 2 ч 57 мин - Число модулей: 3
+#### Learning Path - 2 ч 57 мин - 3 Modules
+
 This learning path focuses on Case Management capabilities of Dynamics 365 for Customer Service including options for creating cases, managing the case resolution process, working with case hierarchies and merging similar cases. Queues can be leveraged to maintain and manage Case workloads for customer service agents to include defining queues for different types of cases, managing queue items, picking and releasing queue items, and designing queue routing rules.
+
 
 Modules:
 - Get started with Dynamics 365 for Customer Service
@@ -820,27 +1428,20 @@ Modules:
 - Use Microsoft Dynamics 365 for Customer Service queues to manage case workloads
 
 ## [Work with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service](https://docs.microsoft.com/ru-ru/learn/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service)
-#### Схема обучения - 2 ч 8 мин - Число модулей: 2
+#### Learning Path - 2 ч 8 мин - 2 Modules
+
 This learning path focuses on working with entitlements and service level agreements in Microsoft Dynamics 365 for Customer Service.
+
 
 Modules:
 - Create and manage entitlements in Microsoft Dynamics 365 for Customer Service
 - Work with and manage Service Level Agreements with Dynamics 365 for Customer Service
 
-## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ru-ru/learn/paths/universal-resource-scheduling)
-#### Схема обучения - 5 ч 9 мин - Число модулей: 5
-Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
-
-Modules:
-- Configure bookable resources in Microsoft Dynamics 365 for Field Service
-- Manage scheduling options in Dynamics 365 for Field Service
-- Customize the schedule board in Microsoft Dynamics 365 for Field Service
-- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
-- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
-
 ## [Working with Connected Field Service for Dynamics 365 and Azure IoT](https://docs.microsoft.com/ru-ru/learn/paths/working-with-connected-field-service-iot)
-#### Схема обучения - 5 ч 56 мин - Число модулей: 5
+#### Learning Path - 5 ч 56 мин - 5 Modules
+
 This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.
+
 
 Modules:
 - Get started with Connected Field Service for Dynamics 365 and Azure IoT
@@ -849,25 +1450,40 @@ Modules:
 - Using IoT Central with Connected Field Service for Dynamics 365
 - Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT
 
-## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/get-started-with-dynamics-365-for-finance-and-ops)
-#### Схема обучения - 1 ч 12 мин - Число модулей: 3
-Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+## [Universal Resource Scheduling in Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ru-ru/learn/paths/universal-resource-scheduling)
+#### Learning Path - 5 ч 9 мин - 5 Modules
+
+Schedule anything to the right resource for any job or task with ease.  Universal Resource Scheduling (URS) is a Dynamics 365 for Customer Engagement solution that allows organizations from different industries with different scenarios.
+
 
 Modules:
-- Introduction to Dynamics 365 for Finance and Operations
-- Navigate Dynamics 365 for Finance and Operations
-- Get help and learn more about Dynamics 365 for Finance and Operations
+- Configure bookable resources in Microsoft Dynamics 365 for Field Service
+- Manage scheduling options in Dynamics 365 for Field Service
+- Customize the schedule board in Microsoft Dynamics 365 for Field Service
+- Resource scheduling optimization in Microsoft Dynamics 365 for Field Service
+- Schedule crews, facilities, and resource pooling in Microsoft Dynamics 365 for Field Service
 
 ## [Learn the business value of Microsoft Dynamics 365 and the Power Platform](https://docs.microsoft.com/ru-ru/learn/paths/learn-business-value-of-dynamics-365-and-power-platform)
-#### Схема обучения - 5 ч 2 мин - Число модулей: 15
-Are you interested in learning about business applications? Or perhaps you don’t know where to begin with Microsoft Dynamics 365 and Power Platform applications? This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization’s needs and goals.
+#### Learning Path - 6 ч 56 мин - 15 Modules
+
+|
+Are you interested in learning about business applications? Or perhaps you don't know where to begin with Microsoft Dynamics 365 and Power Platform applications?
+This learning experience will take you on a journey that will begin by showing you how digital transformation and the power of business applications can transform your business. We will cover how Dynamics 365 and Power Platform help you make informed decisions based on your organization's needs and goals, through four building blocks of digital transformationâ€”modern, unified, intelligent, and adaptable.
+In this learning path, you will learn about:
+
+Enabling digital transformation.
+Solving business challenges through Microsoft Business Applications.
+Using Dynamics 365 and Power Platform to empower employees, engage with actionable insights, optimize operations and transform products with intelligent data-driven processes.
+Meeting a broad set of regulatory and compliance standards on a trusted cloud platform.
+
+
 
 Modules:
 - Welcome to Microsoft Business Applications
 - Introduction to Microsoft Business Applications
 - Enabling digital transformation
 - Achieve business transformation with Microsoft Catalyst
-- Dynamics 365 applications and Power Platform
+- Dynamics 365 applications and the Power Platform
 - Dynamics 365 for Sales
 - Dynamics 365 for Marketing
 - Dynamics 365 for Customer Service
@@ -876,12 +1492,14 @@ Modules:
 - Dynamics 365 for Retail
 - Dynamics 365 for Talent
 - Dynamics 365 Business Central
-- Power Platform—Introduction, business value, and demos
-- Microsoft runs on trust
+- Power Platform - Introduction, business value, and demos
+- Dynamics 365 AI - Insights-driven business applications
 
 ## [Working with Dynamics 365 for Sales](https://docs.microsoft.com/ru-ru/learn/paths/working-with-dynamics-365-sales)
-#### Схема обучения - 6 ч 42 мин - Число модулей: 7
+#### Learning Path - 6 ч 42 мин - 7 Modules
+
 Generate leads, create opportunities, and utilize embedded intelligence with Microsoft Dynamics 365 for Sales. This learning path covers the key elements of the Sales app.
+
 
 Modules:
 - Manage leads with Dynamics 365 for Sales
@@ -892,9 +1510,22 @@ Modules:
 - Manage relationships with social selling in Dynamics 365 for Sales
 - Analyze Dynamics 365 sales data
 
+## [Get started with Dynamics 365 for Finance and Operations](https://docs.microsoft.com/ru-ru/learn/paths/get-started-finance-operations)
+#### Learning Path - 1 ч 15 мин - 3 Modules
+
+Learn how Microsoft Dynamics 365 for Finance and Operations supports businesses to manage their global financial systems, operational business processes, and streamlined supply chains to empower people to make fast, informed decisions. As the first step in your career of working with Finance and Operations, you must familiarize yourself with its features and functionality, regardless of your desired role.
+
+
+Modules:
+- Introduction to Dynamics 365 for Finance and Operations
+- Navigate Dynamics 365 for Finance and Operations
+- Get help and learn more about Dynamics 365 for Finance and Operations
+
 ## [Implementing Microsoft Dynamics 365 for Field Service](https://docs.microsoft.com/ru-ru/learn/paths/implementing-dyn365-field-service)
-#### Схема обучения - 4 ч 14 мин - Число модулей: 4
+#### Learning Path - 4 ч 14 мин - 4 Modules
+
 Field service companies often realize they need help as they discover that workflow inefficiencies are preventing growth and limiting revenue. Taking the right steps to configure Dynamics 365 for Field Service will save you time during your implementation.
+
 
 Modules:
 - Configure Microsoft Dynamics 365 for Field Service
@@ -903,8 +1534,10 @@ Modules:
 - Deliver a customized mobile experience in Microsoft Dynamics 365 for Field Service
 
 ## [Working with Dynamics 365 for Marketing](https://docs.microsoft.com/ru-ru/learn/paths/working-with-dynamics-365-for-marketing)
-#### Схема обучения - 3 ч 35 мин - Число модулей: 5
+#### Learning Path - 3 ч 35 мин - 5 Modules
+
 Gain insights from visitor behavior and grow your sales fast. Automate and mange campaigns, publish content, analyze results and leverage data with insights.
+
 
 Modules:
 - Lead Lifecycle in Dynamics 365 for Marketing
@@ -914,8 +1547,10 @@ Modules:
 - Analyze Results in Dynamics 365 for Marketing
 
 ## [Voice of the Customer for Dynamics 365](https://docs.microsoft.com/ru-ru/learn/paths/dyn365-voice-of-customer)
-#### Схема обучения - 2 ч 54 мин - Число модулей: 3
+#### Learning Path - 2 ч 54 мин - 3 Modules
+
 This learning path introduces you to the basics of Voice of the Customer for Dynamics 365.
+
 
 Modules:
 - Design Voice of the Customer for Dynamics 365 surveys
